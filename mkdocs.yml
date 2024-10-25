@@ -1,4 +1,25 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo06
+repo_name: 2024.2-Grupo06
+site_name: Grupo 6
+nav:
+  - Home: index.md
+  - Atas: atas/Reuniao01_23.10.2024.md
+  # - Apresentação: index.md
+  # - Planejamento do Projeto: index.md
 theme:
   name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette: 
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
