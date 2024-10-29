@@ -10,7 +10,7 @@ Reunião realizada online via Microsoft Teams.
 * [Cristiano Moraes](http://github.com/CristianoMoraiss)
 * [Júlia Fortunato](http://github.com/julia-fortunato)
 * [Maurício Ferreira](https://github.com/mauricio-araujoo)
-* [Nicolas Bandeira](http://github.com/nickgehjk)
+* [Nicolas Bomfim](http://github.com/nickgehjk)
 
 ## Início e término
 
@@ -60,7 +60,7 @@ Na tabela 2 encontram-se as atividades definidas e os respectivos integrantes do
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a><br>
       </td>
     </tr>
      <tr>
@@ -68,7 +68,7 @@ Na tabela 2 encontram-se as atividades definidas e os respectivos integrantes do
           Documentação do HeatMap do grupo
         </td>
         <td>
-          <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
        <tr>
@@ -117,4 +117,4 @@ No vídeo 1 encontra-se a gravação da reunião.
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |24/10/2024| Criação da ata de reunião | [Júlia Fortunato](https://github.com/julia-fortunato) |-|
+| `1.0`  | 24/10/2024 | Criação da ata de reunião | [Júlia Fortunato](https://github.com/julia-fortunato) | [Nicolas Bomfim](https://github.com/nickgehjk) |

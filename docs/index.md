@@ -11,7 +11,7 @@ Esta página é dedicada à documentação de todos os artefatos criados pelo Gr
     <td align="center"><a href="http://github.com/CristianoMoraiss"><img style="border-radius: 50%;" src="http://github.com/CristianoMoraiss.png" width="100px;" alt=""/><br /><sub><b>Cristiano Morais</b></sub></a><br/><a href="Link git" title="Rocketseat"></a></td>
     <td align="center"><a href="http://github.com/julia-fortunato"><img style="border-radius: 50%;" src="http://github.com/julia-fortunato.png" width="100px;" alt=""/><br /><sub><b>Júlia Fortunato</b></sub></a><br/><a href="Link git" title="Rocketseat"></a></td>
     <td align="center"><a href="https://github.com/mauricio-araujoo"><img style="border-radius: 50%;" src="https://github.com/mauricio-araujoo.png" width="100px;" alt=""/><br/><sub><b>Maurício Ferreira</b></sub></a><br/>
-    <td align="center"><a href="http://github.com/nickgehjk"><img style="border-radius: 50%;" src="http://github.com/nickgehjk.png" width="100px;" alt=""/><br><sub><b>Nicolas Bandeira</b></sub></a><br/>
+    <td align="center"><a href="http://github.com/nickgehjk"><img style="border-radius: 50%;" src="http://github.com/nickgehjk.png" width="100px;" alt=""/><br><sub><b>Nicolas Bomfim</b></sub></a><br/>
   </tr>
 </table>
 
