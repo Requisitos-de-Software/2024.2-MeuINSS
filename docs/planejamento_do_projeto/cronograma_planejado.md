@@ -110,7 +110,6 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
         <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
       <td>
@@ -121,7 +120,6 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
         <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
@@ -130,17 +128,17 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td>Início: 23/10/2024 <br> Fim: 28/10/2024</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>Início: 29/10/2024 <br> Fim: 29/10/2024</td>
-      <td><a href="https://github.com/CristianoMoraiss">Criistiano Moraes</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a></td>
     </tr>
     <tr>
       <td>Documentar a equipe</td>
-      <td>Início: 06/set <br> Fim: 13/set</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-      <td>Início: 13/set <br> Fim: 14/set</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Início: 23/10/2024 <br> Fim: 25/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
-      <td>Incluir o heatmap de disponibilidade dos integrantes no repositório</td>
+      <td>Incluir o HeatMap de disponibilidade dos integrantes no repositório</td>
       <td>Início: 23/10/2024 <br> Fim: 28/10/2024</td>
       <td><a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
       <td>Início: 28/10/2024 <br> Fim: 29/10/2024</td>
@@ -154,7 +152,6 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
         <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
       <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
@@ -163,7 +160,6 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
         <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
      </td>
     </tr>
@@ -177,9 +173,13 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
     <tr>
       <td>Incluir Termo de Uso do aplicativo permitindo o estudo na disciplina no repositório</td>
       <td>Início: 26/10/2024 <br> Fim: 27/10/2024</td>
-      <td><a href="https://github.com/CristianoMoraiss"></a>Cristiano Moraes</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+      </td>
       <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
-      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
     </tr>
     <tr>
       <td>Selecionar as ferramentas do projeto</td>
@@ -190,7 +190,6 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
         <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
@@ -205,56 +204,101 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
-    <tr> PAREI AQ
+    <tr>
       <td>Definir um cronograma detalhado das atividades do projeto</td>
-      <td>Início: 06/set <br> Fim: 13/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
-      <td>Início: 13/set <br> Fim: 14/set</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>Início: 23/10/2024 <br> Fim: 26/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 26/10/2024 <br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
-      <td>Implementar a gitpage</td>
-      <td>Início: 06/set <br> Fim: 13/set</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-      <td>Início: 13/set <br> Fim: 14/set</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Implementar a GitPage</td>
+      <td>Início: 23/10/2024 <br> Fim: 25/10/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+        <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+      <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+      </td>
     </tr>
     <tr>
-      <td>Gravação 1</td>
-      <td>15/set</td>
+      <td>Realizar inspeção do grupo</td>
+      <td>28/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+      <td>28/10/2024</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Gravação da apresentação 1</td>
+      <td>28/10/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-      <td>16/set</td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+      <td>19/10/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 1</td>
-      <td>15/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
-      <td>15/set</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>28/10/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> 
+        <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+      <td>28/10/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Realizar inspeção do grupo+1</td>
+      <td>07/11/2024</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>07/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
     </tr>
     <tr>
       <td>Correção após a Entrega 1</td>
-      <td>Início: 23/set <br> Fim: 26/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td>Início: 13/11/2024 <br> Fim: 16/11/2024</td>
       <td>
-        Início: 27/set <br> Fim: 28/set</td>
-
-            <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas De Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+      <td> Início: 16/11/2024 <br> Fim: 17/11/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
     </tr>
-
-        
-
-        </tbody>
+  </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
-## Entrega 2 - Elicitação - Data de Entrega: 03/out/2023
+## Entrega 2 - Elicitação - Data de Entrega: 24/11/2024
 
 Na tabela 3 encontram-se as datas do cronograma planejado para a etapa de Elicitação.
 
@@ -274,27 +318,39 @@ Na tabela 3 encontram-se as datas do cronograma planejado para a etapa de Elicit
   <tbody>
     <tr>
       <td>Definição do perfil dos usuários</td>
-      <td>Início: 16/set <br> Fim: 17/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-      <td>Início: 18/set <br> Fim: 19/set</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>Início: 03/11/2024 <br> Fim: 05/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+      <td>Início: 05/11/2024 <br> Fim: 06/11/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+      </td>
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de elicitação usadas e que serão usadas</td>
-      <td>Início: 16/set <br> Fim: 17/set</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-      <td>Início: 18/set <br> Fim: 19/set</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>Início: 02/11/2024 <br> Fim: 04/11/2024</td>
+      <td>
+       <a href="https://github.com/an4catarina">Ana Catarina</a>
+      </td>
+      <td>Início: 05/11/2024 <br> Fim: 06/11/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de priorização usadas e que serão usadas</td>
-      <td>Início: 16/set <br> Fim: 17/set</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-      <td>Início: 18/set <br> Fim: 19/set</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>Início: 02/11/2024 <br> Fim: 04/11/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+      </td>
+      <td>Início: 05/11/2024 <br> Fim: 06/11/2024</td>
+      <td>
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
     </tr>
     <tr>
-      <td>Definição das personas</td>
+      <td>Definição das personas</td> PAREI AQ
       <td>Início: 18/set <br> Fim: 19/set</td>
       <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
       <td>Início: 20/set <br> Fim: 21/set</td>
