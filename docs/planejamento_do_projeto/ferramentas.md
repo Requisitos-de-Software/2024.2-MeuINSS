@@ -17,52 +17,52 @@ Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do pr
     </thead>
     <tbody>
       <tr>
-        <td><img src="/imagens/ferramentas/autentique.png" alt="Logo do Autentique" width="90"></td>
+        <td><img src="../../imagens/ferramentas/autentique.png" alt="Logo do Autentique" width="90"></td>
         <td><a href="https://www.autentique.com.br/">Autentique</a></td>
         <td>Ferramenta para assinatura e organização de contratos.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/canva.webp" alt="Canva Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/canva.webp" alt="Canva Logo" width="90"></td>
         <td><a href="https://www.canva.com/">Canva</a></td>
         <td>Plataforma para design e criação de gráficos e diagramas, como o Rich Picture.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/google_docs.png" alt="Google Docs Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/Google_Docs.png" alt="Google Docs Logo" width="90"></td>
         <td><a href="https://www.google.com/docs/about/">Google Docs</a></td>
         <td>Editor de texto para criação e revisão de documentos.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/github.png" alt="GitHub Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/github.png" alt="GitHub Logo" width="90"></td>
         <td><a href="https://github.com/">GitHub</a></td>
         <td>Plataforma de versionamento de código e armazenamento de documentos do projeto.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/mkdocs.png" alt="MkDocs Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/mkdocs.png" alt="MkDocs Logo" width="90"></td>
         <td><a href="https://www.mkdocs.org/">MkDocs</a></td>
         <td>Ferramenta para criar e manter a documentação de forma prática e organizada.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/sheets.png" alt="Google Sheets Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/sheets.png" alt="Google Sheets Logo" width="90"></td>
         <td><a href="https://www.google.com/sheets/about/">Google Sheets</a></td>
         <td>Ferramenta para organização e controle de cronogramas e tarefas.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/teams.jpeg" alt="Teams Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/teams.jpeg" alt="Teams Logo" width="90"></td>
         <td><a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software">Microsoft Teams</a></td>
         <td>Plataforma de comunicação para reuniões em equipe, compartilhamento de informações e gravação das apresentações.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/vscode.png" alt="Visual Studio Code Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/vscode.png" alt="Visual Studio Code Logo" width="90"></td>
         <td><a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
         <td>Ambiente de desenvolvimento integrado (IDE) para edição de código e arquivos de documentação.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/whatsapp.png" alt="WhatsApp Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/whatsapp.png" alt="WhatsApp Logo" width="90"></td>
         <td><a href="https://www.whatsapp.com/">WhatsApp</a></td>
         <td>Ferramenta de mensagens para comunicação rápida entre os membros da equipe.</td>
       </tr>
       <tr>
-        <td><img src="/imagens/ferramentas/youtube.png" alt="YouTube Logo" width="90"></td>
+        <td><img src="../../imagens/ferramentas/youtube.png" alt="YouTube Logo" width="90"></td>
         <td><a href="https://www.youtube.com/">YouTube</a></td>
         <td>Plataforma de hospedagem de vídeos, utilizada para compartilhar apresentações e vídeos técnicos.</td>
       </tr>
