@@ -1,7 +1,5 @@
 # Cronograma de Planejamento Detalhado
 
-## Entrega 1 - Planejamento do Projeto - Data de Entrega: 29/10/2024
-
 ## Introdução
 
 Neste documento, vamos explorar a importância do planejamento de um cronograma sólido para a disciplina de Requisitos de Software, destacando os principais tópicos a serem abordados, as atividades práticas necessárias e a alocação de tempo adequada para cada etapa do curso. Além disso, discutiremos como o cronograma pode ser flexível para acomodar eventos imprevistos, revisões e aprofundamentos em tópicos específicos.
@@ -28,8 +26,8 @@ Na tabela 1 encontram-se as datas de entrega e apresentação de todas as etapas
       <td>1</td>
       <td>Planejamento</td>
       <td>Equipe, Definição do App, Planejamento e Rich Picture</td>
-      <td>29/10/2024</td>
-      <td>31/10/2024</td>
+      <td>06/11/2024</td>
+      <td>12/11/2024</td>
     </tr>
     <tr>
       <td>2</td>
@@ -107,7 +105,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       </td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -117,7 +115,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       </td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -128,7 +126,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td>Início: 23/10/2024 <br> Fim: 28/10/2024</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>Início: 29/10/2024 <br> Fim: 29/10/2024</td>
-      <td><a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
       <td>Documentar a equipe</td>
@@ -139,25 +137,25 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
     </tr>
     <tr>
       <td>Incluir o HeatMap de disponibilidade dos integrantes no repositório</td>
-      <td>Início: 23/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
       <td><a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
-      <td>Início: 28/10/2024 <br> Fim: 29/10/2024</td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
-      <td>Incluir a lista de apps selecionados pelos integrantes do grupo com suas justificativas</td>
-      <td>Início: 23/10/2024 <br> Fim: 25/10/2024</td>
+      <td>Incluir a lista de apps avaliados pelos integrantes do grupo com suas justificativas</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
-      <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
       <td>
       <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -166,7 +164,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
     <tr>
       <td>Documentar o aplicativo escolhido para a disciplina</td>
       <td>Início: 26/10/2024 <br> Fim: 27/10/2024</td>
-      <td><a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
       <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
@@ -174,7 +172,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td>Incluir Termo de Uso do aplicativo permitindo o estudo na disciplina no repositório</td>
       <td>Início: 26/10/2024 <br> Fim: 27/10/2024</td>
       <td>
-        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
       <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
       <td>
@@ -183,11 +181,11 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
     </tr>
     <tr>
       <td>Selecionar as ferramentas do projeto</td>
-      <td>Início: 23/10/2024 <br> Fim: 26/10/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
-      <td>Início: 26/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
       <td>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -197,7 +195,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td>Documentar o Rich Picture do aplicativo escolhido</td>
       <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
       <td>
-        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
       <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
       <td>
@@ -206,9 +204,9 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
     </tr>
     <tr>
       <td>Definir um cronograma detalhado das atividades do projeto</td>
-      <td>Início: 23/10/2024 <br> Fim: 26/10/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td>Início: 26/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
@@ -221,31 +219,31 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
       </td>
     </tr>
     <tr>
       <td>Realizar inspeção do grupo</td>
-      <td>28/10/2024</td>
+      <td>01/11/2024</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
-      <td>28/10/2024</td>
+      <td>01/11/2024</td>
       <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Gravação da apresentação 1</td>
-      <td>28/10/2024</td>
+      <td>02/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
-      <td>19/10/2024</td>
+      <td>02/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -253,21 +251,21 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 1</td>
-      <td>28/10/2024</td>
+      <td>02/11/2024</td>
       <td>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> 
         <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
       </td>
-      <td>28/10/2024</td>
+      <td>04/11/2024</td>
       <td>
-        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
     </tr>
     <tr>
       <td>Realizar inspeção do grupo+1</td>
-      <td>07/11/2024</td>
+      <td>01/11/2024</td>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a> <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
-      <td>07/11/2024</td>
+      <td>02/11/2024</td>
       <td>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
       </td>
@@ -277,7 +275,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td>Início: 13/11/2024 <br> Fim: 16/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -285,7 +283,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
       <td> Início: 16/11/2024 <br> Fim: 17/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
@@ -318,146 +316,142 @@ Na tabela 3 encontram-se as datas do cronograma planejado para a etapa de Elicit
   <tbody>
     <tr>
       <td>Definição do perfil dos usuários</td>
-      <td>Início: 03/11/2024 <br> Fim: 05/11/2024</td>
+      <td>Início: 06/11/2024 <br> Fim: 08/11/2024</td>
       <td>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
       </td>
-      <td>Início: 05/11/2024 <br> Fim: 06/11/2024</td>
+      <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
       <td>
-        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de elicitação usadas e que serão usadas</td>
-      <td>Início: 02/11/2024 <br> Fim: 04/11/2024</td>
+      <td>Início: 06/11/2024 <br> Fim: 08/11/2024</td>
       <td>
        <a href="https://github.com/an4catarina">Ana Catarina</a>
       </td>
-      <td>Início: 05/11/2024 <br> Fim: 06/11/2024</td>
+      <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
       <td>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
       </td>
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de priorização usadas e que serão usadas</td>
-      <td>Início: 02/11/2024 <br> Fim: 04/11/2024</td>
+      <td>Início: 06/11/2024 <br> Fim: 08/11/2024</td>
       <td>
-        <a href="https://github.com/CristianoMoraiss">Cristiano Moraes</a>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
-      <td>Início: 05/11/2024 <br> Fim: 06/11/2024</td>
+      <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
       <td>
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
     <tr>
-      <td>Definição das personas</td> PAREI AQ
-      <td>Início: 18/set <br> Fim: 19/set</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-      <td>Início: 20/set <br> Fim: 21/set</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Definição das personas</td> 
+      <td>Início: 08/11/2024 <br> Fim: 10/11/2024</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="https://github.com/nickgehjk">Júlia Fortunato</a>
+      </td>
+      <td>Início: 10/11/2024 <br> Fim: 11/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
       <td>Definição do cronograma de elicitação de requisitos com cliente/persona</td>
-      <td>Início: 18/set <br> Fim: 19/set</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-      <td>Início: 20/set <br> Fim: 21/set</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>Início: 10/11/2024 <br> 11/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Nicolas Bandeira</a></td>
+      <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
       <td>Definição do cronograma de priorização de requisitos com cliente/persona</td>
-      <td>Início: 18/set <br> Fim: 19/set</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
-      <td>Início: 20/set <br> Fim: 21/set</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 10/11/2024 <br> Fim: 11/11/2024</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
+      <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
       <td>Entrevista: Gravação e registro(s) da elicitação dos requisitos (pré-rastreabilidade)</td>
-      <td>Início: 20/set <br> Fim: 22/set</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
-      <td>Início: 23/set <br> Fim: 24/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td>Início: 13/11/2024 <br> Fim: 15/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+      <td>Início: 15/11/2024 <br> Fim: 16/11/2024</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
       <td>Entrevista: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
-      <td>Início: 20/set <br> Fim: 22/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-      <td>Início: 23/set <br> Fim: 24/set</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>Início: 13/11/2024 <br> Fim: 15/11/2024</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 15/11/2024 <br> Fim: 16/11/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - elicitação</td>
-      <td>Início: 23/set <br> Fim: 26/set</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-      <td>Início: 27/set <br> Fim: 28/set</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 17/11/2024 <br> Fim: 19/11/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - priorização</td>
-      <td>Início: 23/set <br> Fim: 26/set</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
-      <td>Início: 27/set <br> Fim: 28/set</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>Início: 17/11/2024 <br> Fim: 19/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Gravação 2</td>
-      <td>29/set</td>
+      <td>21/11/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+       <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
+      <td>22/11/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 2</td>
-      <td>29/set</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
-      <td>29/set</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>22/11/2024</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
+      <td>22/11/2024</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega 2</td>
-      <td>Início: 07/out <br> Fim: 10/out</td>
+      <td>Início: 26/11/2024 <br> Fim: 29/11/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
-      <td>Início: 11/out <br> Fim: 12/out</td>
+      <td>Início: 29/11/2024 <br> Fim: 30/11/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
-## Entrega 3 - Modelagem de Requisitos - Data de Entrega: 24/out/2023
+## Entrega 3 - Modelagem de Requisitos - Data de Entrega: 10/12/2024
 
 Na tabela 4 encontram-se as datas do cronograma planejado para a etapa de Modelagem de Requisitos.
 
@@ -477,83 +471,111 @@ Na tabela 4 encontram-se as datas do cronograma planejado para a etapa de Modela
   <tbody>
     <tr>
       <td>Especificação dos Cenários</td>
-      <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>Início: 25/11/2024 <br> Fim: 27/11/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+      <td>Início: 27/11/2024<br> Fim:  28/11/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
     </tr>
     <tr>
       <td>Especificação dos léxicos</td>
-      <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 25/11/2024<br> Fim: 27/11/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+      <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
+      <td>
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
     </tr>
     <tr>
       <td>Especificação dos casos de uso e diagramação</td>
-      <td>Início: 30/set <br> Fim: 01/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a> <br> <a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>Início: 25/11/2024 <br> Fim: 27/11/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+      <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a>
+      </td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso</td>
-      <td>Início: 02/out <br> Fim: 03/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-      <td>Início: 04/out <br> Fim: 05/out</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Início: 28/11/2024 <br> Fim: 30/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+      <td>Início: 30/11/2024 <br> Fim: 01/12/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
-      <td>Início: 07/out <br> Fim: 10/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
-      <td>Início: 11/out <br> Fim: 12/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 01/12/2024 <br> Fim: 03/12/2024</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a>
+      </td>
+      <td>Início: 03/12/2024 <br> Fim: 04/12/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
     </tr>
     <tr>
       <td>Gravação 3</td>
-      <td>20/out</td>
+      <td>05/12/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
+      <td> 06/12/2024 </td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 3</td>
-      <td>20/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
-      <td>20/out</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>05/12/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
+      <td>06/12/2024</td>
+      <td>
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
     </tr>
     <tr>
       <td>Correção após a Entrega 3</td>
-      <td>Início: 28/out <br> Fim: 31/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
-      <td>Início: 01/nov <br> Fim: 02/nov</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td>Início: 10/12/2024 <br> Fim: 14/12/2024</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a>
+      </td>
+      <td>Início: 14/12/2024 <br> Fim: 15/12/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
-## Entrega 4 - Modelagem de Requisitos Ágil - Data de Entrega: 06/nov/2023
+## Entrega 4 - Modelagem de Requisitos Ágil - Data de Entrega: 15/12/2024
 
 Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modelagem de Requisitos - Ágil.
 
@@ -573,77 +595,99 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modela
   <tbody>
     <tr>
       <td>Definição de histórias de usuário</td>
-      <td>Início: 14/out <br> Fim: 17/out</td>
+      <td>Início: 03/12/2024 <br> Fim: 05/12/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>Início: 18/out <br> Fim: 19/out</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td>Início: 05/12/2024 <br> Fim: 06/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona na elicitação de requisitos</td>
-      <td>Início: 14/out <br> Fim: 17/out</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-      <td>Início: 18/out <br> Fim: 19/out</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td>Início: 03/12/2024 <br> Fim: 05/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+      <td>Início: 05/12/2024 <br> Fim: 06/12/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
     </tr>
     <tr>
       <td>Definição de backlogs</td>
-      <td>Início: 14/out <br> Fim: 17/out</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-      <td>Início: 18/out <br> Fim: 19/out</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td>Início: 05/12/2024 <br> Fim: 07/12/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
+      <td>Início: 07/12/2024 <br> Fim: 08/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
     </tr>
     <tr>
       <td>Definição de NFR Framework</td>
-      <td>Início: 14/out <br> Fim: 17/out</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-      <td>Início: 18/out <br> Fim: 19/out</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td>Início: 07/12/2024 <br> Fim: 09/12/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+      <td>Início: 09/12/2024 <br> Fim: 10/12/2024</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a>
+      </td>
     </tr>
     <tr>
       <td>Gravação 4</td>
-      <td>01/nov</td>
+      <td>11/12/2024</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br>
       </td>
-      <td>02/nov</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td>12/12/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 4</td>
-      <td>01/nov</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
-      <td>01/nov</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td>12/12/2024</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+      <td>12/12/2024/td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a>
+      </td>
     </tr>
     <tr>
       <td>Correção após a Entrega 4</td>
-      <td>Início: 11/nov <br> Fim: 14/nov</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
-      <td>Início: 15/nov <br> Fim: 16/nov</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td>Início: 17/12/2024 <br> Fim: 20/12/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
+      </td>
+      <td>Início: 20/12/2024 <br> Fim: 21/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
-## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1 - Grupo + 1 - Data de Entrega: 13/nov/2023
+## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1 - Grupo + 1 - Data de Entrega: 13/nov/2024
 
 Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação 1.
 
@@ -665,54 +709,50 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
       <td>Análise de Requisitos: Verificação e Validação 1</td>
       <td>Início: 04/nov <br> Fim: 07/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>Início: 08/nov <br> Fim: 09/nov</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
       <td>Gravação 5.1</td>
       <td>08/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>09/nov</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 5.1</td>
       <td>08/nov</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
       <td>08/nov</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega 5.1</td>
       <td>Início: 18/nov <br> Fim: 21/nov</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>Início: 22/nov <br> Fim: 23/nov</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
-## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 20/nov/2023
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 20/nov/2024
 
 Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-Rastreabilidade.
 
@@ -734,54 +774,50 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-R
       <td>Pós-Rastreabilidade</td>
       <td>Início: 11/nov <br> Fim: 14/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>Início: 15/nov <br> Fim: 16/nov</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
       <td>Gravação 6</td>
       <td>15/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>16/nov</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 6</td>
       <td>15/nov</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>15/nov</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega 6</td>
       <td>Início: 25/nov <br> Fim: 28/nov</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
       <td>Início: 29/nov <br> Fim: 30/nov</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
-
-## Entrega 5.2 - Análise de Requisitos: Verificação e Validação 2 - Data de Entrega: 29/nov/2023
+<!-- 
+## Entrega 5.2 - Análise de Requisitos: Verificação e Validação 2 - Data de Entrega: 29/nov/2024
 
 Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação 2.
 
@@ -791,11 +827,21 @@ Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Análi
 <table>
   <thead>
     <tr>
-      <th>Atividade</th>
-      <th>Período de desenvolvimento</th>
-      <th>Responsáveis</th>
-      <th>Revisão</th>
-      <th>Revisores</th>
+      <th>
+        Atividade
+      </th>
+      <th>
+        Período de desenvolvimento
+      </th>
+      <th>
+        Responsáveis
+      </th>
+      <th>
+        Revisão
+      </th>
+      <th>
+        Revisores
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -803,54 +849,50 @@ Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Análi
       <td>Análise de Requisitos: Verificação e Validação 2</td>
       <td>Início: 18/nov <br> Fim: 21/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>Início: 22/nov <br> Fim: 23/nov</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
     </tr>
     <tr>
       <td>Gravação 5.2</td>
       <td>22/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>23/nov</td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 5.2</td>
       <td>22/nov</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>22/nov</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega 5.2</td>
       <td>Início: 30/nov <br> Fim: 01/dez</td>
-      <td><a href="https://github.com/ZenildaVieira">Zenilda Vieira</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
       <td>Início: 02/dez <br> Fim: 03/dez</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
-</div>
+</div> -->
 
-## Entrega Final - Data de Entrega: 06/dez/2023
+## Entrega Final - Data de Entrega: 06/dez/2024
 
 Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
@@ -872,66 +914,62 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
       <td>Desenvolvimento do projeto final (finalizar todos os artefatos: corrigir e completar)</td>
       <td>Início: 25/nov <br> Fim: 28/nov</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>Início: 29/nov <br> Fim: 30/nov</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
       <td>Gravação Final</td>
       <td>02/dez</td>
       <td>
-        <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-        <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-        <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-        <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-        <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-        <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-        <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
       <td>03/dez</td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega Final</td>
       <td>02/dez</td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>02/dez</td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega Final</td>
       <td>Início: 20/dez <br> Fim: 21/dez</td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
       <td>Início: 22/dez <br> Fim: 23/dez</td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Víctor</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/zenildavieira">Zenilda Vieira</a> e <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
 ## Bibliografia
 
-> Cronograma Economia-DF. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md?plain=1>>. Acesso em 28 de outubro de 2024.
+> Cronograma Meu INSS. Disponível em: <<https://github.com/Requisitos-de-Software/2024.2-MeuINSS/blob/master/docs/planejamento_do_projeto/cronograma_planejado.md>>. Acesso em 01 de Novembro de 2024.
 >
-> SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 28 de outubro de 2024.
+> SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de Novembro de 2024.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                        | Autor                                                                                                    |                      Revisor                       |
 | :----: | ---------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
-| `1.0`  | 06/09/2023 | Criação do cronograma.                           | [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) |   [Gabriel Zaranza](https://github.com/GZaranza)   |
-| `1.1`  | 15/09/2023 | Inclusão do cronograma das entregas parciais.    | [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) |   [Gabriel Zaranza](https://github.com/GZaranza)   |
-| `1.2`  | 15/09/2023 | Inclusão dos nomes dos responsáveis e revisores. | [Zenilda Vieira](https://github.com/ZenildaVieira) <br> [Gabriel Rosa](https://github.com/gabrielrosa09) |   [Gabriel Zaranza](https://github.com/GZaranza)   |
-| `1.3`  | 15/09/2023 | Inclusão dos nomes dos responsáveis e revisores. | [Gabriel Zaranza](https://github.com/GZaranza)                                                           | [Izabella Alves](https://github.com/izabellaalves) |
-| `1.4`  | 20/09/2023 | Revisão do Documento                             | [Gabriel Zaranza](https://github.com/GZaranza)                                                           |         - (revisão não precisa de revisor)         |
-| `1.5`  | 17/10/2023 | Documento revisado com as orientações do monitor | [Gabriel Rosa](https://github.com/gabrielrosa09)                                                         | [Izabella Alves](https://github.com/izabellaalves) |
+| `1.0`  | 06/09/2024 | Criação do cronograma.                           | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
+| `1.1`  | 15/09/2024 | Inclusão do cronograma das entregas parciais.    | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
+| `1.2`  | 15/09/2024 | Inclusão dos nomes dos responsáveis e revisores. | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
+| `1.3`  | 15/09/2024 | Inclusão dos nomes dos responsáveis e revisores. | [Júlia Fortunato](https://github.com/julia-fortunato)                                                           | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `1.4`  | 20/09/2024 | Revisão do Documento                             | [Júlia Fortunato](https://github.com/julia-fortunato)                                                           |         - (revisão não precisa de revisor)         |
+| `1.5`  | 17/10/2024 | Documento revisado com as orientações do monitor | [Maurício Ferreira](https://github.com/mauricio-araujoo)                                                         | [Júlia Fortunato](https://github.com/julia-fortunato) |
