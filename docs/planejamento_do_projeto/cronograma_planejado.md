@@ -78,7 +78,7 @@ Na tabela 1 encontram-se as datas de entrega e apresentação de todas as etapas
 
 </div>
 
-## Entrega 1 - Planejamento do Projeto - Data de Entrega: 29/10/2024
+## Entrega 1 - Planejamento do Projeto - Data de Entrega: 06/11/2024
 
 Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planejamento do Projeto.
 
@@ -664,7 +664,7 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modela
       <td>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
       </td>
-      <td>12/12/2024/td>
+      <td>12/12/2024
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a>
       </td>
@@ -687,7 +687,7 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modela
 
 </div>
 
-## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1 - Grupo + 1 - Data de Entrega: 13/nov/2024
+## Entrega 5 - Análise de Requisitos: Verificação e Validação 1 - Grupo + 1 - Data de Entrega: 13/nov/2024
 
 Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação 1.
 
@@ -719,7 +719,7 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
-      <td>Gravação 5.1</td>
+      <td>Gravação 5</td>
       <td>08/nov</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
@@ -959,7 +959,7 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
 ## Bibliografia
 
-> Cronograma Meu INSS. Disponível em: <<https://github.com/Requisitos-de-Software/2024.2-MeuINSS/blob/master/docs/planejamento_do_projeto/cronograma_planejado.md>>. Acesso em 01 de Novembro de 2024.
+> Cronograma Economia DF. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md>>. Acesso em 01 de Novembro de 2024.
 >
 > SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de Novembro de 2024.
 
@@ -967,9 +967,6 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
 | Versão | Data       | Descrição                                        | Autor                                                                                                    |                      Revisor                       |
 | :----: | ---------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
-| `1.0`  | 06/09/2024 | Criação do cronograma.                           | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
-| `1.1`  | 15/09/2024 | Inclusão do cronograma das entregas parciais.    | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
-| `1.2`  | 15/09/2024 | Inclusão dos nomes dos responsáveis e revisores. | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
-| `1.3`  | 15/09/2024 | Inclusão dos nomes dos responsáveis e revisores. | [Júlia Fortunato](https://github.com/julia-fortunato)                                                           | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
-| `1.4`  | 20/09/2024 | Revisão do Documento                             | [Júlia Fortunato](https://github.com/julia-fortunato)                                                           |         - (revisão não precisa de revisor)         |
-| `1.5`  | 17/10/2024 | Documento revisado com as orientações do monitor | [Maurício Ferreira](https://github.com/mauricio-araujoo)                                                         | [Júlia Fortunato](https://github.com/julia-fortunato) |
+| `1.0`  | 02/11/2024 | Criação do cronograma                          | [Julia Fortunato](https://github.com/julia-fortunato) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Cristiano Morais](https://github.com/CristianoMoraiss)   |
+| `1.1`  | 04/11/2024 | Revisão do Documento                             | [Cristiano Morais](https://github.com/CristianoMoraiss)                                                           |         - (revisão não precisa de revisor)         |
+
