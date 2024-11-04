@@ -43,6 +43,11 @@ Este documento visa facilitar o agendamento de reuniões, mapeando os dias e hor
 
 As reuniões ficaram marcadas para domingo de manhã, sexta ou sábado a noite ou quando todos estiverem disponíveis em outro horário.
 
+## Bibliografia
+
+> TUFTE, Edward R. The Visual Display of Quantitative Information. 2. ed. Cheshire, CT: Graphics Press, 2001. 
+>
+
 ## Histórico de versões
 
 | Versão | Data | Descrição | Autor | Revisor |
