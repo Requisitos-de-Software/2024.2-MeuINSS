@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="../../imagens/logoinss.png" alt="Logo inss" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="./imagens/logoinss.png" alt="Logo inss" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">

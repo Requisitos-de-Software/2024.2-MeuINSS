@@ -122,9 +122,26 @@ Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS.
 
 ### Anatel Consumidor Mobile
 
-ESCREVER AQUI
+O Anatel Consumidor é um aplicativo cuja função é mediar a comunicação entre o cliente e as operadoras telefônicas. Suas funcionalidades consistem em permitir que o cliente escreva uma mensagem em um dos quatro tópicos e a envie para a operadora. Os tópicos são reclamações, comentários, sugestões e denúncias. Além disso, o usuário pode consultar as pesquisas de desempenho de todas as operadoras telefônicas do Brasil.
 
-- TOPICOS
+* Base de usuários: O aplicativo não é nichado a um público específico, então qualquer um que seja cliente de uma operadora telefônica brasileira pode utilizá-lo.
+
+* O Anatel Consumidor foi desenvolvido e é mantido pelo governo brasileiro, o que o torna app governamental.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Rich Picture Anatel Consumidor</b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/RichPictureAnatel.png" alt="Rich Picture do Anatel Consumidor" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Fonte: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a> , 2024</b>
+</p>
+</div>
+
+
 
 ### DNE Digital
 
