@@ -34,7 +34,7 @@ foi avaliado por cada membro da equipe.
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
-    <td>-</td>
+    <td>DNE Digital</td>
     <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
   </tbody>
@@ -89,7 +89,7 @@ Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS.
 </div>
 
 <div align="center">
-<img src="/imagens/RichPicture.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="imagens/RichPicture.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
@@ -105,11 +105,13 @@ ESCREVER AQUI
 
 - TOPICOS
 
-### Nicolas aplicatico
+### DNE Digital
 
-ECREVER AQUI
+O DNE digital é um aplicativo mobile para consultar o documento estudantil oficial, contendo informações do usuário, como por exemplo, foto, instituição de ensino, curso e informações pessoais. Possui um QR code que pode ser lido para validar a integridade do documento quando for usado e uma página de suporte ao usuário com "Política de privacidade" e "Fale conosco".
 
-- TOPICOS
+- Base de usuários: O aplicativo é seletivo e utilizado apenas por estudantes que possuem a carteirinha.
+- Usabilidade: A interface do aplicativo é simples e de fácil reconhecimento e aprendizado.
+- Complexidade: O aplicativo não possui funcionalidades distintas, apenas a consulta do documento.
 
 ## Bibliografia
 
@@ -121,7 +123,7 @@ ECREVER AQUI
 >
 > Anatel Consumidor, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.com.anatel.consumidor&hl=pt_BR. Acesso em: 03/11/2024. 
 >
-> App Nicolas. Disponível em: 
+> DNE Digital, Google Play Disponível em: https://play.google.com/store/apps/details?id=br.com.dnedigital&pcampaignid=web_share. Acesso em: 04/11/2024.
 
 ##  Histórico de versões
 
