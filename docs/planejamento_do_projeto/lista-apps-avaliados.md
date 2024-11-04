@@ -59,14 +59,14 @@ O aplicativo Kodi se trata de um sistema para a reprodução de mídias, é um a
 - Usabilidade: A interface do aplicativo é simples e possui simbologia de fácil reconhecimento e aprendizado.
 - Base de usuários: O aplicativo acaba por ser muito nichado, isso pode delimitar a diversidade de usuários e dificultar para o grupo ter contato com algum usuário do aplicativo.
 
-Abaixo se encontra o rich picture produzido para o aplicativo.
+Na figura abaixo, encontra-se o Rich Picture do aplicativo Kodi. 
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Rich Picture Kodi</b></p></font>
 </div>
 
 <div align="center">
-<img src="/imagens/RichPictureKodi.png" alt="Rich Picture Kodi" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="../../imagens/RichPictureKodi.png" alt="Rich Picture Kodi" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
@@ -89,7 +89,7 @@ Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS.
 </div>
 
 <div align="center">
-<img src="imagens/RichPicture.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="../../imagens/RichPicture.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
@@ -112,6 +112,21 @@ O DNE digital é um aplicativo mobile para consultar o documento estudantil ofic
 - Base de usuários: O aplicativo é seletivo e utilizado apenas por estudantes que possuem a carteirinha.
 - Usabilidade: A interface do aplicativo é simples e de fácil reconhecimento e aprendizado.
 - Complexidade: O aplicativo não possui funcionalidades distintas, apenas a consulta do documento.
+
+Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital. 
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Rich Picture Meu INSS</b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/RichPictureDNE.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Fonte: <a href="https://github.com/julia-fortunato">Julia Fortunato</a> , 2024</b>
+</p>
+</div>
 
 ## Bibliografia
 

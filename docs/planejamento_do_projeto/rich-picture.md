@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="/imagens/RichPicture.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="../../imagens/RichPicture.jpeg" alt="Rich Picture do Meu INSS" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
