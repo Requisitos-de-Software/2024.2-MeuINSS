@@ -53,9 +53,26 @@ ESCREVER AQUI
 
 ### Kodi
 
-ESCREVER AQUI
+O aplicativo Kodi se trata de um sistema para a reprodução de mídias, é um aplicativo gratuito e de código aberto desenvolvido pela Kodi Foundation. Esse aplicativo está disponibilizado para diversas plataformas e com ele é possível que os seus usuários organizem, reproduzam e visualizem a maioria dos vídeos, músicas, podcasts e outros tipos de arquivos tanto de armazenamento local quanto de rede. Esse aplicativo foi escolhido e analisado pelo integrante Cristiano Morais e foram levantados os seguintes pontos:
 
-- TOPICOS
+- Complexidade: O aplicativo possui uma quantidade razoável de funcionalidades, porém, são funcionalidades de fácil aprendizado e que não demandam muito tempo para aprender. Vale ressaltar que o aplicativo, em uma primeira análise, não apresentou tutoriais/guias de uso das funcionalidades o que pode dificultar sua utilização para usuários que não possuem afinidade com tecnologia.
+- Usabilidade: A interface do aplicativo é simples e possui simbologia de fácil reconhecimento e aprendizado.
+- Base de usuários: O aplicativo acaba por ser muito nichado, isso pode delimitar a diversidade de usuários e dificultar para o grupo ter contato com algum usuário do aplicativo.
+
+Abaixo se encontra o rich picture produzido para o aplicativo.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Rich Picture Kodi</b></p></font>
+</div>
+
+<div align="center">
+<img src="/imagens/RichPictureKodi.png" alt="Rich Picture Kodi" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> , 2024</b>
+</p>
+</div>
 
 ### Meu INSS
 
