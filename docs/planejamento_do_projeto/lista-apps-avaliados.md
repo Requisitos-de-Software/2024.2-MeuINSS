@@ -2,10 +2,11 @@
 
 ## Introdução
 
-Na fase inicial do projeto, cada membro do grupo deveria selecionar individualmente aplicativos governamentais ou de código aberto, 
-para analisá-lo de uma forma inicial. Essa escolha tinha como propósito apresentar sugestões para o  aplicativo que 
+Na fase inicial do projeto, cada membro do grupo deveria selecionar individualmente aplicativos governamentais ou de código aberto,
+para analisá-lo de uma forma inicial. Essa escolha tinha como propósito apresentar sugestões para o aplicativo que
 seria analisado em conjunto pelo grupo durante a disciplina Requisitos de Software. A Tabela 1 mostra qual aplicativo
 foi avaliado por cada membro da equipe.
+
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de aplicativos avaliados</p></font>
   
@@ -18,7 +19,7 @@ foi avaliado por cada membro da equipe.
   </thead>
   <tbody>
     <tr>
-      <td>-</td>
+      <td>Meu SUS Digital</td>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
@@ -41,15 +42,37 @@ foi avaliado por cada membro da equipe.
 </table>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
 </div>
 
 ## Lista de aplicativos avaliados
 
-### Ana Catarina aplicativo
+### Meu SUS Digital
 
-ESCREVER AQUI
+O aplicativo Meu SUS Digital é uma plataforma criada para facilitar o acesso dos brasileiros aos serviços e informações do Sistema Único de Saúde (SUS). Com ele, é possível conferir o histórico de atendimentos, resultados de exames, informações sobre vacinas e a disponibilidade de medicamentos. A ferramenta agiliza o atendimento e integra os dados de saúde, proporcionando mais autonomia e praticidade. Além disso, permite localizar unidades de saúde próximas, agendar consultas e acessar documentos importantes. Esse sistema foi selecionado para avaliação pela integrante Ana Catarina Santos, com a análise, foram levantados os seguintes pontos:
 
-- TOPICOS
+- Acesso Fácil e Navegação Simples: O sistema Meu SUS Digital traz uma interface intuitiva, permitindo que usuários de todos os níveis de experiência tecnológica acessem informações de saúde com facilidade.
+
+- Funcionalidades Abrangentes: O Meu SUS Digital oferece recursos como histórico de atendimentos, exames, vacinação e agendamento de consultas, promovendo uma gestão completa e integrada da saúde do usuário. A plataforma unifica dados dos sistemas público e privado, centralizando as informações em um sistema só.
+
+- Autonomia e Conveniência: Os usuários têm mais autonomia e controle para acessar informações e agendar consultas, eliminando a necessidade de deslocamentos e reduzindo filas nas unidades de saúde.
+
+- Potencial de Expansão e Melhoria: O sistema demonstra ter um grande potencial para adicionar novas funcionalidades, como lembretes de consultas e vacinas, entre outros.
+
+A partir dos pontos analisados, foi criado um rich picture com os pontos de destaque do aplicativo Meu SUS Digital, representado na figura 1.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Rich Picture do sistema Meu SUS Digital</b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/RichPictureSUS.png" alt="Rich Picture Meu SUS Digital" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Fonte: <a href="https://github.com/an4catarina">Ana Catarina Santos</a> , 2024</b>
+</p>
+</div>
 
 ### Kodi
 
@@ -59,7 +82,7 @@ O aplicativo Kodi se trata de um sistema para a reprodução de mídias, é um a
 - Usabilidade: A interface do aplicativo é simples e possui simbologia de fácil reconhecimento e aprendizado.
 - Base de usuários: O aplicativo acaba por ser muito nichado, isso pode delimitar a diversidade de usuários e dificultar para o grupo ter contato com algum usuário do aplicativo.
 
-Na figura abaixo, encontra-se o Rich Picture do aplicativo Kodi. 
+Na figura abaixo, encontra-se o Rich Picture do aplicativo Kodi.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Rich Picture Kodi</b></p></font>
@@ -82,7 +105,7 @@ O aplicativo mobile Meu INSS é uma sistema do governo federal brasileiro para f
 - Base de usuários: por ser um aplicatico de um órgão muito utilizado e conhecido entre os trabalhadores brasileiros, o app possui um grande número de diversos usuários, com público-alvo dos mais jovens até as pessoas mais idosas;
 - O aplicativo oficial do Meu INSS é desenvolvido e mantido pelo governo brasileiro, o que o torna app governamental.
 
-Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS. 
+Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Rich Picture Meu INSS</b></p></font>
@@ -96,8 +119,6 @@ Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS.
   <b>Fonte: <a href="https://github.com/julia-fortunato">Julia Fortunato</a> , 2024</b>
 </p>
 </div>
-
-
 
 ### Anatel Consumidor Mobile
 
@@ -113,7 +134,7 @@ O DNE digital é um aplicativo mobile para consultar o documento estudantil ofic
 - Usabilidade: A interface do aplicativo é simples e de fácil reconhecimento e aprendizado.
 - Complexidade: O aplicativo não possui funcionalidades distintas, apenas a consulta do documento.
 
-Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital. 
+Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Rich Picture DNE Digital</b></p></font>
@@ -130,18 +151,18 @@ Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital.
 
 ## Bibliografia
 
-> App Ana Catarina. Disponível em: 
+> Meu SUS Digital. Disponível em: https://apps.apple.com/br/app/meu-sus-digital/id1045754608. Acesso em: 28/10/2024.
 >
-> Kodi, Google Play. Disponível em: https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=pt_BR. Acesso em: 03/11/2024. 
+> Kodi, Google Play. Disponível em: https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=pt_BR. Acesso em: 03/11/2024.
 >
-> Meu INSS, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR. Acesso em: 03/11/2024. 
+> Meu INSS, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR. Acesso em: 03/11/2024.
 >
-> Anatel Consumidor, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.com.anatel.consumidor&hl=pt_BR. Acesso em: 03/11/2024. 
+> Anatel Consumidor, Google Play. Disponível em: https://play.google.com/store/apps/details?id=br.com.anatel.consumidor&hl=pt_BR. Acesso em: 03/11/2024.
 >
 > DNE Digital, Google Play Disponível em: https://play.google.com/store/apps/details?id=br.com.dnedigital&pcampaignid=web_share. Acesso em: 04/11/2024.
 
-##  Histórico de versões
+## Histórico de versões
 
-| Versão | Data       | Descrição                                        | Autor                                                                    |                                 Revisor                                  |
-| :----: | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------ | :----------------------------------------------------------------------: |
-| `1.0`  | 06/09/2023 | Criação do documento, introdução, adição do app Meu INSS                          | [Júlia Fortunato](https://github.com/julia-fortunato)                       |            -           |
+| Versão | Data       | Descrição                                                | Autor                                                 | Revisor |
+| :----: | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | :-----: |
+| `1.0`  | 06/09/2023 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato) |    -    |
