@@ -5,7 +5,7 @@
 Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do projeto, com o intuito de facilitar e centralizar as atividades da equipe. A Tabela 1 lista todas as ferramentas, detalhando suas funcionalidades, incluindo sistemas e plataformas que auxiliam tanto no desenvolvimento quanto na coordenação das atividades da equipe.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma Geral</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas utilizadas pela equipe</p></font>
 
   <table>
     <thead>
