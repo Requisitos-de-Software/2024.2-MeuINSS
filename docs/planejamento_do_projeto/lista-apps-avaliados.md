@@ -116,7 +116,7 @@ O DNE digital é um aplicativo mobile para consultar o documento estudantil ofic
 Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital. 
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Rich Picture DNE Digital</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Rich Picture DNE Digital</b></p></font>
 </div>
 
 <div align="center">
