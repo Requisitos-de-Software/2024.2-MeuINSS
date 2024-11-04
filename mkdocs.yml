@@ -39,5 +39,5 @@ theme:
       toggle:
         icon: material/weather-cloudy-alert
         name: Switch to high contrast
-  logo: imagens/logoinss.png
+  logo: imagens/logoinss.svg
   extra_css: [stylesheets/extra.css]
