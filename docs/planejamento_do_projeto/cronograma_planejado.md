@@ -687,12 +687,12 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modela
 
 </div>
 
-## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1 - Grupo + 1 - Data de Entrega: 13/nov/2024
+## Entrega 5 - Análise de Requisitos: Verificação e Validação - Grupo + 1 - Data de Entrega: 26/01/2024
 
-Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação 1.
+Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma planejado para a etapa de Análise de Requisitos: Verificação e Validação</p></font>
 
 <table>
   <thead>
@@ -706,8 +706,8 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
   </thead>
   <tbody>
     <tr>
-      <td>Análise de Requisitos: Verificação e Validação 1</td>
-      <td>Início: 04/nov <br> Fim: 07/nov</td>
+      <td>Análise de Requisitos: Verificação e Validação</td>
+      <td>Início: 15/01/2025 <br> Fim: 17/01/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -715,12 +715,12 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>Início: 08/nov <br> Fim: 09/nov</td>
+      <td>Início: 17/01/2025<br> Fim: 18/01/2025</td>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
     <tr>
-      <td>Gravação 5.1</td>
-      <td>08/nov</td>
+      <td>Gravação 5</td>
+      <td>19/01/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -728,21 +728,21 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>09/nov</td>
+      <td>20/01/2025</td>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
-      <td>Atualização do cronograma executado para Entrega 5.1</td>
-      <td>08/nov</td>
+      <td>Atualização do cronograma executado para Entrega 5</td>
+      <td>20/01/2025</td>
       <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
-      <td>08/nov</td>
+      <td>21/01/2025</td>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
-      <td>Correção após a Entrega 5.1</td>
-      <td>Início: 18/nov <br> Fim: 21/nov</td>
+      <td>Correção após a Entrega 5</td>
+      <td>Início: 30/01/2025 <br> Fim: 02/02/2025</td>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td>Início: 22/nov <br> Fim: 23/nov</td>
+      <td>Início: 02/02/2025 <br> Fim: 03/02/2025</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
   </tbody>
@@ -752,7 +752,7 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
 
 </div>
 
-## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 20/nov/2024
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 19/01/2025
 
 Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-Rastreabilidade.
 
@@ -772,7 +772,7 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-R
   <tbody>
     <tr>
       <td>Pós-Rastreabilidade</td>
-      <td>Início: 11/nov <br> Fim: 14/nov</td>
+      <td>Início: 10/01/2025 <br> Fim: 13/01/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -780,12 +780,12 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-R
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>Início: 15/nov <br> Fim: 16/nov</td>
+      <td>Início: 13/01/2025 <br> Fim: 14/01/2025</td>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
     <tr>
       <td>Gravação 6</td>
-      <td>15/nov</td>
+      <td>15/01/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -793,21 +793,21 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-R
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>16/nov</td>
+      <td>16/01/2025</td>
       <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 6</td>
-      <td>15/nov</td>
+      <td>16/01/2025</td>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td>15/nov</td>
+      <td>17/01/2025</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega 6</td>
-      <td>Início: 25/nov <br> Fim: 28/nov</td>
+      <td>Início: 21/01/2025 <br> Fim: 24/01/2025</td>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
-      <td>Início: 29/nov <br> Fim: 30/nov</td>
+      <td>Início: 24/01/2025 <br> Fim: 25/01/2025</td>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
   </tbody>
@@ -892,7 +892,7 @@ Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Análi
 
 </div> -->
 
-## Entrega Final - Data de Entrega: 06/dez/2024
+## Entrega Final - Data de Entrega: 10/02/2025
 
 Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
@@ -912,7 +912,7 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
   <tbody>
     <tr>
       <td>Desenvolvimento do projeto final (finalizar todos os artefatos: corrigir e completar)</td>
-      <td>Início: 25/nov <br> Fim: 28/nov</td>
+      <td>Início: 26/01/2025 <br> Fim: 29/01/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -920,12 +920,12 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>Início: 29/nov <br> Fim: 30/nov</td>
+      <td>Início: 29/01/2025 <br> Fim: 30/01/2025</td>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
       <td>Gravação Final</td>
-      <td>02/dez</td>
+      <td>31/01/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -933,21 +933,21 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>03/dez</td>
+      <td>01/02/2025</td>
       <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega Final</td>
-      <td>02/dez</td>
+      <td>01/02/2025</td>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td>02/dez</td>
+      <td>02/02/2025</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega Final</td>
-      <td>Início: 20/dez <br> Fim: 21/dez</td>
+      <td>Início: 10/02/2025 <br> Fim: 12/02/2025</td>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td>Início: 22/dez <br> Fim: 23/dez</td>
+      <td>Início: 12/02/2025 <br> Fim: 13/02/2025</td>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
     </tr>
   </tbody>
@@ -959,7 +959,7 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
 ## Bibliografia
 
-> Cronograma Meu INSS. Disponível em: <<https://github.com/Requisitos-de-Software/2024.2-MeuINSS/blob/master/docs/planejamento_do_projeto/cronograma_planejado.md>>. Acesso em 01 de Novembro de 2024.
+> Cronograma Economia DF. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md>>. Acesso em 01 de Novembro de 2024.
 >
 > SALES, André Barros. Ambientação - Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 01 de Novembro de 2024.
 
@@ -967,9 +967,6 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
 | Versão | Data       | Descrição                                        | Autor                                                                                                    |                      Revisor                       |
 | :----: | ---------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
-| `1.0`  | 06/09/2024 | Criação do cronograma.                           | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
-| `1.1`  | 15/09/2024 | Inclusão do cronograma das entregas parciais.    | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
-| `1.2`  | 15/09/2024 | Inclusão dos nomes dos responsáveis e revisores. | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
-| `1.3`  | 15/09/2024 | Inclusão dos nomes dos responsáveis e revisores. | [Júlia Fortunato](https://github.com/julia-fortunato)                                                           | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
-| `1.4`  | 20/09/2024 | Revisão do Documento                             | [Júlia Fortunato](https://github.com/julia-fortunato)                                                           |         - (revisão não precisa de revisor)         |
-| `1.5`  | 17/10/2024 | Documento revisado com as orientações do monitor | [Maurício Ferreira](https://github.com/mauricio-araujoo)                                                         | [Júlia Fortunato](https://github.com/julia-fortunato) |
+| `1.0`  | 01/11/2024 | Criação do cronograma                         | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Júlia Fortunato](https://github.com/julia-fortunato)   |
+| `1.1`  | 04/11/2024 | Revisão do Documento                             | [Cristiano Morais](https://github.com/julia-fortunato)                                                           |         - (revisão não precisa de revisor)         |
+
