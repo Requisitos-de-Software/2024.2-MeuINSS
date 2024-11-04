@@ -33,6 +33,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
       primary: green
-  
+    - scheme: high-contrast
+      primary: black
+      accent: yellow
+      toggle:
+        icon: material/weather-cloudy-alert
+        name: Switch to high contrast
   logo: imagens/logoinss.png
   extra_css: [stylesheets/extra.css]
