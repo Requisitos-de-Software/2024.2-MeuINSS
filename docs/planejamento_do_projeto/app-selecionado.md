@@ -29,6 +29,15 @@
             • Complexidade;<br>
             • Ser aplicativo Open Source ou do Governo Brasileiro. </p>
 
+## Motivação
+Após a análise do aplicativo, a equipe foi motivada a utilizá-lo como objeto de estudo pelos seguintes pontos:
+
+- O aplicativo do Meu INSS de extrema importância para a praticidade na resolução de problemas de trabalhadores/aposentados brasileiros;
+- Conta com uma base de usuários sólida e com um número significativo no Brasil;
+- Pode sofrer adição de novas features que melhorem o aplicativo de forma significativa;
+- Ampla gama de funcionalidades que podem ser estudadas pelo grupo.
+
+
 ## <p style="margin-bottom: 50px;">Sobre o Aplicativo</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">O Meu INSS é um aplicativo e plataforma digital oferecida pelo Instituto Nacional do Seguro Social (INSS) do governo brasileiro. Ele permite que os cidadãos acessem diversos serviços relacionados à previdência social de forma prática e rápida, de forma online. Se trata de um canal online onde é possível realizar consultas como também a emissão de extratos, ter acesso a dados de contribuições previdenciárias, empregadores e também períodos trabalhados.[1]</p>
@@ -39,6 +48,7 @@
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">
     A política de privacidade do aplicativo Meu INSS pode ser encontrada no link a seguir: 
     <a href="https://www.gov.br/inss/pt-br/canais_atendimento/meu-inss/politica-de-privacidade-do-meu-inss">Política de Privacidade - Meu INSS</a>.
+    Reiteramos que não existe nenhuma cláusula no termo de privacidade do Meu INSS que proíba o uso do aplicativo para fins acadêmicos e de estudo, desse forma, ele pode ser utilizado para a análise do grupo.
 </p>
 
 ## <p style="margin-bottom: 50px;">Bibliografia</p>

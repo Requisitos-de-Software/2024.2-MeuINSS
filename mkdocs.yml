@@ -9,12 +9,13 @@ nav:
   # - Apresentação: index.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento_do_projeto/heatmap-disponibilidade.md
+    - Cronograma planejado: planejamento_do_projeto/cronograma_planejado.md
+    - Cronograma executado: planejamento_do_projeto/cronograma_executado.md
     - Ferramentas do projeto: planejamento_do_projeto/ferramentas.md
     - Aplicativos avaliados: planejamento_do_projeto/lista-apps-avaliados.md
     - Aplicativo selecionado: planejamento_do_projeto/app-selecionado.md
     - Rich Picture: planejamento_do_projeto/rich-picture.md
-    - Cronograma planejado: planejamento_do_projeto/cronograma_planejado.md
-    - Cronograma executado: planejamento_do_projeto/cronograma_executado.md
+    
 theme:
   name: material
   language: pt-BR
