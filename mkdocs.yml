@@ -6,7 +6,8 @@ nav:
   - Atas:
     - Reunião 1: atas/Reuniao01_23.10.2024.md
     - Reunião 2: atas/Reuniao02_26.10.2024.md
-  # - Apresentação: index.md
+  - Apresentação:
+    - Apresentação 1: apresentacoes/apresentacao1.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento_do_projeto/heatmap-disponibilidade.md
     - Cronograma planejado: planejamento_do_projeto/cronograma_planejado.md
@@ -15,6 +16,10 @@ nav:
     - Aplicativos avaliados: planejamento_do_projeto/lista-apps-avaliados.md
     - Aplicativo selecionado: planejamento_do_projeto/app-selecionado.md
     - Rich Picture: planejamento_do_projeto/rich-picture.md
+    - Inspeções:
+      - "Lista de inspeção": planejamento_do_projeto/listainspecao.md
+      - "Inspeção do grupo": planejamento_do_projeto/inspecaogrupo.md
+      - "Inspeção do grupo + 1 (Grupo 07)": planejamento_do_projeto/inspecaogrupo+1.md
     
 theme:
   name: material
