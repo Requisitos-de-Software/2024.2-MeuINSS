@@ -52,4 +52,4 @@ As reuniões ficaram marcadas para domingo de manhã, sexta ou sábado a noite o
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  | 07/09/2023 | Criação do documento | [Nicolas Bomfim](https://github.com/nickgehjk) | [Ana Catarina](https://github.com/an4catarina) |
+| `1.0`  | 04/11/2024 | Criação do documento | [Nicolas Bomfim](https://github.com/nickgehjk) | [Ana Catarina](https://github.com/an4catarina) |

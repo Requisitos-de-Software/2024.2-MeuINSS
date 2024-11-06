@@ -34,6 +34,6 @@ O objetivo central do projeto é conduzir uma avaliação detalhada dos requisit
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|28/09/2024|Criação do documento|[Júlia Fortunato](https://github.com/julia-fortunato)|[Cristiano Morais](https://github.com/CristianoMoraiss)|
+|`1.0`|28/10/2024|Criação do documento|[Júlia Fortunato](https://github.com/julia-fortunato)|[Cristiano Morais](https://github.com/CristianoMoraiss)|
 |`1.1`|04/11/2024|Adição dos tópicos Sobre o Projeto com o app já escolhido|[Júlia Fortunato](https://github.com/julia-fortunato)|[Cristiano Morais](https://github.com/CristianoMoraiss)|
 
