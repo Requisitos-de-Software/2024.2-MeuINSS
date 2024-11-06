@@ -82,7 +82,7 @@ O aplicativo Kodi se trata de um sistema para a reprodução de mídias, é um a
 - Usabilidade: A interface do aplicativo é simples e possui simbologia de fácil reconhecimento e aprendizado.
 - Base de usuários: O aplicativo acaba por ser muito nichado, isso pode delimitar a diversidade de usuários e dificultar para o grupo ter contato com algum usuário do aplicativo.
 
-Na figura abaixo, encontra-se o Rich Picture do aplicativo Kodi.
+Na figura 2, encontra-se o Rich Picture do aplicativo Kodi.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Rich Picture Kodi</b></p></font>
@@ -105,7 +105,7 @@ O aplicativo mobile Meu INSS é uma sistema do governo federal brasileiro para f
 - Base de usuários: por ser um aplicatico de um órgão muito utilizado e conhecido entre os trabalhadores brasileiros, o app possui um grande número de diversos usuários, com público-alvo dos mais jovens até as pessoas mais idosas;
 - O aplicativo oficial do Meu INSS é desenvolvido e mantido pelo governo brasileiro, o que o torna app governamental.
 
-Na figura abaixo, encontra-se o Rich Picture do aplicativo Meu INSS.
+Na figura 3, encontra-se o Rich Picture do aplicativo Meu INSS.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Rich Picture Meu INSS</b></p></font>
@@ -127,6 +127,8 @@ O Anatel Consumidor é um aplicativo cuja função é mediar a comunicação ent
 * Base de usuários: O aplicativo não é nichado a um público específico, então qualquer um que seja cliente de uma operadora telefônica brasileira pode utilizá-lo.
 
 * O Anatel Consumidor foi desenvolvido e é mantido pelo governo brasileiro, o que o torna app governamental.
+
+Na figura 4, encontra-se o Rich Picture do aplicativo Anatel Consumidor Mobile.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Rich Picture Anatel Consumidor</b></p></font>
@@ -151,7 +153,7 @@ O DNE digital é um aplicativo mobile para consultar o documento estudantil ofic
 - Usabilidade: A interface do aplicativo é simples e de fácil reconhecimento e aprendizado.
 - Complexidade: O aplicativo não possui funcionalidades distintas, apenas a consulta do documento.
 
-Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital.
+Na figura 5, encontra-se o Rich Picture do aplicativo DNE Digital.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Rich Picture DNE Digital</b></p></font>
@@ -182,4 +184,11 @@ Na figura abaixo, encontra-se o Rich Picture do aplicativo DNE Digital.
 
 | Versão | Data       | Descrição                                                | Autor                                                 | Revisor |
 | :----: | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | :-----: |
-| `1.0`  | 06/09/2023 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato) |    -    |
+| `1.0`  | 28/10/2024 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato) |    -    |
+| `1.1`  | 02/11/2024 | Adição do app Meu SUS Digital | [Ana Catarina](https://github.com/an4catarina) |    -    |
+| `1.2`  | 02/11/2024 | Adição do app Kodi | [Cristiano Morais](https://github.com/CristianoMoraiss) |    -    |
+| `1.3`  | 02/11/2024 | Adição do app Anatel Consumidor Mobile | [Maurício Ferreira](https://github.com/mauricio-araujoo) |    -    |
+| `1.4`  | 04/11/2024 | Adição do app DNE Digital | [Nicolas Bomfim](https://github.com/nickgehjk) |    -    |
+| `1.4`  | 05/11/2024 | Revisão de todos os apps avaliados | [Ana Catarina](https://github.com/an4catarina) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) <br> [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Nicolas Bomfim](https://github.com/nickgehjk) <br> [Júlia Fortunato](https://github.com/julia-fortunato)|    [Ana Catarina](https://github.com/an4catarina) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) <br> [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Nicolas Bomfim](https://github.com/nickgehjk) <br> [Júlia Fortunato](https://github.com/julia-fortunato)|    |
+
+
