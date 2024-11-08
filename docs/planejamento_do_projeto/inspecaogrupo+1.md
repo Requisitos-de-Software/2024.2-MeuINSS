@@ -1,23 +1,22 @@
-# Inspeção do grupo + 1
+# Inspeção do grupo + 1 (Grupo 7)
 
 ## Introdução
 
-Nesta página, apresentamos a análise realizada pelo grupo sobre o conteúdo produzido. Esse processo visa assegurar maior precisão nas entregas feitas e fortalecer a confiança no desenvolvimento do aprendizado. A inspeção foi realizada com base na lista elaborada pela equipe, a qual pode ser consultada em. [Lista de inspeção](listainspecao.md)
+Aqui apresentamos a análise realizada pelo grupo sobre o conteúdo produzido pelo grupo do aplicativo Bluesky (Grupo 7). Esse processo tem por objetivo assegurar maior precisão nas entregas feitas e fortalecer a confiança no desenvolvimento do aprendizado. A inspeção foi realizada com base na lista elaborada pela equipe, a qual pode ser consultada em [Lista de inspeção](listainspecao.md).
 
 
-## Acesso à lista de inspeção do grupo (Resultado)
+## Acesso à lista de inspeção do grupo + 1 (Resultado)
 
-No link a seguir, pode ser encontrado o resultado da inspeção do grupo: [Lista de inspeção - Grupo 06 (Resultado)](ListadeInspecaoGrupo.pdf).
+A partir do link que se segue é possível verificar qual foi o resultado obtido pela análise do grupo 7: [Lista de inspeção - Grupo 07 aplicativo Bluesky (Resultado)](ListadeInspecaoGrupo+1.pdf).
 
 ## Acesso à gravação da inspeção
 
-A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-fortunato) e [Cristiano](https://github.com/CristianoMoraiss) no dia 05/11/2024. No vídeo abaixo, pode ser acessado a gravação da inspeção.
-
+A inspeção foi realizada pelos integrantes [Maurício Ferreira](https://github.com/mauricio-araujoo) e [Cristiano](https://github.com/CristianoMoraiss) no dia 07/11/2024. A partir do vídeo abaixo é possível ter acesso a gravação da inspeção feita ao grupo do aplicativo Bluesky.
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=HwAWP1mweBY" target="blanket"><b>Vídeo 1:</b> Inspeção do grupo + 1 - Entrega 01</a></p>
+<p style="text-align: center"><a href="https://youtu.be/HwAWP1mweBY" target="blanket"><b>Vídeo 1:</b> Inspeção do grupo + 1 (Grupo 7) - Entrega 01</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HwAWP1mweBY" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAWP1mweBY" title="Verificação  grupo + 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 </div >
@@ -30,4 +29,4 @@ A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-f
 
 | Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
 | :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
-| `1.0`  | 06/11/2024 | Criação do documento                        | [Maurício Ferreira](https://github.com/mauricio-araujoo)<br> | [Cristiano Morais](https://github.com/CristianoMoraiss)|
+| `1.0`  | 07/11/2024 | Criação do documento                        | [Maurício Ferreira](https://github.com/mauricio-araujoo)<br> | [Cristiano Morais](https://github.com/CristianoMoraiss)|
