@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento visa facilitar o agendamento de reuniões, mapeando os dias e horários mais convenientes para a equipe. Utilizando um Heatmap (tabela 1 e figura 1), é possível visualizar a disponibilidade de cada membro, variando de 0 (nenhum disponível) a 7 (todos disponíveis), para construir um calendário que promova a participação de todos.
+Este documento visa facilitar o agendamento de reuniões, mapeando os dias e horários mais convenientes para a equipe. Utilizando um Heatmap (tabela 1 e figura 1), é possível visualizar a disponibilidade de cada membro, variando de 0 (nenhum disponível) a 5 (todos disponíveis), para construir um calendário que promova a participação de todos.
 
 ## Heatmap
 
