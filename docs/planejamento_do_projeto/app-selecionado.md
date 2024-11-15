@@ -4,7 +4,7 @@
 
 
 
-   <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;"> Inicialmente todos os membros da equipe escolheram um aplicativo para ser analisado e posteriormente seria debatido qual deles melhor se enquadraria para ser objeto de estudo do grupo. Foi realizada uma reunião (27/10/2024) no qual os integrantes do grupo fizeram uma breve apresentação de seus aplicativos escolhidos. Após um debate o aplicativo selecionado pela equipe foi o "Meu INSS".</p>
+   <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;"> Inicialmente todos os membros da equipe escolheram um aplicativo para ser analisado e posteriormente seria debatido qual deles melhor se enquadraria para ser objeto de estudo do grupo. Foi realizada uma reunião (27/10/2024) no qual os integrantes do grupo fizeram uma breve apresentação de seus aplicativos escolhidos. Após um debate o aplicativo selecionado pela equipe foi o "Meu INSS", na figura 1 é possível observar a logo no meu INSS.</p>
 
 ## <p style="margin-bottom: 50px;">Meu INSS</p>
 

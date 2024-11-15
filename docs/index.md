@@ -14,7 +14,7 @@
 </div>
 
 ## Sobre o projeto
-Esta página é dedicada à documentação de todos os artefatos criados pelo Grupo 06 no segundo semestre de 2024, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
+Esta página é dedicada à documentação de todos os artefatos criados pelo Grupo 06 no segundo semestre de 2024, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB), na figura 1 é possível observar a logo do aplicativo que será usado como objeto de estudo.
 
 O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Meu INSS, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à Previdência Social.
 

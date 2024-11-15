@@ -91,6 +91,8 @@ Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do pr
 
 <br>
 
+## Histórico de Versões
+
 <div align="center">
   <table>
     <thead>

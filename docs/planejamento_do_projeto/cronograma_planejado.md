@@ -968,5 +968,5 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 | Versão | Data       | Descrição                                        | Autor                                                                                                    |                      Revisor                       |
 | :----: | ---------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
 | `1.0`  | 02/11/2024 | Criação do cronograma                          | [Julia Fortunato](https://github.com/julia-fortunato) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Cristiano Morais](https://github.com/CristianoMoraiss)   |
-| `1.1`  | 04/11/2024 | Revisão do Documento                             | [Cristiano Morais](https://github.com/CristianoMoraiss)                                                           |         - (revisão não precisa de revisor)         |
+        |
 

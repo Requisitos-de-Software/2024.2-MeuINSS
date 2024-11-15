@@ -184,11 +184,10 @@ Na figura 5, encontra-se o Rich Picture do aplicativo DNE Digital.
 
 | Versão | Data       | Descrição                                                | Autor                                                 | Revisor |
 | :----: | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | :-----: |
-| `1.0`  | 28/10/2024 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato) |    -    |
-| `1.1`  | 02/11/2024 | Adição do app Meu SUS Digital | [Ana Catarina](https://github.com/an4catarina) |    -    |
-| `1.2`  | 02/11/2024 | Adição do app Kodi | [Cristiano Morais](https://github.com/CristianoMoraiss) |    -    |
-| `1.3`  | 02/11/2024 | Adição do app Anatel Consumidor Mobile | [Maurício Ferreira](https://github.com/mauricio-araujoo) |    -    |
-| `1.4`  | 04/11/2024 | Adição do app DNE Digital | [Nicolas Bomfim](https://github.com/nickgehjk) |    -    |
-| `1.4`  | 05/11/2024 | Revisão de todos os apps avaliados | [Ana Catarina](https://github.com/an4catarina) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) <br> [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Nicolas Bomfim](https://github.com/nickgehjk) <br> [Júlia Fortunato](https://github.com/julia-fortunato)|    [Ana Catarina](https://github.com/an4catarina) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) <br> [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Nicolas Bomfim](https://github.com/nickgehjk) <br> [Júlia Fortunato](https://github.com/julia-fortunato)|    |
+| `1.0`  | 28/10/2024 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato) | [Cristiano Morais](https://github.com/CristianoMoraiss)    |
+| `1.1`  | 02/11/2024 | Adição do app Meu SUS Digital | [Ana Catarina](https://github.com/an4catarina) | [Cristiano Morais](https://github.com/CristianoMoraiss)    |
+| `1.2`  | 02/11/2024 | Adição do app Kodi | [Cristiano Morais](https://github.com/CristianoMoraiss) |[Nicolas Bomfim](https://github.com/nickgehjk)    |
+| `1.3`  | 02/11/2024 | Adição do app Anatel Consumidor Mobile | [Maurício Ferreira](https://github.com/mauricio-araujoo) |[Cristiano Morais](https://github.com/CristianoMoraiss)    |
+| `1.4`  | 04/11/2024 | Adição do app DNE Digital | [Nicolas Bomfim](https://github.com/nickgehjk) |[Cristiano Morais](https://github.com/CristianoMoraiss)    |
 
 
