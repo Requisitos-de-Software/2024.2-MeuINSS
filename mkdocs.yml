@@ -20,6 +20,12 @@ nav:
       - "Lista de inspeção": planejamento_do_projeto/listainspecao.md
       - "Inspeção do grupo": planejamento_do_projeto/inspecaogrupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": planejamento_do_projeto/inspecaogrupo+1.md
+  - Elicitação de Requisitos:
+    - Definição do Perfil de Usuário: elicitacao/perfil_usuario.md
+    - Personas: elicitacao/personas.md
+    - Elicitação de Requisitos: elicitacao/elicitacao_requisitos.md
+    - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
+    - Priorização de Requisitos: elicitacao/priorizacao_requisitos.md
     
 theme:
   name: material
