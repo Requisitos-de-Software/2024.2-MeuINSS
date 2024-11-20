@@ -35,7 +35,7 @@ As imagens das personas foram geradas utilizando o site [This-Person-Does-not-Ex
 </div>
 
 <div align="center">
-    <img src="../../imagens/personas/enzo.svg" alt="Foto de Maria das Dores" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+    <img src="../../imagens/personas/MariaDasDores.svg" alt="Foto de Maria das Dores" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
     <p style="text-align: center; margin-bottom: 50px;">
@@ -58,7 +58,7 @@ As imagens das personas foram geradas utilizando o site [This-Person-Does-not-Ex
 ### Persona Primária 2: Carlos Eduardo da Silva Ferreira (Autônomo)
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Foto de Carlos Eduardo da Silva Ferreira</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Foto de Carlos Eduardo da Silva Ferreira</b></p></font>
 </div>
 
 <div align="center">
@@ -82,10 +82,59 @@ As imagens das personas foram geradas utilizando o site [This-Person-Does-not-Ex
 - **Requisitos:** Carlos precisa de um aplicativo que permita fácil acesso ao histórico de contribuições, regularização de pendências e simulação de aposentadoria. Ele valoriza a possibilidade de realizar todos esses processos sem precisar ir a uma agência.
 - **Expectativas:** Carlos espera que o aplicativo seja prático, confiável e permita visualizar claramente informações como os meses pagos e pendentes, além de fornecer alertas e notificações de prazos importantes. Ele também gostaria que o app oferecesse orientações simples para resolver pendências ou entender seus direitos como contribuinte.
 
-### Persona Secundária 1:
+### Persona Secundária 1:  Ana Carolina Rocha Barié (Assistente Administrativa)
 
-### Persona Secundária 2: 
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Foto de Ana Carolina Rocha Barié</b></p></font>
+</div>
 
+<div align="center">
+    <img src="../../imagens/personas/ana.svg" alt="Foto de Ana Carolina Rocha Barié" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+    <p style="text-align: center; margin-bottom: 50px;">
+        <b>Fonte: <a href="https://thispersondoesnotexist.com/">This Person Does not Exist</a> , 2024</b>
+    </p>
+</div> 
+
+**Nome: Ana Carolina Rocha Barié**
+
+- **Idade:** 49 anos 
+- **Gênero:** Feminino
+- **Habilidades:** Graduação em ciências contábeis. Ela possui um bom conhecimento de informática, é organizada e tem experiência com documentos e processos burocráticos.
+- **Afinidade com tecnologia:** Alta
+- **Tarefa Primária:** Acompanhar e gerir os recolhimentos do INSS de seu marido (autônomo) e dos filhos (que trabalham como empregados na mesma empresa que ela), para garantir que todos estejam em dia e possam acessar benefícios futuros, como aposentadoria e auxílios diversos.
+- **Objetivo:** Ana se preocupa em garantir que toda a sua família tenha as contribuições do INSS regularizadas, principalmente para evitar problemas com aposentadoria e para garantir direitos em situações como licença-maternidade e benefícios por incapacidade.
+- **Relacionamentos:** Ana é casada com João, um trabalhador autônomo, e tem dois filhos, uma mulher de 25 anos e um homem de 23 anos. Ela tem uma boa rede de apoio familiar e frequentemente recebe orientações sobre o INSS de colegas de trabalho. Ana também se envolve em atividades de voluntariado e gosta de trocar experiências com pessoas de diferentes faixas etárias, sempre tentando ajudar a simplificar o que é burocrático e difícil.
+- **Requisitos:** Ana precisa de um aplicativo que permita verificar as contribuições de sua família de maneira fácil e rápida, além de possibilitar o acesso a extratos, simulações e pendências. Ela valoriza a possibilidade de verificar diferentes informações de maneira integrada, sem ter que navegar em múltiplos sistemas, fazer ligações telefônicas ou precisar ir a uma agência do INSS.
+- **Expectativas:** Ana espera que o aplicativo tenha uma interface amigável, com informações claras sobre eventuais erros ou que precisa ser feito para regularizar as contribuições. Ela também deseja funcionalidades como alertas sobre datas de vencimento, além de poder acessar históricos de pagamentos e extratos sem complicações e problemas por esquecimentos.
+
+### Persona Secundária 2: Lucas Henrique Costa Silva (Estudante)
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Lucas Henrique Costa Silva</b></p></font>
+</div>
+
+<div align="center">
+    <img src="../../imagens/personas/lucas.svg" alt="Foto de Lucas Henrique Costa Silva" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+    <p style="text-align: center; margin-bottom: 50px;">
+        <b>Fonte: <a href="https://thispersondoesnotexist.com/">This Person Does not Exist</a> , 2024</b>
+    </p>
+</div> 
+
+**Nome: Lucas Henrique Costa Silva**
+
+- **Idade:** 18 anos 
+- **Gênero:** Masculino
+- **Habilidades:** Estudante no terceiro ano do ensino médio. Trabalha meio período em uma loja de eletrônicos como menor aprendiz. Possui grande habilidade em futebol, uma vez que pratica o esporte desde os 6 anos.
+- **Afinidade com tecnologia:** Alta
+- **Tarefa Primária:** Acompanhar as contribuições de aposentadoria de seu pai, já que ele ajuda a família com questões burocráticas e financeiras, principalmente quando o pai precisa de auxílio para verificar extratos ou regularizar pendências no Meu INSS, que geralmente é sempre que o pai utiliza o aplicativo.
+- **Objetivo:** Lucas está começando a se envolver mais com a gestão das finanças da família e, como parte desse processo, ele ajuda o pai a manter as contribuições do INSS em dia. Lucas quer garantir que o pai, que está prestes a se aposentar, tenha todos os direitos garantidos e que não tenham imprevistos com relação a isso.
+- **Relacionamentos:** Lucas é filho único e mora com seus pais. Seu pai, Sérgio, está próximo da aposentadoria e ele tem o papel de ajudar com tarefas administrativas em casa, como o acompanhamento de pagamentos e documentos importantes. Lucas também tem uma boa relação com a mãe, que o apoia nos estudos e na sua jornada para se tornar mais independente financeiramente. Lucas namora há 1 ano e tem um grande grupo de amigos, que se encontram, ao menos uma vez no mês.
+- **Requisitos:** Lucas precisa de um aplicativo que seja fácil de usar, onde ele consiga visualizar rapidamente as contribuições do pai, verificar o extrato de pagamentos e se há pendências que precisem ser resolvidas. Ele quer uma plataforma com poucas complicações, mas que permita obter todas as informações necessárias sobre a aposentadoria de seu pai.
+- **Expectativas:** Lucas espera que o aplicativo seja intuitivo, com informações claras sobre o status da aposentadoria do pai e que facilite a consulta ao extrato de contribuições e a simulações. Ele também gostaria de receber alertas sobre prazos e pendências, para poder agir rapidamente caso surja algum problema. Lucas espera que o aplicativo seja simples o suficiente para que ele, como adolescente, consiga gerenciar de maneira eficiente sem depender de muito suporte, para que assim, ele consiga efetivamente ajudar seu pai.
 
 ## Anti-Personas
 
@@ -157,3 +206,4 @@ Antipersonas descrevem usuários para qual o software não está sendo projetado
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|19/11/2024|Criação do documento. Adição de personas primárias e antipersonas|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.0`|20/11/2024|Adição de personas secundárias|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
