@@ -205,5 +205,5 @@ Antipersonas descrevem usuários para qual o software não está sendo projetado
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|19/11/2024|Criação do documento. Adição de personas primárias e antipersonas|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
-|`1.0`|20/11/2024|Adição de personas secundárias|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.0`|19/11/2024|Criação do documento. Adição de personas primárias e antipersonas|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.0`|20/11/2024|Adição de personas secundárias|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
