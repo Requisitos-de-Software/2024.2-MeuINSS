@@ -97,7 +97,7 @@ Na tabela 2, encontram-se as atividades definidas e os respectivos integrantes d
       </tr>
       <tr>
         <td>
-          Elaboração do roteiro para o brainstorming
+          Elaboração do glossário
         </td>
         <td>
             <a href="https://github.com/an4catarina">Ana Catarina</a><br>

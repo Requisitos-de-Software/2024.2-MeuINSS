@@ -189,21 +189,232 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
     <tr>
       <td>Realizar inspeção do grupo+1</td>
       <td>Início: 01/11/2024<br> Fim: 01/11/2024</td>
-      <td>Início: -<br> Fim: -</td>
-      <td>-</td>
-      <td>Início: 02/11/2024<br> Fim: 02/11/2024</td>
-      <td>Início: -<br> Fim: -</td>
+      <td>Início: 07/11/2024<br> Fim: 07/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 07/11/2024<br> Fim: 01/11/2024</td>
+      <td>Início: 07/11/2024<br> Fim: 07/11/2024</td>
       <td>
-        -
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
       </td>
     </tr>
     <tr>
       <td>Correção após a Entrega 1</td>
       <td>Início: 13/11/2024 <br> Fim: 16/11/2024</td>
-      <td>Início: - <br> Fim: -</td>
+      <td>Início:  15/11/2024<br> Fim: 22/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+          <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+      </td>
+      <td>Início: 22/11/2024 <br> Fim: 24/11/2024</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
+</div>
+
+## Entrega 2 - Elicitação - Data de Entrega: 24/11/2024
+
+Na tabela 2, estão apresentadas as datas de execução do cronograma executado para a segunda entrega do projeto, a elicitação de requisitos.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma executado da etapa de Elicitação de Requisitos</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Procurar e trazer um app para a próxima reunião com justificativas</td>
+      <td>Início: 23/10/2024 <br> Fim: 25/10/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 26/10/2024</td>
       <td>
-        -</td>
-      <td>Início: - <br> Fim: -</td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      <td>Início: 26/10/2024 <br> Fim: 26/10/2024</td>
+      <td>Início: 26/10/2024 <br> Fim: 27/10/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        </td>
+    </tr>
+    <tr>
+      <td>Planejamento do Projeto</td>
+      <td>Início: 23/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 26/10/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 29/10/2024 <br> Fim: 29/10/2024</td>
+      <td>Início: 26/10/2024 <br> Fim: 26/10/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+    </tr>
+    <tr>
+      <td>Documentar a equipe</td>
+      <td>Início: 23/10/2024<br> Fim: 25/10/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
+      <td>Início: 28/10/2024 <br> Fim: 04/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a</td>
+    </tr>
+    <tr>
+      <td>Incluir o heatmap de disponibilidade dos integrantes no repositório</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 04/1/2024</td>
+      <td><a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
+      <td>Início: 04/11/2024 <br> Fim: 04/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
+    </tr>
+    <tr>
+      <td>Incluir a lista de apps selecionados pelos integrantes do grupo com suas justificativas</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
+      <td>Início: 23/10/2024<br> Fim: 04/11/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
+      <td>Início: 04/11/2024 <br> Fim: 04/11/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Documentar o aplicativo escolhido para a disciplina</td>
+      <td>Início: 26/10/2024 <br> Fim: 27/10/2024</td>
+      <td>Início: 26/10/2024 <br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+      <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 28/10/2024<br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Incluir Termo de Uso do aplicativo permitindo o estudo na disciplina no repositório</td>
+      <td>Início: 26/10/2024<br> Fim: 27/10/2024</td>
+      <td>Início: 28/10/2024 <br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+      <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 28/10/2024 <br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Selecionar as ferramentas do projeto</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
+      <td>Início: 23/10/2024 <br> Fim: 02/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
+      <td>Início: 01/11/2024  <br> Fim: 02/11/2024 </td>
+      <td>Início: 02/11/2024 <br> Fim: 04/11/2024 </td>
+       <td>
+         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Documentar o Rich Picture do aplicativo escolhido</td>
+      <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
+      <td>Início: 26/10/2024 <br> Fim: 28/10/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+      <td>Início: 27/10/2024 <br> Fim: 28/10/2024</td>
+      <td>Início: 28/10/2024 <br> Fim: 28/10/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Definir um cronograma detalhado das atividades do projeto</td>
+      <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 23/10/2024 <br> Fim:  02/11/2024</td>
+      <td>Início: 02/11/2024 <br> Fim: 04/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+    </tr>
+    <tr>
+      <td>Implementar a gitpage</td>
+      <td>Início: 23/10/2024 <br> Fim: 25/10/2024</td>
+      <td>Início: 23/10/2024<br> Fim: 24/10/2024</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 25/10/2024 <br> Fim: 27/10/2024</td>
+      <td>Início: 24/10/2024<br> Fim: 25/10/2024</td>
+      <td> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Realizar inspeção do grupo</td>
+      <td>Início: 01/11/2024<br> Fim: 01/11/2024</td>
+      <td>Início: 05/11/2024<br> Fim: 05/11/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+      <td>Início: 01/11/2024<br> Fim: 01/11/2024</td>
+      <td>Início: 05/11/2024<br> Fim: 06/11/2024</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Gravação 1</td>
+      <td>Início: 02/11/2024<br> Fim: 02/11/2024</td>
+      <td>Início: 04/11/2024<br> Fim: 04/11/2024</td>
+      <td>
+         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 02/11/2024<br> Fim: 02/11/2024</td>
+      <td>Início: 04/11/2024<br> Fim: 04/11/2024</td>
+      <td>
+         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 1</td>
+      <td>Início: 02/11/2024<br> Fim: 02/11/2024</td>
+      <td>Início: 06/11/2024<br> Fim: 06/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 04/11/2024<br> Fim: 04/11/2024</td>
+      <td>Início: 06/11/2024<br> Fim: 06/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Realizar inspeção do grupo+1</td>
+      <td>Início: 01/11/2024<br> Fim: 01/11/2024</td>
+      <td>Início: 07/11/2024<br> Fim: 07/11/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 07/11/2024<br> Fim: 01/11/2024</td>
+      <td>Início: 07/11/2024<br> Fim: 07/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega 1</td>
+      <td>Início: 13/11/2024 <br> Fim: 16/11/2024</td>
+      <td>Início:  15/11/2024<br> Fim: 22/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+          <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+      </td>
+      <td>Início: 22/11/2024 <br> Fim: 24/11/2024</td>
       <td>-</td>
     </tr>
   </tbody>
@@ -225,3 +436,4 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
 | :----: | ---------- | ----------------------------------------------------------------- | ----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  | 06/11/2023 | Criação do cronograma. Adição da etapa de planejamento do projeto | [Júlia Fortunato](https://github.com/julia-fortunato) | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |
 | `2.0`  | 22/11/2024 | Correção da organização do documento                              | [Ana Catarina Santos](https://github.com/an4catarina) |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
+| `3.0`  | 23/11/2024 | Início do                               | [Ana Catarina Santos](https://github.com/an4catarina) |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
