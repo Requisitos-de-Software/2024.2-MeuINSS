@@ -22,7 +22,9 @@ nav:
       - "Inspeção do grupo": planejamento_do_projeto/inspecaogrupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": planejamento_do_projeto/inspecaogrupo+1.md
   - Elicitação de Requisitos:
-    - Definição do Perfil de Usuário: elicitacao/perfil_usuario.md
+    - Definição do Perfil de Usuário:
+      - "Perfil de usuário": elicitacao/Perfil_Do_Usuario.md
+      - "Questionario": elicitacao/Questionario.md
     - Personas: elicitacao/personas.md
     - Elicitação de Requisitos: 
       - "Encenação": elicitacao/encenacao.md
