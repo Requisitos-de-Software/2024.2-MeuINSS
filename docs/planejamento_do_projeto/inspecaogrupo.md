@@ -4,7 +4,6 @@
 
 Nesta página, disponibilizamos a inspeção realizada pelo grupo para análise do conteúdo produzido. Dessa forma, consegue-se garantir maior assertividade nas entregas realizadas e confiança na construção do aprendizado. A inspeção foi realizada levando em conta a lista contruída pela equipe que pode ser encontrada em [Lista de inspeção](listainspecao.md)
 
-
 ## Acesso à lista de inspeção do grupo (Resultado)
 
 No link a seguir, pode ser encontrado o resultado da inspeção do grupo: [Lista de inspeção - Grupo 06 (Resultado)](ListadeInspecaoGrupo.pdf).
@@ -19,7 +18,8 @@ A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wzkiQqC31dY?si=5Ftdgj04h1mYUxdz" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
 </div >
 
 ## Bibliografia
@@ -28,6 +28,7 @@ A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-f
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
-| :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
-| `1.0`  | 06/11/2024 | Criação do documento                        | [Júlia Fortunato](https://github.com/julia-fortunato)  | [Maurício Ferreira](https://github.com/mauricio-araujoo)|
+| Versão | Data       | Descrição                            | Autor                                                 |                         Revisor                          |
+| :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | :------------------------------------------------------: |
+| `1.0`  | 06/11/2024 | Criação do documento                 | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `2.0`  | 22/11/2024 | Correção da organização do documento | [Ana Catarina Santos](https://github.com/an4catarina) |  [Júlia Fortunato](https://github.com/julia-fortunato)   |

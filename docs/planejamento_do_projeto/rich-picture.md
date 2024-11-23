@@ -14,18 +14,16 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/julia-fortunato">Julia Fortunato</a> , 2024</b>
+  <b>Autor: <a href="https://github.com/julia-fortunato">Julia Fortunato</a> , 2024</b>
 </p>
 </div>
 
-
 ## <p style="margin-bottom: 50px;">Bibliografia</p>
->[1] CTEC2402 - Software Development Project. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em 25 de outubro de 2024.
+
+> [1] CTEC2402 - Software Development Project. Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/pluginfile.php/2972420/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em 25 de outubro de 2024.
 
 ## <p style="margin-bottom: 50px;">Histórico de Versões</p>
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |28/10/2024| Criação do documento | [Cristiano Morais](https://github.com/CristianoMoraiss) |[Júlia Fortunato](https://github.com/julia-fortunato)|
-
-
+| Versão | Data       | Descrição            | Autor                                                   | Revisor                                               |
+| :----: | ---------- | -------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
+| `1.0`  | 28/10/2024 | Criação do documento | [Cristiano Morais](https://github.com/CristianoMoraiss) | [Júlia Fortunato](https://github.com/julia-fortunato) |

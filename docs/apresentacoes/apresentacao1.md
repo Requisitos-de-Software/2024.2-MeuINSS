@@ -12,11 +12,12 @@ Nesta página, disponibilizamos o vídeo para a primeira apresentação do proje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-lodnDmg2c0?si=KJLf77scxJ7p22N6" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
 </div >
 
 ## Histórico de Versão
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.0`|05/11/2024|Criação do documento|[Júlia Fortunato](https://github.com/julia-fortunato)|[Maurício Ferreira](https://github.com/mauricio-araujoo)|
+| Versão | Data       | Descrição            | Autor                                                 |                         Revisor                          |
+| :----: | ---------- | -------------------- | ----------------------------------------------------- | :------------------------------------------------------: |
+| `1.0`  | 05/11/2024 | Criação do documento | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |

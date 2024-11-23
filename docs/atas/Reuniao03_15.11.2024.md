@@ -6,11 +6,11 @@ Reunião realizada online via Microsoft Teams.
 
 ## Participantes
 
-* [Ana Catarina Santos](http://github.com/an4catarina)
-* [Cristiano Moraes](http://github.com/CristianoMoraiss)
-* [Júlia Fortunato](http://github.com/julia-fortunato)
-* [Maurício Ferreira](https://github.com/mauricio-araujoo)
-* [Nicolas Bomfim](http://github.com/nickgehjk)
+- [Ana Catarina Santos](http://github.com/an4catarina)
+- [Cristiano Moraes](http://github.com/CristianoMoraiss)
+- [Júlia Fortunato](http://github.com/julia-fortunato)
+- [Maurício Ferreira](https://github.com/mauricio-araujoo)
+- [Nicolas Bomfim](http://github.com/nickgehjk)
 
 ## Início e término
 
@@ -20,21 +20,21 @@ Na tabela 1, estão registrados o horário de início e o horário de término p
   <font size="3"><p style="text-align: center"><b> Tabela 1 - Horários</b></p></font>
 </div>
 
-|               | Início   | Término   |
-| ------------- | :--------------: | :---------------: |
-| Previsto      |      10:00       |      10:30        |
-| Realizado     |      10:15       |      10:49        |
+|           | Início | Término |
+| --------- | :----: | :-----: |
+| Previsto  | 10:00  |  10:30  |
+| Realizado | 10:15  |  10:49  |
 
 <div align="center">
-  <font size="3"><p style="text-align: center;"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center;"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div>
 
 ## Pauta
 
-* Alinhamento do grupo sobre as entregas a serem feitas para a etapa de alicitação de requisitos;
-* Criação de um quadro Kanban na plataforma Miro para auxiliar a visualização do andamento das atividades;
-* Decisão das técnicas a serem utilizadas, tanto para elicitação quanto para priorização;
-* Definir e distribuir tarefas para a segunda entrega da disciplina, de acordo com o planejamento.
+- Alinhamento do grupo sobre as entregas a serem feitas para a etapa de alicitação de requisitos;
+- Criação de um quadro Kanban na plataforma Miro para auxiliar a visualização do andamento das atividades;
+- Decisão das técnicas a serem utilizadas, tanto para elicitação quanto para priorização;
+- Definir e distribuir tarefas para a segunda entrega da disciplina, de acordo com o planejamento.
 
 ## Atividades
 
@@ -107,9 +107,8 @@ Na tabela 2, encontram-se as atividades definidas e os respectivos integrantes d
   </tbody>
 </table>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div>
 
 O quandro do Kanban da equipe também conta com o responsável para o revisor daquela atividade, bem como um status que indique que a tarefa está pronta para ser revisada, antes de ser marcada como feita.
@@ -127,12 +126,13 @@ No vídeo 1, encontra-se a gravação da reunião.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7n-AjG8rEL8?si=pmHR2CJ5FpMLhWFs" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
-</div >
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
+</div >
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  | 19/11/2024 | Criação da ata de reunião 3 | [Júlia Fortunato](https://github.com/julia-fortunato) | [](https://github.com/) |
+| Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
+| :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
+| `1.0`  | 19/11/2024 | Criação da ata de reunião 3          | [Júlia Fortunato](https://github.com/julia-fortunato) | [](https://github.com/)                               |
+| `2.0`  | 22/11/2024 | Correção da organização do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |

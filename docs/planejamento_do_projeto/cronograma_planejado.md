@@ -74,7 +74,7 @@ Na tabela 1 encontram-se as datas de entrega e apresentação de todas as etapas
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -292,7 +292,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Planej
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -447,7 +447,7 @@ Na tabela 3 encontram-se as datas do cronograma planejado para a etapa de Elicit
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -571,7 +571,7 @@ Na tabela 4 encontram-se as datas do cronograma planejado para a etapa de Modela
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -683,7 +683,7 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modela
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -748,7 +748,7 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Análi
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -813,7 +813,7 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a etapa de Pós-R
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 <!-- 
@@ -888,7 +888,7 @@ Na tabela 8 encontram-se as datas do cronograma planejado para a etapa de Análi
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div> -->
 
@@ -953,7 +953,7 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 
 </div>
 
@@ -965,8 +965,8 @@ Na tabela 9 encontram-se as datas do cronograma planejado para a Entrega Final.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                        | Autor                                                                                                    |                      Revisor                       |
-| :----: | ---------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
-| `1.0`  | 02/11/2024 | Criação do cronograma                          | [Julia Fortunato](https://github.com/julia-fortunato) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |   [Cristiano Morais](https://github.com/CristianoMoraiss)   |
-        |
-
+| Versão | Data       | Descrição                            | Autor                                                                                                               |                         Revisor                         |
+| :----: | ---------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------: |
+| `1.0`  | 02/11/2024 | Criação do cronograma                | [Julia Fortunato](https://github.com/julia-fortunato) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) | [Cristiano Morais](https://github.com/CristianoMoraiss) |
+|        |
+| `2.0`  | 22/11/2024 | Correção da organização do documento | [Ana Catarina Santos](https://github.com/an4catarina)                                                               |  [Júlia Fortunato](https://github.com/julia-fortunato)  |

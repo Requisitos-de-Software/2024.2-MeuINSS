@@ -209,7 +209,8 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
 </div>
 
 ## Bibliografia
@@ -220,6 +221,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                        | Autor                                                                                                 |                    Revisor                     |
-| :----: | ---------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------: |
-| `1.0`  | 06/11/2023 | Criação do cronograma. Adição da etapa de planejamento do projeto                        | [Júlia Fortunato](https://github.com/julia-fortunato)  | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo)|
+| Versão | Data       | Descrição                                                         | Autor                                                 |                                                        Revisor                                                        |
+| :----: | ---------- | ----------------------------------------------------------------- | ----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
+| `1.0`  | 06/11/2023 | Criação do cronograma. Adição da etapa de planejamento do projeto | [Júlia Fortunato](https://github.com/julia-fortunato) | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `2.0`  | 22/11/2024 | Correção da organização do documento                              | [Ana Catarina Santos](https://github.com/an4catarina) |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |

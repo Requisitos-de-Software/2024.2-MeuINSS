@@ -14,11 +14,13 @@
 </div>
 
 ## Sobre o projeto
+
 Este repositório é dedicado à documentação de todos os artefatos criados pelo Grupo 06 no segundo semestre de 2024, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
 
 O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Meu INSS, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à Previdência Social.
 
 ## Equipe
+
 Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
 
 <div align="center">
@@ -34,11 +36,12 @@ Os nomes dos integrantes da equipe podem ser encontrados na tabela 1.
   </tr>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
 </div>
 
 ## Historico de versões
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.0`|04/11/2024|Criação do READ.ME|[Júlia Fortunato](https://github.com/julia-fortunato)|[Cristiano Morais](https://github.com/CristianoMoraiss)|
+| Versão | Data       | Descrição          | Autor                                                 |                         Revisor                         |
+| :----: | ---------- | ------------------ | ----------------------------------------------------- | :-----------------------------------------------------: |
+| `1.0`  | 04/11/2024 | Criação do READ.ME | [Júlia Fortunato](https://github.com/julia-fortunato) | [Cristiano Morais](https://github.com/CristianoMoraiss) |

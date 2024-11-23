@@ -6,10 +6,10 @@ Reunião realizada online via Microsoft Teams.
 
 ## Participantes
 
-* [Cristiano Moraes](http://github.com/CristianoMoraiss)
-* [Júlia Fortunato](http://github.com/julia-fortunato)
-* [Maurício Ferreira](https://github.com/mauricio-araujoo)
-* [Nicolas Bomfim](http://github.com/nickgehjk)
+- [Cristiano Moraes](http://github.com/CristianoMoraiss)
+- [Júlia Fortunato](http://github.com/julia-fortunato)
+- [Maurício Ferreira](https://github.com/mauricio-araujoo)
+- [Nicolas Bomfim](http://github.com/nickgehjk)
 
 ## Início e término
 
@@ -19,19 +19,18 @@ Na tabela 1, estão registrados o horário de início e o horário de término p
   <font size="3"><p style="text-align: center"><b>Tabela 1 - Horários</b></p></font>
 </div>
 
-|               | Início   | Término   |
-| ------------- | :--------------: | :---------------: |
-| Previsto      |      23:00       |      23:20        |
-| Realizado     |      23:05       |      20:16        |
+|           | Início | Término |
+| --------- | :----: | :-----: |
+| Previsto  | 23:00  |  23:20  |
+| Realizado | 23:05  |  20:16  |
 
 <div align="center">
-  <font size="3"><p style="text-align: center;"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+  <font size="3"><p style="text-align: center;"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div>
-
 
 ## Pauta
 
-* Escolha do aplicativo a ser utilizado na disciplina.
+- Escolha do aplicativo a ser utilizado na disciplina.
 
 ## Atividades
 
@@ -72,9 +71,8 @@ Na tabela 2 encontram-se as atividades definidas e os respectivos integrantes do
   </tbody>
 </table>
 
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div>
 
 ## Conclusão
@@ -90,12 +88,13 @@ No vídeo 1 encontra-se a gravação da reunião.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F9ICLmGoomk?si=X432B3VTusweqo-M" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
-</div >
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
+</div >
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |28/10/2024| Criação da ata de reunião | [Júlia Fortunato](https://github.com/julia-fortunato) | [Nicolas Bomfim](https://github.com/nickgehjk) |
+| Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
+| :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
+| `1.0`  | 28/10/2024 | Criação da ata de reunião            | [Júlia Fortunato](https://github.com/julia-fortunato) | [Nicolas Bomfim](https://github.com/nickgehjk)        |
+| `2.0`  | 22/11/2024 | Correção da organização do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |

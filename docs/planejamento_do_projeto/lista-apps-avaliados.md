@@ -41,7 +41,7 @@ foi avaliado por cada membro da equipe.
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
 </div>
 
@@ -70,7 +70,7 @@ A partir dos pontos analisados, foi criado um rich picture com os pontos de dest
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/an4catarina">Ana Catarina Santos</a> , 2024</b>
+  <b>Autor: <a href="https://github.com/an4catarina">Ana Catarina Santos</a> , 2024</b>
 </p>
 </div>
 
@@ -93,7 +93,7 @@ Na figura 2, encontra-se o Rich Picture do aplicativo Kodi.
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> , 2024</b>
+  <b>Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> , 2024</b>
 </p>
 </div>
 
@@ -116,7 +116,7 @@ Na figura 3, encontra-se o Rich Picture do aplicativo Meu INSS.
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/julia-fortunato">Julia Fortunato</a> , 2024</b>
+  <b>Autor: <a href="https://github.com/julia-fortunato">Julia Fortunato</a> , 2024</b>
 </p>
 </div>
 
@@ -124,9 +124,9 @@ Na figura 3, encontra-se o Rich Picture do aplicativo Meu INSS.
 
 O Anatel Consumidor é um aplicativo cuja função é mediar a comunicação entre o cliente e as operadoras telefônicas. Suas funcionalidades consistem em permitir que o cliente escreva uma mensagem em um dos quatro tópicos e a envie para a operadora. Os tópicos são reclamações, comentários, sugestões e denúncias. Além disso, o usuário pode consultar as pesquisas de desempenho de todas as operadoras telefônicas do Brasil.
 
-* Base de usuários: O aplicativo não é nichado a um público específico, então qualquer um que seja cliente de uma operadora telefônica brasileira pode utilizá-lo.
+- Base de usuários: O aplicativo não é nichado a um público específico, então qualquer um que seja cliente de uma operadora telefônica brasileira pode utilizá-lo.
 
-* O Anatel Consumidor foi desenvolvido e é mantido pelo governo brasileiro, o que o torna app governamental.
+- O Anatel Consumidor foi desenvolvido e é mantido pelo governo brasileiro, o que o torna app governamental.
 
 Na figura 4, encontra-se o Rich Picture do aplicativo Anatel Consumidor Mobile.
 
@@ -139,11 +139,9 @@ Na figura 4, encontra-se o Rich Picture do aplicativo Anatel Consumidor Mobile.
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a> , 2024</b>
+  <b>Autor: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a> , 2024</b>
 </p>
 </div>
-
-
 
 ### DNE Digital
 
@@ -164,7 +162,7 @@ Na figura 5, encontra-se o Rich Picture do aplicativo DNE Digital.
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> , 2024</b>
+  <b>Autor: <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> , 2024</b>
 </p>
 </div>
 
@@ -182,12 +180,11 @@ Na figura 5, encontra-se o Rich Picture do aplicativo DNE Digital.
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                                                | Autor                                                 | Revisor |
-| :----: | ---------- | -------------------------------------------------------- | ----------------------------------------------------- | :-----: |
-| `1.0`  | 28/10/2024 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato) | [Cristiano Morais](https://github.com/CristianoMoraiss)    |
-| `1.1`  | 02/11/2024 | Adição do app Meu SUS Digital | [Ana Catarina](https://github.com/an4catarina) | [Cristiano Morais](https://github.com/CristianoMoraiss)    |
-| `1.2`  | 02/11/2024 | Adição do app Kodi | [Cristiano Morais](https://github.com/CristianoMoraiss) |[Nicolas Bomfim](https://github.com/nickgehjk)    |
-| `1.3`  | 02/11/2024 | Adição do app Anatel Consumidor Mobile | [Maurício Ferreira](https://github.com/mauricio-araujoo) |[Cristiano Morais](https://github.com/CristianoMoraiss)    |
-| `1.4`  | 04/11/2024 | Adição do app DNE Digital | [Nicolas Bomfim](https://github.com/nickgehjk) |[Cristiano Morais](https://github.com/CristianoMoraiss)    |
-
-
+| Versão | Data       | Descrição                                                | Autor                                                    |                         Revisor                         |
+| :----: | ---------- | -------------------------------------------------------- | -------------------------------------------------------- | :-----------------------------------------------------: |
+| `1.0`  | 28/10/2024 | Criação do documento, introdução, adição do app Meu INSS | [Júlia Fortunato](https://github.com/julia-fortunato)    | [Cristiano Morais](https://github.com/CristianoMoraiss) |
+| `1.1`  | 02/11/2024 | Adição do app Meu SUS Digital                            | [Ana Catarina](https://github.com/an4catarina)           | [Cristiano Morais](https://github.com/CristianoMoraiss) |
+| `1.2`  | 02/11/2024 | Adição do app Kodi                                       | [Cristiano Morais](https://github.com/CristianoMoraiss)  |     [Nicolas Bomfim](https://github.com/nickgehjk)      |
+| `1.3`  | 02/11/2024 | Adição do app Anatel Consumidor Mobile                   | [Maurício Ferreira](https://github.com/mauricio-araujoo) | [Cristiano Morais](https://github.com/CristianoMoraiss) |
+| `1.4`  | 04/11/2024 | Adição do app DNE Digital                                | [Nicolas Bomfim](https://github.com/nickgehjk)           | [Cristiano Morais](https://github.com/CristianoMoraiss) |
+| `2.0`  | 22/11/2024 | Correção da organização do documento                     | [Ana Catarina Santos](https://github.com/an4catarina)    |  [Júlia Fortunato](https://github.com/julia-fortunato)  |

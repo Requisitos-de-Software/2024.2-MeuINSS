@@ -69,7 +69,7 @@ Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do pr
     </tbody>
   </table>
 
-  <p style="text-align: center; font-size: 0.9em;"><b>Fonte:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p>
+  <p style="text-align: center; font-size: 0.9em;"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p>
 </div>
 
 ## Referências Bibliográficas

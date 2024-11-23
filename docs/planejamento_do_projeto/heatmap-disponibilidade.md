@@ -28,7 +28,7 @@ Este documento visa facilitar o agendamento de reuniões, mapeando os dias e hor
 | 21:00 | 3       | 4       | 4     | 4      | 4      | 5     | 5      |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
 </div>
 
 <div align="center">
@@ -36,7 +36,8 @@ Este documento visa facilitar o agendamento de reuniões, mapeando os dias e hor
 
 <img src="../../imagens/heatmap.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+
 </div>
 
 ## Resultados
@@ -45,11 +46,11 @@ As reuniões ficaram marcadas para domingo de manhã, sexta ou sábado a noite o
 
 ## Bibliografia
 
-> TUFTE, Edward R. The Visual Display of Quantitative Information. 2. ed. Cheshire, CT: Graphics Press, 2001. 
->
+> TUFTE, Edward R. The Visual Display of Quantitative Information. 2. ed. Cheshire, CT: Graphics Press, 2001.
 
 ## Histórico de versões
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | ---- | --------- | ----- | ------- |
-| `1.0`  | 04/11/2024 | Criação do documento | [Nicolas Bomfim](https://github.com/nickgehjk) | [Ana Catarina](https://github.com/an4catarina) |
+| Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
+| :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
+| `1.0`  | 04/11/2024 | Criação do documento                 | [Nicolas Bomfim](https://github.com/nickgehjk)        | [Ana Catarina](https://github.com/an4catarina)        |
+| `2.0`  | 22/11/2024 | Correção da organização do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |
