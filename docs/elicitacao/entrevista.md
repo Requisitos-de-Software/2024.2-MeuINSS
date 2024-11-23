@@ -123,7 +123,7 @@ Legenda das Tabelas 2 e 3:
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. 8.2 Personas, p. 167-171. Autopublicação. ISBN: 978-65-00-19677-1.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. 7.5.1 Entrevistas, p 144-148. Autopublicação. ISBN: 978-65-00-19677-1.
 
 >  SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. s.d. Slide 22 de 50. Disponível em:https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 20 nov. 2024.
 
