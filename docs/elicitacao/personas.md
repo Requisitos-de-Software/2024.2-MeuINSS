@@ -1,6 +1,4 @@
-# Personas
-
-# Introdução
+## Introdução
 
 Personas são personagens fictícios, arquétipo hipotéticos de um grupo de usuários reais, que é criada para descrever um usuário típico da aplicação. É
 utilizada para representar um grupo de usuários finai, tendo em vista que são definidas principalmente por seus objetivos,

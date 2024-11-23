@@ -1,6 +1,4 @@
-# Encenação
-
-# Introdução
+## Introdução
 
 Encenação, também conhecida como roleplaying, é uma técnica que consiste na utilização das personas para a realização de entrevistas, situações e interações. No entanto, para utilizá-la é necessário que um membro da equipe encene o papel daquela persona, realmente agindo como ela e fazendo o papel da mesma, considerando suas características e necessidades. Dessa forma, pode ser utilizada no levantamento de requisitos para a criação/simulação de cenários mais realistas e identificação das necessidades de um determinado usuário daquela aplicação. [1]
 
@@ -11,7 +9,7 @@ Então conduziu-se uma entrevista, pelo membro [Cristiano Morais](https://github
 
 O roteiro da entrevista pode ser encontrado em [Elicitação de requisitos - Entrevista](https://github.com/julia-fortunato).
 
-### Participantes
+## Participantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -27,7 +25,7 @@ O roteiro da entrevista pode ser encontrado em [Elicitação de requisitos - Ent
 
 <font size="3"><p style="text-align: center">Autor: [Júlia Fortunato](https://github.com/julia-fortunato), 2024</p></font>
 
-### Link da Gravação
+## Link da Gravação
 
 No vídeo 1, encontra-se a gravação da encenação.
 
