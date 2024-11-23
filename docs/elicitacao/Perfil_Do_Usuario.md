@@ -1,10 +1,10 @@
-# <p style="margin-bottom: 50px;">Definição do perfil de usuário</p>
+# Definição do perfil de usuário
 
-# <p style="margin-bottom: 50px;">Introdução</p>
+## <p style="margin-bottom: 50px;">Introdução</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Com a finalidade de se conhecer melhor e ter mais clareza sobre quais são os usuários do aplicativo "Meu INSS" é interessante realizar a criação de um perfil generalista para os usuários. Esse perfil é nomeado como perfil de usuário. Além de ser um excelente auxiliar para o entendimento de para quem o projeto é feito também se torna interessante a medida que pode ser usado como base para buscar participantes para atividades futuras de análise e avaliação. O perfil de usuário se trata de uma caracterização detalhada dos usuários cujo os objetivos precisam ter apoio no sistema.[1]</p>
 
-# <p style="margin-bottom: 50px;">Metodologia</p>
+## <p style="margin-bottom: 50px;">Metodologia</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">As técnicas utilizadas pelo grupo para a definição do perfil do usuário foi a aplicação de questionário como também análise documental. O questionário é uma técnica que lida com um grande número de pessoas.
 Dela, podem participar todos os stakeholders do sistema e também interessados,

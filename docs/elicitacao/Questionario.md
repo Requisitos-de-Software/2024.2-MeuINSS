@@ -1,10 +1,10 @@
-# <p style="margin-bottom: 50px;">Questionário</p>
+# Questionário
 
-# <p style="margin-bottom: 50px;">Introdução</p>
+## <p style="margin-bottom: 50px;">Introdução</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">O questionário é uma técnica comum de coleta de dados que envolve a apresentação de um conjunto de perguntas a indivíduos ou participantes, geralmente na forma de formulários impressos ou online. A finalidade dos questionários é obter informações necessárias para pesquisas, análises ou avaliações, que nesse caso será utilizado para coletar informações sobre o perfil dos usuários do aplicativo do Meu INSS.[1]</p>
 
-# <p style="margin-bottom: 50px;">Metodologia</p>
+## <p style="margin-bottom: 50px;">Metodologia</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">A equipe realizou nos dias 15/11/2024 a 22/11/2024 um questionário, na plataforma Google Forms, com o intuitor de conhecer o perfil de usuário do app Meu INSS. O questionário contava com 13 perguntas (Figuras 1 a 14), sendo uma delas o termo de consentimento, e as demais que exploravam conhecer as características sócio demográficas dos usuários do aplicativo e interações com o sistema. O processo contou com 25 participantes, sendo 25 (100%) usuários do aplicativo e todos concordaram com o termo de consentimento.</p>
 
@@ -24,6 +24,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 01 - Qual sua faixa etária?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Como pode ser observado na figura 2, temos que a faixa etária dos participantes do questionário é bastante variada e distribuída, tem-se que: 12% estão na faixa de 18 até 24 ; 28% estão na faixa de 25 até 34 ; 4% estão na faixa de 35 até 44 ; 20% estão na faixa de 45 até 54 ; 20% estão na faixa de 55 até 64 ; 16% estão com mais de 65 anos.</p>
 
 <div align="center">
@@ -41,6 +43,8 @@
   </b>
 </p>
 </div>
+
+## <p style="margin-bottom: 50px;">Questão 02 - Qual é o seu gênero?</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Observando a figura 3, é possível constatar que o gênero dos participantes é bem dividido, sendo que 48% dos participantes informaram ser do sexo masculino enquanto que 52% eram do feminino.</p>
 
@@ -60,6 +64,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 03 - Qual é o seu grau de escolaridade?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Na figura 4, é possível notar os dados relacionados ao grau de escolaridade dos participantes, tal que é: Ensino Fundamental Incompleto (0%); Ensino Fundamental Completo (12%); Ensino Médio Incompleto (8%); Ensino Médio Completo (36%); Ensino Superior Incompleto (12%); Ensino Superior Completo (32%). </p>
 
 <div align="center">
@@ -77,6 +83,8 @@
   </b>
 </p>
 </div>
+
+## <p style="margin-bottom: 50px;">Questão 04 - Qual o seu nível de intimidade com tecnologia?</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Na figura 5, são mostrados os dados da distribuição dos participantes em relação a seu grau de intimidade com tecnologia sendo que 1 é pouca intimidade e 5 é muita intimidade. Os dados se distribuiram em: 1 (8%); 2 (24%); 3 (20%); 4 (28%); 5 (20%).</p>
 
@@ -96,6 +104,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 05 - Qual a sua faixa de renda mensal?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Observando a figura 6, é possível verificar os dados em relação a renda dos participantes do questionário, os dados ficaram distribuidos em: Sem renda (16%); Até 1 salário mínimo (12%); Até 3 salários mínimos (40%); Até 5 salários mínimos (16%); Mais de 5 salários mínimos (8%); Prefiro não informar (8%).</p>
 
 <div align="center">
@@ -113,6 +123,8 @@
   </b>
 </p>
 </div>
+
+## <p style="margin-bottom: 50px;">Questão 06 - Qual a frequência que você utiliza o "Meu INSS"?</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Analisando a figura 7, podemos observar o grau de utilização do "Meu INSS" que os participantes declararam, obteve-se o seguinte resultado: Raramente (52%); Às vezes (36%); Quase sempre (12%); Sempre (0%).</p>
 
@@ -132,6 +144,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 07 - Qual a sua avaliação sobre o "Meu INSS"?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">A partir da figura 8, podemos ver os dados de avaliação que os participantes forneceram para o "Meu INSS" sendo 0 muito ruim e 5 muito bom, tiveram-se os seguintes resultados: 1 (16%); 2 (16%); 3 (24%); 4 (32%); 5 (12%).</p>
 
 <div align="center">
@@ -149,6 +163,8 @@
   </b>
 </p>
 </div>
+
+## <p style="margin-bottom: 50px;">Questão 08 - Você tem muita dificuldade de encontrar o que precisa no aplicativo?</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Na figura 9, pode-se observar como os participantes avaliaram o aplicativo em termos de dificuldade de acharem o que precisam, 0 significa muita dificuldade e 5 significa pouca dificuldade, obteve-se os seguintes resultados: 1 (26%); 2 (20%); 3 (20%); 4 (24%); 5 (13%).</p>
 
@@ -168,6 +184,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 09 - Como você avalia a facilidade de uso do aplicativo?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Observando a figura 10, vemos as respostas relativas a facilidade de uso do aplicativo "Meu INSS" sendo 5 muito fácil de usar e 0 muito difícil, os dados foram os seguintes: 1 (16%); 2 (24%); 3 (28%); 4 (24%); 5 (8%). </p>
 
 <div align="center">
@@ -185,6 +203,8 @@
   </b>
 </p>
 </div>
+
+## <p style="margin-bottom: 50px;">Questão 10 - Quanto a interface do meu INSS é agradável para você?</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Na figura 11, temos os dados relativos ao quão agradável os participantes acham a interface do aplicativo, sendo que 0 é pouco agradável e 5 é muito agradável: 1 (24%); 2 (12%); 3 (24%); 4 (32%); 5 (8%)</p>
 
@@ -204,6 +224,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 11 - Como você avalia o tempo para realizar ações dentro do "Meu INSS"?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Observando a figura 12, é possível analisar os dados relativos ao tempo para realizar ações no aplicativo sendo 1 muito devagar e 5 muito rápido, tem-se:  1 (16%); 2 (24%); 3 (16%); 4 (32%); 5 (12%).</p>
 
 <div align="center">
@@ -221,6 +243,8 @@
   </b>
 </p>
 </div>
+
+## <p style="margin-bottom: 50px;">Questão 12 - Qual funcionalidade você mais utiliza?</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Em relação a figura 13, tem-se os dados relativos a qual funcionalidade os participantes mais utilizam no aplicativo. Cabe ressaltar que as fatias do gráfico com valores ocultos na imagem são todos 4%.</p>
 
@@ -240,6 +264,8 @@
 </p>
 </div>
 
+## <p style="margin-bottom: 50px;">Questão 13 - Quais funcionalidades você acha que é mais importante/relevante para um aplicativo de serviço previdenciário ter?</p>
+
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Por fim, a figura 14 mostra os dados relativos a quais funcionalidades os participantes acham mais importantes para um aplicativo do INSS.</p>
 
 <div align="center">
@@ -258,7 +284,7 @@
 </p>
 </div>
 
-# <p style="margin-bottom: 50px;">Resultados do questionário</p>
+## <p style="margin-bottom: 50px;">Resultados do questionário</p>
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Nesta seção, apresentamos as constatações feitas por meio dos resultados do questionário.
 
