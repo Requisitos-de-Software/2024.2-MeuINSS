@@ -24,7 +24,10 @@ nav:
   - Elicitação de Requisitos:
     - Definição do Perfil de Usuário: elicitacao/perfil_usuario.md
     - Personas: elicitacao/personas.md
-    - Elicitação de Requisitos: elicitacao/elicitacao_requisitos.md
+    - Elicitação de Requisitos: 
+      - "Encenação": elicitacao/encenacao.md
+      - "Entrevista": elicitacao/entrevista.md
+      - "Introspecção": elicitacao/introspeccao.md
     - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
     - Priorização de Requisitos: elicitacao/priorizacao_requisitos.md
     
