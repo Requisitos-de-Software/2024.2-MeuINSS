@@ -1,6 +1,4 @@
-# Entrevista
-
-# Introdução
+## Introdução
 
 A entrevista é uma das técnicas de elicitação mais utilizadas. Nesse quesito,
 participam os stakeholders e a equipe responsável pela produção do produto de
@@ -18,7 +16,7 @@ desenvolvimento do sistema.
 A técnica para a elicitação de requisitos foi utilizada de forma que um membro da equipe, no caso [Maurício Ferreira](https://github.com/mauricio-araujoo) entrevistou uma usuária do app do Meu INSS. É importante frizar que o usuário a ser entrevistado não deveria ser alguém próximo ao entrevistador, como um parente.
 A entrevista ocorreu de forma presencial, no dia 21/11/2024 por volta das 20:10. Na tabela 1, encontram-se as informações sobre os participantes.
 
-### Roteiro da entrevista 
+## Roteiro da entrevista 
 
 **Modelo: semi-estruturado**
 
@@ -45,7 +43,7 @@ PERGUNTAS DINÂMICAS
 
 O autor do roteiro da entrevista foi o membro [Maurício Ferreira](https://github.com/mauricio-araujoo).
 
-### Participantes
+## Participantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -60,7 +58,7 @@ O autor do roteiro da entrevista foi o membro [Maurício Ferreira](https://githu
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Fortunato](https://github.com/julia-fortunato), 2024</p></font>
 
-### Link da Gravação
+## Link da Gravação
 
 No vídeo 1, encontra-se a gravação da entrevista.
 
