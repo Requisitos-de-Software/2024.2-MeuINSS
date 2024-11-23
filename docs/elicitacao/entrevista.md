@@ -14,7 +14,7 @@ desenvolvimento do sistema.
 ## Metodologia
 
 A técnica para a elicitação de requisitos foi utilizada de forma que um membro da equipe, no caso [Maurício Ferreira](https://github.com/mauricio-araujoo) entrevistou uma usuária do app do Meu INSS. É importante frizar que o usuário a ser entrevistado não deveria ser alguém próximo ao entrevistador, como um parente.
-A entrevista ocorreu de forma presencial, no dia 21/11/2024 por volta das 20:10. Na tabela 1, encontram-se as informações sobre os participantes.
+A entrevista primeira ocorreu de forma presencial, no dia 21/11/2024 por volta das 20:10. A segunda também ocorreu presencialmente, no dia 23/11/2024 por volta das 16:30. Na tabela 1, encontram-se as informações sobre os participantes. 
 
 ## Roteiro da entrevista 
 
@@ -56,23 +56,33 @@ O autor do roteiro da entrevista foi o membro [Maurício Ferreira](https://githu
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Júlia Fortunato](https://github.com/julia-fortunato), 2024</p></font>
+<font size="3"><p style="text-align: center">Autor: [Júlia Fortunato](https://github.com/julia-fortunato), 2024</p></font>
 
 ## Link da Gravação
 
-No vídeo 1, encontra-se a gravação da entrevista.
+No vídeo 1, encontra-se a gravação da entrevista 1.
 
 <div align="center">
-<p style="text-align: center"><a href="https://youtu.be/HTQTsxcaGAQ?si=cQFV-A5DwJRkLltP" target="blanket"><b>Vídeo 1:</b> Grupo 06 - Entrevista</a></p>
+<p style="text-align: center"><a href="https://youtu.be/HTQTsxcaGAQ?si=cQFV-A5DwJRkLltP" target="blanket"><b>Vídeo 1:</b> Grupo 06 - Entrevista 1</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTQTsxcaGAQ?si=cQFV-A5DwJRkLltP" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div >
 
+No vídeo 2, encontra-se a gravação da entrevista 2.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/t2IvAXEtFlQ?si=nAJLZX_nRyrAFRB1" target="blanket"><b>Vídeo 2:</b> Grupo 06 - Entrevista 2</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2IvAXEtFlQ?si=nAJLZX_nRyrAFRB1" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+</div >
+
 ## Requisitos elicitados
 
-Nesta seção, apresentamos os requisitos que foram elicitados ao utilizar a técnica de elicitação de encenação.
+Nesta seção, apresentamos os requisitos que foram elicitados ao utilizar a técnica de elicitação de entrevista.
 
 Legenda das Tabelas 2 e 3:
 
@@ -89,16 +99,18 @@ Legenda das Tabelas 2 e 3:
 | Tipo | Descrição                                                                                                             | <a id="anchor_OBS" style="visibility: hidden;"></a> ID | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | RF05 | O aplicativo permite simular aposentadoria.                                                                            | ENT01                                                  | Sim          |
-| RF06 | O aplicativo permite solicitar auxílio doença                                                                             | ENT02                                                  | Sim          |
+| RF06 | O aplicativo permite solicitar auxílio doença.                                                                             | ENT02                                                  | Sim          |
 | RF07 | O aplicativo permite verificar extratos e comprovantes de pagamentos.                                                | ENT03                                                  | Sim          |
 | RF08 | O aplicativo permite verificar previsão de pagamento.                                 | ENT04                                                  | Sim          |
 | RF09 | O aplicativo deve possuir filtro de pesquisa assertivo.                                 | ENT05                                                  | Não          |
 | RF10 | O aplicativo deve possuir suporte adequado.                                 | ENT06                                                 | Não          |
-| RF11 | O aplicativo deve ser claro com relação a especificação para auxílios doenças e as modalidades de análise (online ou presencial)                                 | ENT07                                                 | Não          |
+| RF11 | O aplicativo deve ser claro com relação a especificação para auxílios doenças e as modalidades de análise (online ou presencial).                                 | ENT07                                                 | Não          |
+| RF12 | O aplicativo deve avisar sobre mudanças e notícias sobre legislação previdenciária.                                | ENT08                                                 | Não          |
+| RF13 | O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício.                                | ENT09                                                 | Não          |
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
 ### Não funcionais
 
@@ -108,15 +120,17 @@ Legenda das Tabelas 2 e 3:
 
 | Tipo  | Descrição                                                                                                                                                                       | <a id="anchor_OBSNF" style="visibility: hidden;"></a>ID | Implementado |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------ |
-| RNF01 | O aplicativo deve possuir, além de termos técnicos, nomenclaturas populares para as funcionalidades do INSS.                                                                  | OBS15                                                   | Não          |
-| RNF03 | O aplicativo deve facilitar a realização de tarefas e funcionalidades.                                                                 | ENC06                                                   | Não          | 
-| RNF04 | O aplicativo deve facilitar a busca de tarefas e funcionalidades.                                                               | ENC06    | Não          | 
-| RNF04 | O aplicativo deve possuir interface intuitiva.                                                               | ENC06 | Não          | 
-| RNF04 | O aplicativo deve possuir tutoriais de uso (vídeos explicativos).                                                             | ENC06                                                 | Não          |
+| RNF05 | O aplicativo deve possuir, além de termos técnicos, nomenclaturas populares para as funcionalidades do INSS.                                                                  | ENT10                                                   | Não          |
+| RNF06 | O aplicativo deve facilitar a realização de tarefas e funcionalidades.                                                                 | ENT11                                                   | Não          | 
+| RNF07 | O aplicativo deve facilitar a busca de tarefas e funcionalidades.                                                               | ENT12    | Não          | 
+| RNF08 | O aplicativo deve possuir interface intuitiva.                                                               | ENT13 | Não          | 
+| RNF09 | O aplicativo deve possuir tutoriais de uso (vídeos explicativos).                                                             | ENT14                                                 | Não          |
+| RNF10 | O aplicativo deve ser acessível a todos os usuários.                                                            | ENT15                                                 | Não          |
+
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
 
 ## Bibliografia
@@ -130,3 +144,4 @@ Legenda das Tabelas 2 e 3:
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|22/11/2024|Criação do documento|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.1`|23/11/2024|Adição da segunda entrevista|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|

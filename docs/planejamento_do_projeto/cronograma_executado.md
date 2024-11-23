@@ -238,22 +238,30 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
       <td>Definição do perfil dos usuários</td>
       <td>Início: XX/11/2024 <br> Fim: xx/11/2024</td>
       <td>
-      <!--  <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> -->
+       <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
       <td>Início: xx/11/2024 <br> Fim: xx/11/2024</td>
       <td>
-       <!--  <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>-->
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> 
       </td>
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de elicitação usadas e que serão usadas</td>
       <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
       <td>
-       <!-- <a href="https://github.com/an4catarina">Ana Catarina</a> -->
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
       <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
       <td>
-        <!-- <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> -->
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
     <tr>
