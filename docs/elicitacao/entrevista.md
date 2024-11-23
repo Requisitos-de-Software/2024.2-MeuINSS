@@ -16,7 +16,6 @@ desenvolvimento do sistema.
 ## Metodologia
 
 A técnica para a elicitação de requisitos foi utilizada de forma que um membro da equipe, no caso [Maurício Ferreira](https://github.com/mauricio-araujoo) entrevistou uma usuária do app do Meu INSS. É importante frizar que o usuário a ser entrevistado não deveria ser alguém próximo ao entrevistador, como um parente.
-O roteiro da entrevista foi feito pensando em uma semi-estruturação, em que se pudesse interagir com o usuário de forma livre e também seguir o roteiro proposto.
 A entrevista ocorreu de forma presencial, no dia 21/11/2024 por volta das 20:10. Na tabela 1, encontram-se as informações sobre os participantes.
 
 ### Roteiro da entrevista 
