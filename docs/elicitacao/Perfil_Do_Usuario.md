@@ -15,6 +15,49 @@ maneira assertiva, evitando dúvidas, questionários longos e cansativos e que t
 insights sobre a necessidade do usuário, para uma boa criação de um produto de
 software.[2]</p>
 
+## <p style="margin-bottom: 50px;">Definindo o perfil de usuário</p>
+
+<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Após uma verificação e análise dos dados obtidos através do  <b><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Questionario/">Questionário </a>
+  </b> juntamente com uma breve análise documental foi possível estabelecer qual o perfil de usuário do aplicativo "Meu INSS", pode-se observar na tabela 1: </p>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela relacionada ao perfil de usuário para o "Meu INSS"</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Especificação</th>
+      <th>Perfil</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Idade</td>
+      <td>Acima de 25 anos</td>
+    </tr>
+    <tr>
+      <td>Gênero</td>
+      <td>Homens e Mulheres</td>
+    </tr>
+    <tr>
+      <td>Experiência</td>
+      <td>Novato</td>
+    </tr>
+    <tr>
+      <td>Atitudes</td>
+      <td>Tecnófilos</td>
+    </tr>
+    <tr>
+      <td>Tarefa primária</td>
+      <td>Novo pedido/Consultar pedido</td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div>
+
+
 ## Referência bibliográfica
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. 8.1 Perfil do usuário, p. 165-167. Autopublicação. ISBN: 978-65-00-19677-1.
 
@@ -22,9 +65,7 @@ software.[2]</p>
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. 8.1 Perfil do usuário, p. 165-167. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> SERRANO, Milene; SERRANO, Maurício. Elicitação, Modelagem e Análise - Aula 7. s.d. Slide 23 de 50. Disponível em: <a>https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf</a>. Acesso em: 23 nov. 2024. 
+> ZARANZA, Gabriel; ROSA, Gabriel. Perfil de usuário - Economia DF. 2023. Disponível em: [https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/perfil_usuario/]. Acesso em: 23 nov. 2024.
 
 
 ## Histórico de versões
