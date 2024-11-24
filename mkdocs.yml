@@ -27,6 +27,7 @@ nav:
       - "Questionário": elicitacao/Questionario.md
     - Personas: elicitacao/personas.md
     - Elicitação de Requisitos: 
+      - "Cronograma de elicitação": elicitacao/cronogramaelicitacao.md
       - "Encenação": elicitacao/encenacao.md
       - "Entrevista": elicitacao/entrevista.md
       - "Introspecção": elicitacao/introspeccao.md
@@ -34,6 +35,7 @@ nav:
       - "Glossário": elicitacao/glossario.md
     - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
     - Priorização de Requisitos: 
+      - "Cronograma de priorização": elicitacao/cronogramapriorizacao.md
       - "First Things First": elicitacao/first_things_first.md
       - "Three Level Scale": elicitacao/three_level_scale.md
       - "$100": elicitacao/100dol.md
