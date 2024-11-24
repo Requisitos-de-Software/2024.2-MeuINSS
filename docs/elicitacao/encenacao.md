@@ -73,10 +73,10 @@ Legenda das Tabelas 2 e 3:
 
 | Tipo  | Descrição                                                | <a id="anchor_OBSNF" style="visibility: hidden;"></a>ID | Implementado |
 | ----- | -------------------------------------------------------- | ------------------------------------------------------- | ------------ |
-| RNF01 | O sistema deve ser intuitivo no uso.                     | OBS15                                                   | Não          |
-| RNF02 | O aplicativo deve possuir tutoriais explicativos de uso. | ENC05                                                   | Não          |
-| RNF03 | O aplicativo deve possuir uma central de ajuda clara.    | ENC06                                                   | Não          |
-| RNF04 | O aplicativo deve facilitar a execução de tarefas.       | ENC06                                                   | Não          |
+| RNF01 | O sistema deve ser intuitivo no uso.                     | ENC05                                                   | Não          |
+| RNF02 | O aplicativo deve possuir tutoriais explicativos de uso. | ENC06                                                   | Não          |
+| RNF03 | O aplicativo deve possuir uma central de ajuda clara.    | ENC07                                                   | Não          |
+| RNF04 | O aplicativo deve facilitar a execução de tarefas.       | ENC08                                                   | Não          |
 
 </center>
 
