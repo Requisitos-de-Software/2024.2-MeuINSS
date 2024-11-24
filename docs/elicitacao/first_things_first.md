@@ -4,7 +4,7 @@
 
 ## Metodologia
 
-<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">No dia 24/11, por volta de 13 horas da tarde, foi realizada uma reunião via Microsoft Teams, no qual o objetivo era quantificar os benefícios, penalidades, riscos e custos de todos os requisitos que haviam sido elicitados através das técnicas de elicitação escolhidas pelo grupo. Nessa reunião participaram três membros do grupo, são eles: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> (realizou o papel do desenvolvedor); <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a>(realizou o papel de um usuário do Meu INSS, por meio de uma persona); <a href="https://github.com/julia-fortunato">Julia Fortunato</a> (realizou o papel de mediadora). É possível observar a descrição dos papéis abaixo e a relação na tabela 1:</p>
+<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">No dia 24/11, por volta de 13 horas da tarde, foi realizada uma reunião via Microsoft Teams, no qual o objetivo era quantificar os benefícios, penalidades, riscos e custos de todos os requisitos que haviam sido elicitados através das técnicas de elicitação escolhidas pelo grupo. Nessa reunião participaram três membros do grupo, são eles: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> (realizou o papel do desenvolvedor); <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a>(realizou o papel de um usuário do Meu INSS, no papel da persona Carlos)  e <a href="https://github.com/julia-fortunato">Julia Fortunato</a> (realizou o papel de mediadora). É possível observar a descrição dos papéis abaixo e a relação na tabela 1:</p>
 
 - Mediador: Responsável por apresentar os requisitos elicitados pela equipe;
 - Usuário: Responsável por classificar benefícios e penalidades na implementação de cada requisito;
@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a></td>
-      <td>Persona, Usuário</td>
+      <td>Representante da persona, Usuário</td>
     </tr>
     <tr>
       <td><a href="https://github.com/julia-fortunato">Julia Fortunato</a></td>
