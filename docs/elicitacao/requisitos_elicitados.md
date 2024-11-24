@@ -8,7 +8,7 @@ Essa página tem como objetivo reunir e apresentar todos os requisitos funcionai
 
 Criou-se duas tabelas, uma apresentando os requisitos funcionais e outra com os requisitos não funcionais. 
 
-As tabelas possuem o seguinte formato: cada linha contém um ID (junto com a indicação de se é funcional ou não funcional), sua respectiva descrição, se ele foi implementado ou não e a rastreabilidade, que indica qual(is) técnica(s) elicitou o requisito em questão. Além disso, requisitos que são similares e apresentam a mesma função agrupados e consolidados em um único requisito. Os identificadores (IDs) originais desses requisitos serão referenciados na tabela, garantindo rastreabilidade e transparência no processo.
+As tabelas possuem o seguinte formato: cada linha contém um ID (junto com a indicação de se é funcional ou não funcional), sua respectiva descrição, se ele foi implementado ou não e a rastreabilidade, que indica qual(is) técnica(s) elicitou o requisito em questão. Além disso, requisitos que são similares e apresentam a mesma função foram agrupados e consolidados em um único requisito. Os identificadores (IDs) originais desses requisitos serão referenciados na tabela, garantindo rastreabilidade e transparência no processo.
 
 Na tabela 1, encontra-se a legenda para cada sigla encontrada nas tabelas 2 e 3.
 
@@ -137,4 +137,4 @@ Na tabela 3, encontram-se os requisitos não funcionais elicitados.
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|23/11/2024|Criação do documento|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.0`|23/11/2024|Criação do documento|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|

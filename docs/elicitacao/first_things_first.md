@@ -6,7 +6,7 @@
 
 
 
-## Referências Bibliografia/Bibliografia
+## Referências Bibliográficas/Bibliografia
 
 > .
 
@@ -14,4 +14,4 @@
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|23/11/2024|Criação do documento. |[](https://github.com/)|[](https://github.com/)|
+|`1.0`|24/11/2024|Criação do documento. |[](https://github.com/)|[](https://github.com/)|
