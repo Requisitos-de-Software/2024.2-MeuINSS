@@ -35,13 +35,13 @@ Legenda da Tabela 1:
 
 | Tipo | Descrição                                                                                                             | <a id="anchor_OBS" style="visibility: hidden;"></a> ID | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
-| RF12 | O aplicativo permite verificar histórico de contribuições.  | IS01 | Sim |
-| RF13 | O aplicativo permite emitir extratos de pagamentos de benefícios.| IS02 | Sim |
-| RF14 | O aplicativo permite simular o tempo de contribuição.| IS03 | Sim |
-| RF15 | O aplicativo permite acessar comunidades para os próprios usuários se ajudarem.| IS04  | Não  |
-| RF16 | O aplicativo possui assistente virtual com simulações de diferentes cenários previdenciários. | IS05  | Não |
-| RF17 | O aplicativo possui relatórios personalizados com informações sobre os impactos das contribuições nos benefícios futuros.| IS06 | Não|
-| RF18 | O aplicativo possui notificações sobre mudanças que ocorreram ou que irão ocorrer na legislação previdenciária. | IS07 | Não |
+| RF14 | O aplicativo permite verificar histórico de contribuições.  | IS01 | Sim |
+| RF15 | O aplicativo permite emitir extratos de pagamentos de benefícios.| IS02 | Sim |
+| RF16 | O aplicativo permite simular o tempo de contribuição.| IS03 | Sim |
+| RF17 | O aplicativo permite acessar comunidades para os próprios usuários se ajudarem.| IS04  | Não  |
+| RF18 | O aplicativo possui assistente virtual com simulações de diferentes cenários previdenciários. | IS05  | Não |
+| RF19 | O aplicativo possui relatórios personalizados com informações sobre os impactos das contribuições nos benefícios futuros.| IS06 | Não|
+| RF20 | O aplicativo possui notificações sobre mudanças que ocorreram ou que irão ocorrer na legislação previdenciária. | IS07 | Não |
 
 </center>
 

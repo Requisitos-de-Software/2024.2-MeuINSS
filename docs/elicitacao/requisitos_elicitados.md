@@ -67,8 +67,8 @@ Na tabela 2, encontram-se os requisitos funcionais elicitados.
 
 | ID    | Descrição                                                                            | Implementado | Rastreabilidade |
 | :---: | ------------------------------------------------------------------------------------ | :----------: | :-------------: |
-| RF01  | O aplicativo emite e permite consulta a extratos e pagamentos.                        | Sim          | ENC01, ENT03, IS02, IS03, GLO07   |
-| RF02  | O aplicativo permite simular a aposentadoria.                                         | Sim          | ENC02, ENT01, GLO02, OBS04   |
+| RF01  | O aplicativo emite e permite consulta a extratos e pagamentos.                        | Sim          | ENC01, ENT03, IS02, GLO07   |
+| RF02  | O aplicativo permite simular a aposentadoria.                                         | Sim          | ENC02, ENT01, GLO02, IS03, OBS04   |
 | RF03  | O aplicativo permite solicitar pedidos.                                              | Sim          | ENC03           |
 | RF04  | O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.         | Não          | ENC04          |
 | RF05  | O aplicativo permite solicitar auxílio doença.                                        | Sim          |    ENT02       |
