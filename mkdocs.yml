@@ -30,6 +30,7 @@ nav:
       - "Encenação": elicitacao/encenacao.md
       - "Entrevista": elicitacao/entrevista.md
       - "Introspecção": elicitacao/introspeccao.md
+      - "Observação": elicitacao/observacao.md
       - "Glossário": elicitacao/glossario.md
     - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
     - Priorização de Requisitos: 

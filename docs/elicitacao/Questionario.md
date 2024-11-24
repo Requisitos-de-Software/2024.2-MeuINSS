@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -37,7 +37,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -57,7 +57,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -77,7 +77,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -97,7 +97,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -117,7 +117,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -137,7 +137,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -157,7 +157,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -177,7 +177,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -197,7 +197,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -217,7 +217,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -237,7 +237,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -257,7 +257,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>
@@ -277,7 +277,7 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, </a>
   <a href="https://github.com/julia-fortunato">Julia Fortunato, </a>
   <a href="https://github.com/nickgehjk">Nicolas Bomfim </a>
   </b>

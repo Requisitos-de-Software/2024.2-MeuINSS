@@ -41,31 +41,38 @@ A Tabela 1 lista os termos usados no sistema Meu INSS e suas definições. Esses
 
 Os requisitos do sistema foram elicitados a partir do glossário e divididos em duas categorias: requisitos funcionais e não funcionais. Esses requisitos definem as funcionalidades do sistema e os padrões de desempenho e qualidade que precisam ser cumpridos.
 
+Legenda das tabelas 3 e 4:
+
+- RFx: Requisito Funcional nºx
+- RNFx: Requisito Não-Funcional nºx
+- GLOx: Requisito nºx elicitado pela glossário.
+
 ### Requisitos Funcionais (RF)
 
-Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer, detalhando as operações que ele precisa realizar para atender às necessidades dos usuários. A Tabela 1 lista os requisitos funcionais, elicitados a partir do glossário, do sistema Meu INSS:
+Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer, detalhando as operações que ele precisa realizar para atender às necessidades dos usuários. A Tabela 1 lista os requisitos funcionais, elicitados a partir do glossário, do sistema Meu INSS, onde:
 
 <font size="3"><p style="text-align: center">Tabela 2: Requsiitos Funcionais</p></font>
 
 <center>
 
-| ID    | Descrição                                                               |
-| ----- | ----------------------------------------------------------------------- |
-| GLO01 | Exibir o histórico completo de contribuições do segurado (CNIS).        |
-| GLO02 | Oferecer simulação de aposentadoria com base nas regras atuais.         |
-| GLO03 | Permitir agendamento de perícias e atendimentos.                        |
-| GLO04 | Enviar notificações sobre pendências, prazos e novas regras.            |
-| GLO07 | Disponibilizar consulta e download de extratos de pagamento.            |
-| GLO08 | Permitir bloqueio e desbloqueio de benefícios pelo aplicativo.          |
-| GLO09 | Mostrar critérios de carência de forma clara.                           |
-| GLO11 | Aceitar envio de documentos digitalizados.                              |
-| GLO13 | Permitir solicitação de benefícios pelo aplicativo.                     |
-| GLO14 | Mostrar status de solicitações e benefícios em andamento.               |
-| GLO15 | Permitir alteração de dados cadastrais, como endereço e telefone.       |
-| GLO16 | Emitir recibos digitais para transações realizadas.                     |
-| GLO18 | Integrar informações sobre FGTS para consulta de saldo e movimentações. |
-| GLO19 | Permitir consulta e pagamento de pensões.                               |
-| GLO20 | Usar autenticação pelo Gov.br para login.                               |
+| Tipo  | Descrição                                                                                                             | ID    | Implementado |
+| ----- | --------------------------------------------------------------------------------------------------------------------- | ----- | ------------ |
+| RF28  | Exibir o histórico completo de contribuições do segurado (CNIS).                                                       | GLO01 | Sim |
+| RF29  | Oferecer simulação de aposentadoria com base nas regras atuais.                                                        | GLO02 | Sim |
+| RF30  | Permitir agendamento de perícias e atendimentos.                                                                       | GLO03 | Não |
+| RF31  | Enviar notificações sobre pendências, prazos e novas regras.                                                           | GLO04 | Sim |
+| RF32  | Disponibilizar consulta e download de extratos de pagamento.                                                           | GLO07 | Sim |
+| RF33  | Permitir bloqueio e desbloqueio de benefícios pelo aplicativo.                                                         | GLO08 | Sim |
+| RF34  | Mostrar critérios de carência de forma clara.                                                                          | GLO09 | Sim |
+| RF35  | Aceitar envio de documentos digitalizados.                                                                             | GLO11 | Sim |
+| RF36  | Permitir solicitação de benefícios pelo aplicativo.                                                                    | GLO13 | Sim |
+| RF37  | Mostrar status de solicitações e benefícios em andamento.                                                              | GLO14 | Sim |
+| RF38  | Permitir alteração de dados cadastrais, como endereço e telefone.                                                      | GLO15 | Sim |
+| RF39  | Emitir recibos digitais para transações realizadas.                                                                    | GLO16 | Sim |
+| RF40  | Integrar informações sobre FGTS para consulta de saldo e movimentações.                                                | GLO18 | Não |
+| RF41  | Permitir consulta e pagamento de pensões.                                                                              | GLO19 | Não |
+| RF42  | Usar autenticação pelo Gov.br para login.                                                                              | GLO20 | Sim |
+
 
 </center>
 
@@ -79,13 +86,12 @@ Os requisitos não funcionais definem as qualidades e características do sistem
 
 <center>
 
-| ID    | Descrição                                                         |
-| ----- | ----------------------------------------------------------------- |
-| GLO05 | Garantir segurança dos dados com criptografia nas transações.     |
-| GLO06 | Ser responsivo para uso em diferentes dispositivos.               |
-| GLO10 | Oferecer suporte em português, espanhol e inglês.                 |
-| GLO12 | Seguir normas de acessibilidade, como suporte a leitores de tela. |
-| GLO17 | Armazenar dados em conformidade com a LGPD.                       |
+| Tipo  | Descrição                                                         | ID    | Implementado |
+| ----- | ---------------------------------------------------------------   | ----- | ------------ |
+| RNF17  | Garantir segurança dos dados com criptografia nas transações.     | GLO05 | Sim |
+| RNF18  | Ser responsivo para uso em diferentes dispositivos.               | GLO06 | Sim |
+| RNF19 | Seguir normas de acessibilidade, como suporte a leitores de tela. | GLO12 | Não |
+| RNF20 | Armazenar dados em conformidade com a LGPD.                       | GLO17 | Sim |
 
 </center>
 <font size="3"><p style="text-align: center">Autor: [Ana Catarina Santos](https://github.com/an4catarina), 2024</p></font>
@@ -100,3 +106,4 @@ Os requisitos não funcionais definem as qualidades e características do sistem
 | Versão | Data       | Descrição                    | Autor                                                 |                        Revisor                        |
 | :----: | ---------- | ---------------------------- | ----------------------------------------------------- | :---------------------------------------------------: |
 | `1.0`  | 22/11/2024 | Desenvolvimento do glossário | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |
+| `1.1`  | 22/11/2024 | Organização dos requisitos não funcionais e funcionais| [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |
