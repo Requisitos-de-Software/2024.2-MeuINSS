@@ -57,21 +57,21 @@ Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferece
 
 | Tipo  | Descrição                                                                                                             | ID    | Implementado |
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----- | ------------ |
-| RF28  | Exibir o histórico completo de contribuições do segurado (CNIS).                                                       | GLO01 | Sim |
-| RF29  | Oferecer simulação de aposentadoria com base nas regras atuais.                                                        | GLO02 | Sim |
-| RF30  | Permitir agendamento de perícias e atendimentos.                                                                       | GLO03 | Sim |
-| RF31  | Enviar notificações sobre pendências, prazos e novas regras.                                                           | GLO04 | Sim |
-| RF32  | Disponibilizar consulta e download de extratos de pagamento.                                                           | GLO07 | Sim |
-| RF33  | Permitir bloqueio e desbloqueio de benefícios pelo aplicativo.                                                         | GLO08 | Sim |
-| RF34  | Mostrar critérios de carência de forma clara.                                                                          | GLO09 | Sim |
-| RF35  | Aceitar envio de documentos digitalizados.                                                                             | GLO11 | Sim |
-| RF36  | Permitir solicitação de benefícios pelo aplicativo.                                                                    | GLO13 | Sim |
-| RF37  | Mostrar status de solicitações e benefícios em andamento.                                                              | GLO14 | Sim |
-| RF38  | Permitir alteração de dados cadastrais, como endereço e telefone.                                                      | GLO15 | Sim |
-| RF39  | Emitir recibos digitais para transações realizadas.                                                                    | GLO16 | Sim |
-| RF40  | Integrar informações sobre FGTS para consulta de saldo e movimentações.                                                | GLO18 | Não |
-| RF41  | Permitir consulta e pagamento de pensões.                                                                              | GLO19 | Não |
-| RF42  | Usar autenticação pelo Gov.br para login.                                                                              | GLO20 | Sim |
+| RF29  | Exibir o histórico completo de contribuições do segurado (CNIS).                                                       | GLO01 | Sim |
+| RF30  | Oferecer simulação de aposentadoria com base nas regras atuais.                                                        | GLO02 | Sim |
+| RF31  | Permitir agendamento de perícias e atendimentos.                                                                       | GLO03 | Sim |
+| RF32  | Enviar notificações sobre pendências, prazos e novas regras.                                                           | GLO04 | Sim |
+| RF33  | Disponibilizar consulta e download de extratos de pagamento.                                                           | GLO07 | Sim |
+| RF34  | Permitir bloqueio e desbloqueio de benefícios pelo aplicativo.                                                         | GLO08 | Sim |
+| RF35  | Mostrar critérios de carência de forma clara.                                                                          | GLO09 | Sim |
+| RF36  | Aceitar envio de documentos digitalizados.                                                                             | GLO11 | Sim |
+| RF37  | Permitir solicitação de benefícios pelo aplicativo.                                                                    | GLO13 | Sim |
+| RF38  | Mostrar status de solicitações e benefícios em andamento.                                                              | GLO14 | Sim |
+| RF39  | Permitir alteração de dados cadastrais, como endereço e telefone.                                                      | GLO15 | Sim |
+| RF40  | Emitir recibos digitais para transações realizadas.                                                                    | GLO16 | Sim |
+| RF41  | Integrar informações sobre FGTS para consulta de saldo e movimentações.                                                | GLO18 | Não |
+| RF42  | Permitir consulta e pagamento de pensões.                                                                              | GLO19 | Não |
+| RF43  | Usar autenticação pelo Gov.br para login.                                                                              | GLO20 | Sim |
 
 
 </center>

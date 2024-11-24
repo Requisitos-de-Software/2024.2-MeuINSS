@@ -57,14 +57,14 @@ Na tabela 2, encontram-se os requisitos funcionais elicitados pela técnica de o
 
 | Tipo | Descrição| <a id="anchor_OBS" style="visibility: hidden;"></a> ID | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
-| RF19 | O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário. |OBS01|Não|
-| RF20 | É possível o usuário verificar se está bloqueado para empréstimo.| OBS02 |Sim|
-| RF21 | O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo. | OBS03 | Não |
-| RF22 | O sistema deve calcular o valor das contribuições necessárias para atingir a aposentadoria ou outros benefícios.| OBS04 | Sim |
-| RF23 | O usuário pode receber notificações relacionadas as tarefas que ele realizou no aplicativo.| OBS05|Sim|
-| RF24 | O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições.| OBS06 | Sim|
-| RF25 | O usuário pode visualizar os benefícios com maiores detalhes.|OBS07|Sim|
-| RF26 | O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades.| OBS08|Sim|
+| RF21 | O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário. |OBS01|Não|
+| RF22 | É possível o usuário verificar se está bloqueado para empréstimo.| OBS02 |Sim|
+| RF23 | O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo. | OBS03 | Não |
+| RF24 | O sistema deve calcular o valor das contribuições necessárias para atingir a aposentadoria ou outros benefícios.| OBS04 | Sim |
+| RF25 | O usuário pode receber notificações relacionadas as tarefas que ele realizou no aplicativo.| OBS05|Sim|
+| RF26 | O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições.| OBS06 | Sim|
+| RF27 | O usuário pode visualizar os benefícios com maiores detalhes.|OBS07|Sim|
+| RF28 | O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades.| OBS08|Sim|
 
 
 </center>
