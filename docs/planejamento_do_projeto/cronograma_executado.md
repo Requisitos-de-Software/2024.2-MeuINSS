@@ -227,27 +227,32 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
   <thead>
     <tr>
       <th>Atividade</th>
-      <th>Período de desenvolvimento</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
       <th>Responsáveis</th>
-      <th>Revisão</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
       <th>Revisores</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Definição do perfil dos usuários</td>
-      <td>Início: XX/11/2024 <br> Fim: xx/11/2024</td>
+      <td>Início: 06/11/2024 <br> Fim: 08/11/2024</td>
+      <td>Início: 15/11/2024 <br> Fim: 23/11/2024</td>
       <td>
        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
       </td>
-      <td>Início: xx/11/2024 <br> Fim: xx/11/2024</td>
+      <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
+      <td>Início: 23/11/2024 <br> Fim: 23/11/2024</td>
       <td>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> 
       </td>
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de elicitação usadas e que serão usadas</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
+      <td>Início: 06/11/2024 <br> Fim: 08/11/2024</td>
+      <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
@@ -255,7 +260,8 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
+      <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
+      <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
@@ -266,92 +272,150 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
     </tr>
     <tr>
       <td>Escolha e documentação das técnicas de priorização usadas e que serão usadas</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
+      <td>Início: 06/11/2024 <br> Fim: 08/11/2024</td>
+      <td>Início: 15/11/2024 <br> Fim: 22/11/2024</td>
       <td>
-        <!-- <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> -->
-      </td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td>
-        <!-- <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> -->
-      </td>
-    </tr>
-    <tr>
-      <td>Definição das personas</td> 
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td>
-       <!-- <a href="https://github.com/an4catarina">Ana Catarina</a><br> -->
-      </td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td> <!-- <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> --></td>
-    </tr>
-    <tr>
-      <td>Definição do cronograma de elicitação de requisitos com cliente/persona</td>
-      <td>Início: XX/11/2024 <br> XX/11/2024</td>
-      <td> <!--<a href="https://github.com/CristianoMoraiss">Nicolas Bandeira</a> --></td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/julia-fortunato">Júlia Fortunato</a> --></td>
-    </tr>
-    <tr>
-      <td>Definição do cronograma de priorização de requisitos com cliente/persona</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/an4catarina">Ana Catarina</a> --></td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> --></td>
-    </tr>
-    <tr>
-      <td>Entrevista: Gravação e registro(s) da elicitação dos requisitos (pré-rastreabilidade)</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> --></td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> --></td>
-    </tr>
-    <tr>
-      <td>Entrevista: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> --></td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> --> </td>
-    </tr>
-    <tr>
-      <td>Documentação da participação do cliente e/ou persona - elicitação</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>--></td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/an4catarina">Ana Catarina</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>--></td>
-    </tr>
-    <tr>
-      <td>Documentação da participação do cliente e/ou persona - priorização</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>--></td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--<a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> <a href="https://github.com/nickgehjk">Nicolas Bandeira</a>--></td>
-    </tr>
-    <tr>
-      <td>Gravação 2</td>
-      <td>XX/11/2024</td>
-      <td><!--
-       <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
-        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
-        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
-        -->
-      </td>
-      <td>XX/11/2024</td>
-      <td><!--
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
-        -->
+      </td>
+      <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
+      <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Definição das personas</td> 
+      <td>Início: 08/11/2024 <br> Fim: 11/11/2024</td>
+      <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
+      <td>
+       <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+      </td>
+      <td>Início: 10/11/2024 <br> Fim: 11/11/2024</td>
+      <td>Início: 20/11/2024 <br> Fim: 20/11/2024</td>
+      <td> <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Definição do cronograma de elicitação de requisitos com cliente/persona</td>
+      <td>Início: 10/11/2024 <br> 11/11/2024</td>
+      <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
+      <td> <!--<a href="https://github.com/CristianoMoraiss">Nicolas Bandeira</a> --></td>
+      <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
+      <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
+      <td><!--<a href="https://github.com/julia-fortunato">Júlia Fortunato</a> --></td>
+    </tr>
+    <tr>
+      <td>Definição do cronograma de priorização de requisitos com cliente/persona</td>
+      <td>Início: 10/11/2024 <br> Fim: 11/11/2024</td>
+      <td>Início: 21/11/2024 <br> Fim: 22/11/2024</td>
+      <td><!--<a href="https://github.com/an4catarina">Ana Catarina</a> --></td>
+      <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
+      <td>Início: 22/11/2024 <br> Fim: 22/11/2024</td>
+      <td><!--<a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> --></td>
+    </tr>
+    <tr>
+      <td>Entrevista: Gravação e registro(s) da elicitação dos requisitos (pré-rastreabilidade)</td>
+      <td>Início: 13/11/2024 <br> Fim: 15/11/2024</td>
+      <td>Início: 21/11/2024 <br> Fim: 23/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 15/11/2024 <br> Fim: 16/11/2024</td>
+      <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Entrevista: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
+      <td>Início: 13/11/2024 <br> Fim: 15/11/2024</td>
+      <td>Início: 23/11/2024 <br> Fim: 24/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 15/11/2024 <br> Fim: 16/11/2024</td>
+      <td>Início: 24/11/2024 <br> Fim: 24/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Documentação da participação do cliente e/ou persona - elicitação</td>
+      <td>Início: 17/11/2024 <br> Fim: 19/11/2024</td>
+      <td>Início: 21/11/2024 <br> Fim: 23/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
+      <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Documentação da participação do cliente e/ou persona - priorização</td>
+      <td>Início: 17/11/2024 <br> Fim: 19/11/2024</td>
+      <td>Início: 23/11/2024 <br> Fim: 24/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
+      <td>Início: 23/11/2024 <br> Fim: 24/11/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Gravação 2</td>
+      <td>21/11/2024</td>
+      <td>24/11/2024</td>
+      <td>
+       <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+      <td>22/11/2024</td>
+      <td>24/11/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
       </td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 2</td>
-      <td>XX/11/2024</td>
-      <td><!--<a href="https://github.com/an4catarina">Ana Catarina</a>--></td>
-      <td>XX/11/2024</td>
+      <td>22/11/2024</td>
+      <td>24/11/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>22/11/2024</td>
+      <td>24/11/2024</td>
       <td><!--<a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>--></td>
     </tr>
     <tr>
@@ -390,4 +454,4 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
 | :----: | ---------- | ----------------------------------------------------------------- | ----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  | 06/11/2023 | Criação do cronograma. Adição da etapa de planejamento do projeto | [Júlia Fortunato](https://github.com/julia-fortunato) | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |
 | `2.0`  | 22/11/2024 | Correção da organização do documento                              | [Ana Catarina Santos](https://github.com/an4catarina) |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
-| `3.0`  | 23/11/2024 | Início do                               | [Ana Catarina Santos](https://github.com/an4catarina) |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
+| `3.0`  | 24/11/2024 | Atualização do cronograma executado da entrega 2                              | [Júlia Fortunato](https://github.com/julia-fortunato) |                                    |
