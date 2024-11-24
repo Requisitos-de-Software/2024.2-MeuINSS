@@ -305,19 +305,19 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
     <tr>
       <td>Definição do cronograma de elicitação de requisitos com cliente/persona</td>
       <td>Início: 10/11/2024 <br> 11/11/2024</td>
-      <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
-      <td> <!--<a href="https://github.com/CristianoMoraiss">Nicolas Bandeira</a> --></td>
+      <td>Início: 19/11/2024 <br> Fim: 19/11/2024</td>
+      <td> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
       <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
-      <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
+      <td>Início: 20/11/2024 <br> Fim: 20/11/2024</td>
       <td><!--<a href="https://github.com/julia-fortunato">Júlia Fortunato</a> --></td>
     </tr>
     <tr>
       <td>Definição do cronograma de priorização de requisitos com cliente/persona</td>
       <td>Início: 10/11/2024 <br> Fim: 11/11/2024</td>
-      <td>Início: 21/11/2024 <br> Fim: 22/11/2024</td>
-      <td><!--<a href="https://github.com/an4catarina">Ana Catarina</a> --></td>
-      <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
       <td>Início: 22/11/2024 <br> Fim: 22/11/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 11/11/2024 <br> Fim: 11/11/2024</td>
+      <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
       <td><!--<a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> --></td>
     </tr>
     <tr>
