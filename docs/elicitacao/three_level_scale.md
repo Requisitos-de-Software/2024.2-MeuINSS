@@ -1,6 +1,6 @@
 ## Introdução
 
-A técnica de priorização de requisitos Three-Level Scale é uma abordagem simples e eficaz para classificar e priorizar requisitos em um projeto . Ela facilita a tomada de decisões e o planejamento das entregas e divide os requisitos em três categorias ou níveis de prioridade: alta, média e baixa. Nesse projeto, essa técnica foi utilizada por um desenvolvedor e uma persona, com o desenvolvedor sendo o mediador e guiando a persona.
+A técnica de priorização de requisitos Three-Level Scale é uma abordagem simples e eficaz para classificar e priorizar requisitos em um projeto. Ela facilita a tomada de decisões e o planejamento das entregas e divide os requisitos em três categorias ou níveis de prioridade: alta, média e baixa. Nesse projeto, essa técnica foi utilizada por um desenvolvedor e uma persona, com o desenvolvedor sendo o mediador e guiando a persona.
 
 ## Metodologia
 
@@ -18,10 +18,12 @@ A importância define por sendo a necessidade de implementação e a urgência �
 
 ### Participantes
 
-A usuaria maria das dores interpretada pela integrante do grupo [Júlia Fortunato](https://github.com/julia-fortunato) foi convidada a participar de uma sessão de perguntas rapidas online a fim da priorização dos requisitos elicitados sobre o aplicativo "Meu INSS" com o desenvolvedor [Maurício Ferreira](https://github.com/mauricio-araujoo), os resultados estão documentados nas tabelas 1 e 2.
+A usuária Maria das Dores Silva interpretada pela integrante do grupo [Júlia Fortunato](https://github.com/julia-fortunato) foi convidada a participar de uma sessão de perguntas rápidas online a fim da priorização dos requisitos elicitados sobre o aplicativo "Meu INSS" com o desenvolvedor [Maurício Ferreira](https://github.com/mauricio-araujoo). Os resultados estão documentados nas tabelas 1 e 2.
+A reunião aconteceu de forma guiada e o desenvolvedor tomou notas e, então analisou as respostas da usuária e priorizou-os de acordo com as categorizações.
 
-### Requisitos priorizados
+## Resultado da priorização 
 
+Na tabela 1, se encontram as legendas para as tabelas 2 e 3.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Legenda para a tabela 2 e 3 </p></font>
 
@@ -72,13 +74,13 @@ A usuaria maria das dores interpretada pela integrante do grupo [Júlia Fortunat
 
 
 #### Funcionais
-
+Na tabela 2, encontram-se a o resultado da priorização dos requisitos funcionais de acordo com a técnica Three Level Scale.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos funcionais</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos funcionais priorizados pela técnica Three Level Scale</p></font>
 </div >
 
-| Tipo    | Descrição                                                                            | ID | Prioridade |
+| ID    | Descrição                                                                            | Rastreabilidade | Prioridade |
 | :---: | ------------------------------------------------------------------------------------ | :----------: | :-------------: |
 | RF01  | O aplicativo emite e permite consulta a extratos e pagamentos.                        | ENC01         | Alta  |
 | RF02  | O aplicativo permite simular a aposentadoria.                                         | ENC02          | Media   |
@@ -116,15 +118,15 @@ A usuaria maria das dores interpretada pela integrante do grupo [Júlia Fortunat
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
 </div>
 
-
-
 #### Não funcionais
 
+Na tabela 3, encontram-se a o resultado da priorização dos requisitos não funcionais de acordo com a técnica Three Level Scale.
+
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos não funcionais</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b>Requisitos não funcionais priorizados pela técnica Three Level Scale</p></font>
 </div >
 
-| Tipo    | Descrição                                                                            | ID | Prioridade |
+| ID   | Descrição                                                                            | Rastreabilidade | Prioridade |
 | :---: | ------------------------------------------------------------------------------------ | :----------: | :-------------: |
 | RNF01  | O aplicativo deve ser intuitivo no uso.                                             | ENC05          | Alta           |
 | RNF02  | O aplicativo deve possuir tutoriais explicativos de uso (por exemplo, vídeos, FAQs).      | ENC06          |   Alta         |
@@ -144,7 +146,6 @@ A usuaria maria das dores interpretada pela integrante do grupo [Júlia Fortunat
 </div>
 
 
-
 ## Bibliografia
 
 > WIEGERS, Karl; Beatty, Joy. (2013) Software Requirements (Developer Best Practices). p. 319-320. ISBN: 0735679665. Acesso em: 24 nov. 2024
@@ -154,4 +155,4 @@ A usuaria maria das dores interpretada pela integrante do grupo [Júlia Fortunat
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|23/11/2024|Criação do documento. |[Nicolas Bomfim](https://github.com/nickgehjk)|[Maurício Ferreira](https://github.com/mauricio-araujoo)|
-|`1.1`|24/11/2024|Preenchimento dos dados das tabelas. | [Maurício Ferreira](https://github.com/mauricio-araujoo)| |
+|`1.1`|24/11/2024|Preenchimento dos dados das tabelas. | [Maurício Ferreira](https://github.com/mauricio-araujoo)|[Júlia Fortunato](https://github.com/julia-fortunato) |

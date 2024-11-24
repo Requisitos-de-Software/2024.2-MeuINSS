@@ -127,7 +127,7 @@ Na tabela 2, encontra-se a legenda para cada sigla encontrada na tabela 3 e 4.
 Na tabela 3, encontram-se os requisitos funcionais que foram incluídos nesta técnica de priorização, e sua respectiva descrição e a rastreabilidade da elicitação.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos funcionais priorizados pela técnicas First Things First</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Requisitos funcionais priorizados pela técnica First Things First</p></font>
 </div >
 
 | ID    | Descrição                                                                            |  Rastreabilidade |
@@ -167,11 +167,11 @@ Na tabela 3, encontram-se os requisitos funcionais que foram incluídos nesta t�
 Na tabela 4, encontram-se os requisitos não funcionais que foram incluídos nesta técnica de priorização, e sua respectiva descrição e a rastreabilidade da elicitação.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais priorizados pela técnicas First Things First</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Requisitos não funcionais priorizados pela técnica First Things First</p></font>
 </div >
 
-| ID    | Descrição                                                                            | Implementado | Rastreabilidade |
-| :---: | ------------------------------------------------------------------------------------ | :----------: | :-------------: |
+| ID    | Descrição                                                                            | Rastreabilidade | 
+| :---: | ------------------------------------------------------------------------------------ | :----------: |
 | RNF01  | O aplicativo deve ser intuitivo no uso.                                             | ENC05, ENT13, OBS13           |
 | RNF02  | O aplicativo deve possuir tutoriais explicativos de uso (por exemplo, vídeos, FAQs).      | ENC06, ENT14, OBS12           |
 | RNF03  | O aplicativo deve possuir uma central de ajuda clara.                               | ENC07           |
