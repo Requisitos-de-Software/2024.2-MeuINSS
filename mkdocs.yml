@@ -24,7 +24,7 @@ nav:
   - Elicitação de Requisitos:
     - Definição do Perfil de Usuário:
       - "Perfil de usuário": elicitacao/Perfil_Do_Usuario.md
-      - "Questionario": elicitacao/Questionario.md
+      - "Questionário": elicitacao/Questionario.md
     - Personas: elicitacao/personas.md
     - Elicitação de Requisitos: 
       - "Encenação": elicitacao/encenacao.md

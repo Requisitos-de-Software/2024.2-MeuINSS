@@ -37,7 +37,7 @@ software.[2]</p>
     </tr>
     <tr>
       <td>Gênero</td>
-      <td>Homens e Mulheres</td>
+      <td>Feminino e masculino</td>
     </tr>
     <tr>
       <td>Experiência</td>
@@ -73,4 +73,4 @@ software.[2]</p>
 
 | Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
 | :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
-| `1.0`  | 23/11/2024 | Criação do documento                 | [Cristiano Morais](https://github.com/CristianoMoraiss)        |         |
+| `1.0`  | 23/11/2024 | Criação do documento                 | [Cristiano Morais](https://github.com/CristianoMoraiss)        |    [Júlia Fortunato](https://github.com/julia-fortunato)     |

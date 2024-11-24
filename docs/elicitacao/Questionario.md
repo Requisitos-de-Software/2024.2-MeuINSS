@@ -299,13 +299,6 @@
 • As duas funcionalidades votadas como mais utilizadas foram simular aposentadoria e novo pedido/consultar pedido. <br> <br>
 • A atividade que os participantes consideraram o mais importante pra um aplicativo no INSS foi realização de pedidos/requerimentos.
 
-
-
-
-
-
-
-
              </p>
 
  </p>
@@ -324,37 +317,4 @@
 
 | Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
 | :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
-| `1.0`  | 23/11/2024 | Criação do documento                 | [Cristiano Morais](https://github.com/CristianoMoraiss)        |         |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| `1.0`  | 23/11/2024 | Criação do documento                 | [Cristiano Morais](https://github.com/CristianoMoraiss)        |   [Júlia Fortunato](https://github.com/julia-fortunato)      |
