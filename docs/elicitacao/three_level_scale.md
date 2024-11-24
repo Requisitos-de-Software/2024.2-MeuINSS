@@ -14,6 +14,14 @@ Os requisitos são classificados em três níveis principais:
 
 A importância define por sendo a necessidade de implementação e a urgência é a necessidade de ser lançada na próxima release.
 
+## Desenvolvimento
+
+### Participantes
+
+A usuaria maria das dores interpretada pela integrante do grupo [Júlia Fortunato](https://github.com/julia-fortunato) foi convidada a participar de uma sessão de perguntas rapidas online a fim da priorização dos requisitos elicitados sobre o aplicativo "Meu INSS" com o desenvolvedor [Maurício Ferreira](https://github.com/mauricio-araujoo), os resultados estão documentados nas tabelas 1 e 2.
+
+### Requisitos priorizados
+
 
 
 ## Bibliografia
