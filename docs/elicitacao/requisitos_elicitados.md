@@ -86,7 +86,7 @@ Na tabela 2, encontram-se os requisitos funcionais elicitados.
 | RF17 | O aplicativo deverá permitir bloqueio e desbloqueio de benefícios pelo aplicativo.         | Sim          | GLO08, OBS02               |
 | RF18 | O aplicativo deverá mostrar critérios de carência de forma clara.                              | Sim          | GLO09               |
 | RF19 | O usuário poderá enviar documentos digitalizados.                                          | Sim          | GLO11              |
-| RF20 | O usuário poderá olicitar benefícios pelo aplicativo.                               | Sim          | GLO013               |
+| RF20 | O usuário poderá solicitar benefícios pelo aplicativo.                               | Sim          | GLO013               |
 | RF21 | O aplicativo deve mostrar status de solicitações e benefícios em andamento.                         | Sim          | GLO14              |
 | RF22 | O aplicativo deve permitir alteração de dados cadastrais, como endereço e telefone.                         | Sim          | GLO15               |
 | RF23 | O aplicativo deverá mostrar emitir recibos digitais para transações realizadas.               | Sim          | GLO16           |
