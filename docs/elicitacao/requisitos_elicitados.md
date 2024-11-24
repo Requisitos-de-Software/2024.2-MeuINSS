@@ -7,7 +7,7 @@
 
 
 
-## Histórico de versões
+## Histórico de versões 
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
