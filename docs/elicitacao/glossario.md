@@ -51,7 +51,7 @@ Legenda das tabelas 3 e 4:
 
 Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer, detalhando as operações que ele precisa realizar para atender às necessidades dos usuários. A Tabela 1 lista os requisitos funcionais, elicitados a partir do glossário, do sistema Meu INSS, onde:
 
-<font size="3"><p style="text-align: center">Tabela 2: Requsiitos Funcionais</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos Funcionais</p></font>
 
 <center>
 
@@ -59,7 +59,7 @@ Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferece
 | ----- | --------------------------------------------------------------------------------------------------------------------- | ----- | ------------ |
 | RF28  | Exibir o histórico completo de contribuições do segurado (CNIS).                                                       | GLO01 | Sim |
 | RF29  | Oferecer simulação de aposentadoria com base nas regras atuais.                                                        | GLO02 | Sim |
-| RF30  | Permitir agendamento de perícias e atendimentos.                                                                       | GLO03 | Não |
+| RF30  | Permitir agendamento de perícias e atendimentos.                                                                       | GLO03 | Sim |
 | RF31  | Enviar notificações sobre pendências, prazos e novas regras.                                                           | GLO04 | Sim |
 | RF32  | Disponibilizar consulta e download de extratos de pagamento.                                                           | GLO07 | Sim |
 | RF33  | Permitir bloqueio e desbloqueio de benefícios pelo aplicativo.                                                         | GLO08 | Sim |
