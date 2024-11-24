@@ -32,7 +32,10 @@ nav:
       - "Introspecção": elicitacao/introspeccao.md
       - "Glossário": elicitacao/glossario.md
     - Requisitos Elicitados: elicitacao/requisitos_elicitados.md
-    - Priorização de Requisitos: elicitacao/priorizacao_requisitos.md
+    - Priorização de Requisitos: 
+      - "First Things First": elicitacao/first_things_first.md
+      - "Three Level Scale": elicitacao/three_level_scale.md
+      - "$100": elicitacao/100dol.md
     
 theme:
   name: material
