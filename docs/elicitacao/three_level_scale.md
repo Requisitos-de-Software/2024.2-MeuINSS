@@ -145,6 +145,17 @@ Na tabela 3, encontram-se a o resultado da priorização dos requisitos não fun
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
 </div>
 
+## Link da Gravação
+
+No vídeo 1, encontra-se a gravação da técnica de priorização Three Level Scale.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/jje6FGhp0g0?si=Bi3vrcRjkqI0cmTA" target="blanket"><b>Vídeo 1:</b> Grupo 06 - Three Level Scale</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jje6FGhp0g0?si=eZT3hVvhVE3Tamzt" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+</div >
 
 ## Bibliografia
 
@@ -156,3 +167,4 @@ Na tabela 3, encontram-se a o resultado da priorização dos requisitos não fun
 |:----:|----|---------|-----|:-------:|
 |`1.0`|23/11/2024|Criação do documento. |[Nicolas Bomfim](https://github.com/nickgehjk)|[Maurício Ferreira](https://github.com/mauricio-araujoo)|
 |`1.1`|24/11/2024|Preenchimento dos dados das tabelas. | [Maurício Ferreira](https://github.com/mauricio-araujoo)|[Júlia Fortunato](https://github.com/julia-fortunato) |
+|`1.2`|24/11/2024|Adição da gravação | [Júlia Fortunato](https://github.com/julia-fortunato)| |
