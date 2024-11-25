@@ -7,6 +7,7 @@ nav:
     - Reunião 1: atas/Reuniao01_23.10.2024.md
     - Reunião 2: atas/Reuniao02_26.10.2024.md
     - Reunião 3: atas/Reuniao03_15.11.2024.md
+    - Reunião 4: atas/Reuniao04_21.11.2024.md
   - Apresentação:
     - Apresentação 1: apresentacoes/apresentacao1.md
   - Planejamento do Projeto:
@@ -39,6 +40,11 @@ nav:
       - "First Things First": elicitacao/first_things_first.md
       - "Three Level Scale": elicitacao/three_level_scale.md
       - "$100": elicitacao/100dol.md
+    - Inspeções:
+      - "Lista de inspeção": elicitacao/listainspecao.md
+      - "Inspeção do grupo": elicitacao/inspecao.md
+      - "Inspeção do grupo + 1 (Grupo 07)": elicitacao/inspecaogrupo+1.md
+
     
 theme:
   name: material

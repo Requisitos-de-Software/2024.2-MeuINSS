@@ -40,6 +40,10 @@ software.[2]</p>
       <td>Feminino e masculino</td>
     </tr>
     <tr>
+      <td>Nível de instrução</td>
+      <td>Ensino Médio Completo, Ensino Superior Completo</td>
+    </tr>
+    <tr>
       <td>Experiência</td>
       <td>Novato</td>
     </tr>
