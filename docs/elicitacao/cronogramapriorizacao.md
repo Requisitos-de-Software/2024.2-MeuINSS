@@ -36,4 +36,4 @@ Conforme podemos observar na tabela 1, o cronograma é estruturado em técnica, 
 
 | Versão | Data       | Descrição            | Autor                                                 |         Revisor         |
 | :----: | ---------- | -------------------- | ----------------------------------------------------- | :---------------------: |
-| `1.0`  | 22/11/2024 | Criação do documento | [Júlia Fortunato](https://github.com/julia-fortunato) | [](https://github.com/) |
+| `1.0`  | 22/11/2024 | Criação do documento | [Júlia Fortunato](https://github.com/julia-fortunato) | [Ana Catarina Santos](https://github.com/an4catarina) |
