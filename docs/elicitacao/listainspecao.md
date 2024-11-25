@@ -4,11 +4,11 @@
 
 Para garantir a qualidade na análise de qualquer artefato, é fundamental utilizar uma lista de verificação como base para os itens avaliados. Assim, a equipe elaborou uma lista de inspeção considerando os pontos destacados pelo professor da disciplina e os requisitos específicos do artefato a ser analisado nesta fase do projeto, visando maior precisão na avaliação do grupo e do grupo+1 (grupo 07).
 
-A lista foi organizada em três seções: a primeira foca na verificação dos itens relacionados ao planejamento do projeto, a segunda aborda aspectos do desenvolvimento, e a terceira se concentra na inspeção dos itens ligados ao conteúdo da disciplina.
+A lista foi organizada de forma que fosse avaliados itens de padronização da disciplina e também o conteúdo desenvolvido pelo grupo.
 
 ## Acesso à lista de inspeção
 
-No link a seguir, o PDF utilizado com a lista de inspeção para as verificações realizadas pelo grupo pode ser acessado: [Lista de inspeção 2 - Grupo 06](ListaInspecEntr2.pdf).
+No link a seguir, o PDF utilizado com a lista de inspeção para as verificações realizadas pelo grupo pode ser acessado: [Lista de inspeção 2 - Grupo 06](ListaEntrega2.pdf).
 
 ## Bibliografia
 
@@ -18,4 +18,4 @@ No link a seguir, o PDF utilizado com a lista de inspeção para as verificaçõ
 
 | Versão | Data       | Descrição            | Autor                                                 |                         Revisor                          |
 | :----: | ---------- | -------------------- | ----------------------------------------------------- | :------------------------------------------------------: |
-| `1.0`  | 06/11/2024 | Criação do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `1.0`  | 24/11/2024 | Criação do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |
