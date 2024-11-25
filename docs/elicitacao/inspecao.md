@@ -24,7 +24,7 @@ A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-f
 
 ## Bibliografia
 
-> SALES, André Barros. Ambientação - Lista de verificação. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 06 de Novembro de 2024.
+> SALES, André Barros. Ambientação - Lista de verificação. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 24 de Novembro de 2024.
 
 ## Histórico de Versão
 
