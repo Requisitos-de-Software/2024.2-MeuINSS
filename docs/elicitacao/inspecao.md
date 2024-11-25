@@ -6,11 +6,11 @@ Nesta página, disponibilizamos a inspeção realizada pelo grupo para análise 
 
 ## Acesso à lista de inspeção do grupo (Resultado)
 
-No link a seguir, pode ser encontrado o resultado da inspeção do grupo: [Lista de inspeção 2 - Grupo 06 (Resultado)](ListaInspecEntr2-INSS.pdf).
+No link a seguir, pode ser encontrado o resultado da inspeção do grupo: [Lista de inspeção 2 - Grupo 06 (Resultado)](Entrega2Grupo.pdf).
 
 ## Acesso à gravação da inspeção
 
-A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-fortunato) e [Ana Catarina Santos](https://github.com/an4catarina) no dia 05/11/2024. No vídeo abaixo, pode ser acessado a gravação da inspeção.
+A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-fortunato) e [Ana Catarina Santos](https://github.com/an4catarina) no dia 24/11/2024. No vídeo abaixo, pode ser acessado a gravação da inspeção.
 
 <div align="center">
 
@@ -30,4 +30,4 @@ A inspeção foi realizada pelos integrantes [Júlia](https://github.com/julia-f
 
 | Versão | Data       | Descrição            | Autor                                                 |                   Revisor                   |
 | :----: | ---------- | -------------------- | ----------------------------------------------------- | :-----------------------------------------: |
-| `1.0`  | 06/11/2024 | Criação do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia](https://github.com/julia-fortunato) |
+| `1.0`  | 24/11/2024 | Criação do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |
