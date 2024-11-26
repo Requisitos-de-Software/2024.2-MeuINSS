@@ -21,7 +21,7 @@ Demais itens que podem ser melhorados podem ser verificados na lista citada acim
 
 ## Acesso à gravação da inspeção
 
-A inspeção foi realizada pelos integrantes [Júlia Fortunato](https://github.com/julia-fortunato) e [Nicolas Bonfim](https://github.com/nickgehjk), no dia 25/11/2024 por volta das 20 horas. A partir do vídeo abaixo, é possível ter acesso a gravação da inspeção feita do grupo 7.
+A inspeção foi realizada pelos integrantes [Júlia Fortunato](https://github.com/julia-fortunato) e [Nicolas Bomfim](https://github.com/nickgehjk), no dia 25/11/2024 por volta das 20 horas. A partir do vídeo abaixo, é possível ter acesso a gravação da inspeção feita do grupo 7.
 
 <div align="center">
 
@@ -41,4 +41,4 @@ A inspeção foi realizada pelos integrantes [Júlia Fortunato](https://github.c
 
 | Versão | Data       | Descrição                            | Autor                                                        |                         Revisor                         |
 | :----: | ---------- | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------------------: |
-| `1.0`  | 25/11/2024 | Criação do documento                 | [Júlia Fortunato](https://github.com/julia-fortunato)<br> | [Nicolas Bonfim](https://github.com/nickgehjk) |
+| `1.0`  | 25/11/2024 | Criação do documento                 | [Júlia Fortunato](https://github.com/julia-fortunato)<br> | [Nicolas Bomfim](https://github.com/nickgehjk) |

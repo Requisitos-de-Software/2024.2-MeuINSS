@@ -1,24 +1,24 @@
 # Definição do perfil de usuário
 
-## <p style="margin-bottom: 50px;">Introdução</p>
+## Introdução
 
-<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Com a finalidade de se conhecer melhor e ter mais clareza sobre quais são os usuários do aplicativo "Meu INSS" é interessante realizar a criação de um perfil generalista para os usuários. Esse perfil é nomeado como perfil de usuário. Além de ser um excelente auxiliar para o entendimento de para quem o projeto é feito também se torna interessante a medida que pode ser usado como base para buscar participantes para atividades futuras de análise e avaliação. O perfil de usuário se trata de uma caracterização detalhada dos usuários cujo os objetivos precisam ter apoio no sistema.[1]</p>
+Com a finalidade de se conhecer melhor e ter mais clareza sobre quais são os usuários do aplicativo "Meu INSS" é interessante realizar a criação de um perfil generalista para os usuários. Esse perfil é nomeado como perfil de usuário. Além de ser um excelente auxiliar para o entendimento de para quem o projeto é feito também se torna interessante a medida que pode ser usado como base para buscar participantes para atividades futuras de análise e avaliação. O perfil de usuário se trata de uma caracterização detalhada dos usuários cujo os objetivos precisam ter apoio no sistema.[1]
 
-## <p style="margin-bottom: 50px;">Metodologia</p>
+## Metodologia
 
-<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">As técnicas utilizadas pelo grupo para a definição do perfil do usuário foi a aplicação de questionário como também análise documental. O questionário é uma técnica que lida com um grande número de pessoas.
+As técnicas utilizadas pelo grupo para a definição do perfil do usuário foi a aplicação de questionário como também análise documental. O questionário é uma técnica que lida com um grande número de pessoas.
 Dela, podem participar todos os stakeholders do sistema e também interessados,
 além de usuários. É muito utilizada quando a disponibilidade dos envolvidos é
 complicada ou até mesmo quando se quer fazer análise estatística. A criação do
 questionário deve ser pensada e estruturada, de forma a formular questões de
 maneira assertiva, evitando dúvidas, questionários longos e cansativos e que traga
 insights sobre a necessidade do usuário, para uma boa criação de um produto de
-software.[2]</p>
+software.[2]
 
-## <p style="margin-bottom: 50px;">Definindo o perfil de usuário</p>
+## Definindo o perfil de usuário
 
-<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Após uma verificação e análise dos dados obtidos através do  <b><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Questionario/">Questionário </a>
-  </b> juntamente com uma breve análise documental foi possível estabelecer qual o perfil de usuário do aplicativo "Meu INSS", pode-se observar na tabela 1: </p>
+Após uma verificação e análise dos dados obtidos através do  <b><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Questionario/">Questionário </a>
+  </b> juntamente com uma breve análise documental foi possível estabelecer qual o perfil de usuário do aplicativo "Meu INSS", pode-se observar na tabela 1: 
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela relacionada ao perfil de usuário para o "Meu INSS"</p></font>
