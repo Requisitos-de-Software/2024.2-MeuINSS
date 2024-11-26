@@ -23,6 +23,7 @@ A entrevista primeira ocorreu de forma presencial, no dia 21/11/2024 por volta d
 **Primeiro momento:** Apresentação e explicação da entrevista
 
 **Segundo momento:** Perguntas
+
 1. Quem você imagina que usa este aplicativo?
 
 2. Quais são os cenários, situações, mais comuns que você acredita que este app é usado no dia a dia?
