@@ -60,9 +60,9 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
 
 ## Cenários
 
-### CEN01 - Agendar horário em uma agência do INSS
+### CEN01 - Agendar horário de atendimento em uma agência do INSS
 
-O cenário a seguir diz respeito ao objetivo "Agendar horário em uma agência do INSS", sua descrição detalhada pode ser encontrada na tabela 2, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão.
+O cenário a seguir diz respeito ao objetivo "Agendar horário de atendimento em uma agência do INSS", sua descrição detalhada pode ser encontrada na tabela 2, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão.
 
 <div align="center">
 
@@ -75,7 +75,7 @@ O cenário a seguir diz respeito ao objetivo "Agendar horário em uma agência d
 | Contexto    | Local: em casa, por meio do aplicativo Meu INSS<br>Tempo: Aproximadamente 3 minutos<br> Pré-condições: existir uma agência do INSS próxima ao CEP informado |
 | Recursos    | Internet<br>Smartphone<br>Aplicativo do Meu INSS instalado                           |
 | Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
-| Episódios   | O *usuário* seleciona a opção Agendar um horário em uma agência do INSS no menu lateral<br>O aplicativo exibe uma tela na qual o usuário pode informar o seu CEP<br>O *usuário* informa o seu CEP<br> O aplicativo informa agências pŕoximas aquele endereço<br>O *usuário* seleciona a agência em que deseja ser atendido <br> O aplicativo mostra as datas e horários disponíveis para atendimento <br> O *usuário* escolhe a data e horário e confirma o agendamento |
+| Episódios   | O *usuário* seleciona a opção Agendar um horário de atendimento em uma agência do INSS no menu lateral<br>O aplicativo exibe uma tela na qual o usuário pode informar o seu CEP<br>O *usuário* informa o seu CEP<br> O aplicativo informa agências pŕoximas aquele endereço<br>O *usuário* seleciona a agência em que deseja ser atendido <br> O aplicativo mostra as datas e horários disponíveis para atendimento <br> O *usuário* escolhe a data e horário e confirma o agendamento |
 | Restrição   |      O agendamento deve ser realizado com pelo menos 24 horas de antecedência em relação à data do atendimento desejado                  |
 | Exceção     | Erro de conexão com a internet <br> Todas as datas e horários disponíveis para a agência selecionada estão indisponíveis       (agência lotada)  |
 
