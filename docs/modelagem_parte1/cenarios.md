@@ -74,7 +74,7 @@ O cenário a seguir diz respeito ao objetivo "Agendar horário em uma agência d
 | Objetivo    | Agendar um horário em uma agência do INSS através do aplicativo Meu INSS            |
 | Contexto    | Local: em casa, por meio do aplicativo Meu INSS<br>Tempo: Aproximadamente 3 minutos<br> Pré-condições: existir uma agência do INSS próxima ao CEP informado |
 | Recursos    | Internet<br>Smartphone<br>Aplicativo do Meu INSS instalado                           |
-| Atores      | Usuário brasileiro com CPF ativo                                                   |
+| Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
 | Episódios   | O *usuário* seleciona a opção Agendar um horário em uma agência do INSS no menu lateral<br>O aplicativo exibe uma tela na qual o usuário pode informar o seu CEP<br>O *usuário* informa o seu CEP<br> O aplicativo informa agências pŕoximas aquele endereço<br>O *usuário* seleciona a agência em que deseja ser atendido <br> O aplicativo mostra as datas e horários disponíveis para atendimento <br> O *usuário* escolhe a data e horário e confirma o agendamento |
 | Restrição   |      O agendamento deve ser realizado com pelo menos 24 horas de antecedência em relação à data do atendimento desejado                  |
 | Exceção     | Erro de conexão com a internet <br> Todas as datas e horários disponíveis para a agência selecionada estão indisponíveis       (agência lotada)  |
@@ -100,13 +100,13 @@ O cenário a seguir diz respeito ao objetivo "Agendar horário em uma agência d
 
 
 ## Referência Bibliográfica
-> [1] Referência: SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
+> [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
 
 ## Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 >
-> Referência: SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
 >
 > Bilheteria Digital. Cenários. Grupo Bilheteria Digital da disciplina Requisitos de Software, dispoível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/>. Acesso em: 03 de dezembro de 2024.
 >
