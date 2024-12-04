@@ -17,7 +17,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
 - atores: pessoa que realiza a tarefa descrita no cenário;
 - episódios: frases que descrevem como o cenário acontece e seu comportamento, ações;
 - restrição: características que o cenário deve seguir;
-- exceção: situações que impedem a realização do cenário;
+- exceção: situações que impedem a realização do cenário.
 <br>
 
 
@@ -63,6 +63,8 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
 ### CEN01 - Agendar horário de atendimento em uma agência do INSS
 
 O cenário a seguir diz respeito ao objetivo "Agendar horário de atendimento em uma agência do INSS", sua descrição detalhada pode ser encontrada na tabela 2, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão.
+
+Rastreabilidade: [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
 
 <div align="center">
 

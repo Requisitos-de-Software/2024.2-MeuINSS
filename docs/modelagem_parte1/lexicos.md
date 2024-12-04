@@ -10,11 +10,11 @@ Léxicos, no contexto de modelagem de requisitos de software, têm como principa
 Os léxicos do Meu INSS foram identificados a partir dos [requisitos elicitados](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) na etapa anterior do projeto. Como foi solicitado na disciplina, cada integrante do grupo trabalhou com um requisito funcional não implementado e desenvolveu os artefatos para ele. A equipe também adicionou léxicos que achou relevante para o domínio da aplicação estudada.
 
 
-Além disso, foram construídos léxicos seguindo a seguinte classificação e estrutura utilizada em LAL (Léxico Ampliado de Linguagem).  Na tabela 2 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
+Além disso, foram construídos léxicos seguindo a seguinte classificação e estrutura utilizada em LAL (Léxico Ampliado de Linguagem) [1]. Na tabela 1 abaixo, temos um exemplo de como os léxicos serão apresentados e descritos:
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Modelo dos léxicos (LAL)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Modelo dos léxicos (LAL)</p></font>
 </div>
 
 
@@ -39,6 +39,26 @@ Os léxicos deveriam possuir os seguintes tópicos/características:
 
 ## Léxicos
 
+### L01 - Agendar atendimento 
+
+O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos seguintes requisitos não implementados: o sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo - [OBS03](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#requisitos-funcionais), [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Descrição do léxico 01 - Agendar atendimento</p></font>
+</div>
+
+| L01 - Agendar atendimento | Descrição |
+|-----------------|-------|
+| Classificação | Verbo |
+| Noção | Tarefa realizada pelo usuário <br>Ação de selecionar um horário específico para atendimento presencial em uma unidade do INSS, através do aplicativo Meu INSS | 
+| Impacto | Permite ao usuário organizar seu atendimento de forma eficiente, ao garantir que o mesmo seja realizado em um horário previamente marcado <br>A sua ausência pode gerar insatisfação, filas excessivas e problemas logísticos nas agências no INSS  |
+| Sinônimo(s) | Marcar horário, reservar horário |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+</div>
+
 
 
 ## Referência bibliográfica 
@@ -55,4 +75,4 @@ Os léxicos deveriam possuir os seguintes tópicos/características:
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar, usuário|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
