@@ -18,7 +18,7 @@ Conforme podemos observar na tabela 1, o cronograma é estruturado em técnica, 
 | [Entrevista](entrevista.md)     | 21 e 23/11/2024 | 20:00 e 16:00 | Presencial               | Kamila e Jailton      | [Júlia Fortunato](https://github.com/julia-fortunato), [Maurício Ferreira](https://github.com/mauricio-araujoo)                                                          |
 | [Glossário](glossario.md)       |   22/11/2024    |     17:00     | Visual Studio Code       | -                     | [Ana Catarina Santos](https://github.com/an4catarina)                                                                                                                    |
 | [Introspecção](introspeccao.md) |   23/11/2024    |     10:00     | Visual Studio Code       | -                     | [Maurício Ferreira](https://github.com/mauricio-araujoo)                                                                                                                 |
-| [Observação](observacao.md)     |   23/11/2024    |     21:00     | Discord, Microsoft Teams | -                     | [Ana Catarina Santos](https://github.com/an4catarina), [Cristiano Morais](https://github.com/CristianoMoraiss), [Júlia Fortunato](https://github.com/julia-fortunato)    |
+| [Observação](observacao.md)     |   23/11/2024    |     21:00     | Discord, Microsoft Teams | Maria das Dores Silva | [Ana Catarina Santos](https://github.com/an4catarina), [Cristiano Morais](https://github.com/CristianoMoraiss), [Júlia Fortunato](https://github.com/julia-fortunato)    |
 
 </center>
 
