@@ -114,4 +114,4 @@ Além disso, todos deveriam se capacitar para a construção dos artefatos para 
 
 | Versão | Data       | Descrição                   | Autor                                                 | Revisor                                               |
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-|  1.0   | 02/12/2024 | Criação da ata de reunião 5 | [Júlia Fortunato](https://github.com/julia-fortunato) |  |
+|  1.0   | 02/12/2024 | Criação da ata de reunião 5 |[Júlia Fortunato](https://github.com/julia-fortunato)|[Cristiano Morais](https://github.com/CristianoMoraiss)|
