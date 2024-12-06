@@ -35,12 +35,12 @@
 </tr>
 <tr>
 <td>Retângulo (Sistema)</td>
-<td>Usado no diagrama para representar o sistema ou também o bloco em análise. Ele engloba tanto os casos de uso como também os atores relacionados</td>
+<td>Usado no diagrama para representar o sistema ou também o bloco em análise. Ele engloba tanto os casos de uso como também os atores relacionados.</td>
 <td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="retangulo" src="../../assets/usecase/retangulo.png" /></figure></td>
 </tr>
 <tr>
 <td>Flecha (Relações)</td>
-<td>São usadas com a finalidade de mostrar as relações ou interações que existem entre atores e os casos de uso</td>
+<td>São usadas com a finalidade de mostrar as relações ou interações que existem entre atores e os casos de uso.</td>
 <td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="flechas" src="../../assets/usecase/flecha.png" /></figure></td>
 </tr>
 </tbody>
