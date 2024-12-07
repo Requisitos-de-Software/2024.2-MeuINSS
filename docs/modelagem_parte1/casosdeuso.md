@@ -220,11 +220,85 @@ Na tabela 8, encontra-se a especificação do caso de uso UC07 - Notificar indis
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div >
 
+### UC08. Consultar Benefícios
+
+Na tabela 9, encontra-se a especificação do caso de uso UC08 - Consultar Benefícios. 
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso UC08</p></font>
+</div>
+
+| UC08 | Consultar Benefícios |
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado |
+| **Frequência de uso** | Alta |
+| **Pré-condições** | PRE01. Possuir uma conexão com a internet. <br> PRE02. Possuir o aplicativo Meu INSS instalado. <br> PRE03. Estar logado no aplicativo Meu INSS. |
+| **Fluxo básico** | FB01. <ol> <li> O usuário acessa o aplicativo Meu INSS e seleciona a opção "Consultar Benefícios". </li> <li> O sistema exibe uma lista dos benefícios vinculados ao CPF do usuário. </li> <li> O usuário seleciona um benefício desejado para mais detalhes. </li> <li> O sistema apresenta as informações detalhadas do benefício, incluindo: <ul><li>Nome do benefício</li><li>Status atual (ativo, inativo, pendente)</li><li>Valor mensal</li><li>Próxima data de pagamento</li><li>Histórico de pagamentos recentes</li></ul></li> <li> O usuário encerra a consulta ou retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Fluxos alternativos** | FA01: O usuário não possui benefícios cadastrados <ol> <li> O usuário acessa a opção "Consultar Benefícios". </li> <li> O sistema exibe uma mensagem informando que não há benefícios vinculados ao CPF do usuário. </li> <li> O usuário retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> FA02: O usuário deseja buscar por outro benefício <ol> <li> Após visualizar os detalhes de um benefício, o usuário retorna à lista de benefícios. </li> <li> O usuário seleciona outro benefício para consulta. </li> <li> O sistema exibe os detalhes do novo benefício. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Fluxos de exceção** | FE01: Sem conexão à internet <ol> <li> O sistema detecta que não há conexão com a internet. </li> <li> O sistema exibe uma mensagem de erro informando que é necessário estar conectado à internet para consultar os benefícios. </li> <li> Fim do caso de uso. </li> </ol> FE02: Erro ao carregar os benefícios <ol> <li> O sistema encontra problemas ao carregar a lista de benefícios. </li> <li> O sistema exibe uma mensagem informando que não foi possível concluir a operação e sugere tentar novamente mais tarde. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Pós-condições** | POS01. O usuário visualiza as informações detalhadas do benefício consultado, se houver. |
+| **Data da criação** | 07/12/2024 |
+| **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) |
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### UC09. Exibir impacto da contribuição no benefício
+
+Na tabela 10, encontra-se a especificação do caso de uso UC09 - Exibir impacto da contribuição no benefício. 
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 10:</b> Especificação do caso de uso UC09</p></font>
+</div>
+
+| UC09 | Exibir impacto da contribuição no benefício |
+| --- | --- |
+| **Atores** | Usuário trabalhador |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. Possuir uma conexão com a internet. <br> PRE02. Possuir o aplicativo Meu INSS instalado. <br> PRE03. Estar logado no aplicativo Meu INSS. |
+| **Fluxo básico** | FB01. <ol> <li> O usuário acessa o aplicativo Meu INSS e seleciona a opção "Consultar Benefícios". </li> <li> O sistema exibe uma lista dos benefícios vinculados ao CPF do usuário. </li> <li> O usuário seleciona um benefício desejado para mais detalhes. </li> <li> O sistema apresenta as informações detalhadas do benefício. </li> <li> O usuário seleciona a opção "Exibir impacto da contribuição no benefício". </li> <li> O sistema solicita ao usuário que informe o valor da contribuição. </li> <li> O usuário insere o valor da contribuição desejada. </li> <li> O sistema calcula o impacto da contribuição no benefício futuro, considerando o histórico contributivo do usuário e a legislação vigente. </li> <li> O sistema exibe os resultados, incluindo: <ul><li>Benefício estimado com base na contribuição informada.</li><li>Comparativo com o valor do benefício atual, se aplicável.</li><li>Sugestões para otimizar a contribuição.</li></ul></li> <li> O usuário encerra a consulta ou retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Fluxos alternativos** | FA01: O usuário deseja simular um novo valor de contribuição <ol> <li> Após visualizar os resultados, o usuário retorna à tela de simulação e informa um novo valor de contribuição. </li> <li> O sistema recalcula o impacto e exibe os novos resultados. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Fluxos de exceção** | FE01: Valor de contribuição inválido <ol> <li> O usuário insere um valor inválido (ex.: texto em vez de números ou valor fora do permitido). </li> <li> O sistema exibe uma mensagem de erro e solicita um valor válido. </li> <li> O usuário corrige o valor e continua o fluxo básico. </li> <li> Fim do caso de uso. </li> </ol> FE02: Sem conexão à internet <ol> <li> O sistema detecta que não há conexão com a internet. </li> <li> O sistema exibe uma mensagem de erro informando que é necessário estar conectado à internet para realizar a simulação. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Pós-condições** | POS01. O usuário obtém uma estimativa detalhada sobre o impacto da contribuição no benefício futuro. |
+| **Data da criação** | 07/12/2024 |
+| **Rastreabilidade** | [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### UC10. Exibir projeção de benefício futuro
+
+Na tabela 11, encontra-se a especificação do caso de uso UC10 - Exibir projeção de benefício futuro. 
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 11:</b> Especificação do caso de uso UC10</p></font>
+</div>
+
+| UC10 | Exibir projeção de benefício futuro |
+| --- | --- |
+| **Atores** | Usuário trabalhador |
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. Possuir uma conexão com a internet. <br> PRE02. Possuir o aplicativo Meu INSS instalado. <br> PRE03. Estar logado no aplicativo Meu INSS. <br> PRE04. O usuário deve ter acessado a funcionalidade "Consultar Benefícios" (UC08). |
+| **Fluxo básico** | FB01. <ol> <li> Durante a consulta de um benefício (UC08), o usuário seleciona a opção "Exibir projeção de benefício futuro". </li> <li> O sistema solicita ao usuário que informe: <ul><li>Tempo adicional de contribuição desejado (em meses ou anos).</li><li>Valor médio da contribuição futura.</li></ul></li> <li> O usuário insere os valores solicitados. </li> <li> O sistema calcula a projeção do benefício futuro, considerando: <ul><li>O histórico contributivo do usuário.</li><li>As regras da legislação vigente.</li><li>Os valores e tempo adicional informados.</li></ul></li> <li> O sistema exibe os resultados da projeção, incluindo: <ul><li>Valor estimado do benefício com base na projeção.</li><li>Tempo necessário para alcançar o valor projetado (se aplicável).</li><li>Recomendações adicionais para melhorar o benefício futuro.</li></ul></li> <li> O usuário encerra a consulta ou retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Fluxos alternativos** | FA01: O usuário deseja ajustar os valores da projeção <ol> <li> Após visualizar os resultados, o usuário retorna à tela de ajuste e informa novos valores para a projeção. </li> <li> O sistema recalcula a projeção e exibe os novos resultados. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Fluxos de exceção** | FE01: Valor de entrada inválido <ol> <li> O usuário insere valores inválidos (ex.: texto em vez de números, ou valores fora do permitido). </li> <li> O sistema exibe uma mensagem de erro e solicita valores válidos. </li> <li> O usuário corrige os valores e continua o fluxo básico. </li> <li> Fim do caso de uso. </li> </ol> FE02: Sem conexão à internet <ol> <li> O sistema detecta que não há conexão com a internet. </li> <li> O sistema exibe uma mensagem de erro informando que é necessário estar conectado à internet para realizar a projeção. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Pós-condições** | POS01. O usuário obtém uma projeção detalhada sobre o valor futuro do benefício com base nos dados inseridos. |
+| **Data da criação** | 07/12/2024 |
+| **Rastreabilidade** | [RF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+
 ### UC11. Consultar Pensão
 
-Na tabela 9, encontra-se a especificação do caso de uso UC11 - Consultar Pensão. 
+Na tabela 12, encontra-se a especificação do caso de uso UC11 - Consultar Pensão. 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso UC11</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12:</b> Especificação do caso de uso UC11</p></font>
 </div>
 
 | UC11 | Consultar Pensão |
@@ -255,4 +329,5 @@ Na tabela 9, encontra-se a especificação do caso de uso UC11 - Consultar Pens�
 | Versão | Data       | Descrição                   | Autor                                                 | Revisor                                               |
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 |  1.0   | 05/12/2024 | Criação do documento        |     [Cristiano Moraes](http://github.com/CristianoMoraiss)   |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                   |
-|  1.1   | 06/12/2024 | Adição dos UC01 até UC07       |     [Júlia Fortunato](http://github.com/julia-fortunato) |                                    |
+|  1.1   | 06/12/2024 | Adição dos UC01 até UC07       |     [Júlia Fortunato](http://github.com/julia-fortunato) |  [Ana Catarina Santos](http://github.com/an4catarina)                                  |
+|  1.1   | 06/12/2024 | Adição dos UC08 até UC10       |     [Ana Catarina Santos](http://github.com/an4catarina) |                                    |

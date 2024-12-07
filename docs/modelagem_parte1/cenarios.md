@@ -34,7 +34,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
   <tbody>
     <tr>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
-      <td><a href="https://">-</a></td>
+      <td><a href="https://">Consultar o impacto da contribuição do usuário no benecfício</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
@@ -111,9 +111,31 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 </div>
 
-### CEN03 - 
+### CEN03 - Consultar o impacto da contribuição do usuário no benecfício
+
+O cenário a seguir diz respeito ao objetivo "Consultar o impacto da contribuição do usuário no benecfício", sua descrição detalhada pode ser encontrada na tabela 4, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
+
+Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar o impacto da contribuição do usuário no benecfício" </p></font>
+</div>
+
+| **Elemento**  | **Descrição**                                                                           |
+|---------------|-----------------------------------------------------------------------------------------|
+| **Objetivo**  | Mostrar o impacto da contribuição do usuário no seu benefício através do aplicativo Meu INSS |
+| **Contexto**  | **Local**: em casa, por meio do aplicativo Meu INSS<br>**Tempo**: Aproximadamente 5 minutos<br>**Pré-condições**: O usuário deve ter realizado contribuições ao INSS e o aplicativo Meu INSS deve estar instalado no dispositivo. |
+| **Recursos**  | Internet<br>Smartphone<br>Aplicativo Meu INSS instalado                                 |
+| **Atores**    | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS |
+| **Episódios** | **1.** O usuário acessa o aplicativo Meu INSS e seleciona a opção "Exibir impacto da contribuição no benefício".<br>**2.** O sistema solicita ao usuário que insira o valor da contribuição.<br>**3.** O usuário insere o valor da contribuição.<br>**4.** O sistema calcula o impacto dessa contribuição no benefício futuro do usuário, considerando o histórico de contribuições.<br>**5.** O sistema exibe os resultados, incluindo:<br> - O impacto da contribuição no valor do benefício futuro.<br> - Sugestões para melhorar o impacto da contribuição.<br>**6.** O usuário pode retornar ao menu principal ou encerrar a consulta.<br>**Fluxos alternativos**: FA01: O usuário deseja simular um novo valor de contribuição.<br>**Fluxos de exceção**: FE01: Valor de contribuição inválido.<br>FE02: Sem conexão à internet. |
+| **Restrição** | O cálculo do impacto depende do histórico completo de contribuições e da legislação vigente. |
+| **Exceção**   | **Sem acesso à internet**: O usuário não consegue acessar os dados devido à falta de conexão com a internet.<br>**Dados de contribuição inválidos**: O usuário insere valores de contribuição inconsistentes ou inválidos. |
 
 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
 
 ### CEN04 - Simular cenário previdenciário
 
@@ -163,4 +185,5 @@ Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|03/12/2024|Criação de documento e adição do cenário sobre "agendar horário em uma agência do INSS"|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.0`|03/12/2024|Criação de documento e adição do cenário sobre "agendar horário em uma agência do INSS"|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
+|`1.1`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benecfício"|[Ana Catarina Santos](https://github.com/an4catarina)|[](https://github.com/)|
