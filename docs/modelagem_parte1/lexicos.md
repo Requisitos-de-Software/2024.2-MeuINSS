@@ -26,7 +26,7 @@ Além disso, foram construídos léxicos seguindo a seguinte classificação e e
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="http://www.nilc.icmc.usp.br/til/til2006/0030.pdf">Miriam Sayão e Gustavo R. de Carvalho</a>, 2006</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="http://www.nilc.icmc.usp.br/til/til2006/0030.pdf">Contrução do léxico de aplicações</a>, 2006</p></font>
 </div>
 
 Os léxicos deveriam possuir os seguintes tópicos/características:

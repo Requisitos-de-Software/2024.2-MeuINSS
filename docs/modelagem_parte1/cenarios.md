@@ -62,9 +62,9 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
 
 ### CEN01 - Agendar horário de atendimento em uma agência do INSS
 
-O cenário a seguir diz respeito ao objetivo "Agendar horário de atendimento em uma agência do INSS", sua descrição detalhada pode ser encontrada na tabela 2, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão.
+O cenário a seguir diz respeito ao objetivo "Agendar horário de atendimento em uma agência do INSS", sua descrição detalhada pode ser encontrada na tabela 2, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
 
-Rastreabilidade: [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
+Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
 
 <div align="center">
 
@@ -94,6 +94,29 @@ Rastreabilidade: [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 
 ### CEN04 - 
+
+O cenário seguinte diz respeito ao objetivo de fazer uma simulação do cenário previdenciário do usuário baseado na sua contribuição e no tempo no qual ele contribui, para uma descrição detalhada pode ser observada a tabela 5 com todas as detalhações necenssárias disponíveis: 
+
+Rastreabilidade: [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Agendar horário em uma agência do INSS" </p></font>
+</div>
+
+| Elemento    | Descrição                                                                           |
+|-------------|-------------------------------------------------------------------------------------|
+| Objetivo    | Simular cenário previdenciário           |
+| Contexto    | Local: em casa, através da utilização do aplicativo Meu INSS<br>Tempo: Por volta de 5 minutos <br> Pré-condições: Acesso ao aplicativo do "Meu INSS"  |
+| Recursos    | Internet<br> Smartphone<br>Aplicativo do Meu INSS instalado                           |
+| Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
+| Episódios   | O *usuário* seleciona a opção simular cenário previdenciário baseado na contribuiçõa.<br> O aplicativo exibe uma tela na qual o usuário pode verificar a quantidade finaceira de contribuição pelo tempo e por quanto tempo houve a contribuição para realizar uma estimativa da sua previdência final.|
+| Restrição   |     Sem acesso a internet<br> Nunca contribuiu pra previdência.                   |
+| Exceção     | Sem acesso a internet <br>  Alguma impossibilidade para prever o cenário previdenciário  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+</div>
 
 
 
