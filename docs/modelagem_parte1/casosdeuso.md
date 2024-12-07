@@ -235,13 +235,44 @@ Na tabela 9, encontra-se a especificação do caso de uso UC11 - Consultar Pens�
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de consultar pensões.</li> <li>O sistema retorna o historico de pagamentos de pensões </li> </ol>|
 | **Fluxos alternativos** | FA01: O usuário escolhe cancelar a consulta <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol> |
 | **Fluxos de exceção** | FE01: Falha na consulta do historico de pagamento <ol><li>O sistema notifica o erro</li> <li>O sistema da a opção de tentar novamente ou sair</li> </ol> |
-| **Pós-condições** |POS01. O usuário é notificado da indisponibilidade do sistema de consultar o historico e o incentiva a tentar mais tarde.|
+| **Pós-condições** |POS01. O usuário consegue consultar a pensão.|
 | **Data da criação** | 07/12/2024 |
 | **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 </div >
+
+### UC12. Consultar historico de pagamentos
+
+Na tabela 10, encontra-se a especificação do caso de uso UC12 - Consultar historico de pagamentos. 
+<div align="center">
+<font size="3">
+<p style="text-align: center">
+<b>Tabela 10:</b> 
+Especificação do caso de uso UC12
+</p>
+</font>
+</div>
+
+| UC12 | Consultar historico de pagamentos |
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Alta(Acionado quando o usuário deseja realizar um pagamento de pensão ou consultar suas pensões) |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>|
+| **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de consultar pensões.</li> <li>O sistema consulta o historico de pagamentos de pensões. </li> </ol> FB02. <ol><li>O usuário inicia o processo de realizar pagamento de pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li></ol>|
+| **Fluxos alternativos** | FA01: O usuário escolhe cancelar a consulta <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol> FA02: O usuário escolhe cancelar a realização de pagamento <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol>|
+| **Fluxos de exceção** | FE01: Falha na consulta do historico de pagamento <ol><li>O sistema notifica o erro</li> <li>O sistema da a opção de tentar novamente ou sair</li> </ol> |
+| **Pós-condições** |POS01. O sistema recolhe as informações da consulta e executa a tarefa escolhida pelo usuário.|
+| **Data da criação** | 07/12/2024 |
+| **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+</div >
+
+
+
 
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
 
