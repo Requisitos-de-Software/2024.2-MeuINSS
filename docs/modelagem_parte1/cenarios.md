@@ -38,7 +38,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
     </tr>
     <tr>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
-      <td><a href="https://github.com/">-</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/#cen01-agendar-horario-em-uma-agencia-do-inss"> Conferir cenários previdenciários </a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
@@ -115,7 +115,7 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 
 
-### CEN04 - 
+### CEN04 - Simular cenário previdenciário
 
 O cenário seguinte diz respeito ao objetivo de fazer uma simulação do cenário previdenciário do usuário baseado na sua contribuição e no tempo no qual ele contribui, para uma descrição detalhada pode ser observada a tabela 5 com todas as detalhações necenssárias disponíveis: 
 
@@ -123,7 +123,7 @@ Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Prever cenário previdenciário" </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Prever cenário previdenciário" </p></font>
 </div>
 
 | Elemento    | Descrição                                                                           |
