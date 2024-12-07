@@ -85,9 +85,31 @@ Rastreabilidade: [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div>
 
-### CEN02 - 
+### CEN02 - Realizar pagamento de pensão 
 
 
+O cenário a seguir diz respeito ao objetivo "Realizar pagamento de pensão no aplicativo do Meu INSS", sua descrição detalhada pode ser encontrada na tabela 3, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
+
+Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Cenário referente ao objetivo "Realizar pagamento de pensão" </p></font>
+</div>
+
+| Elemento    | Descrição                                                                           |
+|-------------|-------------------------------------------------------------------------------------|
+| Objetivo    | Realizar pagamento de pensão no aplicativo do Meu INSS            |
+| Contexto    | Local: em casa, por meio do aplicativo Meu INSS<br>Tempo: Aproximadamente 10 minutos<br> Pré-condições: possuir os meios necessarios para pagamento do boleto gerado |
+| Recursos    | Internet<br>Smartphone<br>Aplicativo do Meu INSS instalado                           |
+| Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
+| Episódios   | O *usuário* seleciona a opção consultar pensões no menu lateral <br> O aplicativo exibe o historico de pagamento de pensão na tela <br> O *usuário* seleciona a opção de realizar pagamento pendente <br> O aplicativo exibe o valor a ser pago junto com os dados do *usuário* <br> O *usuário* seleciona a opção de confirmar após ler o valor a ser pago <br>O aplicativo redirecina para um boleto gerado na hora para o pagamento |
+| Restrição   |O boleto deve ser pago em pelo menos 72 horas apósa emissão do mesmo.|
+| Exceção     | Erro de conexão com a internet <br> Tentativa de realizar pagamento em horario não comercial|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+</div>
 
 ### CEN03 - 
 
