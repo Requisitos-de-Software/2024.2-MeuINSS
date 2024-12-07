@@ -46,7 +46,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
     </tr>
     <tr>
       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td><a href="https://github.com/">-</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/">Realizar pagamento de pensão</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nickgehjk">Nicolas Bonfim</a></td>
