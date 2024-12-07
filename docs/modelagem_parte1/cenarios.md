@@ -115,7 +115,7 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 
 
-### CEN04 - 
+### CEN04 - Simular cenário previdenciário
 
 O cenário seguinte diz respeito ao objetivo de fazer uma simulação do cenário previdenciário do usuário baseado na sua contribuição e no tempo no qual ele contribui, para uma descrição detalhada pode ser observada a tabela 5 com todas as detalhações necenssárias disponíveis: 
 
