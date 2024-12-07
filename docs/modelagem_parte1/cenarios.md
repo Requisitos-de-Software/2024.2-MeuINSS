@@ -123,7 +123,7 @@ Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Cenário referente ao objetivo "Prever cenário previdenciário" </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Prever cenário previdenciário" </p></font>
 </div>
 
 | Elemento    | Descrição                                                                           |
