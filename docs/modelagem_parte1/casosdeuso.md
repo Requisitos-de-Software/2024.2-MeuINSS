@@ -26,22 +26,22 @@
 <tr>
 <td>Atores do Sistema</td>
 <td>Servem como uma representação dos atores que participam de alguma forma do sistema, podem ser desde usuários até componentes e subsistemas.</td>
-<td style="text-align: center;"><figure class="usecaseElement" style="width: 20%; display: flex;"><img alt="actor" src="../../assets/usecase/actor.png" /></figure></td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 50%; display: flex;"><img alt="actor" src="../../imagens/casoDeUso/ator.svg" /></figure></td>
 </tr>
 <tr>
 <td>Elipse (Caso de Uso)</td>
 <td>Símbolo usado dentro do diagrama para representar efetivamente os casos de uso. O caso de uso se trata de uma determinada ação e/ou também funcionalidade que o sistema executará de acordo com as decisões dos atores, esse elemento (Elipse) possui em si o nome do caso de uso específico. </td>
-<td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="elipse" src="../../assets/usecase/elipse.png" /></figure></td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 60%; display: flex;"><img alt="elipse" src="../../imagens/casoDeUso/casoDeUso.svg" /></figure></td>
 </tr>
 <tr>
 <td>Retângulo (Sistema)</td>
 <td>Usado no diagrama para representar o sistema ou também o bloco em análise. Ele engloba tanto os casos de uso como também os atores relacionados.</td>
-<td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="retangulo" src="../../assets/usecase/retangulo.png" /></figure></td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 60%; display: flex;"><img alt="retangulo" src="../../imagens/casoDeUso/sistema.svg" /></figure></td>
 </tr>
 <tr>
 <td>Flecha (Relações)</td>
 <td>São usadas com a finalidade de mostrar as relações ou interações que existem entre atores e os casos de uso.</td>
-<td style="text-align: center;"><figure class="usecaseElement" style="width: 40%; display: flex;"><img alt="flechas" src="../../assets/usecase/flecha.png" /></figure></td>
+<td style="text-align: center;"><figure class="usecaseElement" style="width: 80%; display: flex;"><img alt="flechas" src="../../imagens/casoDeUso/relacionamento.svg" /></figure></td>
 </tr>
 </tbody>
 </table>
@@ -218,6 +218,29 @@ Na tabela 8, encontra-se a especificação do caso de uso UC07 - Notificar indis
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+</div >
+
+### UC11. Consultar Pensão
+
+Na tabela 9, encontra-se a especificação do caso de uso UC11 - Consultar Pensão. 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Especificação do caso de uso UC11</p></font>
+</div>
+
+| UC11 | Consultar Pensão |
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>|
+| **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de agendamento e escolhe uma agência, data e horário. </li> <li> O sistema verifica a disponibilidade de vagas na agência e para o horário escolhido. </li> <li> O sistema detecta que não há vagas disponíveis. </li> <li> O sistema notifica o usuário informando que não há vagas disponíveis para o horário ou agência selecionada. </li> <li> O usuário é convidado a selecionar outra agência, data ou horário. </li> <li> Fim do caso de uso. </li> </ol>|
+| **Fluxos alternativos** | FA01: O usuário escolhe alterar a agência <ol> <li> O usuário decide mudar a agência escolhida após a notificação de indisponibilidade. </li> <li> O sistema exibe as agências disponíveis, e o fluxo retorna ao UC03 para seleção de nova agência. </li> </ol> FA02: O usuário escolhe outra data ou horário <ol> <li> O usuário decide selecionar uma nova data ou horário após ser notificado sobre a indisponibilidade.</li> <li> O fluxo retorna ao UC04, onde o usuário pode escolher uma nova data e horário disponíveis. </li> </ol> |
+| **Fluxos de exceção** | FE01: Falha na notificação ao usuário <ol> <li> O sistema detecta a indisponibilidade de vagas, mas não consegue notificar o usuário devido a uma falha técnica.</li> <li> O sistema informa que houve uma falha e sugere que o usuário tente novamente mais tarde. </li> <li> Fim do caso de uso. </li> </ol> FE02: Sistema falha ao verificar a disponibilidade de vagas <ol> <li> O sistema tenta verificar a disponibilidade de vagas, mas ocorre uma falha na comunicação de informações.</li> <li> O sistema exibe uma mensagem de erro e sugere que o usuário tente novamente mais tarde. </li> <li> Fim do caso de uso. </li> </ol> |
+| **Pós-condições** |POS01. O usuário é notificado da indisponibilidade de vagas e, caso deseje, pode tentar selecionar outra opção de agendamento.|
+| **Data da criação** | 07/12/2024 |
+| **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 </div >
 
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
