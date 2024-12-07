@@ -38,7 +38,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
     </tr>
     <tr>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
-      <td><a href="https://github.com/">-</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/#cen01-agendar-horario-em-uma-agencia-do-inss"> Conferir cenários previdenciários </a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
