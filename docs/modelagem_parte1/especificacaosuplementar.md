@@ -8,6 +8,14 @@
 
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">Para a confecção do documento optou-se por utilizar de base a metodologia descrita pelo modelo FURPS+, se tratando de uma técnica para a realização da coleta e organização dos requisitos não-funcionais de forma eficiente. Vale ressaltar que o termo FURPS+ é um acrônimo para: Functionality (Funcionalidade); Usability (Usabilidade); Reliability (Confiabilidade); Performance (Desempenho); Supportability (Suporte). Além desses citados o modelo também prevê os requisitos voltados para questões de design, implementação, interface entre outros. A página está categorizada de acordo com os tópicos abordados pelo modelo e cada categoria apresenta os requisitos relacionados ao "Meu INSS" que se enquadram em cada uma delas.  </p>
 
+## <p style="margin-bottom: 50px;">Funcionalidades</p>
+
+<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">No que se refere aos requisitos elicitados em relação as funcionalidades do sistema, eles podem ser observados na página dedicada a elicitção de requisitos presentes no link <b><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/">elicitação de requisitos </a></b>.</p>
+
+
+
+
+
 
 
 
@@ -17,7 +25,7 @@
 > [1] SERRANO, Milene; SERRANO, Maurício. Elicitação, Modelagem e Análise - Aula 13. s.d. Slide 8 de 40. Disponível em: <a>https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>. Acesso em: 05 Dez. 2024. </br>
 
 
-## <p style="margin-bottom: 50px;">Histórico de Versão</p> 
+## <p style="margin-bottom: 50px;">Histórico de Versões</p> 
 
 
 | Versão | Data       | Descrição                   | Autor                                                 | Revisor                                               |
