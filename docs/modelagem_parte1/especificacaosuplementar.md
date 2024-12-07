@@ -13,30 +13,30 @@
 <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">No que se refere aos requisitos elicitados em relação as funcionalidades do sistema, eles podem ser observados na página dedicada a elicitção de requisitos presentes no link <b><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/">elicitação de requisitos </a></b>.</p>
 
 
+
 ## <p style="margin-bottom: 50px;">Suportabilidade</p>
 
-Na categoria de soportabilidade, tem-se os requisitos que estão relacionados ao suporte e manutenção do sistema, que inevitavelmente, garantem a facil
-eunam e edad
+Na categoria de soportabilidade, tem-se os requisitos que estão relacionados ao suporte e manutenção do sistema, que inevitavelmente, garantem a facilidade de manutenção e evolução do sistema ao longo do tempo, tornando-o mais robusto.
 
-Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso inclui requisitos relacionados à facilidade de manutenção, capacidade de ser modificado e atualizado, documentação adequada, facilidade de teste e diagnóstico de problemas.
 
-Para essa categoria os requisitos identificados estão representados na tabela ? a seguir.
+Além de tratar de atualizações e correções, também possui requisitos relacionados a diagnóstico de problemas, monitoramento contínuo e rastreabilidade de alterações.
 
-<font><p style="text-align: center">Tabela ? - Requisitos de Suportabilidade</p></font>
+<p style="text-align: center">Tabela 4 - Requisitos de Suportabilidade</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------  |
-| SUP01 | O sistema deve possuir uma documentação separada em tópicos (ao menos 10 tópicos principais) e que apresente grande parte das dúvidas mais frequentes.                                                                                                                     |  |
-| SUP02 | O sistema deve possuir uma facilidade de manutenção através de uma estrutura modular e código bem organizado.                                                                                                                                                              |  |
-| SUP03 | O sistema deve possuir uma capacidade de extensão para adicionar novas funcionalidades e acompanhar as mudanças.                                                                                                                                                           |  |
-| SUP04 | O sistema deve possuir uma facilidade de atualização com processos eficientes (de até 200ms) e sem interrupções significativas, que ultrapassem o tempo limite de resposta.                                                                                                |  |
-| SUP05 | O sistema deve possuir um suporte ao [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) com canais adequados de suporte e equipe  |  |disponível.                                                                                                                                                                          |  |
-| SUP06 | O sistema deve possuir uma testabilidade, com facilidade de realização de testes durante o desenvolvimento e a manutenção.                                                                                                                                                 |  |
-| SUP07 | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações.                                                                                        |  |
-| SUP08 | O sistema deve possuir uma tolerância a falhas para garantir que o sistema possa lidar com falhas adequadamente, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, backups regulares e restauração rápida em caso de falhas. |  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------  |
+| SUP01 | O sistema deve possuir documentação detalhada e estruturada, que pode ser testada por meio de auditorias e revisão de sua clareza, abrangência e atualização.                                                                                                                         | - |
+| SUP02 | O sistema deve ter uma arquitetura modular que permita a modificação de componentes de forma independente, o que pode ser validado por testes de integração para garantir que modificações não afetem outras partes do sistema.                                                                                                                                                              | - |
+| SUP03 | O sistema deve possibilitar a realização de atualizações automáticas, que devem ser testadas para garantir que ocorram sem interrupções no serviço, com um tempo de inatividade inferior a 1 segundo.                                                                                                                                                           | - |
+| SUP04 | O sistema deve fornecer suporte em tempo real ao usuário, que não apresentem latência superior a 2 segundos durante o uso.                                                                                                                                                          | [RNF03](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| SUP05 | O sistema deve manter a rastreabilidade das mudanças, o que pode ser validado por meio de logs de alterações e controle de versão, permitindo rastrear qualquer modificação e verificar se está documentada corretamente.                                                                                                                                                                      | - |
+| SUP06 | O sistema deve possuir suporte testável para tecnologias assistivas, que responda bem a testes.                                                                                                                              | [RNF07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| SUP07 | O sistema deve permitir a personalização de configurações de preferências pelo usuário, sendo validado por meio de testes que simulem alterações nas preferências de usabilidade e verifiquem a aplicação das modificações sejam efetivadas em até no máximo 100ms.                                                                                        | - |
+| SUP08 | O sistema deve ser compatível e oferecer suporte pleno tanto para dispositivos Android quanto iOS| -  |
+| SUP09 | O sistema deve ser capaz de detectar falhas automaticamente e fornecer um mecanismo de recuperação sem perda de dados ou interrupção significativa, fazendo um backup completo (uma vez por dia) e backups incrementais (a cada 2-4 horas durante o dia, dependendo da quantidade de transações no banco de dados)| -  |
 
-<font size="3"><p style="text-align: center">Autora: [Júlia Fortunato, 2024](https://github.com/julia-fortunato).</p></font>
 
+<font size="3"><p style="text-align: center">Autor: [Júlia Fortunato](https://github.com/julia-fortunato).</p></font>
 
 
 
@@ -76,4 +76,5 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 | Versão | Data       | Descrição                   | Autor                                                 | Revisor                                               |
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-|  1.0   | 05/12/2024 | Criação do documento        |                                                       |                                                       |
+|  1.0   | 05/12/2024 | Criação do documento        |          [Cristiano Moraes](http://github.com/CristianoMoraiss)                                              |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                      |
+|  1.1   | 06/12/2024 | Adição de requisitos de confiabilidade e suportabilidade      |          [Cristiano Moraes](http://github.com/CristianoMoraiss)      e                              [Júlia Fortunato](http://github.com/julia-fortunato)             |                                               |

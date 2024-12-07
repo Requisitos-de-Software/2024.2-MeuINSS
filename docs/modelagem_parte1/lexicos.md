@@ -66,7 +66,7 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Descrição do léxico 01 - Cenário previdenciário</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Descrição do léxico 02 - Cenário previdenciário</p></font>
 </div>
 
 | L01 - Agendar atendimento | Descrição |
@@ -78,6 +78,25 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div>
+
+### L03 - Consultar impacto da contribuição no benefício
+
+O terceiro cenário léxico, presente na Tabela 3, utiliza os seguintes requisitos funcionais não implementados: O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício. - [IS06](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Descrição do léxico 03 - Impacto da contribuição no benefício</p></font>
+</div>
+
+| L03 - Consultar impacto da contribuição no benefício | Descrição |
+| --- | --- |
+| Classificação | Verbo |
+| Noção | Ação realizada pelo usuário para verificar como as contribuições realizadas afetam o valor do benefício previdenciário. |
+| Impacto | Permite ao usuário entender como sua contribuição ao longo do tempo influencia diretamente no valor de sua aposentadoria, oferecendo clareza sobre o impacto financeiro de suas ações previdenciárias. A ausência dessa funcionalidade dificulta o planejamento e pode gerar incertezas quanto ao valor futuro do benefício. |
+| Sinônimo(s) | Contribuição, impacto previdenciário, valor do benefício, aposentadoria, simulação previdenciária. |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div>
 
 
@@ -96,3 +115,4 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
+|`1.1`|07/12/2024|Adição do léxico de impacto da contribuição no beneficio|[Ana Catarina Santos](https://github.com/an4catarina)|[](https://github.com/)|
