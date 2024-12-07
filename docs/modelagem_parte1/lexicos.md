@@ -60,6 +60,26 @@ O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos se
 </div>
 
 
+### L02 - Simular cenário previdenciário
+
+O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguintes requisitos funcionais não implementados: o sistema deve permitir que o usuário preveja diferentes cenários previdênciários de acordo com seu tempo de contribuição e quantidade financeira atribuida até o momento - [IS01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Descrição do léxico 01 - Cenário previdenciário</p></font>
+</div>
+
+| L01 - Agendar atendimento | Descrição |
+|-----------------|-------|
+| Classificação | Verbo |
+| Noção | Tarefa realizada pelo usuário <br>Realizar a ação de fazer uma simulação previdenciária de acordo com contribuição e tempo contribuindo | 
+| Impacto | Permite ao usuário prever seu cenário previdenciário e melhorar sua contribuição de forma a tornar mais claro e suscinto o processo previdenciário. A sua ausência acaba por tornar esse processo menos intuitivo e por gerar dúvidas em relação à aposentadoria.|
+| Sinônimo(s) | Previdência, cenário, aposentadoria|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div>
+
 
 ## Referência bibliográfica 
 
