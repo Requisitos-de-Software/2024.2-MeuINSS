@@ -48,6 +48,7 @@ nav:
       - "Inspeção do grupo + 1 (Grupo 07)": elicitacao/inspecaogrupo+1.md
   - Modelagem de requisitos - Parte 1:
     - "Casos de Uso": modelagem_parte1/casosdeuso.md
+    - "Validação dos Casos de Uso": modelagem_parte1/validacaoCasodeUso.md
     - "Cenários": modelagem_parte1/cenarios.md
     - "Léxicos": modelagem_parte1/lexicos.md
     - "Especificação Suplementar": modelagem_parte1/especificacaosuplementar.md

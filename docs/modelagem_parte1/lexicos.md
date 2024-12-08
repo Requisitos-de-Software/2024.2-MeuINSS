@@ -48,12 +48,12 @@ O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos se
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Descrição do léxico 01 - Agendar atendimento</p></font>
 </div>
 
-| L01 - Agendar atendimento | Descrição |
+| *L01 - Agendar atendimento* | *Descrição* |
 |-----------------|-------|
-| Classificação | Verbo |
-| Noção | Tarefa realizada pelo usuário <br>Ação de selecionar um horário específico para atendimento presencial em uma unidade do INSS, através do aplicativo Meu INSS | 
-| Impacto | Permite ao usuário organizar seu atendimento de forma eficiente, ao garantir que o mesmo seja realizado em um horário previamente marcado <br>A sua ausência pode gerar insatisfação, filas excessivas e problemas logísticos nas agências no INSS  |
-| Sinônimo(s) | Marcar horário, reservar horário |
+| *Classificação* | Verbo |
+| *Noção* | Tarefa realizada pelo usuário <br>Ação de selecionar um horário específico para atendimento presencial em uma unidade do INSS, através do aplicativo Meu INSS | 
+| *Impacto* | Permite ao usuário organizar seu atendimento de forma eficiente, ao garantir que o mesmo seja realizado em um horário previamente marcado <br>A sua ausência pode gerar insatisfação, filas excessivas e problemas logísticos nas agências no INSS  |
+| *Sinônimo(s)* | Marcar horário, reservar horário |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
@@ -71,10 +71,10 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 
 | L02 - Acessar comunidades | Descrição |
 |-----------------|-------|
-| Classificação | Verbo |
-| Noção | Tarefa realizada pelo usuário <br>Realizar a ação de participar de comunidades relacionadas ao INSS| 
-| Impacto |Traz a possibilidades de uma maior interação entre usuários do INSS além de ser uma alternativa de suporte com a possibilidade de pesquisa e acesso a fóruns de acordo com seus objetivos.|
-| Sinônimo(s) | Fórum, comunidade, interação|
+| *Classificação* | Verbo |
+| *Noção* | Tarefa realizada pelo usuário <br>Realizar a ação de participar de comunidades relacionadas ao INSS| 
+| *Impacto* |Traz a possibilidades de uma maior interação entre usuários do INSS, além de ser uma alternativa de suporte com a possibilidade de pesquisa e acesso a fóruns de acordo com seus objetivos.|
+| *Sinônimo(s)* | Fórum, comunidade, interação|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
@@ -189,7 +189,7 @@ O oitavo cenário léxico, presente na Tabela 9, utiliza os seguintes requisitos
 | *L8 - Usuário*                  | *Descrição*                                                                                                       |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | *Classificação*                  | Estado                                                                                                             |
-| *Noção*                          | Representa o indivíduo que interage com o aplicativo Meu INSS, podendo ser um segurado, beneficiário, ou qualquer pessoa que precise de serviços previdenciários. Ele está em um estado de interação com o sistema, seja para consulta, solicitação ou acompanhamento de serviços e benefícios. |
+| *Noção*                          | Representa o indivíduo que interage com o aplicativo Meu INSS, podendo ser um segurado, beneficiário, ou qualquer pessoa que precise de serviços previdenciários. Ele está em um estado de interação com o sistema, seja para [consulta](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l03-contribuicao-previdenciaria), [solicitação](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l01-agendar-atendimento) ou acompanhamento de serviços e benefícios. |
 | *Impacto*                        | O estado do "Usuário" afeta diretamente como o sistema deverá responder, oferecendo informações e funcionalidades específicas. Dependendo do estado de interação (consultando, solicitando, aguardando aprovação, etc.), a aplicação se comportará de maneira diferente para fornecer um serviço adequado. A ausência de um controle adequado sobre o estado do usuário pode gerar falhas na experiência e insegurança quanto aos serviços acessados. |
 | *Sinônimo(s)*                    | Segurado, beneficiário, cliente, cidadão                                                                            |
 
