@@ -49,7 +49,18 @@
 
 ## <p style="margin-bottom: 50px;">Diagrama dos Casos de Uso</p>
 
-<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;"> A partir da figura 1 é possível observar o diagrama dos casos de uso: </p>
+<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;"> A partir da figura 1, é possível observar o diagrama dos casos de uso elaborado pela equipe. </p>
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama de caso de uso do aplicativo Meu INSS</p></font>
+
+<img src="../../imagens/casoDeUso/Diagrama de caso de uso - Meu INSS.svg" class="usecaseElement">
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/#equipe">Autores</a>, 2024</p></font>
+
+</div>
+
+Diagrama de caso de uso - Meu INSS
 
 
 ## <p style="margin-bottom: 50px;">Especificação dos Casos de Uso </p>
@@ -404,7 +415,7 @@ Especificação do caso de uso UC14
 
 
 
-### UC15. Acessar Comunidades de ajuda.
+### UC15. Acessar Comunidades de ajuda
 
 Na tabela 16, pode ser vista a especificação do caso de uso UC15 - Acessar comunidades. 
 <div align="center">
@@ -434,7 +445,7 @@ Especificação do caso de uso UC15
 
 
 
-### UC16. Pesquisar fóruns na comunidade.
+### UC16. Pesquisar fóruns na comunidade
 
 Na tabela 17, pode ser vista a especificação do caso de uso UC16 - Pesquisar fóruns.
 <div align="center">
@@ -462,7 +473,7 @@ Especificação do caso de uso UC16
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
 </div >
 
-### UC17. Entrar em fóruns e interagir.
+### UC17. Entrar em fóruns e interagir
 
 Na tabela 18, pode ser vista a especificação do caso de uso UC17 - Acessar fóruns e publicar/excluir mensagens.
 <div align="center">
@@ -495,6 +506,7 @@ Especificação do caso de uso UC17
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
 
 > [1] SERRANO, Milene; SERRANO, Maurício. Elicitação, Modelagem e Análise - Aula 13. s.d. Slide 8 de 40. Disponível em: <a>https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>. Acesso em: 05 Dez. 2024. </br>
+
 > [2] Lucid Software Português. Tutorial de Caso de Uso UML [Recurso eletrônico: vídeo], 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. Acesso em: 05 Dez. 2024.
 
 
@@ -505,6 +517,6 @@ Especificação do caso de uso UC17
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 |  1.0   | 05/12/2024 | Criação do documento        |     [Cristiano Moraes](http://github.com/CristianoMoraiss)   |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                   |
 |  1.1   | 06/12/2024 | Adição dos UC01 até UC07       |     [Júlia Fortunato](http://github.com/julia-fortunato) |  [Ana Catarina Santos](http://github.com/an4catarina)                                  |
-|  1.2   | 06/12/2024 | Adição dos UC08 até UC10       |     [Ana Catarina Santos](http://github.com/an4catarina) |                                    |
-|  1.3   | 08/12/2024 | Adição dos UC15 até UC17       |     [Cristiano Morais](http://github.com/CristianoMoraiss) | 
-|  1.3   | 08/12/2024 | Adição dos UC11 até UC14       |     [Mauricio Ferreira](http://github.com/mauricio-araujoo) |                                    |
+|  1.2   | 06/12/2024 | Adição dos UC08 até UC10       |     [Ana Catarina Santos](http://github.com/an4catarina) |                [Júlia Fortunato](http://github.com/julia-fortunato)                    |
+|  1.3   | 08/12/2024 | Adição dos UC15 até UC17       |     [Cristiano Morais](http://github.com/CristianoMoraiss) | [Júlia Fortunato](http://github.com/julia-fortunato)
+|  1.3   | 08/12/2024 | Adição dos UC11 até UC14       |     [Mauricio Ferreira](http://github.com/mauricio-araujoo) |                 [Júlia Fortunato](http://github.com/julia-fortunato)                   |
