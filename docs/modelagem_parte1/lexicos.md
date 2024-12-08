@@ -60,21 +60,21 @@ O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos se
 </div>
 
 
-### L02 - Simular cenário previdenciário
+### L02 - Acessar comunidades
 
-O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguintes requisitos funcionais não implementados: o sistema deve permitir que o usuário preveja diferentes cenários previdênciários de acordo com seu tempo de contribuição e quantidade financeira atribuida até o momento - [IS01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguintes requisitos funcionais não implementados: o sistema possui comunidades onde os usuários podem interagir afim de se ajudarem e sanarem dúvidas relacionadas ao INSS - [IS04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Descrição do léxico 02 - Cenário previdenciário</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Descrição do léxico 02 - Acessar comunidades</p></font>
 </div>
 
-| L01 - Agendar atendimento | Descrição |
+| L02 - Acessar comunidades | Descrição |
 |-----------------|-------|
 | Classificação | Verbo |
-| Noção | Tarefa realizada pelo usuário <br>Realizar a ação de fazer uma simulação previdenciária de acordo com contribuição e tempo contribuindo | 
-| Impacto | Permite ao usuário prever seu cenário previdenciário e melhorar sua contribuição de forma a tornar mais claro e suscinto o processo previdenciário. A sua ausência acaba por tornar esse processo menos intuitivo e por gerar dúvidas em relação à aposentadoria.|
-| Sinônimo(s) | Previdência, cenário, aposentadoria|
+| Noção | Tarefa realizada pelo usuário <br>Realizar a ação de participar de comunidades relacionadas ao INSS| 
+| Impacto |Traz a possibilidades de uma maior interação entre usuários do INSS além de ser uma alternativa de suporte com a possibilidade de pesquisa e acesso a fóruns de acordo com seus objetivos.|
+| Sinônimo(s) | Fórum, comunidade, interação|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
@@ -116,3 +116,4 @@ O terceiro cenário léxico, presente na Tabela 3, utiliza os seguintes requisit
 |:----:|----|---------|-----|:-------:|
 |`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
 |`1.1`|07/12/2024|Adição do léxico de impacto da contribuição no beneficio|[Ana Catarina Santos](https://github.com/an4catarina)|[](https://github.com/)|
+|`1.2`|08/12/2024|Adição do léxico de acesso a comunidades|[Cristiano Morais](https://github.com/CristianoMoraiss)|[](https://github.com/)|

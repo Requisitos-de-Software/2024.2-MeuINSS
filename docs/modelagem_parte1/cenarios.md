@@ -38,7 +38,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
     </tr>
     <tr>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
-      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/#cen01-agendar-horario-em-uma-agencia-do-inss"> Conferir cenários previdenciários </a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/#cen01-agendar-horario-em-uma-agencia-do-inss"> Acessar comunidades</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
@@ -136,26 +136,26 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
 
-### CEN04 - Simular cenário previdenciário
+### CEN04 - Acessar comunidades de ajuda
 
-O cenário seguinte diz respeito ao objetivo de fazer uma simulação do cenário previdenciário do usuário baseado na sua contribuição e no tempo no qual ele contribui, para uma descrição detalhada pode ser observada a tabela 5 com todas as detalhações necenssárias disponíveis: 
+O cenário seguinte diz respeito ao objetivo de acessar fóruns criados pela comunidade com a finalidade de sanar possíveis dúvidas relacionadas ao INSS e também promover uma interação entre os usuários do aplicativo "Meu INSS": 
 
-Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
+Rastreabilidade: [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Prever cenário previdenciário" </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Cenário referente ao objetivo "Acessar comunidades" </p></font>
 </div>
 
 | Elemento    | Descrição                                                                           |
 |-------------|-------------------------------------------------------------------------------------|
-| Objetivo    | Simular cenário previdenciário           |
-| Contexto    | Local: em casa, através da utilização do aplicativo Meu INSS<br>Tempo: Por volta de 5 minutos <br> Pré-condições: Acesso ao aplicativo do "Meu INSS"  |
+| Objetivo    | Acessar comunidades relacionadas ao INSS|
+| Contexto    | Local: em casa, através da utilização do aplicativo Meu INSS<br>Tempo: Varia de acordo com a interação do usuário <br> Pré-condições: Acesso ao aplicativo do "Meu INSS"  |
 | Recursos    | Internet<br> Smartphone<br>Aplicativo do Meu INSS instalado                           |
 | Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
-| Episódios   | O *usuário* seleciona a opção simular cenário previdenciário baseado na contribuição.<br> O aplicativo exibe uma tela na qual o usuário pode verificar a quantidade finaceira de contribuição pelo tempo e por quanto tempo houve a contribuição para realizar uma estimativa da sua previdência final.|
-| Restrição   | Nunca contribuiu pra previdência.                   |
-| Exceção     | Sem acesso a internet <br>  Alguma impossibilidade para prever o cenário previdenciário.  |
+| Episódios   | O *usuário* acessa o aplicativo onde existe uma área dedicada as comunidades no qual ele pode interagir afim de sanar dúvidas em relação a tópicos ligados ao INSS.<br> O *usuário* pode realizar uma pesquisa para buscar por fóruns que estejam alinhados com o assunto que ele procura.<br> Acessa um fórum e tem acesso as mensagens dos outros usuários podendo também publicar, excluir ou denunciar mensagens.<br> Na área das comunidades o usuário pode criar um próprio fórum ou excluir um que ele criou anteriormente.  |
+| Restrição   | Não infringir regras da comunidade.|
+| Exceção     | Sem acesso a internet <br>  Não ter mais permissão de participar da comunidade.  |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
@@ -210,3 +210,4 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 |`1.0`|03/12/2024|Criação de documento e adição do cenário sobre "agendar horário em uma agência do INSS"|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
 |`1.1`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benefício"|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
 |`1.2`|07/12/2024|Adição do cenário "Consultar benefícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[](https://github.com/)|
+|`1.3`|07/12/2024|Adição do cenário "Acessar comunidades"|[Cristiano Morais](https://github.com/CristianoMoraiss)|[](https://github.com/)|
