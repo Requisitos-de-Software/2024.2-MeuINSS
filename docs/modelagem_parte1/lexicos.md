@@ -216,4 +216,4 @@ O oitavo cenário léxico, presente na Tabela 9, utiliza os seguintes requisitos
 |`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
 |`1.1`|07/12/2024|Adição do léxico de impacto da contribuição previdenciária|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
 |`1.2`|08/12/2024|Adição do léxico de acesso a comunidades|[Cristiano Morais](https://github.com/CristianoMoraiss)|[Nicolas Bomfim](https://github.com/nickgehjk)|
-|`1.3`|08/12/2024|Adição dos léxicos notificação pendente, filtro de pesquisa, acessibilidade e usuário|[Nicolas Bomfim](https://github.com/nickgehjk)|[]()|
+|`1.3`|08/12/2024|Adição dos léxicos notificação pendente, filtro de pesquisa, acessibilidade e usuário|[Nicolas Bomfim](https://github.com/nickgehjk) e [Ana Catarina Santos](https://github.com/an4catarina)|[Júlia Fortunato](https://github.com/julia-fortunato)|
