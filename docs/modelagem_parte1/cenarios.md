@@ -49,7 +49,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
       <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/">Realizar pagamento de pensão</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/nickgehjk">Nicolas Bonfim</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td><a href="https://github.com/">-</a></td>
     </tr>
   </tbody>
@@ -87,7 +87,6 @@ Rastreabilidade: [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 ### CEN02 - Realizar pagamento de pensão 
 
-
 O cenário a seguir diz respeito ao objetivo "Realizar pagamento de pensão no aplicativo do Meu INSS", sua descrição detalhada pode ser encontrada na tabela 3, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
 
 Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
@@ -104,7 +103,7 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 | Recursos    | Internet<br>Smartphone<br>Aplicativo do Meu INSS instalado                           |
 | Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
 | Episódios   | O *usuário* seleciona a opção consultar pensões no menu lateral <br> O aplicativo exibe o historico de pagamento de pensão na tela <br> O *usuário* seleciona a opção de realizar pagamento pendente <br> O aplicativo exibe o valor a ser pago junto com os dados do *usuário* <br> O *usuário* seleciona a opção de confirmar após ler o valor a ser pago <br>O aplicativo redireciona para um boleto gerado, para o pagamento |
-| Restrição   |O boleto deve ser pago em pelo menos 72 horas apósa emissão do mesmo.|
+| Restrição   | O boleto deve ser pago em pelo menos 72 horas apósa emissão do mesmo.|
 | Exceção     | Erro de conexão com a internet <br> Tentativa de realizar pagamento em horario não comercial|
 
 <div align="center">
@@ -113,7 +112,7 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 ### CEN03 - Consultar o impacto da contribuição do usuário no benecfício
 
-O cenário a seguir diz respeito ao objetivo "Consultar o impacto da contribuição do usuário no benecfício", sua descrição detalhada pode ser encontrada na tabela 4, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
+O cenário a seguir diz respeito ao objetivo "Consultar o impacto da contribuição do usuário no benefício", sua descrição detalhada pode ser encontrada na tabela 4, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
 
 Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
 
@@ -124,13 +123,13 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 | **Elemento**  | **Descrição**                                                                           |
 |---------------|-----------------------------------------------------------------------------------------|
-| **Objetivo**  | Mostrar o impacto da contribuição do usuário no seu benefício através do aplicativo Meu INSS |
-| **Contexto**  | **Local**: em casa, por meio do aplicativo Meu INSS<br>**Tempo**: Aproximadamente 5 minutos<br>**Pré-condições**: O usuário deve ter realizado contribuições ao INSS e o aplicativo Meu INSS deve estar instalado no dispositivo. |
-| **Recursos**  | Internet<br>Smartphone<br>Aplicativo Meu INSS instalado                                 |
-| **Atores**    | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS |
-| **Episódios** | **1.** O usuário acessa o aplicativo Meu INSS e seleciona a opção "Exibir impacto da contribuição no benefício".<br>**2.** O sistema solicita ao usuário que insira o valor da contribuição.<br>**3.** O usuário insere o valor da contribuição.<br>**4.** O sistema calcula o impacto dessa contribuição no benefício futuro do usuário, considerando o histórico de contribuições.<br>**5.** O sistema exibe os resultados, incluindo:<br> - O impacto da contribuição no valor do benefício futuro.<br> - Sugestões para melhorar o impacto da contribuição.<br>**6.** O usuário pode retornar ao menu principal ou encerrar a consulta.<br>**Fluxos alternativos**: FA01: O usuário deseja simular um novo valor de contribuição.<br>**Fluxos de exceção**: FE01: Valor de contribuição inválido.<br>FE02: Sem conexão à internet. |
-| **Restrição** | O cálculo do impacto depende do histórico completo de contribuições e da legislação vigente. |
-| **Exceção**   | **Sem acesso à internet**: O usuário não consegue acessar os dados devido à falta de conexão com a internet.<br>**Dados de contribuição inválidos**: O usuário insere valores de contribuição inconsistentes ou inválidos. |
+| Objetivo  | Mostrar o impacto da contribuição do usuário no seu benefício através do aplicativo Meu INSS |
+| Contexto  | Local: em casa, por meio do aplicativo Meu INSS<br>Tempo: Aproximadamente 5 minutos<br>Pré-condições: O usuário deve ter realizado contribuições ao INSS e o aplicativo Meu INSS deve estar instalado no dispositivo. |
+| Recursos  | Internet<br>Smartphone<br>Aplicativo Meu INSS instalado                                 |
+| Atores    | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS |
+| Episódios | O *usuário* acessa o aplicativo Meu INSS e seleciona a opção "Exibir impacto da contribuição no benefício".<br> O sistema solicita ao *usuário* que insira o valor da contribuição.<br> O *usuário* insere o valor da contribuição.<br> O sistema calcula o impacto dessa contribuição no benefício futuro do *usuário*, considerando o histórico de contribuições.<br> O sistema exibe os resultados, incluindo:<br> - O impacto da contribuição no valor do benefício futuro.<br> - Sugestões para melhorar o impacto da contribuição.<br> O *usuário* pode retornar ao menu principal ou encerrar a consulta.<br>Fluxos alternativos: FA01: O *usuário* deseja simular um novo valor de contribuição.<br>Fluxos de exceção: FE01: Valor de contribuição inválido.<br>FE02: Sem conexão à internet. |
+| Restrição | O cálculo do impacto depende do histórico completo de contribuições e da legislação vigente. |
+| Exceção   | Sem acesso à internet: O usuário não consegue acessar os dados devido à falta de conexão com a internet.<br>Dados de contribuição inválidos: O usuário insere valores de contribuição inconsistentes ou inválidos. |
 
 
 <div align="center">
@@ -164,7 +163,30 @@ Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 
 
-### CEN05 - 
+### CEN05 - Consultar Benefícios
+
+O cenário seguinte diz respeito ao objetivo de fazer uma consulta de seus benefícios, a tabela 6 a seguir contém mais detalhes: 
+
+Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
+
+<div align="center">
+
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Cenário referente ao objetivo "Consultar Benefícios" </p></font>
+</div>
+
+| Elemento    | Descrição                                                                           |
+|-------------|-------------------------------------------------------------------------------------|
+| Objetivo    | Consultar Benefícios                        |
+| Contexto    | Local: em casa, através da utilização do aplicativo Meu INSS<br>Tempo: Por volta de 1 minuto <br> Pré-condições: Acesso ao aplicativo do "Meu INSS"    |
+| Recursos    | Internet<br> Smartphone<br>Aplicativo do Meu INSS instalado                              |
+| Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                        |
+| Episódios   | O *usuário* seleciona a opção Meus Benefícios na área de Mais Acessados.<br> O aplicativo exibe uma tela na qual o usuário pode verificar os benefícios no geral, podendo selecionar qual ele deseja mais informações.|
+| Restrição   | Não possui benefícios concedidos pelo INSS. |
+| Exceção     | Sem acesso a internet <br>  Alguma impossibilidade para prever o cenário previdenciário. |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div>
 
 
 

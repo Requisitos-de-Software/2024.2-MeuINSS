@@ -78,7 +78,7 @@ A tabela 2 demonstra a especificação do caso de uso UC01 - Agendar atendimento
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div >
 
-### UC02. Agendar atendimento em uma agência do INSS
+### UC02. Informar CEP para localizar uma agência
 
 Na tabela 3, tem-se a especificação do caso de uso UC02 - Informar CEP para localizar uma agência.
 
