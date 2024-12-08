@@ -444,6 +444,155 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
 
 </div>
 
+## Entrega 3 - Modelagem de requisitos (parte 1) - Data de Entrega: 08/12/2024
+
+Na tabela 3, estão apresentadas as datas de execução do cronograma executado para a terceira entrega do projeto, a primeira parte da modelagem de requisitos.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma executado da etapa de Modelagem de requisitos (parte 1)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Especificação dos Cenários</td>
+      <td>Início: 25/11/2024 <br> Fim: 27/11/2024</td>
+      <td>Início: 01/12/2024 <br> Fim: 07/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
+      <td>Início: 07/12/2024 <br> Fim: 07/12/2024</td>
+      <td>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a>
+        </td>
+    </tr>
+    <tr>
+      <td>Especificação dos léxicos</td>
+      <td>Início: 25/11/2024 <br> Fim: 27/11/2024</td>
+      <td>Início: 01/12/2024 <br> Fim: 08/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+      </td>
+      <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
+      <td>Início: 07/12/2024 <br> Fim: 08/11/2024</td>
+      <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Especificação dos casos de uso e diagramação</td>
+      <td>Início: 25/11/2024<br> Fim: 27/11/2024</td>
+      <td>Início: 01/12/2024 <br> Fim: 08/12/2024</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td><a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Especificação Suplementar</td>
+      <td>Início: 01/12/2024 <br> Fim: 03/12/2024</td>
+      <td>Início: 03/12/2024 <br> Fim: 08/12/2024</td>
+      <td><a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+      <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
+      <td>Início: 08/12/2024 <br> Fim: 08/12/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
+    </tr>
+    <tr>
+      <td>Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso</td>
+      <td>Início: 28/11/2024 <br> Fim: 30/11/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>MUDAR ISSSOOOOOOO
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início:  30/11/2024 <br> Fim:  01/12/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+    </tr>
+    <tr>
+      <td>Gravação 3</td>
+      <td>Início: 05/12/2024<br> Fim: 05/12/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 3</td>
+      <td>Início: 05/12/2024<br> Fim: 06/12/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Realizar inspeção do grupo+1</td>
+      <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
+      <td>Início: 09/12/2024<br> Fim: 09/12/2024</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 07/12/2024<br> Fim: 07/12/2024</td>
+      <td>Início: 09/12/2024<br> Fim: 09/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega 3</td>
+      <td>Início: - <br> Fim: -</td>
+      <td>Início:  -<br> Fim: -</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a>
+      </td>
+      <td>Início: - <br> Fim: -</td>
+      <td>Início: - <br> Fim: -</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
+</div>
+
+
 ## Bibliografia
 
 > Cronograma Economia DF. Disponível em: <<https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/planejamento%20do%20projeto/cronograma_planejado.md>>. Acesso em 06 de Novembro de 2024.
@@ -458,3 +607,4 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
 | `2.0`  | 22/11/2024 | Correção da organização do documento                              | [Ana Catarina Santos](https://github.com/an4catarina)                                                            |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado da entrega 2                  | [Júlia Fortunato](https://github.com/julia-fortunato)                                                            |                                 [Ana Catarina Santos](https://github.com/an4catarina)                                 |
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado das entregas 1 e 2            | [Ana Catarina Santos](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato) |                               [Maurício Ferreira](https://github.com/mauricio-araujoo)                                |
+| `4.0`  | 08/12/2024 | Atualização do cronograma executado da entrega 3          |  [Júlia Fortunato](https://github.com/julia-fortunato) |     |

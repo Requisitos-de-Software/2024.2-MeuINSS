@@ -21,7 +21,7 @@ Na categoria de soportabilidade, tem-se os requisitos que estão relacionados ao
 
 Além de tratar de atualizações e correções, também possui requisitos relacionados a diagnóstico de problemas, monitoramento contínuo e rastreabilidade de alterações.
 
-<p style="text-align: center">Tabela 1 - Requisitos de Suportabilidade</p></font>
+<font><p style="text-align: center">**Tabela 1** - Requisitos de Suportabilidade</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------  |
@@ -47,7 +47,7 @@ Inclui os diversos requisitos que tem relaçao a qualidade e confiabilidade, iss
 
 Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
 
-<p style="text-align: center">Tabela 2 - Requisitos de Confiabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------  |
@@ -55,8 +55,31 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 | CON02 | O aplicativo deve armazenar dados em conformidade com a LGPD.             |         [RNF011](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)          |
 | CON03 | 	O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada.|       [RNF012](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)         |
 
-<font size="3"><p style="text-align: center">Autor: [Cristiano Morais, 2024](https://github.com/CristianoMoraiss).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
 
+## Usabilidade
+
+Diz respeito a facilidade de uso da interface e das funcionalidades do sistema, permitindo que os usuários realizem suas tarefas de forma eficaz, eficiente e com clareza.
+
+Para essa categoria os requisitos identificados estão representados na tabela 3 a seguir.
+
+<font><p style="text-align: center">**Tabela 3** - Requisitos de Usabilidade.</p></font>
+
+<center>
+
+| ID    | Descrição | Rastreabilidade |
+| --- | --- | --- |
+| USA01 | O aplicativo deve concluir tarefas em no maximo 5 cliques. | [RNF01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) [RNF04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| USA02 | O aplicativo deve oferecer pelo menos 2 tipos de tutoriais explicativos de uso, como vídeos, FAQs e guias escritos. | [RNF02](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| USA03 | O aplicativo deve possuir uma central de ajuda com tutoriais para pelo menos 80% das funcionalidades existentes. | [RNF03](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| USA04 | O aplicativo deve possuir um local explicandos os termos técnicos do Meu INSS. | [RNF05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| USA05 | O aplicativo deve oferecer uma funcionalidade de busca que permita ao usuário localizar tarefas e funcionalidades após a escrita da primeira palavra da busca desejada. | [RNF06](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| USA06 | O aplicativo deve possuir alternativas para pessoas com deficiencia como por exemplo audio-descrição. | [RNF07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) [RNF10](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+| USA07 | O aplicativo deve possuir retorno a todas as ações do usuário para confirmação de ação bem sucedida. | - |
+
+</center>
+
+<font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo).</p></font>
 
 
 
