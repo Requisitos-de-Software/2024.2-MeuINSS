@@ -404,6 +404,92 @@ Especificação do caso de uso UC14
 
 
 
+### UC15. Acessar Comunidades de ajuda.
+
+Na tabela 16, pode ser vista a especificação do caso de uso UC15 - Acessar comunidades. 
+<div align="center">
+<font size="3">
+<p style="text-align: center">
+<b>Tabela 16:</b> 
+Especificação do caso de uso UC15
+</p>
+</font>
+</div>
+
+| UC15 |Acessar comunidades de ajuda|
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
+| **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após entrar no espaço ele terá acesso a diversos fóruns onde poderá participar das discussões </li> </ol>
+| **Fluxos alternativos** | FA01: O usuário escolhe sair da parte de comunidades <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li>
+| **Fluxos de exceção** | FE01: Falha no acesso a aba de comunidade <ol><li>O sistema notifica o erro</li> <li>O sistema da a opção de tentar novamente ou sair</li> </ol> |
+| **Pós-condições** |POS01. Permite ao usuário ter acesso aos fóruns presentes no aplicativo|
+| **Data da criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div >
+
+
+
+### UC16. Pesquisar fóruns na comunidade.
+
+Na tabela 17, pode ser vista a especificação do caso de uso UC16 - Pesquisar fóruns.
+<div align="center">
+<font size="3">
+<p style="text-align: center">
+<b>Tabela 17:</b> 
+Especificação do caso de uso UC16
+</p>
+</font>
+</div>
+
+| UC16 |Pesquisar fóruns na comunidade|
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
+| **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após acessar ele pode, através de filtros, procurar fóruns relacionados aos assuntos que sejam interessantes para ele </li> </ol>
+| **Fluxos alternativos** | FA01: O usuário escolhe sair da parte de comunidades <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li>
+| **Fluxos de exceção** | FE01: Falha no acesso a aba de comunidade <ol><li>O sistema notifica o erro</li> <li>O sistema da a opção de tentar novamente ou sair</li> </ol> |
+| **Pós-condições** |POS01. Permite ao usuário realizar buscas precisas sobre os assuntos que sejam do seu interesse dentre os criados.|
+| **Data da criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div >
+
+### UC17. Entrar em fóruns e interagir.
+
+Na tabela 18, pode ser vista a especificação do caso de uso UC17 - Acessar fóruns e publicar/excluir mensagens.
+<div align="center">
+<font size="3">
+<p style="text-align: center">
+<b>Tabela 18:</b> 
+Especificação do caso de uso UC17
+</p>
+</font>
+</div>
+
+| UC16 |Pesquisar fóruns na comunidade|
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
+| **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após acessar ele pode, através de filtros, procurar fóruns relacionados aos assuntos que sejam interessantes para ele assim como criar um.</li> <li> Após ele entrar ou criar fóruns ele pode publicar as informações que desejar.</li>  </ol>
+| **Fluxos alternativos** | FA01: O usuário escolhe sair da parte de comunidades <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li>
+| **Fluxos de exceção** | FE01: Falha no acesso a aba de comunidade <ol><li>O sistema notifica o erro</li> <li>O sistema da a opção de tentar novamente ou sair</li> </ol> |
+| **Pós-condições** |POS01. Permite ao usuário efetivamente interagir com a comunidade.|
+| **Data da criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div >
+
 
 
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
@@ -419,4 +505,5 @@ Especificação do caso de uso UC14
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 |  1.0   | 05/12/2024 | Criação do documento        |     [Cristiano Moraes](http://github.com/CristianoMoraiss)   |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                   |
 |  1.1   | 06/12/2024 | Adição dos UC01 até UC07       |     [Júlia Fortunato](http://github.com/julia-fortunato) |  [Ana Catarina Santos](http://github.com/an4catarina)                                  |
-|  1.1   | 06/12/2024 | Adição dos UC08 até UC10       |     [Ana Catarina Santos](http://github.com/an4catarina) |                                    |
+|  1.2   | 06/12/2024 | Adição dos UC08 até UC10       |     [Ana Catarina Santos](http://github.com/an4catarina) |                                    |
+|  1.3   | 08/12/2024 | Adição dos UC15 até UC17       |     [Cristiano Morais](http://github.com/CristianoMoraiss) |                                    |
