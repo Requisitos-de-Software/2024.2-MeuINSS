@@ -21,7 +21,7 @@ Na categoria de soportabilidade, tem-se os requisitos que estão relacionados ao
 
 Além de tratar de atualizações e correções, também possui requisitos relacionados a diagnóstico de problemas, monitoramento contínuo e rastreabilidade de alterações.
 
-<p style="text-align: center">Tabela 4 - Requisitos de Suportabilidade</p></font>
+<p style="text-align: center">Tabela 1 - Requisitos de Suportabilidade</p></font>
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------  |
@@ -43,7 +43,7 @@ Além de tratar de atualizações e correções, também possui requisitos relac
 ## <p style="margin-bottom: 50px;">Confiabilidade</p>
 
 Na questão de confiabilidade, existem os requisitos que correspondem a confiabilidade que o sistema possui, o que pode incluir itens como qualidade e validação assim como também manutenção e gerenciamento.
-Inclui os diversos requisitos que tem relaçao a qualidade e confiab Isso inclui requisitos relacionados à disponibilidade, tolerância a falhas como mantenibilidade. 
+Inclui os diversos requisitos que tem relaçao a qualidade e confiabilidade, isso inclui requisitos relacionados à disponibilidade e tolerância a falhas como mantenibilidade. 
 
 Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
 
@@ -51,14 +51,9 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 | ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------  |
-| SUP01 | O sistema deve possuir uma documentação separada em tópicos (ao menos 10 tópicos principais) e que apresente grande parte das dúvidas mais frequentes.                                                                                                                     |  |
-| SUP02 | O sistema deve possuir uma facilidade de manutenção através de uma estrutura modular e código bem organizado.                                                                                                                                                              |  |
-| SUP03 | O sistema deve possuir uma capacidade de extensão para adicionar novas funcionalidades e acompanhar as mudanças.                                                                                                                                                           |  |
-| SUP04 | O sistema deve possuir uma facilidade de atualização com processos eficientes (de até 200ms) e sem interrupções significativas, que ultrapassem o tempo limite de resposta.                                                                                                |  |
-| SUP05 | O sistema deve possuir um suporte ao [usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/#l05-usuario) com canais adequados de suporte e equipe  |  |disponível.                                                                                                                                                                          |  |
-| SUP06 | O sistema deve possuir uma testabilidade, com facilidade de realização de testes durante o desenvolvimento e a manutenção.                                                                                                                                                 |  |
-| SUP07 | O sistema deve possuir uma rastreabilidade com mecanismos para registrar e rastrear mudanças e correções ao longo do tempo, incluindo controle de versão e registros de alterações.                                                                                        |  |
-| SUP08 | O sistema deve possuir uma tolerância a falhas para garantir que o sistema possa lidar com falhas adequadamente, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, backups regulares e restauração rápida em caso de falhas. |  |
+| CON01 | Garantir a segurança dos dados com criptografia nas transações.           |         [RNF08](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados)           |
+| CON02 | O aplicativo deve armazenar dados em conformidade com a LGPD.             |         [RNF011](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)          |
+| CON03 | 	O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada.|       [RNF012](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)         |
 
 <font size="3"><p style="text-align: center">Autor: [Cristiano Morais, 2024](https://github.com/CristianoMoraiss).</p></font>
 
@@ -77,4 +72,4 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 | Versão | Data       | Descrição                   | Autor                                                 | Revisor                                               |
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 |  1.0   | 05/12/2024 | Criação do documento        |          [Cristiano Moraes](http://github.com/CristianoMoraiss)                                              |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                      |
-|  1.1   | 06/12/2024 | Adição de requisitos de confiabilidade e suportabilidade      |          [Cristiano Moraes](http://github.com/CristianoMoraiss)      e                              [Júlia Fortunato](http://github.com/julia-fortunato)             |                                               |
+|  1.1   | 06/12/2024 | Adição de requisitos de confiabilidade e suportabilidade      |          [Cristiano Moraes](http://github.com/CristianoMoraiss)                                    [Júlia Fortunato](http://github.com/julia-fortunato)             |                                               |

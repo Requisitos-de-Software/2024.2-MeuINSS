@@ -155,7 +155,7 @@ Rastreabilidade: [RF14](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 | Recursos    | Internet<br> Smartphone<br>Aplicativo do Meu INSS instalado                           |
 | Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
 | Episódios   | O *usuário* seleciona a opção simular cenário previdenciário baseado na contribuição.<br> O aplicativo exibe uma tela na qual o usuário pode verificar a quantidade finaceira de contribuição pelo tempo e por quanto tempo houve a contribuição para realizar uma estimativa da sua previdência final.|
-| Restrição   |     Sem acesso a internet<br> Nunca contribuiu pra previdência.                   |
+| Restrição   | Nunca contribuiu pra previdência.                   |
 | Exceção     | Sem acesso a internet <br>  Alguma impossibilidade para prever o cenário previdenciário.  |
 
 <div align="center">
