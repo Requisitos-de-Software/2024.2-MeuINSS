@@ -209,5 +209,5 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 |:----:|----|---------|-----|:-------:|
 |`1.0`|03/12/2024|Criação de documento e adição do cenário sobre "agendar horário em uma agência do INSS"|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
 |`1.1`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benefício"|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
-|`1.2`|07/12/2024|Adição do cenário "Consultar benefícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[](https://github.com/)|
-|`1.3`|07/12/2024|Adição do cenário "Acessar comunidades"|[Cristiano Morais](https://github.com/CristianoMoraiss)|[](https://github.com/)|
+|`1.2`|08/12/2024|Adição do cenário "Consultar benefícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[](https://github.com/)|
+|`1.3`|08/12/2024|Adição do cenário "Acessar comunidades"|[Cristiano Morais](https://github.com/CristianoMoraiss)|[Nicolas Bomfim](https://github.com/nickgehjk)|

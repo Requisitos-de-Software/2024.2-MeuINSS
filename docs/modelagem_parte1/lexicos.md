@@ -80,23 +80,122 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
 </div>
 
-### L03 - Consultar impacto da contribuição no benefício
+### L03 - Contribuição Previdenciária
 
-O terceiro cenário léxico, presente na Tabela 3, utiliza os seguintes requisitos funcionais não implementados: O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício. - [IS06](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+O terceiro cenário léxico, presente na Tabela 4, utiliza os seguintes requisitos funcionais não implementados: O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício. - [RF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), [RF21](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Descrição do léxico 03 - Impacto da contribuição no benefício</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Descrição do léxico 03 - Contribuição Previdenciária</p></font>
 </div>
 
-| L03 - Consultar impacto da contribuição no benefício | Descrição |
-| --- | --- |
-| Classificação | Verbo |
-| Noção | Ação realizada pelo usuário para verificar como as contribuições realizadas afetam o valor do benefício previdenciário. |
-| Impacto | Permite ao usuário entender como sua contribuição ao longo do tempo influencia diretamente no valor de sua aposentadoria, oferecendo clareza sobre o impacto financeiro de suas ações previdenciárias. A ausência dessa funcionalidade dificulta o planejamento e pode gerar incertezas quanto ao valor futuro do benefício. |
-| Sinônimo(s) | Contribuição, impacto previdenciário, valor do benefício, aposentadoria, simulação previdenciária. |
+| *L3 - Contribuição Previdenciária* | *Descrição*                                                                                                       |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| *Classificação*                    | Objeto                                                                                                             |
+| *Noção*                            | Representa o valor financeiro pago pelo segurado ao INSS, que impacta diretamente no cálculo e concessão dos benefícios previdenciários. |
+| *Impacto*                          | A apresentação clara e detalhada das contribuições realizadas ao longo do tempo permite que o usuário entenda sua influência no benefício final. A ausência de uma visão consolidada pode gerar falta de transparência e dificultar o planejamento previdenciário. |
+| *Sinônimo(s)*                      | Pagamento previdenciário, aporte ao INSS, contribuição ao benefício                   |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div>
+
+### L04 - Notificação Pendente
+
+O quarto cenário léxico, presente na Tabela 3, utiliza o seguinte requisito funcional não implementado: O aplicativo deve enviar notificações sobre pendências, prazos e novas regras.- [GLO04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/), [OBS05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5:</b> Descrição do léxico 04 - Notificação Pendente</p></font>
+</div>
+
+| *L04 - Notificação Pendente* | *Descrição*                                                                                      |
+|------------------------------|--------------------------------------------------------------------------------------------------|
+| *Classificação*              | Estado                                                                                          |
+| *Noção*                      | Refere-se a um alerta ou mensagem enviada ao usuário sobre pendências, prazos ou mudanças importantes relacionadas ao seu benefício. |
+| *Impacto*                    | Mantém o usuário informado e engajado com suas obrigações ou direitos. Sem isso, ele pode perder prazos ou atualizações importantes. |
+| *Sinônimo(s)*                | Alerta não lido, mensagem pendente                                                              |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div>
+
+### L05 - Filtro de Pesquisa
+
+O quinto cenário léxico, presente na Tabela 6, utiliza o seguinte requisito funcional não implementado: O aplicativo deve possuir filtro de pesquisa assertivo. - [RF07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6:</b> Descrição do léxico 05 - Filtro de Pesquisa</p></font>
+</div>
+
+| *L05 - Filtro de Pesquisa*     | *Descrição*                                                                                                       |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| *Classificação*                | Objeto                                                                                                            |
+| *Noção*                        | Ferramenta que permite ao usuário realizar buscas detalhadas e assertivas dentro do aplicativo Meu INSS, facilitando a localização de informações e funcionalidades. |
+| *Impacto*                      | A ausência de um filtro de pesquisa eficiente pode resultar em uma experiência ruim para o usuário, dificultando a navegação e aumentando a frustração. |
+| *Sinônimo(s)*                  | Pesquisa avançada, Filtro de busca                                                                                |
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div>
+
+### L6 - Acessibilidade
+
+O sexto cenário léxico, presente na Tabela 7, utiliza os seguintes requisitos não-funcionais não implementados: 'O  aplicativo deve ser acessível a todos os usuário.' - [ENT15](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/), [OBS10](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RNF07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), e 'O aplicativo deve seguir normas de acessibilidade, como suporte a leitores de tela, para ser acessível a pessoas com deficiência.' - [GLO12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/), [OBS10](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7:</b> Descrição do léxico 6 - Acessibilidade</p></font>
+</div>
+
+
+| *L6 - Acessibilidade*         | *Descrição*                                                                                                         |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| *Classificação*                | Estado                                                                                                               |
+| *Noção*                        | Representa a capacidade do aplicativo de ser utilizado por pessoas com diferentes necessidades, como deficiência visual, auditiva ou motora. |
+| *Impacto*                      | Garante a inclusão de todos os usuários, independentemente de suas limitações, promovendo equidade no acesso. A falta de acessibilidade pode excluir pessoas, gerando barreiras ao acesso aos serviços do INSS. |
+| *Sinônimo(s)*                  | Inclusão digital, suporte a necessidades especiais, acessibilidade universal                                          |
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div>
+
+### L7 - Intuitividade do aplicativo
+
+O sétimo cenário léxico, presente na Tabela 8, utiliza os seguintes requisitos não-funcionais não implementados: 'O aplicativo deve ser intuitivo no uso.' - [ENC05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/), [ENT13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/), [OBS13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RNF01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados), e 'O aplicativo deve facilitar a execução de tarefas.'- [ENC08](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/), [ENT11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/) e [RNF04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 8:</b> Descrição do léxico 7 - Intuitividade do aplicativo</p></font>
+</div>
+
+
+| *L7 - Intuitividade do aplicativo* | *Descrição*                                                                                                               |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| *Classificação*                    | Estado                                                                                                                     |
+| *Noção*                            | Refere-se à capacidade do aplicativo de ser facilmente compreendido e utilizado pelo usuário sem necessidade de esforço ou treinamento adicional. |
+| *Impacto*                          | Um aplicativo intuitivo melhora a experiência do usuário e reduz a necessidade de suporte técnico. A ausência de intuitividade pode causar frustração, aumentar o tempo gasto para realizar tarefas e reduzir a adesão dos usuários. |
+| *Sinônimo(s)*                      | Facilidade de uso, usabilidade, simplicidade, interação fluida                                                              |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div>
+
+### L8 - Usuário
+
+O oitavo cenário léxico, presente na Tabela 9, utiliza os seguintes requisitos funcionais implementados e não implementados: 'O aplicativo emite e permite consulta a extratos e pagamentos.' - [ENC01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/), [ENT03](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/), [IS02](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [GLO07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/) e [RF01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), 'O usuário poderá ter acesso ao histórico completo de contribuições do segurado (CNIS).' - [GLO01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/). [IS01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/) e [RF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), 'O  aplicativo deve enviar notificações sobre pendências, prazos e novas regras' - [GLO04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/), [OBS05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF16](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), 'O  usuário poderá enviar documentos digitalizados.' - [GLO11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/) e [RF19](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), O usuário poderá solicitar benefícios pelo aplicativo. - [GLO013](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/) e [RF20](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), 'O aplicativo deve permitir alteração de dados cadastrais, como endereço e telefone.' - [GLO15](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/) e [RF22](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), 'O usuário pode visualizar os benefícios com maiores detalhes.' - [OBS07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF30](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), 'O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades' - [OBS08](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF31](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 9:</b> Descrição do léxico 8 - Usuário</p></font>
+</div>
+
+| *L8 - Usuário*                  | *Descrição*                                                                                                       |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| *Classificação*                  | Estado                                                                                                             |
+| *Noção*                          | Representa o indivíduo que interage com o aplicativo Meu INSS, podendo ser um segurado, beneficiário, ou qualquer pessoa que precise de serviços previdenciários. Ele está em um estado de interação com o sistema, seja para consulta, solicitação ou acompanhamento de serviços e benefícios. |
+| *Impacto*                        | O estado do "Usuário" afeta diretamente como o sistema deverá responder, oferecendo informações e funcionalidades específicas. Dependendo do estado de interação (consultando, solicitando, aguardando aprovação, etc.), a aplicação se comportará de maneira diferente para fornecer um serviço adequado. A ausência de um controle adequado sobre o estado do usuário pode gerar falhas na experiência e insegurança quanto aos serviços acessados. |
+| *Sinônimo(s)*                    | Segurado, beneficiário, cliente, cidadão                                                                            |
+
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div>
 
 
@@ -109,11 +208,12 @@ O terceiro cenário léxico, presente na Tabela 3, utiliza os seguintes requisit
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 13-20 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
 
->
+
 ## Histórico de Versões
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar|[Júlia Fortunato](https://github.com/julia-fortunato)|[](https://github.com/)|
-|`1.1`|07/12/2024|Adição do léxico de impacto da contribuição no beneficio|[Ana Catarina Santos](https://github.com/an4catarina)|[](https://github.com/)|
-|`1.2`|08/12/2024|Adição do léxico de acesso a comunidades|[Cristiano Morais](https://github.com/CristianoMoraiss)|[](https://github.com/)|
+|`1.0`|03/12/2024|Criação do documento e adição dos léxicos agendar|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.1`|07/12/2024|Adição do léxico de impacto da contribuição previdenciária|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.2`|08/12/2024|Adição do léxico de acesso a comunidades|[Cristiano Morais](https://github.com/CristianoMoraiss)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.3`|08/12/2024|Adição dos léxicos notificação pendente, filtro de pesquisa, acessibilidade e usuário|[Nicolas Bomfim](https://github.com/nickgehjk)|[]()|
