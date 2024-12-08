@@ -57,7 +57,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 <font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
 
-## Usabilidade
+## <p style="margin-bottom: 50px;">Usabilidade</p>
 
 Diz respeito a facilidade de uso da interface e das funcionalidades do sistema, permitindo que os usuários realizem suas tarefas de forma eficaz, eficiente e com clareza.
 
@@ -81,8 +81,26 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 <font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo).</p></font>
 
+## <p style="margin-bottom: 50px;">Desempenho<p>
 
+Relaciona o tempo para executar ações com a rapidez que o usuário realiza suas tarefas. É importante para garantir a produtividade do usuário nas suas tarefas. 
 
+Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
+
+<font><p style="text-align: center">**Tabela 4** - Requisitos de Desempenho.</p></font>
+
+<center>
+
+| ID    | Descrição | Rastreabilidade |
+|---|---|---|
+|DES01|O sistema deve ter um tempo de resposta em suas funcionalidades inferior a 300ms.|[RNF04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados) |
+|DES02|As manutenções programadas do sistema não devem ter duração superior a 8 horas.|[RNF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados)|
+|DES03|O sistema não deve possuir mais de 20 interações em cada tela para manter as paginas leves.|-|
+|DES04|O sistema deve manter a resposta da autenticação de usuario com menos de 4 segundos.|-|
+
+<font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo).</p></font>
+
+</center>
 
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
 
