@@ -506,4 +506,5 @@ Especificação do caso de uso UC17
 |  1.0   | 05/12/2024 | Criação do documento        |     [Cristiano Moraes](http://github.com/CristianoMoraiss)   |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                   |
 |  1.1   | 06/12/2024 | Adição dos UC01 até UC07       |     [Júlia Fortunato](http://github.com/julia-fortunato) |  [Ana Catarina Santos](http://github.com/an4catarina)                                  |
 |  1.2   | 06/12/2024 | Adição dos UC08 até UC10       |     [Ana Catarina Santos](http://github.com/an4catarina) |                                    |
-|  1.3   | 08/12/2024 | Adição dos UC15 até UC17       |     [Cristiano Morais](http://github.com/CristianoMoraiss) |                                    |
+|  1.3   | 08/12/2024 | Adição dos UC15 até UC17       |     [Cristiano Morais](http://github.com/CristianoMoraiss) | 
+|  1.3   | 08/12/2024 | Adição dos UC11 até UC14       |     [Mauricio Ferreira](http://github.com/mauricio-araujoo) |                                    |
