@@ -346,6 +346,64 @@ Especificação do caso de uso UC12
 </div >
 
 
+### UC13. Pagar pensão
+
+Na tabela 11, encontra-se a especificação do caso de uso UC13 - Pagar pensão. 
+<div align="center">
+<font size="3">
+<p style="text-align: center">
+<b>Tabela 11:</b> 
+Especificação do caso de uso UC13
+</p>
+</font>
+</div>
+<!-- PRE03. Dispor de fundos necessarios para realizar pagamento -->
+| UC13 | Pagar pensão |
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Média |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> |
+| **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de pagar pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li> <li>O usuário confirma seus dados.</li> <li>O sistema redireciona para o pagamento.</li></ol>|
+| **Fluxos alternativos** | FA01: O usuário escolhe cancelar o pagamento <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol>|
+| **Fluxos de exceção** |FE01: Falha na consulta do historico de pagamento<ol><li>O sistema notifica o erro.</li><li>O sistema da a opção de tentar novamente ou sair.</li></ol> FE02: Falha no pagamento da pensão <ol><li>O sistema notifica o usuário.</li> <li>O usuário é redirecionado ao inicio do processo de pagamento.</li></ol>|
+| **Pós-condições** |POS01. O sistema retorna o comprovante de pagamento para o usuário.|
+| **Data da criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+</div >
+
+### UC14. Realizar pagamento de pensão
+
+Na tabela 12, encontra-se a especificação do caso de uso UC14 - Realizar pagamento de pensão. 
+<div align="center">
+<font size="3">
+<p style="text-align: center">
+<b>Tabela 12:</b> 
+Especificação do caso de uso UC14
+</p>
+</font>
+</div>
+
+| UC14 | Realizar pagamento de pensão |
+| --- | --- |
+| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Frequência de uso** | Alta ( Acionado sempre que o usuário for realizar um pagamento). |
+| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>PRE03. Dispor de fundos necessarios para realizar pagamento. |
+| **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de pagar pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li> <li>O usuário confirma seus dados.</li> <li>O sistema redireciona para o pagamento.</li> <li>O usuário recebe um boleto com o valor a ser pago da pensão.</li></ol>|
+| **Fluxos alternativos** | FA01: O usuário escolhe cancelar o pagamento <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol>|
+| **Fluxos de exceção** |FE01: Falha na consulta do historico de pagamento<ol><li>O sistema notifica o erro.</li><li>O sistema da a opção de tentar novamente ou sair.</li></ol> FE02: Falha no pagamento da pensão <ol><li>O sistema notifica o usuário.</li> <li>O usuário é redirecionado ao inicio do processo de pagamento.</li></ol>|
+| **Pós-condições** |POS01. O sistema retorna o comprovante de pagamento para o usuário.|
+| **Data da criação** | 08/12/2024 |
+| **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+</div >
+
+
+
 
 
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
