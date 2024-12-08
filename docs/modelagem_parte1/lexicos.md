@@ -82,7 +82,7 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 
 ### L03 - Contribuição Previdenciária
 
-O terceiro cenário léxico, presente na Tabela 4, utiliza os seguintes requisitos funcionais não implementados: O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício. - [RF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/), [RF21](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+O terceiro cenário léxico, presente na Tabela 4, utiliza o seguinte requisitos funcionais não implementados: O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício. - [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/). Também os seguintes não implementados: 'O usuário poderá ter acesso ao histórico completo de contribuições do segurado (CNIS).' e 'O aplicativo deve mostrar status de solicitações e benefícios em andamento.' - [RF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) e [RF21](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4:</b> Descrição do léxico 03 - Contribuição Previdenciária</p></font>
@@ -134,7 +134,7 @@ O quinto cenário léxico, presente na Tabela 6, utiliza o seguinte requisito fu
 | *Sinônimo(s)*                  | Pesquisa avançada, Filtro de busca                                                                                |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
 </div>
 
 ### L6 - Acessibilidade
