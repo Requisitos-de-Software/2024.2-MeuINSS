@@ -34,7 +34,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
   <tbody>
     <tr>
       <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
-      <td><a href="https://">Consultar o impacto da contribuição do usuário no benecfício</a></td>
+      <td><a href="https://">Consultar o impacto da contribuição do usuário no benefício</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
@@ -50,7 +50,7 @@ A estrutura para a eloração dos cenários foi feita de acordo com as abstraç�
     </tr>
     <tr>
       <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a></td>
-      <td><a href="https://github.com/">-</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/">Consultar Benefícios</a></td>
     </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 </div>
 
-### CEN03 - Consultar o impacto da contribuição do usuário no benecfício
+### CEN03 - Consultar o impacto da contribuição do usuário no benefício
 
 O cenário a seguir diz respeito ao objetivo "Consultar o impacto da contribuição do usuário no benefício", sua descrição detalhada pode ser encontrada na tabela 4, com todas as abstrações específicas necessárias para o entendimento da tarefa em questão. 
 
@@ -118,7 +118,7 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 <div align="center">
 
-<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar o impacto da contribuição do usuário no benecfício" </p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Cenário referente ao objetivo "Consultar o impacto da contribuição do usuário no benefício" </p></font>
 </div>
 
 | **Elemento**  | **Descrição**                                                                           |
@@ -208,5 +208,5 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|03/12/2024|Criação de documento e adição do cenário sobre "agendar horário em uma agência do INSS"|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
-|`1.1`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benecfício"|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
-|`1.2`|07/12/2024|Adição do cenário "Consultar benecfícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[](https://github.com/)|
+|`1.1`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benefício"|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.2`|07/12/2024|Adição do cenário "Consultar benefícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[](https://github.com/)|
