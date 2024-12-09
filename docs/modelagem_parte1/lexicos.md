@@ -74,7 +74,7 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 | *Classificação* | Verbo |
 | *Noção* | Tarefa realizada pelo usuário <br>Realizar a ação de participar de comunidades relacionadas ao INSS| 
 | *Impacto* |Traz a possibilidades de uma maior interação entre usuários do INSS, além de ser uma alternativa de suporte com a possibilidade de pesquisa e acesso a fóruns de acordo com seus objetivos.|
-| *Sinônimo(s)* | Fórum, comunidade, interação|
+| *Sinônimo(s)* | Interagir, Sanar dúvidas|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
