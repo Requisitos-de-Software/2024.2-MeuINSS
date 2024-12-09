@@ -118,7 +118,7 @@ Na tabela 3, tem-se a especificação do caso de uso UC02 - Informar CEP para lo
 Na tabela 4, está documentada a especificação do caso de uso UC03 - Selecionar uma agência próxima.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Especificação do caso de uso UC03</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4:</b> Especificação do caso de uso UC03</p></font>
 </div>
 
 | UC03 |  Selecionar uma agência próxima |
@@ -315,7 +315,7 @@ Na tabela 12, encontra-se a especificação do caso de uso UC11 - Consultar Pens
 | UC11 | Consultar Pensão |
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
-| **Frequência de uso** | Média |
+| **Frequência de uso** | Alta |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de consultar pensões.</li> <li>O sistema retorna o historico de pagamentos de pensões </li> </ol>|
 | **Fluxos alternativos** | FA01: O usuário escolhe cancelar a consulta <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol> |
@@ -330,11 +330,11 @@ Na tabela 12, encontra-se a especificação do caso de uso UC11 - Consultar Pens
 
 ### UC12. Consultar historico de pagamentos
 
-Na tabela 10, encontra-se a especificação do caso de uso UC12 - Consultar historico de pagamentos. 
+Na tabela 13, encontra-se a especificação do caso de uso UC12 - Consultar historico de pagamentos. 
 <div align="center">
 <font size="3">
 <p style="text-align: center">
-<b>Tabela 10:</b> 
+<b>Tabela 13:</b> 
 Especificação do caso de uso UC12
 </p>
 </font>
@@ -357,47 +357,19 @@ Especificação do caso de uso UC12
 </div >
 
 
-### UC13. Pagar pensão
+### UC13. Realizar pagamento de pensão
 
-Na tabela 11, encontra-se a especificação do caso de uso UC13 - Pagar pensão. 
+Na tabela 14, encontra-se a especificação do caso de uso UC13 - Realizar pagamento de pensão. 
 <div align="center">
 <font size="3">
 <p style="text-align: center">
-<b>Tabela 11:</b> 
+<b>Tabela 14:</b> 
 Especificação do caso de uso UC13
 </p>
 </font>
 </div>
-<!-- PRE03. Dispor de fundos necessarios para realizar pagamento -->
-| UC13 | Pagar pensão |
-| --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
-| **Frequência de uso** | Média |
-| **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> |
-| **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de pagar pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li> <li>O usuário confirma seus dados.</li> <li>O sistema redireciona para o pagamento.</li></ol>|
-| **Fluxos alternativos** | FA01: O usuário escolhe cancelar o pagamento <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol>|
-| **Fluxos de exceção** |FE01: Falha na consulta do historico de pagamento<ol><li>O sistema notifica o erro.</li><li>O sistema da a opção de tentar novamente ou sair.</li></ol> FE02: Falha no pagamento da pensão <ol><li>O sistema notifica o usuário.</li> <li>O usuário é redirecionado ao inicio do processo de pagamento.</li></ol>|
-| **Pós-condições** |POS01. O sistema retorna o comprovante de pagamento para o usuário.|
-| **Data da criação** | 08/12/2024 |
-| **Rastreabilidade** | [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)|
 
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
-</div >
-
-### UC14. Realizar pagamento de pensão
-
-Na tabela 12, encontra-se a especificação do caso de uso UC14 - Realizar pagamento de pensão. 
-<div align="center">
-<font size="3">
-<p style="text-align: center">
-<b>Tabela 12:</b> 
-Especificação do caso de uso UC14
-</p>
-</font>
-</div>
-
-| UC14 | Realizar pagamento de pensão |
+| UC13 | Realizar pagamento de pensão |
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
 | **Frequência de uso** | Alta ( Acionado sempre que o usuário for realizar um pagamento). |
@@ -415,22 +387,22 @@ Especificação do caso de uso UC14
 
 
 
-### UC15. Acessar Comunidades de ajuda
+### UC14. Acessar Comunidades de ajuda
 
-Na tabela 16, pode ser vista a especificação do caso de uso UC15 - Acessar comunidades. 
+Na tabela 15, pode ser vista a especificação do caso de uso UC14 - Acessar comunidades. 
 <div align="center">
 <font size="3">
 <p style="text-align: center">
-<b>Tabela 16:</b> 
-Especificação do caso de uso UC15
+<b>Tabela 15:</b> 
+Especificação do caso de uso UC14
 </p>
 </font>
 </div>
 
-| UC15 |Acessar comunidades de ajuda|
+| UC14 |Acessar comunidades de ajuda|
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
-| **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
+| **Frequência de uso** | Média (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após entrar no espaço ele terá acesso a diversos fóruns onde poderá participar das discussões </li> </ol>
 | **Fluxos alternativos** | FA01: O usuário escolhe sair da parte de comunidades <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li>
@@ -445,19 +417,19 @@ Especificação do caso de uso UC15
 
 
 
-### UC16. Pesquisar fóruns na comunidade
+### UC15. Pesquisar fóruns na comunidade
 
-Na tabela 17, pode ser vista a especificação do caso de uso UC16 - Pesquisar fóruns.
+Na tabela 16, pode ser vista a especificação do caso de uso UC15 - Pesquisar fóruns.
 <div align="center">
 <font size="3">
 <p style="text-align: center">
-<b>Tabela 17:</b> 
-Especificação do caso de uso UC16
+<b>Tabela 16:</b> 
+Especificação do caso de uso UC15
 </p>
 </font>
 </div>
 
-| UC16 |Pesquisar fóruns na comunidade|
+| UC15 |Pesquisar fóruns na comunidade|
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
 | **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
@@ -473,19 +445,19 @@ Especificação do caso de uso UC16
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
 </div >
 
-### UC17. Entrar em fóruns e interagir
+### UC16. Entrar em fóruns e interagir
 
-Na tabela 18, pode ser vista a especificação do caso de uso UC17 - Acessar fóruns e publicar/excluir mensagens.
+Na tabela 17, pode ser vista a especificação do caso de uso UC16 - Acessar fóruns e publicar/excluir mensagens.
 <div align="center">
 <font size="3">
 <p style="text-align: center">
-<b>Tabela 18:</b> 
-Especificação do caso de uso UC17
+<b>Tabela 17:</b> 
+Especificação do caso de uso UC16
 </p>
 </font>
 </div>
 
-| UC16 |Pesquisar fóruns na comunidade|
+| UC15 |Pesquisar fóruns na comunidade|
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
 | **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |

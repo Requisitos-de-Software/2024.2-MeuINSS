@@ -16,7 +16,7 @@
 
 ## <p style="margin-bottom: 50px;">Suportabilidade</p>
 
-Na categoria de soportabilidade, tem-se os requisitos que estão relacionados ao suporte e manutenção do sistema, que inevitavelmente, garantem a facilidade de manutenção e evolução do sistema ao longo do tempo, tornando-o mais robusto.
+Na categoria de suportabilidade, tem-se os requisitos que estão relacionados ao suporte e manutenção do sistema, que inevitavelmente, garantem a facilidade de manutenção e evolução do sistema ao longo do tempo, tornando-o mais robusto.
 
 
 Além de tratar de atualizações e correções, também possui requisitos relacionados a diagnóstico de problemas, monitoramento contínuo e rastreabilidade de alterações.
@@ -56,7 +56,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 | CON03 | 	O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada.|       [RNF012](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)         |
 | CON04 | 	As operações de manutenção assim como as de atualização do aplicativo devem ocorrer em horários onde não se tenha pico de usuários e idealmente de maneira agendada com antecedência|   -    |
 | CON05 | 	O sistema deve conseguir suportar picos de usuários de até 400% a quantidade média de usuários sem grandes perdas de desempenho.|  -  |
-| CON06 | Caso o aplicativo sofra com algum problema técnico que comprometa seu uso os usuários devem ser informados do problema e avisados do estado do sistema a medida que o problema é resolvido.|  -  |
+| CON06 | Caso o aplicativo enfrente problemas técnicos que comprometam seu uso, os usuários devem ser informados do problema e avisados do estado do sistema a medida que o problema é resolvido.|  -  |
 
 
 <font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
@@ -169,4 +169,4 @@ O aplicativo deve possuir interfaces com padrões simples e claros de forma que 
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 |  1.0   | 05/12/2024 | Criação do documento        |          [Cristiano Morais](http://github.com/CristianoMoraiss)                                              |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                      |
 |  1.1   | 06/12/2024 | Adição de requisitos de confiabilidade e suportabilidade      |[Cristiano Moraes](http://github.com/CristianoMoraiss) </br>[Júlia Fortunato](http://github.com/julia-fortunato)             |     [Maurício Ferreira](https://github.com/mauricio-araujoo)                                  |
-|  1.2   | 08/12/2024 | Adição dos requisitos restantes|[Cristiano Morais](http://github.com/CristianoMoraiss) </br>[Maurício Ferreira](https://github.com/mauricio-araujoo)             |                 [Júlia Fortunato](http://github.com/julia-fortunato)                             |
+|  1.2   | 08/12/2024 | Adição dos requisitos restantes|[Cristiano Morais](http://github.com/CristianoMoraiss) </br>[Maurício Ferreira](https://github.com/mauricio-araujoo)             |                 [Ana Catarina Santos](http://github.com/an4catarinia)                             |
