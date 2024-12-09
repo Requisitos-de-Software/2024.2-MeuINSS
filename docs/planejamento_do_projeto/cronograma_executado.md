@@ -523,14 +523,11 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
       <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
       <td>
         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
-        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
-        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>MUDAR ISSSOOOOOOO
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
       <td>Início:  30/11/2024 <br> Fim:  01/12/2024</td>
       <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
       <td>
-        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+       <a href="http://github.com/an4catarina">Ana Catarina</a>
     </tr>
     <tr>
       <td>Gravação 3</td>
@@ -559,7 +556,7 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
       <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
       <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
-      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
     </tr>
     <tr>
       <td>Realizar inspeção do grupo+1</td>
@@ -607,4 +604,4 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
 | `2.0`  | 22/11/2024 | Correção da organização do documento                              | [Ana Catarina Santos](https://github.com/an4catarina)                                                            |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado da entrega 2                  | [Júlia Fortunato](https://github.com/julia-fortunato)                                                            |                                 [Ana Catarina Santos](https://github.com/an4catarina)                                 |
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado das entregas 1 e 2            | [Ana Catarina Santos](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato) |                               [Maurício Ferreira](https://github.com/mauricio-araujoo)                                |
-| `4.0`  | 08/12/2024 | Atualização do cronograma executado da entrega 3          |  [Júlia Fortunato](https://github.com/julia-fortunato) |     |
+| `4.0`  | 08/12/2024 | Atualização do cronograma executado da entrega 3          |  [Júlia Fortunato](https://github.com/julia-fortunato) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
