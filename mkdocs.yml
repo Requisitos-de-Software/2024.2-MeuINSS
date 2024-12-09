@@ -12,6 +12,7 @@ nav:
   - Apresentação:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
+    - Apresentação 3: apresentacoes/apresentacao3.md
   - Planejamento do Projeto:
     - Heatmap de disponibilidade: planejamento_do_projeto/heatmap-disponibilidade.md
     - Cronograma planejado: planejamento_do_projeto/cronograma_planejado.md
@@ -46,7 +47,7 @@ nav:
       - "Lista de inspeção": elicitacao/listainspecao.md
       - "Inspeção do grupo": elicitacao/inspecao.md
       - "Inspeção do grupo + 1 (Grupo 07)": elicitacao/inspecaogrupo+1.md
-  - Modelagem de requisitos - Parte 1:
+  - Modelagem de Requisitos - Parte 1:
     - "Casos de Uso": modelagem_parte1/casosdeuso.md
     - "Validação dos Casos de Uso": modelagem_parte1/validacaoCasodeUso.md
     - "Cenários": modelagem_parte1/cenarios.md
@@ -56,7 +57,10 @@ nav:
       - "Lista de inspeção": modelagem_parte1/listadeinspecao3.md
       - "Inspeção do grupo": modelagem_parte1/inspecaogrupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": modelagem_parte1/inspecaogrupo+1.md
-
+  - Modelagem de Requisitos - Parte 2:
+    - "Backlog": modelagem_parte2/backlog.md
+    - "Histórias de Usuário": modelagem_parte2/historias.md
+    - "NFR Framework": modelagem_parte2/nfr.md
 
 
     

@@ -36,7 +36,7 @@ Além de tratar de atualizações e correções, também possui requisitos relac
 | SUP09 | O sistema deve ser capaz de detectar falhas automaticamente e fornecer um mecanismo de recuperação sem perda de dados ou interrupção significativa, fazendo um backup completo (uma vez por dia) e backups incrementais (a cada 2-4 horas durante o dia, dependendo da quantidade de transações no banco de dados)| -  |
 
 
-<font size="3"><p style="text-align: center">Autor: [Júlia Fortunato](https://github.com/julia-fortunato).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Júlia Fortunato](https://github.com/julia-fortunato), 2024</p></font>
 
 
 
@@ -59,7 +59,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 | CON06 | Caso o aplicativo enfrente problemas técnicos que comprometam seu uso, os usuários devem ser informados do problema e avisados do estado do sistema a medida que o problema é resolvido.|  -  |
 
 
-<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss), 2024</p></font>
 
 ## <p style="margin-bottom: 50px;">Usabilidade</p>
 
@@ -83,7 +83,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 </center>
 
-<font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo), 2024</p></font>
 
 ## <p style="margin-bottom: 50px;">Desempenho<p>
 
@@ -102,7 +102,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 |DES03|O sistema não deve possuir mais de 20 interações em cada tela para manter as paginas leves.|-|
 |DES04|O sistema deve manter a resposta da autenticação de usuario com menos de 4 segundos.|-|
 
-<font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Maurício Ferreira](https://github.com/mauricio-araujoo), 2024</p></font>
 
 </center>
 
@@ -122,7 +122,7 @@ Na tabela 5 estão os Requisitos Não Funcionais para Restrições de Design pro
 | RESD04 | Os elementos do aplicativo seguem um padrão visual (como fonte utilizada e cores serem constantes).|    -    |
 
 
-<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss), 2024</p></font>
 
 
 ## <p style="margin-bottom: 50px;">+: Ajuda e documentação<p>
@@ -140,9 +140,7 @@ Na tabela 6 se pode observar os Requisitos Não Funcionais relacionados ao tema 
 
 
 
-<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
-
-
+<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss), 2024</p></font>
 
 
 
