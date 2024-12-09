@@ -54,6 +54,10 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 | CON01 | Garantir a segurança dos dados com criptografia nas transações.           |         [RNF08](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados)           |
 | CON02 | O aplicativo deve armazenar dados em conformidade com a LGPD.             |         [RNF011](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)          |
 | CON03 | 	O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada.|       [RNF012](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)         |
+| CON04 | 	As operações de manutenção assim como as de atualização do aplicativo devem ocorrer em horários onde não se tenha pico de usuários e idealmente de maneira agendada com antecedência|   -    |
+| CON05 | 	O sistema deve conseguir suportar picos de usuários de até 400% a quantidade média de usuários sem grandes perdas de desempenho.|  -  |
+| CON06 | Caso o aplicativo sofra com algum problema técnico que comprometa seu uso os usuários devem ser informados do problema e avisados do estado do sistema a medida que o problema é resolvido.|  -  |
+
 
 <font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
 
@@ -87,7 +91,7 @@ Relaciona o tempo para executar ações com a rapidez que o usuário realiza sua
 
 Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
 
-<font><p style="text-align: center">**Tabela 4** - Requisitos de Desempenho.</p></font>
+<font><p style="text-align: center">**Tabela 4** - Requisitos de desempenho.</p></font>
 
 <center>
 
@@ -102,9 +106,60 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 
 </center>
 
+
+## <p style="margin-bottom: 50px;">+: Restrições de Design<p>
+
+<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">É possível dizer que restrições de design são fatores ou condições específicas que precisam ser consideradas ao criar e desenvolver um produto, seja ele digital (como aplicativos e websites), físico ou qualquer outro tipo de criação. Essas limitações podem se referir a diversos aspectos, como questões de cunho técnico, visual, operacional, financeiro, de tempo, cultural e outros. Elas definem os parâmetros ou orientam as decisões de design, a fim de assegurar que o produto atenda a certos critérios ou propósitos.</br></br>
+Na tabela 5 estão os Requisitos Não Funcionais para Restrições de Design pro aplicativo "Meu INSS".</p>
+
+<font><p style="text-align: center">**Tabela 5** - Requisitos de Restrição de Design.</p></font>
+
+| ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------  |
+| RESD01 | O sistema deve garantir responsividade para diferentes tamanhos de tela assim como dispositivos mantendo o design dos elementos visuais. |    -      |
+| RESD02 | O material visual utilizado no aplicativo deve estar de acordo com as leis vigentes de direito autoral.|    -    |
+| RESD03 | O aplicativo segue boas práticas de design da industria tornando intuitivo seu uso além de prever casos específicos de uso como para pessoas com daltonismo.|    -    |
+| RESD04 | Os elementos do aplicativo seguem um padrão visual (como fonte utilizada e cores serem constantes).|    -    |
+
+
+<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
+
+
+## <p style="margin-bottom: 50px;">+: Ajuda e documentação<p>
+
+<p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;">A seção de "Ajuda e Documentação" de um aplicativo reúne uma série de recursos e informações elaboradas para orientar os usuários, detalhando como o aplicativo opera, suas funcionalidades principais e como utilizá-las de maneira eficaz. Essa área é fundamental para garantir que os usuários entendam como o aplicativo funciona, resolvam possíveis problemas e aproveitem ao máximo seus recursos.</br></br>
+Na tabela 6 se pode observar os Requisitos Não Funcionais relacionados ao tema de Ajuda e Documentação pro aplicativo "Meu INSS".</p>
+
+
+| ID    | Descrição                                                                                                                                                                                                                                                                  | Rastreabilidade  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-------------------  |
+| AD01 | O sistema deve possuir formas de orientar o usuário em relação ao seu uso.|    -      |
+| AD02 | As documentações relacionadas a ajuda devem estar atualizadas.|    -      |
+| AD03 | A documentação deve estar disponibilizada em ao menos dois idiomas amplamente utilizados.|    -      |
+| AD04 | A documentação precisa ser acessível para pessoas com deficiência seguindo, por exemplo, o padrão WCAG 2.0 [2]|    -      |
+
+
+
+<font size="3"><p style="text-align: center">Autor: [Cristiano Morais](https://github.com/CristianoMoraiss).</p></font>
+
+
+
+
+
+## <p style="margin-bottom: 25px;">+:Interfaces<p>
+
+O aplicativo deve possuir interfaces com padrões simples e claros de forma que o uso seja facil e intuitivo para o usuário.
+
+- Interface de Usuário: O aplicativo deve possuir telas separadas para as funcionalidades de prioridade alta.
+
+- Interface de Hardware: O aplicativo deve possuir desempenho alto para maior portabilidade em dispositivos móveis.
+
+- Interface de Comunicação: O aplicativo precisa de conexão com à internet, através de dados móveis, wifi ou etc.
+
 ## <p style="margin-bottom: 50px;">Referências bibliográficas</p>
 
 > [1] SERRANO, Milene; SERRANO, Maurício. Elicitação, Modelagem e Análise - Aula 13. s.d. Slide 8 de 40. Disponível em: <a>https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>. Acesso em: 05 Dez. 2024. </br>
+> [2] WORLD WIDE WEB CONSORTIUM. WCAG 2.0: Web Content Accessibility Guidelines. Versão 2.0. World Wide Web Consortium, 2008. Disponível em: https://www.w3.org/WAI/WCAG21/quickref/. Acesso em: 08 de Dez. de 2023.
 
 
 ## <p style="margin-bottom: 50px;">Histórico de Versões</p> 
@@ -112,5 +167,6 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 
 | Versão | Data       | Descrição                   | Autor                                                 | Revisor                                               |
 | :----: | ---------- | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-|  1.0   | 05/12/2024 | Criação do documento        |          [Cristiano Moraes](http://github.com/CristianoMoraiss)                                              |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                      |
-|  1.1   | 06/12/2024 | Adição de requisitos de confiabilidade e suportabilidade      |          [Cristiano Moraes](http://github.com/CristianoMoraiss)                                    [Júlia Fortunato](http://github.com/julia-fortunato)             |                                               |
+|  1.0   | 05/12/2024 | Criação do documento        |          [Cristiano Morais](http://github.com/CristianoMoraiss)                                              |                                    [Júlia Fortunato](http://github.com/julia-fortunato)                      |
+|  1.1   | 06/12/2024 | Adição de requisitos de confiabilidade e suportabilidade      |[Cristiano Moraes](http://github.com/CristianoMoraiss) </br>[Júlia Fortunato](http://github.com/julia-fortunato)             |     [Maurício Ferreira](https://github.com/mauricio-araujoo)                                  |
+|  1.2   | 08/12/2024 | Adição dos requisitos restantes|[Cristiano Morais](http://github.com/CristianoMoraiss) </br>[Maurício Ferreira](https://github.com/mauricio-araujoo)             |                 [Júlia Fortunato](http://github.com/julia-fortunato)                             |

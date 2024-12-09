@@ -8,7 +8,7 @@ O cenário, para modelagem de requisitos, é uma estratégia utilizada para a co
 
 A elaboração dos cenários foi realizada a partir de requisitos que foram [elicitados](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) pela equipe anteriormente. Como foi solicitado na disciplina, cada integrante do grupo trabalhou com um requisito funcional não implementado e desenvolveu os artefatos para ele. A relação entre os integrantes e os cenários trabalhados/desenvolvidos pode ser encontrada na Tabela 1.
 
-A estrutura para a eloração dos cenários foi feita de acordo com as abstrações específicas que esse artefato deve possuir [1]. São elas:
+A estrutura para a elaboração dos cenários foi feita de acordo com as abstrações específicas que esse artefato deve possuir [1]. São elas:
 
 - título: o título do cenário;
 - objetivo: o objetivo, uma meta, a ser alcançado pela tarefa;
@@ -103,7 +103,7 @@ Rastreabilidade: [RF25](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 | Recursos    | Internet<br>Smartphone<br>Aplicativo do Meu INSS instalado                           |
 | Atores      | Usuário brasileiro com CPF ativo que contribui, ou contribuia (durante o tempo de trabalho ativo) com o INSS                                                 |
 | Episódios   | O *usuário* seleciona a opção consultar pensões no menu lateral <br> O aplicativo exibe o historico de pagamento de pensão na tela <br> O *usuário* seleciona a opção de realizar pagamento pendente <br> O aplicativo exibe o valor a ser pago junto com os dados do *usuário* <br> O *usuário* seleciona a opção de confirmar após ler o valor a ser pago <br>O aplicativo redireciona para um boleto gerado, para o pagamento |
-| Restrição   | O boleto deve ser pago em pelo menos 72 horas apósa emissão do mesmo.|
+| Restrição   | O boleto deve ser pago em pelo menos 72 horas após a emissão do mesmo.|
 | Exceção     | Erro de conexão com a internet <br> Tentativa de realizar pagamento em horario não comercial|
 
 <div align="center">
@@ -208,6 +208,7 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|03/12/2024|Criação de documento e adição do cenário sobre "agendar horário em uma agência do INSS"|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
-|`1.1`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benefício"|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
-|`1.2`|08/12/2024|Adição do cenário "Consultar benefícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[](https://github.com/)|
-|`1.3`|08/12/2024|Adição do cenário "Acessar comunidades"|[Cristiano Morais](https://github.com/CristianoMoraiss)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.1`|06/12/2024|Adição do cenário "Realizar pagamento de pensão"|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|[Júlia Fortunato](https://github.com/julia-fortunato)|
+|`1.2`|07/12/2024|Adição do cenário "Consultar o impacto da contribuição do usuário no benefício"|[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.3`|08/12/2024|Adição do cenário "Consultar benefícios"|[Nicolas Bomfim](https://github.com/nickgehjk)|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|
+|`1.4`|08/12/2024|Adição do cenário "Acessar comunidades"|[Cristiano Morais](https://github.com/CristianoMoraiss)|[Nicolas Bomfim](https://github.com/nickgehjk)|
