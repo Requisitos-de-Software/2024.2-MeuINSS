@@ -315,7 +315,7 @@ Na tabela 12, encontra-se a especificação do caso de uso UC11 - Consultar Pens
 | UC11 | Consultar Pensão |
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
-| **Frequência de uso** | Alta |
+| **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de consultar pensões.</li> <li>O sistema retorna o historico de pagamentos de pensões </li> </ol>|
 | **Fluxos alternativos** | FA01: O usuário escolhe cancelar a consulta <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol> |
@@ -372,7 +372,7 @@ Especificação do caso de uso UC13
 | UC13 | Realizar pagamento de pensão |
 | --- | --- |
 | **Atores** | Usuário trabalhador <br> Usuário aposentado|
-| **Frequência de uso** | Alta ( Acionado sempre que o usuário for realizar um pagamento). |
+| **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>PRE03. Dispor de fundos necessarios para realizar pagamento. |
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de pagar pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li> <li>O usuário confirma seus dados.</li> <li>O sistema redireciona para o pagamento.</li> <li>O usuário recebe um boleto com o valor a ser pago da pensão.</li></ol>|
 | **Fluxos alternativos** | FA01: O usuário escolhe cancelar o pagamento <ol> <li>O sistema retorna para a pagina inicial do aplicativo.</li> </ol>|
