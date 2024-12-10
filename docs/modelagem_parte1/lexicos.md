@@ -134,7 +134,7 @@ O quinto cenário léxico, presente na Tabela 6, utiliza o seguinte requisito fu
 | *Sinônimo(s)*                  | Pesquisa avançada, Filtro de busca                                                                                |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
 </div>
 
 ### L6 - Acessibilidade
