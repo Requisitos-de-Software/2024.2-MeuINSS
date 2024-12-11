@@ -39,7 +39,7 @@ Os léxicos deveriam possuir os seguintes tópicos/características:
 
 ## Léxicos
 
-### L01 - Agendar atendimento 
+### L1 - Agendar atendimento 
 
 O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos seguintes requisitos não implementados: o sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo - [OBS03](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#requisitos-funcionais), [RF28](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
@@ -48,7 +48,7 @@ O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos se
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Descrição do léxico 01 - Agendar atendimento</p></font>
 </div>
 
-| *L01 - Agendar atendimento* | *Descrição* |
+| *L1 - Agendar atendimento* | *Descrição* |
 |-----------------|-------|
 | *Classificação* | Verbo |
 | *Noção* | Tarefa realizada pelo usuário <br>Ação de selecionar um horário específico para atendimento presencial em uma unidade do INSS, através do aplicativo Meu INSS | 
@@ -60,7 +60,7 @@ O primeiro léxico formulado pela equipe, presente na Tabela 2, faz o uso dos se
 </div>
 
 
-### L02 - Acessar comunidades
+### L2 - Acessar comunidades
 
 O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguintes requisitos funcionais não implementados: o sistema possui comunidades onde os usuários podem interagir afim de se ajudarem e sanarem dúvidas relacionadas ao INSS - [IS04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/), [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
@@ -69,7 +69,7 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Descrição do léxico 02 - Acessar comunidades</p></font>
 </div>
 
-| L02 - Acessar comunidades | Descrição |
+| *L2 - Acessar comunidades* | *Descrição* |
 |-----------------|-------|
 | *Classificação* | Verbo |
 | *Noção* | Tarefa realizada pelo usuário <br>Realizar a ação de participar de comunidades relacionadas ao INSS| 
@@ -80,7 +80,7 @@ O segundo léxico observado pela equipe, presente na Tabela 3, utiliza os seguin
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
 </div>
 
-### L03 - Contribuição Previdenciária
+### L3 - Contribuição Previdenciária
 
 O terceiro cenário léxico, presente na Tabela 4, utiliza o seguinte requisitos funcionais não implementados: O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício. - [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/). Também os seguintes não implementados: 'O usuário poderá ter acesso ao histórico completo de contribuições do segurado (CNIS).' e 'O aplicativo deve mostrar status de solicitações e benefícios em andamento.' - [RF12](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) e [RF21](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
@@ -99,7 +99,7 @@ O terceiro cenário léxico, presente na Tabela 4, utiliza o seguinte requisitos
 <font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
 </div>
 
-### L04 - Notificação Pendente
+### L4 - Notificação Pendente
 
 O quarto cenário léxico, presente na Tabela 3, utiliza o seguinte requisito funcional não implementado: O aplicativo deve enviar notificações sobre pendências, prazos e novas regras.- [GLO04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/), [OBS05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
@@ -107,7 +107,7 @@ O quarto cenário léxico, presente na Tabela 3, utiliza o seguinte requisito fu
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Descrição do léxico 04 - Notificação Pendente</p></font>
 </div>
 
-| *L04 - Notificação Pendente* | *Descrição*                                                                                      |
+| *L4 - Notificação Pendente* | *Descrição*                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------|
 | *Classificação*              | Estado                                                                                          |
 | *Noção*                      | Refere-se a um alerta ou mensagem enviada ao usuário sobre pendências, prazos ou mudanças importantes relacionadas ao seu benefício. |
@@ -118,7 +118,7 @@ O quarto cenário léxico, presente na Tabela 3, utiliza o seguinte requisito fu
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
 </div>
 
-### L05 - Filtro de Pesquisa
+### L5 - Filtro de Pesquisa
 
 O quinto cenário léxico, presente na Tabela 6, utiliza o seguinte requisito funcional não implementado: O aplicativo deve possuir filtro de pesquisa assertivo. - [RF07](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
@@ -126,7 +126,7 @@ O quinto cenário léxico, presente na Tabela 6, utiliza o seguinte requisito fu
 <font size="3"><p style="text-align: center"><b>Tabela 6:</b> Descrição do léxico 05 - Filtro de Pesquisa</p></font>
 </div>
 
-| *L05 - Filtro de Pesquisa*     | *Descrição*                                                                                                       |
+| *L5 - Filtro de Pesquisa*     | *Descrição*                                                                                                       |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | *Classificação*                | Objeto                                                                                                            |
 | *Noção*                        | Ferramenta que permite ao usuário realizar buscas detalhadas e assertivas dentro do aplicativo Meu INSS, facilitando a localização de informações e funcionalidades. |

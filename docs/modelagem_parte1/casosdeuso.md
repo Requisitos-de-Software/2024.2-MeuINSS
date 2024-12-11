@@ -99,7 +99,7 @@ Na tabela 3, tem-se a especificação do caso de uso UC02 - Informar CEP para lo
 
 | UC02 |  Informar CEP para localizar uma agência |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado |
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Alta (acionado em qualquer tentativa de agendamento em uma agência do INSS). |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> PRE03. Ter iniciado o processo de agendamento em uma agência do INSS no aplicativo Meu INSS.|
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa a funcionalidade "Agendar horário em uma agência do INSS". <li> O sistema solicita que o usuário informe o CEP para localizar as agências próximas. <li> O usuário insere o CEP e confirma. <li> O sistema verifica o CEP informado e retorna as agências disponíveis na região. <li> Fim do caso de uso. </ol> |
@@ -123,7 +123,7 @@ Na tabela 4, está documentada a especificação do caso de uso UC03 - Seleciona
 
 | UC03 |  Selecionar uma agência próxima |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado <br> INSS |
+| **Atores** | Trabalhador <br> Aposentado <br> INSS |
 | **Frequência de uso** | Alta (acionado sempre que o usuário deseja escolher uma agência para o atendimento). |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> PRE03. Ter iniciado o processo de agendamento em uma agência do INSS no aplicativo Meu INSS. <br> PRE04. Ter informado um CEP válido no informá-lo.|
 | **Fluxo básico** | FB01. <ol> <li> O sistema apresenta uma lista de agências próximas ao CEP informado. <li> O usuário visualiza as opções de agências disponíveis na região. <li> O usuário seleciona uma agência para o atendimento. <li> O sistema registra a seleção da agência. <li> Fim do caso de uso. </ol> |
@@ -147,7 +147,7 @@ Na tabela 5, é apresentada a especificação do caso de uso UC04 - Escolher dat
 
 | UC04 | Escolher data e horário disponíveis |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado |
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Alta (acionado toda vez que o usuário precisa agendar um horário em uma agência). |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> PRE03. Ter selecionado uma agência no processo de agendamento.|
 | **Fluxo básico** | FB01. <ol> <li> O sistema apresenta uma lista de datas disponíveis para atendimento na agência selecionada. <li> O usuário escolhe uma data. <li> O sistema exibe os horários disponíveis para a data escolhida. <li> O usuário escolhe um horário. <li> O sistema registra a data e o horário selecionados. <li> Fim do caso de uso. </ol> |
@@ -171,7 +171,7 @@ Na tabela 6, pode-se encontrar a especificação do caso de uso UC05 - Confirmar
 
 | UC05 | Confirmar agendamento de horário em uma agência |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado <br> INSS |
+| **Atores** | Trabalhador <br> Aposentado <br> INSS |
 | **Frequência de uso** | Alta (acionado sempre que o agendamento de um horário é concluído).|
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> PRE03. Ter escolhido uma data e um horário disponíveis no processo de agendamento.|
 | **Fluxo básico** | FB01. <ol> <li> O sistema exibe um resumo do agendamento com os dados da agência, data e horário selecionados. </li> <li> O usuário revisa as informações e confirma o agendamento.</li> <li> O sistema registra o agendamento. </li> <li> O sistema exibe a confirmação do agendamento. </li> <li> Fim do caso de uso.</li> </ol> |
@@ -194,7 +194,7 @@ Na tabela 7, encontra-se a especificação do caso de uso UC06 - Cancelar ou alt
 
 | UC06 | Cancelar ou alterar agendamento |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado <br> INSS |
+| **Atores** | Trabalhador <br> Aposentado <br> INSS |
 | **Frequência de uso** | Média (acionado quando o usuário precisa modificar ou cancelar o agendamento).|
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> PRE03. Ter realizado um agendamento previamente (em qualquer etapa anterior).|
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa a funcionalidade de agendamentos no aplicativo. </li> <li> O sistema exibe os agendamentos ativos do usuário. </li> <li> O usuário escolhe um agendamento para cancelar ou alterar. </li> <li> O sistema exibe as opções de cancelar ou alterar o agendamento (incluindo datas, horários e agência). </li> <li> O usuário escolhe a opção desejada: <ul> <li> Para cancelar, o sistema solicita a confirmação do cancelamento. </li> <li> Para alterar, o sistema leva o usuário de volta para a tela de escolha de data e horário (UC04). </li> </ul> </li> <li> O sistema processa a ação escolhida e confirma a operação. </li> <li> Fim do caso de uso. </li> </ol> |
@@ -217,7 +217,7 @@ Na tabela 8, encontra-se a especificação do caso de uso UC07 - Notificar indis
 
 | UC07 | Notificar indisponibilidade de vagas |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado <br> INSS|
+| **Atores** | Trabalhador <br> Aposentado <br> INSS|
 | **Frequência de uso** | Alta (acionado quando o sistema identifica que não há vagas disponíveis para o agendamento).|
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br> PRE03. Ter iniciado o processo de agendamento.|
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de agendamento e escolhe uma agência, data e horário. </li> <li> O sistema verifica a disponibilidade de vagas na agência e para o horário escolhido. </li> <li> O sistema detecta que não há vagas disponíveis. </li> <li> O sistema notifica o usuário informando que não há vagas disponíveis para o horário ou agência selecionada. </li> <li> O usuário é convidado a selecionar outra agência, data ou horário. </li> <li> Fim do caso de uso. </li> </ol>|
@@ -241,7 +241,7 @@ Na tabela 9, encontra-se a especificação do caso de uso UC08 - Consultar Benef
 
 | UC08 | Consultar Benefícios |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado |
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Alta |
 | **Pré-condições** | PRE01. Possuir uma conexão com a internet. <br> PRE02. Possuir o aplicativo Meu INSS instalado. <br> PRE03. Estar logado no aplicativo Meu INSS. |
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa o aplicativo Meu INSS e seleciona a opção "Consultar Benefícios". </li> <li> O sistema exibe uma lista dos benefícios vinculados ao CPF do usuário. </li> <li> O usuário seleciona um benefício desejado para mais detalhes. </li> <li> O sistema apresenta as informações detalhadas do benefício, incluindo: <ul><li>Nome do benefício</li><li>Status atual (ativo, inativo, pendente)</li><li>Valor mensal</li><li>Próxima data de pagamento</li><li>Histórico de pagamentos recentes</li></ul></li> <li> O usuário encerra a consulta ou retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> |
@@ -266,7 +266,7 @@ Na tabela 10, encontra-se a especificação do caso de uso UC09 - Exibir impacto
 
 | UC09 | Exibir impacto da contribuição no benefício |
 | --- | --- |
-| **Atores** | Usuário trabalhador |
+| **Atores** | Trabalhador |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. Possuir uma conexão com a internet. <br> PRE02. Possuir o aplicativo Meu INSS instalado. <br> PRE03. Estar logado no aplicativo Meu INSS. |
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa o aplicativo Meu INSS e seleciona a opção "Consultar Benefícios". </li> <li> O sistema exibe uma lista dos benefícios vinculados ao CPF do usuário. </li> <li> O usuário seleciona um benefício desejado para mais detalhes. </li> <li> O sistema apresenta as informações detalhadas do benefício. </li> <li> O usuário seleciona a opção "Exibir impacto da contribuição no benefício". </li> <li> O sistema solicita ao usuário que informe o valor da contribuição. </li> <li> O usuário insere o valor da contribuição desejada. </li> <li> O sistema calcula o impacto da contribuição no benefício futuro, considerando o histórico contributivo do usuário e a legislação vigente. </li> <li> O sistema exibe os resultados, incluindo: <ul><li>Benefício estimado com base na contribuição informada.</li><li>Comparativo com o valor do benefício atual, se aplicável.</li><li>Sugestões para otimizar a contribuição.</li></ul></li> <li> O usuário encerra a consulta ou retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> |
@@ -290,7 +290,7 @@ Na tabela 11, encontra-se a especificação do caso de uso UC10 - Exibir projeç
 
 | UC10 | Exibir projeção de benefício futuro |
 | --- | --- |
-| **Atores** | Usuário trabalhador |
+| **Atores** | Trabalhador |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. Possuir uma conexão com a internet. <br> PRE02. Possuir o aplicativo Meu INSS instalado. <br> PRE03. Estar logado no aplicativo Meu INSS. <br> PRE04. O usuário deve ter acessado a funcionalidade "Consultar Benefícios" (UC08). |
 | **Fluxo básico** | FB01. <ol> <li> Durante a consulta de um benefício (UC08), o usuário seleciona a opção "Exibir projeção de benefício futuro". </li> <li> O sistema solicita ao usuário que informe: <ul><li>Tempo adicional de contribuição desejado (em meses ou anos).</li><li>Valor médio da contribuição futura.</li></ul></li> <li> O usuário insere os valores solicitados. </li> <li> O sistema calcula a projeção do benefício futuro, considerando: <ul><li>O histórico contributivo do usuário.</li><li>As regras da legislação vigente.</li><li>Os valores e tempo adicional informados.</li></ul></li> <li> O sistema exibe os resultados da projeção, incluindo: <ul><li>Valor estimado do benefício com base na projeção.</li><li>Tempo necessário para alcançar o valor projetado (se aplicável).</li><li>Recomendações adicionais para melhorar o benefício futuro.</li></ul></li> <li> O usuário encerra a consulta ou retorna ao menu principal. </li> <li> Fim do caso de uso. </li> </ol> |
@@ -314,7 +314,7 @@ Na tabela 12, encontra-se a especificação do caso de uso UC11 - Consultar Pens
 
 | UC11 | Consultar Pensão |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de consultar pensões.</li> <li>O sistema retorna o historico de pagamentos de pensões </li> </ol>|
@@ -342,7 +342,7 @@ Especificação do caso de uso UC12
 
 | UC12 | Consultar historico de pagamentos |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Alta(Acionado quando o usuário deseja realizar um pagamento de pensão ou consultar suas pensões) |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de consultar pensões.</li> <li>O sistema consulta o historico de pagamentos de pensões. </li> </ol> FB02. <ol><li>O usuário inicia o processo de realizar pagamento de pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li></ol>|
@@ -371,7 +371,7 @@ Especificação do caso de uso UC13
 
 | UC13 | Realizar pagamento de pensão |
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Média |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS. <br>PRE03. Dispor de fundos necessarios para realizar pagamento. |
 | **Fluxo básico** | FB01. <ol> <li> O usuário inicia o processo de pagar pensão.</li> <li>O sistema consulta o historico de pagamentos de pensões.</li> <li>O usuário confirma seus dados.</li> <li>O sistema redireciona para o pagamento.</li> <li>O usuário recebe um boleto com o valor a ser pago da pensão.</li></ol>|
@@ -401,7 +401,7 @@ Especificação do caso de uso UC14
 
 | UC14 |Acessar comunidades de ajuda|
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Média (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após entrar no espaço ele terá acesso a diversos fóruns onde poderá participar das discussões </li> </ol>
@@ -431,7 +431,7 @@ Especificação do caso de uso UC15
 
 | UC15 |Pesquisar fóruns na comunidade|
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após acessar ele pode, através de filtros, procurar fóruns relacionados aos assuntos que sejam interessantes para ele </li> </ol>
@@ -459,7 +459,7 @@ Especificação do caso de uso UC16
 
 | UC15 |Pesquisar fóruns na comunidade|
 | --- | --- |
-| **Atores** | Usuário trabalhador <br> Usuário aposentado|
+| **Atores** | Trabalhador <br> Aposentado |
 | **Frequência de uso** | Baixa (Usado quando o usuário possui alguma dúvida e deseja interagir com outros usuários) |
 | **Pré-condições** | PRE01. Dispor de conexão à internet. <br> PRE02. Estar logado no aplicativo Meu INSS.<br>|
 | **Fluxo básico** | FB01. <ol> <li> O usuário acessa a aba de comunidades/fóruns </li> <li> Após acessar ele pode, através de filtros, procurar fóruns relacionados aos assuntos que sejam interessantes para ele assim como criar um.</li> <li> Após ele entrar ou criar fóruns ele pode publicar as informações que desejar.</li>  </ol>
