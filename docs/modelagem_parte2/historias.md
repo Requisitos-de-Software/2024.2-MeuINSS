@@ -17,23 +17,108 @@
 
 
 
-### US01 - 
+### HS01 - O aplicativo emite e permite consulta a extratos e pagamentos.
+Na tabela 7, pode ser encontrada a HS01 - O aplicativo emite e permite consulta a extratos e pagamentos.
+
+<div style="text-align: center">
+
+<p><b>Tabela 7:</b> História de Usuário 1</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo poder realizar a emissão de extratos assim como também ter a permissão para consultar posteriormente esses extratos e  os pagamentos.| Emissão de extratos e consulta de extratos e pagamentos | - O sistema deve permitir que o usuário possa realizar a emissão de extratos . </br> - O sistema deve permitir que o usuário possa consultar o histórico de extratos que tenha realizado anteriormente se for o caso. </br> - Deve também ser possível dentro do aplicativo a consulta de pagamentos realizados. | Alta | Média |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF01 - O aplicativo emite e permite consulta a extratos e pagamentos.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 .
 
-### US02 - 
+### HS02 - 	O aplicativo permite simular a aposentadoria.
+Na tabela 7, pode ser encontrada a HS02 - O aplicativo permite simular a aposentadoria.
+
+<div style="text-align: center">
+
+<p><b>Tabela 7:</b> História de Usuário 2</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo poder realizar simulações da minha aposentadoria baseado no meu tempo de contribuição e pagamentos já realizados| Realizar simulações de aposentadoria.| - O sistema deve permitir ao usuário fornecer quanto irá pagar de previdência a cada mês para o cálculo do benefício final. </br> - O sistema deve considerar a contribuição previdenciária realizada pelo usuário até o momento da simulação para prever quanto tempo de contribuição com o valor especificado será necessário.  | Média | Média |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div > 
+
+Rastreabilidade: [RF02 - O aplicativo permite simular a aposentadoria.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 .
 
-### US03 - 
+### HS03 - 	O aplicativo permite solicitar pedidos.
+Na tabela 7, pode ser encontrada a HS03 - O aplicativo permite solicitar pedidos.
+
+<div style="text-align: center">
+
+<p><b>Tabela 7:</b> História de Usuário 3</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo poder realizar pedidos como por exemplo solicitação de benefícios (aposentadoria, auxilio-doença, pensão por morte, salário-maternidade, seguro desemprego), atualização de dados, agendamento de perícia médica.| Realizar pedidos dentro do aplicativo.| - O sistema deve permitir ao usuário realizar os pedidos relativos ao que se refere os serviços do INSS. </br> - O sistema deve ser capaz de mostrar ao usuário o histórico de pedidos realizados pelo mesmo identificando os detalhes de cada pedido. </br> - Caso o usuário não tenha conseguido solicitar um pedido o sistema deve informá-lo.| Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div > 
+
+Rastreabilidade: [RF03 - O aplicativo permite solicitar pedidos.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 .
 
-### US04 - 
+### HS04 - 	O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
+Na tabela 7, pode ser encontrada a HS04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
+
+<div style="text-align: center">
+
+<p><b>Tabela 7:</b> História de Usuário 4</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo que o aplicativo do "Meu INSS" esteja integrado com outros sistemas como, por exemplo, o sistema jurídico.| Integralização com outros sistemas. |- O sistema deve estar integralizado com outros sistemas além do próprio INSS. </br> - O usuário deve ter acesso a interações/informações de outros sistemas dentro do aplicativo do "Meu INSS".| Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div > 
+
+Rastreabilidade: [RF04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 .
 
-### US05 - 
+### HS05 - 	O aplicativo permite solicitar auxílio doença.
+Na tabela 7, pode ser encontrada a HS05 - O aplicativo permite solicitar auxílio doença.
+
+<div style="text-align: center">
+
+<p><b>Tabela 7:</b> História de Usuário 5</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo poder solicitar o auxílio doença através do sistema.| Solicitação de auxílio doença.|- O sistema deve estar integralizado com outros sistemas além do próprio INSS. </br> - O usuário deve ter acesso a interações/informações de outros sistemas dentro do aplicativo do "Meu INSS".| Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div > 
+
+Rastreabilidade: [RF05 - O aplicativo permite solicitar auxílio doença.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados) 
 
 .
 
