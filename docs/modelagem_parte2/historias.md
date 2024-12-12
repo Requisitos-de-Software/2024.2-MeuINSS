@@ -420,5 +420,6 @@ Rastreabilidade: [RF24 - O aplicativo deverá integrar informações sobre FGTS 
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|11/12/2024|Criação do documento|[Nicolas Bonfim](https://github.com/nickgehjk)|[Júlia Fortunato](https://github.com/julia-fortunato)|
-|`1.0`|11/12/2024|Adição de histórias 7 a 12|[Júlia Fortunato](https://github.com/julia-fortunato)||
+|`1.0`|11/12/2024|Criação do documento|[Nicolas Bomfim](https://github.com/nickgehjk)|[Júlia Fortunato](https://github.com/julia-fortunato)|
+|`1.1`|11/12/2024|Adição de histórias 7 a 12|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.2`|11/12/2024|Adição de histórias 19 a 24|[Nicolas Bomfim](https://github.com/nickgehjk)||
