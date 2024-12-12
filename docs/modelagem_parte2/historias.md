@@ -181,29 +181,119 @@ Rastreabilidade: [RF12 - O usuário poderá ter acesso ao histórico completo de
 
 .
 
-### US19 - 
+### HS19 - Enviar Documentos Digitalizados
+Na tabela 19, está descrita a HS19 - Enviar Documentos Digitalizados.
 
-.
+<div style="text-align: center">
 
-### US20 - 
+<p><b>Tabela 19:</b> História de Usuário 19</p>
 
-.
+</div>
 
-### US21 - 
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo enviar documentos digitalizados para complementar informações ou solicitar benefícios, a fim de agilizar o processo e evitar a necessidade de envio físico de documentos. | Documentos digitalizados / Solicitação de benefícios | - O usuário poderá selecionar um ou mais arquivos do seu dispositivo (celular, tablet ou computador);</br> - Os formatos de arquivos aceitos serão especificados (ex: PDF, JPG, PNG);</br> - Haverá um limite de tamanho para cada arquivo e para o total de arquivos enviados;</br> - O sistema deverá validar os tipos de arquivos enviados e informar o usuário em caso de erro;</br> - O usuário receberá uma confirmação de envio dos documentos;</br> - Os documentos enviados serão armazenados de forma segura e confidencial. | Alta | Alta |
 
-.
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div >
 
-### US22 - 
+Rastreabilidade: [RF19 - O usuário poderá enviar documentos digitalizados.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-.
+### HS20 - Solicitar Benefícios
+Na tabela 20, está descrita a HS20 - Solicitar Benefícios.
 
-### US23 - 
+<div style="text-align: center">
 
-.
+<p><b>Tabela 20:</b> História de Usuário 20</p>
 
-### US24 - 
+</div>
 
-.
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo solicitar um benefício previdenciário, a fim de agilizar o processo e acompanhar o status da minha solicitação. | Solicitação de benefícios | - O sistema deve oferecer uma lista completa dos benefícios disponíveis (aposentadoria, pensão, auxílio-doença, etc.);</br> - O usuário deverá selecionar o tipo de benefício desejado;</br> - O sistema deverá apresentar os requisitos e documentos necessários para cada tipo de benefício;</br> - O usuário poderá preencher um formulário online com as informações solicitadas;</br> - O sistema deverá validar as informações inseridas pelo usuário;</br> - O usuário poderá anexar os documentos digitalizados necessários para a solicitação;</br> - O sistema deverá gerar um protocolo de atendimento para acompanhamento da solicitação;</br> - O usuário receberá uma confirmação da solicitação por e-mail ou notificação no aplicativo. | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF20 - O usuário poderá solicitar benefícios pelo aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS21 - Acompanhar Status de Solicitações e Benefícios
+Na tabela 21, está descrita a HS21 - Acompanhar Status de Solicitações e Benefícios.
+
+<div style="text-align: center">
+
+<p><b>Tabela 21:</b> História de Usuário 21</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo acompanhar o status das minhas solicitações e benefícios em andamento, a fim de ter informações atualizadas sobre o processo. | Acompanhamento de solicitações | - O sistema deve apresentar um painel com todas as solicitações e benefícios em andamento do usuário;</br> - Para cada solicitação, o sistema deve exibir o tipo de benefício, data de solicitação, status atual e a próxima etapa do processo;</br> - O usuário deve poder visualizar os detalhes de cada solicitação, incluindo os documentos enviados e as mensagens trocadas com o INSS;</br> - O sistema deve enviar notificações para o usuário quando houver alguma atualização no status da sua solicitação;</br> - O usuário deve poder imprimir ou salvar um relatório com o histórico da sua solicitação. | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF21 - O aplicativo deve mostrar status de solicitações e benefícios em andamento.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS22 - Alterar Dados Cadastrais
+Na tabela 22, está descrita a HS22 - Alterar Dados Cadastrais.
+
+<div style="text-align: center">
+
+<p><b>Tabela 22:</b> História de Usuário 22</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo alterar meus dados cadastrais, como endereço e telefone, a fim de manter minhas informações atualizadas. | Dados cadastrais | - O sistema deve permitir que o usuário acesse e edite seus dados cadastrais pessoais (nome, data de nascimento, etc.);</br> - O sistema deve permitir a alteração de dados de contato (endereço, telefone, e-mail);</br> - O sistema deve validar as informações inseridas pelo usuário para garantir a sua integridade;</br> - O sistema deve solicitar a confirmação da senha do usuário antes de realizar qualquer alteração;</br> - O sistema deve gerar um comprovante da alteração realizada;</br> - O sistema deve permitir a inclusão de um endereço secundário (opcional). | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF22 - O aplicativo deve permitir alteração de dados cadastrais, como endereço e telefone.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS23 - Emitir Recibos Digitais
+Na tabela 23, está descrita a HS23 - Emitir Recibos Digitais.
+
+<div style="text-align: center">
+
+<p><b>Tabela 23:</b> História de Usuário 23</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo emitir recibos digitais das minhas transações, a fim de ter um comprovante eletrônico das minhas operações. | Recibos digitais | - O sistema deve gerar um recibo digital para cada transação realizada pelo usuário (pagamentos, solicitações, etc.);</br> - O recibo digital deve conter informações como data da transação, valor, descrição da transação e dados do usuário;</br> - O usuário deve poder visualizar, baixar e compartilhar o recibo digital;</br> - O recibo digital deve ser gerado em formato PDF ou outro formato padrão;</br> - O sistema deve armazenar os recibos digitais em um histórico acessível pelo usuário;</br> - O usuário deve poder filtrar e buscar recibos digitais por data, tipo de transação ou outros critérios. | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF23 - O aplicativo deverá mostrar emitir recibos digitais para transações realizadas.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS24 - Consultar Informações do FGTS
+Na tabela 24, está descrita a HS24 - Consultar Informações do FGTS.
+
+<div style="text-align: center">
+
+<p><b>Tabela 24:</b> História de Usuário 24</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo consultar informações sobre o meu FGTS, como saldo e extrato, a fim de ter um controle sobre meus recursos. | Consulta ao FGTS | - O sistema deve permitir que o usuário consulte o saldo atual do seu FGTS;</br> - O sistema deve apresentar um extrato detalhado das movimentações do FGTS, incluindo depósitos, saques e rendimentos;</br> - O sistema deve permitir que o usuário filtre o extrato por períodos;</br> - O sistema deve informar a data de aniversário da conta do FGTS;</br> - O sistema deve indicar se há alguma pendência ou restrição na conta do FGTS;</br> - O sistema deve permitir que o usuário simule um saque do FGTS (opcional). | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF24 - O aplicativo deverá integrar informações sobre FGTS para consulta de saldo e movimentações.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 ### US25 - 
 
