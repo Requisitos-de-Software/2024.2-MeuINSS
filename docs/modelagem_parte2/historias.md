@@ -380,31 +380,145 @@ Na tabela 24, está descrita a HS24 - Consultar Informações do FGTS.
 
 Rastreabilidade: [RF24 - O aplicativo deverá integrar informações sobre FGTS para consulta de saldo e movimentações.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### US25 - 
+### HS25 - Consulta e pagamento de pensões
 
-.
+Na tabela 25, está descrita a HS25 - Consulta e pagamento de pensões.
 
-### US26 - 
+<div style="text-align: center">
 
-.
+<p><b>Tabela 25:</b> História de Usuário 25</p>
 
-### US27 - 
+</div>
 
-.
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo fazer consultas e pagamentos por meio do aplicativo do Meu INSS. | Pensões | – O sistema deve permitir consulta do histórico de pagamento de pensões<br>– O sistema deve permitir o pagamento de parcelas pendentes das pensões<br>– O sistema deve possuir maneira de emitir boleto bancário | Alta | Alta |
 
-### US28 - 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
 
-.
+Rastreabilidade: [RF25 - O aplicativo deve permitir consulta e pagamento de pensões.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### US29 - 
+### HS26 - Usar autenticação pelo Gov.br para login
 
-.
+Na tabela 26, está descrita a HS26 - Usar autenticação pelo Gov.br para login.
 
-### US30 - 
+<div style="text-align: center">
 
-.
+<p><b>Tabela 26:</b> História de Usuário 26</p>
 
+</div>
 
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo realizar login no aplicativo do Meu INSS por meio da autenticação do gov.br. | Login |– O sistema deve permitir que o aposentado/trabalhador possa ser autenticado no aplicativo do Meu INSS por meio da autenticação do gov.br.<br>– O sistema deve redirecionar o aposentado/trabalhador para a interface do gov.br para que a autenticação seja feita por meio dele. | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF26 - O aplicativo deve Usar autenticação pelo Gov.br para login.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS27 - Mascarar dados sensíveis
+
+Na tabela 27, está descrita a HS27 - Mascarar dados sensíveis.
+
+<div style="text-align: center">
+
+<p><b>Tabela 27:</b> História de Usuário 27</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo ter privacidade em relação aos meus dados sensíveis no uso do aplicativo do Meu INSS. | Privacidade |– O sistema deve mascarar qualquer dado sensível como CPF, RG, endereço e etc. Para poder preservar a privacidade do aposentado/trabalhador. | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF27 - O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS28 - Agendamento de horário
+
+Na tabela 28, está descrita a HS28 - Agendamento de horário.
+
+<div style="text-align: center">
+
+<p><b>Tabela 28:</b> História de Usuário 28</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo agendar horário em uma agência do INSS mais próxima a minha residência e com serviço já marcado. | Agendamento |– O sistema deve mostrar uma lista com as agências do INSS mais próximas do aposentado/trabalhador com base no seu CEP.<br>– O sistema deve mostrar todos os horários disponíveis para a agência selecionada para que o aposentado/trabalhador consiga agendar o horário.<br>– O sistema deve permitir que o aposentado/trabalhador escreva o assunto a ser abordado no agendamento. | Media | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF28 - O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS29 - Gerir declarações
+
+Na tabela 29, está descrita a HS29 - Gerir declarações.
+
+<div style="text-align: center">
+
+<p><b>Tabela 29:</b> História de Usuário 29</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo emitir declarações sobre minhas contribuições para que eu possa comprovar meus benefícios e contribuições ao INSS. | Declarações |– O sistema deve emitir declarações sobre pagamentos de benefícios.<br>– O sistema deve emitir declarações sobre recebimento de benefícios. | Media | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF29 - O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS30 - Visualização de benefícios
+
+Na tabela 30, está descrita a HS30 - visualização de benefícios.
+
+<div style="text-align: center">
+
+<p><b>Tabela 30:</b> História de Usuário 30</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo visualizar meus benefícios a serem recebidos com um detalhamento maior. | Benefícios |– O sistema deve permitir a consulta de dados mais específicos sobre os benefícios a serem recebidos. | Alta | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF30 - O usuário pode visualizar os benefícios com maiores detalhes.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
+### HS31 - Calendario de atividades
+
+Na tabela 31, está descrita a HS31 - calendario de atividades.
+
+<div style="text-align: center">
+
+<p><b>Tabela 31:</b> História de Usuário 31</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como aposentado/trabalhador, desejo ter acesso a um calendário para que possa me organizar de acordo com as datas dos pagamentos pendentes. | Organização |– O sistema deve fornecer um calendário com as datas dos pagamentos pendentes em evidencia. | Media | Alta |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2024</p></font>
+</div >
+
+Rastreabilidade: [RF31 - O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 ## Referência bibliográfica 
 
@@ -422,4 +536,5 @@ Rastreabilidade: [RF24 - O aplicativo deverá integrar informações sobre FGTS 
 |:----:|----|---------|-----|:-------:|
 |`1.0`|11/12/2024|Criação do documento|[Nicolas Bomfim](https://github.com/nickgehjk)|[Júlia Fortunato](https://github.com/julia-fortunato)|
 |`1.1`|11/12/2024|Adição de histórias 7 a 12|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
-|`1.2`|11/12/2024|Adição de histórias 19 a 24|[Nicolas Bomfim](https://github.com/nickgehjk)||
+|`1.2`|11/12/2024|Adição de histórias 19 a 24|[Nicolas Bomfim](https://github.com/nickgehjk)|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|
+|`1.3`|13/12/2024|Adição de histórias 25 a 31|[Mauricio Ferreira](https://github.com/mauricio-araujoo)||
