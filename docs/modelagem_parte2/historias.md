@@ -260,6 +260,8 @@ Na tabela 13, está descrita a US13 - Comunidades de Usuários.
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
 
+Rastreabilidade: [RF13 - O aplicativo permite acessar comunidades para os próprios usuários se ajudarem.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 ### US14 - Assistente Virtual
 
 Na tabela 14, está descrita a US14 - Assistente Virtual.
@@ -277,6 +279,8 @@ Na tabela 14, está descrita a US14 - Assistente Virtual.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
+
+Rastreabilidade: [RF14 - O aplicativo possui assistente virtual com simulações de diferentes cenários previdenciários.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 ### US15 - Agendamento de perícias e atendimentos
 
@@ -296,6 +300,8 @@ Na tabela 15, está descrita a US15 - Agendamento de perícias e atendimentos.
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
 
+Rastreabilidade: [RF15 - 	O aplicativo deve permitir agendamento de perícias e atendimentos.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 ### US16 - Notificações sobre pendências e prazos
 
 Na tabela 16, está descrita a US16 - Notificações sobre pendências e prazos.
@@ -313,6 +319,8 @@ Na tabela 16, está descrita a US16 - Notificações sobre pendências e prazos.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
+
+Rastreabilidade: [RF16 - 	O aplicativo deve enviar notificações sobre pendências, prazos e novas regras.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 ### US17 - Gerenciamento de benefícios
 
@@ -332,6 +340,8 @@ Na tabela 17, está descrita a US17 - Gerenciamento de benefícios.
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
 
+Rastreabilidade: [RF17 - 	O aplicativo deverá permitir bloqueio e desbloqueio de benefícios pelo aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 ### US18 - Exibição de critérios de carência
 
 Na tabela 18, está descrita a US18 - Exibição de critérios de carência.
@@ -349,6 +359,8 @@ Na tabela 18, está descrita a US18 - Exibição de critérios de carência.
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
 </div >
+
+Rastreabilidade: [RF18 - 	O aplicativo deverá mostrar critérios de carência de forma clara.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 ### US19 - Enviar Documentos Digitalizados
 Na tabela 19, está descrita a US19 - Enviar Documentos Digitalizados.
@@ -464,9 +476,9 @@ Na tabela 24, está descrita a US24 - Consultar Informações do FGTS.
 
 Rastreabilidade: [RF24 - O aplicativo deverá integrar informações sobre FGTS para consulta de saldo e movimentações.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS25 - Consulta e pagamento de pensões
+### US25 - Consulta e pagamento de pensões
 
-Na tabela 25, está descrita a HS25 - Consulta e pagamento de pensões.
+Na tabela 25, está descrita a US25 - Consulta e pagamento de pensões.
 
 <div style="text-align: center">
 
@@ -484,9 +496,9 @@ Na tabela 25, está descrita a HS25 - Consulta e pagamento de pensões.
 
 Rastreabilidade: [RF25 - O aplicativo deve permitir consulta e pagamento de pensões.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS26 - Usar autenticação pelo Gov.br para login
+### US26 - Usar autenticação pelo Gov.br para login
 
-Na tabela 26, está descrita a HS26 - Usar autenticação pelo Gov.br para login.
+Na tabela 26, está descrita a US26 - Usar autenticação pelo Gov.br para login.
 
 <div style="text-align: center">
 
@@ -504,9 +516,9 @@ Na tabela 26, está descrita a HS26 - Usar autenticação pelo Gov.br para login
 
 Rastreabilidade: [RF26 - O aplicativo deve Usar autenticação pelo Gov.br para login.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS27 - Mascarar dados sensíveis
+### US27 - Mascarar dados sensíveis
 
-Na tabela 27, está descrita a HS27 - Mascarar dados sensíveis.
+Na tabela 27, está descrita a US27 - Mascarar dados sensíveis.
 
 <div style="text-align: center">
 
@@ -524,9 +536,9 @@ Na tabela 27, está descrita a HS27 - Mascarar dados sensíveis.
 
 Rastreabilidade: [RF27 - O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS28 - Agendamento de horário
+### US28 - Agendamento de horário
 
-Na tabela 28, está descrita a HS28 - Agendamento de horário.
+Na tabela 28, está descrita a US28 - Agendamento de horário.
 
 <div style="text-align: center">
 
@@ -544,9 +556,9 @@ Na tabela 28, está descrita a HS28 - Agendamento de horário.
 
 Rastreabilidade: [RF28 - O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS29 - Gerir declarações
+### US29 - Gerir declarações
 
-Na tabela 29, está descrita a HS29 - Gerir declarações.
+Na tabela 29, está descrita a US29 - Gerir declarações.
 
 <div style="text-align: center">
 
@@ -564,9 +576,9 @@ Na tabela 29, está descrita a HS29 - Gerir declarações.
 
 Rastreabilidade: [RF29 - O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS30 - Visualização de benefícios
+### US30 - Visualização de benefícios
 
-Na tabela 30, está descrita a HS30 - visualização de benefícios.
+Na tabela 30, está descrita a US30 - visualização de benefícios.
 
 <div style="text-align: center">
 
@@ -584,9 +596,9 @@ Na tabela 30, está descrita a HS30 - visualização de benefícios.
 
 Rastreabilidade: [RF30 - O usuário pode visualizar os benefícios com maiores detalhes.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS31 - Calendario de atividades
+### US31 - Calendario de atividades
 
-Na tabela 31, está descrita a HS31 - calendario de atividades.
+Na tabela 31, está descrita a US31 - calendario de atividades.
 
 <div style="text-align: center">
 
@@ -619,6 +631,7 @@ Rastreabilidade: [RF31 - O usuário tem acesso a um calendário no aplicativo re
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|11/12/2024|Criação do documento|[Nicolas Bomfim](https://github.com/nickgehjk)|[Júlia Fortunato](https://github.com/julia-fortunato)|
-|`1.1`|11/12/2024|Adição de histórias 7 a 12|[Júlia Fortunato](https://github.com/julia-fortunato)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.1`|11/12/2024|Adição de histórias 7 a 12|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
 |`1.2`|11/12/2024|Adição de histórias 19 a 24|[Nicolas Bomfim](https://github.com/nickgehjk)|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|
 |`1.3`|13/12/2024|Adição de histórias 25 a 31|[Mauricio Ferreira](https://github.com/mauricio-araujoo)||
+|`1.4`|15/12/2024|Adição de histórias 13 a 16|[Ana Catarina Santos](https://github.com/an4catarina)||
