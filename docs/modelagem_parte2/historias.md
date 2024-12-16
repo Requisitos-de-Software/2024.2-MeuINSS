@@ -2,7 +2,7 @@
 
 ## Introdução
 
-.
+As histórias de usuário são uma técnica essencial nas metodologias de desenvolvimento ágil, sendo fundamentais para a definição de requisitos de maneira clara e objetiva. Elas consistem em descrições curtas e diretas de funcionalidades desejadas, sempre considerando a perspectiva do cliente. Para garantir a eficácia de sua implementação, cada história de usuário deve ser acompanhada de critérios de aceitação bem definidos, que permitem avaliar com precisão se a funcionalidade foi desenvolvida com sucesso. Essa abordagem facilita a comunicação entre as partes interessadas e assegura que o produto final atenda às expectativas do cliente.
 
 ## Objetivo
 
@@ -13,8 +13,6 @@
 .
 
 ## Histórias de Usuário
-
-
 
 
 ### US01 - O aplicativo emite e permite consulta a extratos e pagamentos.
