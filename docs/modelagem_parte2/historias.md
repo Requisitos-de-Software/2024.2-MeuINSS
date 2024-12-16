@@ -17,8 +17,8 @@
 
 
 
-### HS01 - O aplicativo emite e permite consulta a extratos e pagamentos.
-Na tabela 7, pode ser encontrada a HS01 - O aplicativo emite e permite consulta a extratos e pagamentos.
+### US01 - O aplicativo emite e permite consulta a extratos e pagamentos.
+Na tabela 7, pode ser encontrada a US01 - O aplicativo emite e permite consulta a extratos e pagamentos.
 
 <div style="text-align: center">
 
@@ -38,8 +38,8 @@ Rastreabilidade: [RF01 - O aplicativo emite e permite consulta a extratos e paga
 
 .
 
-### HS02 - 	O aplicativo permite simular a aposentadoria.
-Na tabela 7, pode ser encontrada a HS02 - O aplicativo permite simular a aposentadoria.
+### US02 - 	O aplicativo permite simular a aposentadoria.
+Na tabela 7, pode ser encontrada a US02 - O aplicativo permite simular a aposentadoria.
 
 <div style="text-align: center">
 
@@ -59,8 +59,8 @@ Rastreabilidade: [RF02 - O aplicativo permite simular a aposentadoria.](https://
 
 .
 
-### HS03 - 	O aplicativo permite solicitar pedidos.
-Na tabela 7, pode ser encontrada a HS03 - O aplicativo permite solicitar pedidos.
+### US03 - 	O aplicativo permite solicitar pedidos.
+Na tabela 7, pode ser encontrada a US03 - O aplicativo permite solicitar pedidos.
 
 <div style="text-align: center">
 
@@ -80,8 +80,8 @@ Rastreabilidade: [RF03 - O aplicativo permite solicitar pedidos.](https://requis
 
 .
 
-### HS04 - 	O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
-Na tabela 7, pode ser encontrada a HS04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
+### US04 - 	O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
+Na tabela 7, pode ser encontrada a US04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
 
 <div style="text-align: center">
 
@@ -101,8 +101,8 @@ Rastreabilidade: [RF04 - O aplicativo deve ser integrado com outros sistemas, co
 
 .
 
-### HS05 - 	O aplicativo permite solicitar auxílio doença.
-Na tabela 7, pode ser encontrada a HS05 - O aplicativo permite solicitar auxílio doença.
+### US05 - 	O aplicativo permite solicitar auxílio doença.
+Na tabela 7, pode ser encontrada a US05 - O aplicativo permite solicitar auxílio doença.
 
 <div style="text-align: center">
 
@@ -127,8 +127,8 @@ Rastreabilidade: [RF05 - O aplicativo permite solicitar auxílio doença.](https
 .
 Em seguida, iniciando na tabela 3 e indo até a tabela 19, temos as histórias do usuário detalhadas.
 
-### HS07 - Realizar pesquisa assertiva
-Na tabela 7, pode ser encontrada a HS07 - Realizar pesquisa assertiva.
+### US07 - Realizar pesquisa assertiva
+Na tabela 7, pode ser encontrada a US07 - Realizar pesquisa assertiva.
 
 <div style="text-align: center">
 
@@ -146,8 +146,8 @@ Na tabela 7, pode ser encontrada a HS07 - Realizar pesquisa assertiva.
 
 Rastreabilidade: [RF07 - O aplicativo deve possuir filtro de pesquisa assertivo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS08 - Receber suporte adequado
-Na tabela 8, é possível visualizar a HS08 - Receber suporte adequado.
+### US08 - Receber suporte adequado
+Na tabela 8, é possível visualizar a US08 - Receber suporte adequado.
 
 <div style="text-align: center">
 
@@ -166,8 +166,8 @@ Na tabela 8, é possível visualizar a HS08 - Receber suporte adequado.
 Rastreabilidade: [RF08 - O aplicativo deve possuir suporte adequado.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 
-### HS09 - Especificar de forma adequada informações de auxílio doença
-Na tabela 9, está especificada a HS09 - Especificar de forma adequada informações de auxílio doença.
+### US09 - Especificar de forma adequada informações de auxílio doença
+Na tabela 9, está especificada a US09 - Especificar de forma adequada informações de auxílio doença.
 
 <div style="text-align: center">
 
@@ -185,8 +185,8 @@ Na tabela 9, está especificada a HS09 - Especificar de forma adequada informaç
 
 Rastreabilidade: [RF09 - O aplicativo deve ser claro com relação a especificação para auxílios doenças e as modalidades de análise (online ou presencial).](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS10 - Acessar notícias sobre legislação previdenciária
-Na tabela 10, a HS10 - Acessar notícias sobre legislação previdenciária pode ser visualizada.
+### US10 - Acessar notícias sobre legislação previdenciária
+Na tabela 10, a US10 - Acessar notícias sobre legislação previdenciária pode ser visualizada.
 
 <div style="text-align: center">
 
@@ -204,8 +204,8 @@ Na tabela 10, a HS10 - Acessar notícias sobre legislação previdenciária pode
 
 Rastreabilidade: [RF10 - O aplicativo deve avisar sobre mudanças e notícias sobre legislação previdenciária.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS11 - Acessar impacto de contribuição
-Na tabela 11, está especificada a HS11 - Acessar impacto de contribuição.
+### US11 - Acessar impacto de contribuição
+Na tabela 11, está especificada a US11 - Acessar impacto de contribuição.
 
 <div style="text-align: center">
 
@@ -223,8 +223,8 @@ Na tabela 11, está especificada a HS11 - Acessar impacto de contribuição.
 
 Rastreabilidade: [RF11 - O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS12 - Acessar impacto de contribuição
-Na tabela 12, está descrita a HS12 - Acessar impacto de contribuição.
+### US12 - Acessar impacto de contribuição
+Na tabela 12, está descrita a US12 - Acessar impacto de contribuição.
 
 <div style="text-align: center">
 
@@ -242,32 +242,116 @@ Na tabela 12, está descrita a HS12 - Acessar impacto de contribuição.
 
 Rastreabilidade: [RF12 - O usuário poderá ter acesso ao histórico completo de contribuições do segurado (CNIS).](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
  
-### US13 - 
+### US13 - Comunidades de Usuários
 
-.
+Na tabela 13, está descrita a US13 - Comunidades de Usuários.
 
-### US14 - 
+<div style="text-align: center">
 
-.
+<p><b>Tabela 13:</b> História de Usuário 13</p>
 
-### US15 - 
+</div>
 
-.
+| **História de Usuário**                                                                                       | **Tema**                   | **Critérios de Aceitação**                                                                                                                                                                                                                                                                                                         | **Prioridade** | **DI** |
+|---------------------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------|
+| Eu, como usuário do Meu INSS, desejo acessar comunidades no aplicativo para trocar experiências e informações com outros usuários.                 | Comunidades de usuários    | - O aplicativo deve possuir uma seção específica chamada "Comunidades" acessível a partir do menu principal;<br>- O usuário deve poder criar tópicos de discussão com título e descrição;<br>- O sistema deve permitir interação com outros usuários por meio de comentários;<br>- As interações devem ser moderadas para evitar abusos. | Baixa          | Alta  |
 
-### US16 - 
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
 
-.
+### US14 - Assistente Virtual
 
-### US17 - 
+Na tabela 14, está descrita a US14 - Assistente Virtual.
 
-.
+<div style="text-align: center">
 
-### US18 - 
+<p><b>Tabela 14:</b> História de Usuário 14</p>
 
-.
+</div>
 
-### HS19 - Enviar Documentos Digitalizados
-Na tabela 19, está descrita a HS19 - Enviar Documentos Digitalizados.
+| **História de Usuário**                                                                                       | **Tema**                   | **Critérios de Aceitação**                                                                                                                                                                                                                                             | **Prioridade** | **DI** |
+|---------------------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------|
+| Eu, como usuário do Meu INSS, desejo utilizar um assistente virtual para simular diferentes cenários previdenciários. | - O assistente deve estar disponível no menu principal;<br>- O usuário deve poder simular cenários. <br>- Os dados devem ser preenchidos pelo usuário ou recuperados do perfil;<br>- O resultado deve apresentar: requisitos necessários, tempo restante e valores estimados. <br>-O assistente deve suportar perguntas frequentes e explicações simples sobre regras previdenciárias. | Média          | Baixa   |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### US15 - Agendamento de perícias e atendimentos
+
+Na tabela 15, está descrita a US15 - Agendamento de perícias e atendimentos.
+
+<div style="text-align: center">
+
+<p><b>Tabela 15:</b> História de Usuário 15</p>
+
+</div>
+
+| **História de Usuário**                                                                                       | **Tema**                             | **Critérios de Aceitação**                                                                                                                                                                                                                                     | **Prioridade** | **DI**  |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|
+| Eu, como usuário do Meu INSS, desejo agendar perícias e atendimentos diretamente pelo aplicativo.                                                 | Agendamento de perícias e atendimentos | - O aplicativo deve listar tipos de agendamento disponíveis;<br>-O sistema deve listar datas e horários disponíveis com base na localidade do usuário;<br>- O sistema deve permitir confirmar, cancelar ou reagendar;<br>- Notificações devem lembrar o usuário 24 horas antes;<br>- Deve haver integração com mapas para localização de unidades do INSS. | Média          | Média   |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### US16 - Notificações sobre pendências e prazos
+
+Na tabela 16, está descrita a US16 - Notificações sobre pendências e prazos.
+
+<div style="text-align: center">
+
+<p><b>Tabela 16:</b> História de Usuário 16</p>
+
+</div>
+
+| **História de Usuário**                                                                                       | **Tema**                             | **Critérios de Aceitação**                                                                                                                                                                                                                                            | **Prioridade** | **DI**        |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
+| Eu, como usuário do Meu INSS, desejo receber notificações sobre pendências, prazos e novas regras relevantes para meus benefícios.                | Notificações sobre pendências e prazos | - O aplicativo deve permitir filtrar as notificações recebidas;<br>- As notificações devem ser claras, indicando ação necessária e prazos;<br>-As mensagens devem ser exibidas no aplicativo e enviadas por push, com opção para envio por e-mail;<br>- Deve haver um histórico de notificações acessível;<br>- As notificações devem ser enviadas com pelo menos 7 dias de antecedência quando aplicável. | Alta           | Baixa  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### US17 - Gerenciamento de benefícios
+
+Na tabela 17, está descrita a US17 - Gerenciamento de benefícios.
+
+<div style="text-align: center">
+
+<p><b>Tabela 17:</b> História de Usuário 17</p>
+
+</div>
+
+| **História de Usuário**                                                                                       | **Tema**                      | **Critérios de Aceitação**                                                                                                                                                                                                                                                 | **Prioridade** | **DI**        |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------|
+| Eu, como usuário do Meu INSS, desejo ter a possibilidade de bloquear e desbloquear meus benefícios diretamente pelo aplicativo.                  | Gerenciamento de benefícios   | - A funcionalidade deve ser acessível no perfil do usuário;<br>- A funcionalidade de bloqueio/desbloqueio deve estar disponível no perfil do usuário, com acesso seguro por autenticação de usuário;<br>- O sistema deve apresentar um aviso claro sobre as implicações de bloquear ou desbloquear o benefício;<br>- O usuário deve receber uma mensagem de confirmação ao final da ação;<br>- O tempo para a efetivação do bloqueio/desbloqueio deve ser de no máximo 48 horas úteis.                         | Alta           | Média  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### US18 - Exibição de critérios de carência
+
+Na tabela 18, está descrita a US18 - Exibição de critérios de carência.
+
+<div style="text-align: center">
+
+<p><b>Tabela 18:</b> História de Usuário 18</p>
+
+</div>
+
+| **História de Usuário**                                                                                       | **Tema**                 | **Critérios de Aceitação**                                                                                                                                                                                                                                                         | **Prioridade** | **DI**  |
+|---------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---------|
+| Eu, como usuário do Meu INSS, desejo visualizar os critérios de carência de forma clara e compreensível.                                          | Exibição de critérios de carência | - Deve haver uma seção específica chamada "Critérios de Carência";<br>- A apresentação deve incluir um resumo visual para facilitar o entendimento do status atual do usuário;<br>- A explicação deve detalhar requisitos específicos e como o usuário se enquadra neles;<br>- Deve incluir links para mais informações e suporte à acessibilidade. | Média           | Média  |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2024</p></font>
+</div >
+
+### US19 - Enviar Documentos Digitalizados
+Na tabela 19, está descrita a US19 - Enviar Documentos Digitalizados.
 
 <div style="text-align: center">
 
@@ -285,8 +369,8 @@ Na tabela 19, está descrita a HS19 - Enviar Documentos Digitalizados.
 
 Rastreabilidade: [RF19 - O usuário poderá enviar documentos digitalizados.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS20 - Solicitar Benefícios
-Na tabela 20, está descrita a HS20 - Solicitar Benefícios.
+### US20 - Solicitar Benefícios
+Na tabela 20, está descrita a US20 - Solicitar Benefícios.
 
 <div style="text-align: center">
 
@@ -304,8 +388,8 @@ Na tabela 20, está descrita a HS20 - Solicitar Benefícios.
 
 Rastreabilidade: [RF20 - O usuário poderá solicitar benefícios pelo aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS21 - Acompanhar Status de Solicitações e Benefícios
-Na tabela 21, está descrita a HS21 - Acompanhar Status de Solicitações e Benefícios.
+### US21 - Acompanhar Status de Solicitações e Benefícios
+Na tabela 21, está descrita a US21 - Acompanhar Status de Solicitações e Benefícios.
 
 <div style="text-align: center">
 
@@ -323,8 +407,8 @@ Na tabela 21, está descrita a HS21 - Acompanhar Status de Solicitações e Bene
 
 Rastreabilidade: [RF21 - O aplicativo deve mostrar status de solicitações e benefícios em andamento.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS22 - Alterar Dados Cadastrais
-Na tabela 22, está descrita a HS22 - Alterar Dados Cadastrais.
+### US22 - Alterar Dados Cadastrais
+Na tabela 22, está descrita a US22 - Alterar Dados Cadastrais.
 
 <div style="text-align: center">
 
@@ -342,8 +426,8 @@ Na tabela 22, está descrita a HS22 - Alterar Dados Cadastrais.
 
 Rastreabilidade: [RF22 - O aplicativo deve permitir alteração de dados cadastrais, como endereço e telefone.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS23 - Emitir Recibos Digitais
-Na tabela 23, está descrita a HS23 - Emitir Recibos Digitais.
+### US23 - Emitir Recibos Digitais
+Na tabela 23, está descrita a US23 - Emitir Recibos Digitais.
 
 <div style="text-align: center">
 
@@ -361,8 +445,8 @@ Na tabela 23, está descrita a HS23 - Emitir Recibos Digitais.
 
 Rastreabilidade: [RF23 - O aplicativo deverá mostrar emitir recibos digitais para transações realizadas.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### HS24 - Consultar Informações do FGTS
-Na tabela 24, está descrita a HS24 - Consultar Informações do FGTS.
+### US24 - Consultar Informações do FGTS
+Na tabela 24, está descrita a US24 - Consultar Informações do FGTS.
 
 <div style="text-align: center">
 
