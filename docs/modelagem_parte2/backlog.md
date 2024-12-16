@@ -2,7 +2,7 @@
 
 ## Introdução
 
-.
+O Backlog do Produto é um dos principais artefatos da metodologia ágil, funcionando como uma lista priorizada de todas as tarefas, requisitos e funcionalidades que precisam ser executados em um projeto. Sua gestão é conduzida pelo responsável do produto que sugere, organiza e ajusta as prioridades dos itens conforme necessário. Esse artefato é dinâmico, evoluindo continuamente à medida que a visão do produto e os requisitos mudam ao longo do desenvolvimento. Além disso, o Backlog do Produto facilita a organização das entregas em temas, épicos e histórias de usuário, promovendo flexibilidade e foco na entrega contínua de valor ao cliente.
 
 ## Metodologia
 
