@@ -221,8 +221,8 @@ Na tabela 11, está especificada a US11 - Acessar impacto de contribuição.
 
 Rastreabilidade: [RF11 - O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-### US12 - Acessar impacto de contribuição
-Na tabela 12, está descrita a US12 - Acessar impacto de contribuição.
+### US12 - Acessar histórico de contribuição CNIS.
+Na tabela 12, está descrita a US12 - Acessar histórico de contribuição CNIS.
 
 <div style="text-align: center">
 
