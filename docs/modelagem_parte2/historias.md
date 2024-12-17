@@ -6,11 +6,28 @@ As histórias de usuário são uma técnica essencial nas metodologias de desenv
 
 ## Objetivo
 
-.
+O objetivo é verificar por meio das histórais de usuário se cada funcionalidade presente e cada requisito condiz com o esperado.
 
 ## Metodologia
 
-.
+Foram utilizados os requisitos funcionais elicitados anteriormente e feito uma história de usuário pra cada um deles como seguinte padrão:
+
+### USXX - "Nome da história".
+Na tabela Y, pode ser encontrada a USX - "Nome da história".
+
+<div style="text-align: center">
+
+<p><b>Tabela Y:</b> História de Usuário X</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| "Descrição da história" | "Tema da história" | "Critérios de aceitação" | "Prioridade de implementação" | "Dificuldade de implementação" |
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a>"Autor"</a>, 2024</p></font>
+</div >
 
 ## Histórias de Usuário
 
@@ -34,7 +51,6 @@ Na tabela 1, pode ser encontrada a US01 - O aplicativo emite e permite consulta 
 
 Rastreabilidade: [RF01 - O aplicativo emite e permite consulta a extratos e pagamentos.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-.
 
 ### US02 - 	Simulação de aposentadoria
 Na tabela 2, pode ser encontrada a US02 - O aplicativo permite simular a aposentadoria.
@@ -55,7 +71,6 @@ Na tabela 2, pode ser encontrada a US02 - O aplicativo permite simular a aposent
 
 Rastreabilidade: [RF02 - O aplicativo permite simular a aposentadoria.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-.
 
 ### US03 - 	Solicitação de pedidos
 Na tabela 3, pode ser encontrada a US03 - O aplicativo permite solicitar pedidos.
@@ -76,7 +91,6 @@ Na tabela 3, pode ser encontrada a US03 - O aplicativo permite solicitar pedidos
 
 Rastreabilidade: [RF03 - O aplicativo permite solicitar pedidos.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-.
 
 ### US04 - 	Integrção com outros sistemas
 Na tabela 4, pode ser encontrada a US04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
@@ -97,7 +111,6 @@ Na tabela 4, pode ser encontrada a US04 - O aplicativo deve ser integrado com ou
 
 Rastreabilidade: [RF04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
-.
 
 ### US05 - 	Solicitação de auxílio-doença
 Na tabela 5, pode ser encontrada a US05 - O aplicativo permite solicitar auxílio doença.
@@ -118,11 +131,9 @@ Na tabela 5, pode ser encontrada a US05 - O aplicativo permite solicitar auxíli
 
 Rastreabilidade: [RF05 - O aplicativo permite solicitar auxílio doença.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados) 
 
-.
 
 ### US06 - Verificação da previsão de pagamento
 
-.
 Na tabela 6, pode ser encontrada a US06 - O aplicativo permite verificar previsão de pagamento.
 
 <div style="text-align: center">
@@ -199,6 +210,7 @@ Na tabela 9, está especificada a US09 - Especificar de forma adequada informaç
 
 Rastreabilidade: [RF09 - O aplicativo deve ser claro com relação a especificação para auxílios doenças e as modalidades de análise (online ou presencial).](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US10 - Acessar notícias sobre legislação previdenciária
 Na tabela 10, a US10 - Acessar notícias sobre legislação previdenciária pode ser visualizada.
 
@@ -217,6 +229,7 @@ Na tabela 10, a US10 - Acessar notícias sobre legislação previdenciária pode
 </div >
 
 Rastreabilidade: [RF10 - O aplicativo deve avisar sobre mudanças e notícias sobre legislação previdenciária.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US11 - Acessar impacto de contribuição
 Na tabela 11, está especificada a US11 - Acessar impacto de contribuição.
@@ -237,6 +250,7 @@ Na tabela 11, está especificada a US11 - Acessar impacto de contribuição.
 
 Rastreabilidade: [RF11 - O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US12 - Acessar histórico de contribuição CNIS.
 Na tabela 12, está descrita a US12 - Acessar histórico de contribuição CNIS.
 
@@ -256,6 +270,7 @@ Na tabela 12, está descrita a US12 - Acessar histórico de contribuição CNIS.
 
 Rastreabilidade: [RF12 - O usuário poderá ter acesso ao histórico completo de contribuições do segurado (CNIS).](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
  
+
 ### US13 - Comunidades de Usuários
 
 Na tabela 13, está descrita a US13 - Comunidades de Usuários.
@@ -376,6 +391,7 @@ Na tabela 18, está descrita a US18 - Exibição de critérios de carência.
 
 Rastreabilidade: [RF18 - 	O aplicativo deverá mostrar critérios de carência de forma clara.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US19 - Enviar Documentos Digitalizados
 Na tabela 19, está descrita a US19 - Enviar Documentos Digitalizados.
 
@@ -394,6 +410,7 @@ Na tabela 19, está descrita a US19 - Enviar Documentos Digitalizados.
 </div >
 
 Rastreabilidade: [RF19 - O usuário poderá enviar documentos digitalizados.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US20 - Solicitar Benefícios
 Na tabela 20, está descrita a US20 - Solicitar Benefícios.
@@ -414,6 +431,7 @@ Na tabela 20, está descrita a US20 - Solicitar Benefícios.
 
 Rastreabilidade: [RF20 - O usuário poderá solicitar benefícios pelo aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US21 - Acompanhar Status de Solicitações e Benefícios
 Na tabela 21, está descrita a US21 - Acompanhar Status de Solicitações e Benefícios.
 
@@ -432,6 +450,7 @@ Na tabela 21, está descrita a US21 - Acompanhar Status de Solicitações e Bene
 </div >
 
 Rastreabilidade: [RF21 - O aplicativo deve mostrar status de solicitações e benefícios em andamento.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US22 - Alterar Dados Cadastrais
 Na tabela 22, está descrita a US22 - Alterar Dados Cadastrais.
@@ -452,6 +471,7 @@ Na tabela 22, está descrita a US22 - Alterar Dados Cadastrais.
 
 Rastreabilidade: [RF22 - O aplicativo deve permitir alteração de dados cadastrais, como endereço e telefone.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US23 - Emitir Recibos Digitais
 Na tabela 23, está descrita a US23 - Emitir Recibos Digitais.
 
@@ -471,6 +491,7 @@ Na tabela 23, está descrita a US23 - Emitir Recibos Digitais.
 
 Rastreabilidade: [RF23 - O aplicativo deverá mostrar emitir recibos digitais para transações realizadas.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US24 - Consultar Informações do FGTS
 Na tabela 24, está descrita a US24 - Consultar Informações do FGTS.
 
@@ -489,6 +510,7 @@ Na tabela 24, está descrita a US24 - Consultar Informações do FGTS.
 </div >
 
 Rastreabilidade: [RF24 - O aplicativo deverá integrar informações sobre FGTS para consulta de saldo e movimentações.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US25 - Consulta e pagamento de pensões
 
@@ -510,6 +532,7 @@ Na tabela 25, está descrita a US25 - Consulta e pagamento de pensões.
 
 Rastreabilidade: [RF25 - O aplicativo deve permitir consulta e pagamento de pensões.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US26 - Usar autenticação pelo Gov.br para login
 
 Na tabela 26, está descrita a US26 - Usar autenticação pelo Gov.br para login.
@@ -529,6 +552,7 @@ Na tabela 26, está descrita a US26 - Usar autenticação pelo Gov.br para login
 </div >
 
 Rastreabilidade: [RF26 - O aplicativo deve Usar autenticação pelo Gov.br para login.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US27 - Mascarar dados sensíveis
 
@@ -550,6 +574,7 @@ Na tabela 27, está descrita a US27 - Mascarar dados sensíveis.
 
 Rastreabilidade: [RF27 - O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US28 - Agendamento de horário
 
 Na tabela 28, está descrita a US28 - Agendamento de horário.
@@ -569,6 +594,7 @@ Na tabela 28, está descrita a US28 - Agendamento de horário.
 </div >
 
 Rastreabilidade: [RF28 - O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US29 - Gerir declarações
 
@@ -590,6 +616,7 @@ Na tabela 29, está descrita a US29 - Gerir declarações.
 
 Rastreabilidade: [RF29 - O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
 ### US30 - Visualização de benefícios
 
 Na tabela 30, está descrita a US30 - visualização de benefícios.
@@ -609,6 +636,7 @@ Na tabela 30, está descrita a US30 - visualização de benefícios.
 </div >
 
 Rastreabilidade: [RF30 - O usuário pode visualizar os benefícios com maiores detalhes.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
+
 
 ### US31 - Calendario de atividades
 
