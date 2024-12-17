@@ -117,7 +117,32 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 4** - Cartão de especificação: RNF05 - Usabilidade.</p></font>
+
+<font><p style="text-align: center">**Tabela 4** - Cartão de especificação: RNF04 - Usabilidade.</p></font>
+
+<center>
+
+| **Campo**               | **Detalhes**                                                                 |
+|-----------------------|--------------------------------------------------------------------------|
+|**ID**|[RNF04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#:~:text=requisitos%20funcionais%20elicitados-,Tabela%20de%20requisitos%20n%C3%A3o%20funcionais%20elicitados,-Hist%C3%B3rico%20de%20vers%C3%B5es)|
+| **Classificação**     | Usabilidade/Desempenho                                                            |
+| **Descrição**         | O aplicativo deve facilitar a execução de tarefas. |
+| **Justificativa**     | Oferecer facilidade nas funcionalidades do sistema. |
+| **Origem do Requisito** | [Encenação](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/#nao-funcionais:~:text=Funcionais-,N%C3%A3o%20funcionais,-Refer%C3%AAncias%20Bibliogr%C3%A1ficas), [Entrevista](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#nao-funcionais:~:text=Funcionais-,N%C3%A3o%20funcionais,-Bibliografia) |
+| **Critério de Aceitação** | O aplicativo deve concluir tarefas em no maximo 5 cliques./O sistema deve ter um tempo de resposta em suas funcionalidades inferior a 300ms. |
+| **Dependências**      | Nenhuma   |
+| **Prioridade**        | Alta  |
+| **Conflitos**         | Nenhum identificado.                                                   |
+| **História**          | 17/12/2024 |
+
+
+<font size="3"><p style="text-align: center">Autor: [Mauricio Ferreira](https://github.com/mauricio-araujoo), 2024</p></font>
+
+</center>
+
+
+
+<font><p style="text-align: center">**Tabela 5** - Cartão de especificação: RNF05 - Usabilidade.</p></font>
 
 <center>
 
@@ -138,7 +163,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 5** - Cartão de especificação: RNF11 - Segurança.</p></font>
+<font><p style="text-align: center">**Tabela 6** - Cartão de especificação: RNF11 - Segurança.</p></font>
 
 <center>
 
@@ -159,7 +184,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 6** - Cartão de especificação: RNF12 - Confiabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 7** - Cartão de especificação: RNF12 - Confiabilidade.</p></font>
 
 <center>
 
