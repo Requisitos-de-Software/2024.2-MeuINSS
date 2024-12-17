@@ -134,6 +134,44 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 ### NFR02 - Confiabilidade
 
+A parte da "Confiabilidade" de um determinado aplicativo é um atributo essencial no que tange à sua capacidade de funcionar de maneira estável como também de forma contínua e sem apresentar perdas parciais ou totais no funcionamento. Esse aspecto tem a função de assegurar aos usuários que o aplicativo estará disponibilizado e operando sempre que seu uso for necessário. A confiabilidade é de suma importância para tornar uma experiência positiva, garantir que não ocorra eventuais erros ou também interrupções e para zelar pela reputação do software. Podemos citar a "Ajuda e Documentação" como ferramentas importantes para ajudar os usuários do software, a confiabilidade serve como a base que fortalece a confiança deles no aplicativo, permitindo que utilizem as informações de suporte de maneira segura e com eficiência.</br></br>
+
+**Softgoal Interdependency Graph**</br></br>
+
+É possível ver o Softgoal Interdependency Grap do softgoal "Confiabilidade (Reliability)" demonstrado através da figura 5.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Softgoal Interdependency Grap de Confiabilidade(Reliability) </b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/NFR/NFRconfiabilidade.jpg" alt="NFR confiabilidade" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
+  </b>
+</p>
+</div>
+
+**Propagação de impactos**</br></br>
+
+Pode-se observar a propagação de impacto do softgoal Confiabilidade através da figura 5.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Propagação de Impacto Softgoal Interdependency Grap de Confiabilidade(Reliability) </b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/NFR/NFRconfiabilidadeImpacto.png" alt="NFR confiabilidade Impacto" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
+  </b>
+</p>
+</div>
+
 ### NFR03 - Usabilidade
 
 ### NFR04 - Desempenho
