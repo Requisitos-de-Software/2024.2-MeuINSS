@@ -15,12 +15,12 @@ As histórias de usuário são uma técnica essencial nas metodologias de desenv
 ## Histórias de Usuário
 
 
-### US01 - O aplicativo emite e permite consulta a extratos e pagamentos.
-Na tabela 7, pode ser encontrada a US01 - O aplicativo emite e permite consulta a extratos e pagamentos.
+### US01 - Emissão e consulta a extratos e pagamentos.
+Na tabela 1, pode ser encontrada a US01 - O aplicativo emite e permite consulta a extratos e pagamentos.
 
 <div style="text-align: center">
 
-<p><b>Tabela 7:</b> História de Usuário 1</p>
+<p><b>Tabela 1:</b> História de Usuário 1</p>
 
 </div>
 
@@ -36,12 +36,12 @@ Rastreabilidade: [RF01 - O aplicativo emite e permite consulta a extratos e paga
 
 .
 
-### US02 - 	O aplicativo permite simular a aposentadoria.
-Na tabela 7, pode ser encontrada a US02 - O aplicativo permite simular a aposentadoria.
+### US02 - 	Simulação de aposentadoria
+Na tabela 2, pode ser encontrada a US02 - O aplicativo permite simular a aposentadoria.
 
 <div style="text-align: center">
 
-<p><b>Tabela 7:</b> História de Usuário 2</p>
+<p><b>Tabela 2:</b> História de Usuário 2</p>
 
 </div>
 
@@ -57,12 +57,12 @@ Rastreabilidade: [RF02 - O aplicativo permite simular a aposentadoria.](https://
 
 .
 
-### US03 - 	O aplicativo permite solicitar pedidos.
-Na tabela 7, pode ser encontrada a US03 - O aplicativo permite solicitar pedidos.
+### US03 - 	Solicitação de pedidos
+Na tabela 3, pode ser encontrada a US03 - O aplicativo permite solicitar pedidos.
 
 <div style="text-align: center">
 
-<p><b>Tabela 7:</b> História de Usuário 3</p>
+<p><b>Tabela 3:</b> História de Usuário 3</p>
 
 </div>
 
@@ -78,12 +78,12 @@ Rastreabilidade: [RF03 - O aplicativo permite solicitar pedidos.](https://requis
 
 .
 
-### US04 - 	O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
-Na tabela 7, pode ser encontrada a US04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
+### US04 - 	Integrção com outros sistemas
+Na tabela 4, pode ser encontrada a US04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
 
 <div style="text-align: center">
 
-<p><b>Tabela 7:</b> História de Usuário 4</p>
+<p><b>Tabela 4:</b> História de Usuário 4</p>
 
 </div>
 
@@ -99,18 +99,18 @@ Rastreabilidade: [RF04 - O aplicativo deve ser integrado com outros sistemas, co
 
 .
 
-### US05 - 	O aplicativo permite solicitar auxílio doença.
-Na tabela 7, pode ser encontrada a US05 - O aplicativo permite solicitar auxílio doença.
+### US05 - 	Solicitação de auxílio-doença
+Na tabela 5, pode ser encontrada a US05 - O aplicativo permite solicitar auxílio doença.
 
 <div style="text-align: center">
 
-<p><b>Tabela 7:</b> História de Usuário 5</p>
+<p><b>Tabela 5:</b> História de Usuário 5</p>
 
 </div>
 
 |   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
 | ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
-| Eu, como usuário do aplicativo do INSS, desejo poder solicitar o auxílio doença através do sistema.| Solicitação de auxílio doença.|- O sistema deve estar integralizado com outros sistemas além do próprio INSS. </br> - O usuário deve ter acesso a interações/informações de outros sistemas dentro do aplicativo do "Meu INSS".| Alta | Alta |
+| Eu, como usuário do aplicativo do INSS, desejo poder solicitar o auxílio doença através do sistema.| Solicitação de auxílio doença.|- O sistema deve permitir que seja possível solicitar o auxílio doença. </br> - O usuário deve poder acompanhar o seu pedido de auxílio doença no aplicativo.| Alta | Médio|
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
@@ -120,10 +120,26 @@ Rastreabilidade: [RF05 - O aplicativo permite solicitar auxílio doença.](https
 
 .
 
-### US06 - 
+### US06 - Verificação da previsão de pagamento
 
 .
-Em seguida, iniciando na tabela 3 e indo até a tabela 19, temos as histórias do usuário detalhadas.
+Na tabela 6, pode ser encontrada a US06 - O aplicativo permite verificar previsão de pagamento.
+
+<div style="text-align: center">
+
+<p><b>Tabela 6:</b> História de Usuário 6</p>
+
+</div>
+
+|   História de Usuário   |    Tema    |      Critérios de aceitação     |    Prioridade    |   DI   |
+| ----------------------- | ---------- | ------------------------------- | ---------------- | ------ |
+| Eu, como usuário do aplicativo do INSS, desejo poder verificar as minhas previsões de pagamento| Previsões de pagamento|- O sistema deve permitir que seja possível realizar verificações de eventuais pagamentos. </br> - O usuário deve poder acompanhar o seu pedido de auxílio doença no aplicativo.| Médio | Baixo|
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2024</p></font>
+</div > 
+
+Rastreabilidade: [RF06 - O aplicativo permite verificar pagamentos](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados) 
 
 ### US07 - Realizar pesquisa assertiva
 Na tabela 7, pode ser encontrada a US07 - Realizar pesquisa assertiva.
@@ -633,3 +649,4 @@ Rastreabilidade: [RF31 - O usuário tem acesso a um calendário no aplicativo re
 |`1.2`|11/12/2024|Adição de histórias 19 a 24|[Nicolas Bomfim](https://github.com/nickgehjk)|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|
 |`1.3`|13/12/2024|Adição de histórias 25 a 31|[Mauricio Ferreira](https://github.com/mauricio-araujoo)||
 |`1.4`|15/12/2024|Adição de histórias 13 a 18|[Ana Catarina Santos](https://github.com/an4catarina)|[Júlia Fortunato](https://github.com/julia-fortunato)|
+|`1.5`|17/12/2024|Adição de histórias 1 a 6|[Cristiano Morais](https://github.com/CristianoMoraiss)||
