@@ -51,7 +51,29 @@ O NFR Framework é essencial para gerenciar conflitos e avaliar alternativas, pe
 
 Os cartões de especificação desempenham um papel fundamental na rastreabilidade e no desenvolvimento posterior do NFR, servindo como uma base estruturada. Os cartões apresentados nas Tabelas 1 a 5 foram utilizados para descrever os Requisitos Não-Funcionais necessários à elaboração dos NFR frameworks.
 
-<font><p style="text-align: center">**Tabela 1** - Cartão de especificação: RNF02 - Usabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 1** - Cartão de especificação: RNF01 - Usabilidade.</p></font>
+
+<center>
+
+| **Campo**               | **Detalhes**                                                                 |
+|-----------------------|--------------------------------------------------------------------------|
+|**ID**|[RNF01](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#:~:text=requisitos%20funcionais%20elicitados-,Tabela%20de%20requisitos%20n%C3%A3o%20funcionais%20elicitados,-Hist%C3%B3rico%20de%20vers%C3%B5es)|
+| **Classificação**     | Usabilidade                                                             |
+| **Descrição**         | O aplicativo deve ser intuitivo no uso. |
+| **Justificativa**     | Oferecer facilidade nas funcionalidades do sistema. |
+| **Origem do Requisito** | [Encenação](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/#nao-funcionais:~:text=Funcionais-,N%C3%A3o%20funcionais,-Refer%C3%AAncias%20Bibliogr%C3%A1ficas), [Entrevista](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#nao-funcionais:~:text=Funcionais-,N%C3%A3o%20funcionais,-Bibliografia)    , [Observação](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#:~:text=Requisitos%20Funcionais-,Requisitos%20N%C3%A3o%20Funcionais,-Refer%C3%AAncia%20bibliogr%C3%A1fica) |
+| **Critério de Aceitação** | O aplicativo deve concluir tarefas em no maximo 5 cliques. |
+| **Dependências**      | Nenhuma   |
+| **Prioridade**        | Alta  |
+| **Conflitos**         | Nenhum identificado.                                                   |
+| **História**          | 17/12/2024 |
+
+
+<font size="3"><p style="text-align: center">Autor: [Mauricio Ferreira](https://github.com/mauricio-araujoo), 2024</p></font>
+
+</center>
+
+<font><p style="text-align: center">**Tabela 2** - Cartão de especificação: RNF02 - Usabilidade.</p></font>
 
 <center>
 
@@ -73,7 +95,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 2** - Cartão de especificação: RNF03 - Usabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 3** - Cartão de especificação: RNF03 - Usabilidade.</p></font>
 
 <center>
 
@@ -95,7 +117,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 3** - Cartão de especificação: RNF05 - Usabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 4** - Cartão de especificação: RNF05 - Usabilidade.</p></font>
 
 <center>
 
@@ -116,7 +138,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 4** - Cartão de especificação: RNF11 - Segurança.</p></font>
+<font><p style="text-align: center">**Tabela 5** - Cartão de especificação: RNF11 - Segurança.</p></font>
 
 <center>
 
@@ -137,7 +159,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
-<font><p style="text-align: center">**Tabela 5** - Cartão de especificação: RNF12 - Confiabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 6** - Cartão de especificação: RNF12 - Confiabilidade.</p></font>
 
 <center>
 
@@ -166,9 +188,9 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 A parte da "Confiabilidade" de um determinado aplicativo é um atributo essencial no que tange à sua capacidade de funcionar de maneira estável como também de forma contínua e sem apresentar perdas parciais ou totais no funcionamento. Esse aspecto tem a função de assegurar aos usuários que o aplicativo estará disponibilizado e operando sempre que seu uso for necessário. A confiabilidade é de suma importância para tornar uma experiência positiva, garantir que não ocorra eventuais erros ou também interrupções e para zelar pela reputação do software. Podemos citar a "Ajuda e Documentação" como ferramentas importantes para ajudar os usuários do software, a confiabilidade serve como a base que fortalece a confiança deles no aplicativo, permitindo que utilizem as informações de suporte de maneira segura e com eficiência.</br></br>
 
-**Softgoal Interdependency Graph**</br></br>
+#### **Softgoal Interdependency Graph**</br></br>
 
-É possível ver o Softgoal Interdependency Grap do softgoal "Confiabilidade (Reliability)" demonstrado através da figura 5.
+É possível ver o Softgoal Interdependency Graph do softgoal "Confiabilidade (Reliability)" demonstrado através da figura 5.
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Softgoal Interdependency Grap de Confiabilidade(Reliability) </b></p></font>
@@ -184,12 +206,12 @@ A parte da "Confiabilidade" de um determinado aplicativo é um atributo essencia
 </p>
 </div>
 
-**Propagação de impactos**</br></br>
+#### **Propagação de impactos**</br></br>
 
 Pode-se observar a propagação de impacto do softgoal Confiabilidade através da figura 5.
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Propagação de Impacto Softgoal Interdependency Grap de Confiabilidade(Reliability) </b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Propagação de Impacto Softgoal Interdependency Graph de Confiabilidade(Reliability) </b></p></font>
 </div>
 
 <div align="center">
@@ -205,6 +227,30 @@ Pode-se observar a propagação de impacto do softgoal Confiabilidade através d
 ### NFR03 - Usabilidade
 
 ### NFR04 - Desempenho
+
+O desempenho de uma aplicação é um fator crucial para garantir a execução de tarefas de forma eficaz, eficiente e com o uso otimizado dos recursos do sistema. Uma aplicação com bom desempenho apresenta tempos de resposta reduzidos, utilização eficiente da CPU, memória e demais recursos computacionais, além de oferecer uma experiência estável e consistente ao usuário, mesmo sob condições de carga elevada.
+
+Além de contribuir para a produtividade, o desempenho impacta diretamente a satisfação do usuário final, tornando a aplicação mais confiável e competitiva no mercado. Aplicações com baixo tempo de resposta e uso eficiente de recursos garantem um funcionamento mais rápido, consomem menos energia em dispositivos e servidores, e reduzem custos operacionais. Por isso, a otimização contínua do desempenho deve ser prioridade durante o desenvolvimento, testes e manutenção, visando sempre alcançar um equilíbrio entre eficiência, estabilidade e experiência do usuário.
+
+#### **Softgoal Interdependency Graph**</br></br>
+
+É possível ver o Softgoal Interdependency Grap do softgoal "Desempenho (Performance)" demonstrado através da figura 6.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Softgoal Interdependency Graph de Desempenho(Performance) </b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/NFR/NFRDesempenho.png" alt="NFR desempenho" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Autores: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira, 2024</a>
+  </b>
+</p>
+</div>
+
+#### **Propagação de impactos**</br></br>
 
 ### NFR05 - Manutenibilidade
 
