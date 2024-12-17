@@ -2,7 +2,18 @@
 
 ## Introdução
 
-.
+O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem conceitual voltada para a modelagem e análise de requisitos não funcionais no contexto da Engenharia de Requisitos. Diferente dos requisitos funcionais, que descrevem o que o sistema faz, os requisitos não funcionais focam em características de qualidade como desempenho, segurança, usabilidade e confiabilidade, sendo considerados elementos fundamentais para o sucesso de um projeto.
+
+O NFR Framework utiliza o Softgoal Interdependency Graph (SIG), um modelo que organiza os softgoals, ou seja, objetivos abstratos sem critérios rígidos de satisfação. No SIG, os softgoals são analisados e conectados por meio de decomposições e contribuições, que ajudam a entender como diferentes requisitos interagem e impactam o sistema.
+
+Principais conceitos do NFR Framework:
+- NFR Softgoal: Representa os requisitos não funcionais como atributos de qualidade do sistema.
+- Operationalizing Softgoal: Refere-se às implementações concretas que atendem aos softgoals.
+- Claim Softgoal: Argumentações que justificam decisões no modelo.
+- Contribuições: Relacionamentos entre softgoals, podendo ser positivos (MAKE, HELP), negativos (HURT, BREAK) ou neutros (UNKNOWN).
+- Labels: Indicadores de satisfação dos softgoals, como Satisficed (atendido) ou Denied (negado).
+
+O NFR Framework é essencial para gerenciar conflitos e avaliar alternativas, permitindo uma visão estruturada dos objetivos de qualidade do sistema e facilitando a tomada de decisões ao longo do desenvolvimento​.
 
 ## Metodologia
 
@@ -135,7 +146,7 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 ## Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 13-20 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 17. s.d. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: 17 dez. 2024.
 
 ## Histórico de Versões
 
