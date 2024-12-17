@@ -208,10 +208,49 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 ## NFR Framework
 
 ### NFR01 - Suportabilidade
+A suportabilidade se mostra de total importância para um sistema, uma vez que, tem-se os requisitos que estão relacionados ao suporte e manutenção da aplicação, que inevitavelmente, garantem a facilidade de manutenção e evolução do sistema ao longo do tempo, tornando-o mais robusto. Além disso, a suportabilidade trata de atualizações do sistema, problemas e erros e monitoramento e rastreabilidade do Meu INSS.
+
+#### **Softgoal Interdependency Graph - Suportabilidade**
+Na figura 4, está disponível o gráfico, Softgoal Interdependency Graph, para o softgoal Suportabilidade. 
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Softgoal Interdependency Grap de Suportabilidade </b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/NFR/SUP_NFR.svg" alt="NFR suportabilidade" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Autores: <a href="https://github.com/julia-fortunato">Júlia Fortunato, 2024</a>
+  </b>
+</p>
+</div>
+
+#### **Propagação de impactos - Suportabilidade**</br></br>
+
+Na figura , tem-se a propagação de impactos do SIG para suportabilidade. 
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Propagação de Impacto Softgoal Interdependency Graph de Suportabilidade </b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/NFR/NFRconfiabilidadeImpacto.png" alt="NFR confiabilidade Impacto" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
+  </b>
+</p>
+</div>
+
+
 
 ### NFR02 - Confiabilidade
 
 A parte da "Confiabilidade" de um determinado aplicativo é um atributo essencial no que tange à sua capacidade de funcionar de maneira estável como também de forma contínua e sem apresentar perdas parciais ou totais no funcionamento. Esse aspecto tem a função de assegurar aos usuários que o aplicativo estará disponibilizado e operando sempre que seu uso for necessário. A confiabilidade é de suma importância para tornar uma experiência positiva, garantir que não ocorra eventuais erros ou também interrupções e para zelar pela reputação do software. Podemos citar a "Ajuda e Documentação" como ferramentas importantes para ajudar os usuários do software, a confiabilidade serve como a base que fortalece a confiança deles no aplicativo, permitindo que utilizem as informações de suporte de maneira segura e com eficiência.</br></br>
+
 
 #### **Softgoal Interdependency Graph**</br></br>
 
