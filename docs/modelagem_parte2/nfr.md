@@ -6,14 +6,44 @@ O NFR Framework (Framework de Requisitos Não Funcionais) é uma abordagem conce
 
 O NFR Framework utiliza o Softgoal Interdependency Graph (SIG), um modelo que organiza os softgoals, ou seja, objetivos abstratos sem critérios rígidos de satisfação. No SIG, os softgoals são analisados e conectados por meio de decomposições e contribuições, que ajudam a entender como diferentes requisitos interagem e impactam o sistema.
 
-Principais conceitos do NFR Framework:
-- NFR Softgoal: Representa os requisitos não funcionais como atributos de qualidade do sistema.
-- Operationalizing Softgoal: Refere-se às implementações concretas que atendem aos softgoals.
-- Claim Softgoal: Argumentações que justificam decisões no modelo.
-- Contribuições: Relacionamentos entre softgoals, podendo ser positivos (MAKE, HELP), negativos (HURT, BREAK) ou neutros (UNKNOWN).
+Principais conceitos do NFR Framework:</br>
+- NFR Softgoal: Representa os requisitos não funcionais como atributos de qualidade do sistema, podendo estar interrelacionados de forma orgânica e hierarquica na produção de um projeto.</br>
+- Operationalizing Softgoal: Refere-se às implementações concretas que atendem aos softgoals como, por exemplo, processos e operações.</br>
+- Claim Softgoal: Argumentações que justificam decisões no modelo.</br>
+- Contribuições: Relacionamentos entre softgoals, podendo ser positivos (MAKE, HELP), negativos (HURT, BREAK) ou neutros (UNKNOWN).</br>
 - Labels: Indicadores de satisfação dos softgoals, como Satisficed (atendido) ou Denied (negado).
 
-O NFR Framework é essencial para gerenciar conflitos e avaliar alternativas, permitindo uma visão estruturada dos objetivos de qualidade do sistema e facilitando a tomada de decisões ao longo do desenvolvimento​.
+O NFR Framework é essencial para gerenciar conflitos e avaliar alternativas, permitindo uma visão estruturada dos objetivos de qualidade do sistema e facilitando a tomada de decisões ao longo do desenvolvimento​. Na figura 1 abaixo é possível observar as simbologias utilizadas para a diferenciação dos tipos de softgoals e na figura 2 as simbologias usadas para a rotulagem dos softgoals:
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Tipos de Softgoals </b></p></font>
+</div>
+<div align="center">
+<img src="../../imagens/NFR/Tipos de softgoal.png" alt="NFR tipos de softgoals" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Fonte: SILVA, 2019
+  </b>
+</p>
+</div>
+</br></br>
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Rótulos para softgoals </b></p></font>
+</div>
+
+<div align="center">
+<img src="../../imagens/NFR/Rotulos de softgoals.png" alt="Rótulos de softgoals" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Fonte: SILVA, 2019
+  </b>
+</p>
+</div>
+
+
 
 ## Metodologia
 
@@ -181,10 +211,13 @@ Pode-se observar a propagação de impacto do softgoal Confiabilidade através d
 ## Referência bibliográfica
 
 > [1] SAYÃO, M.; DE CARVALHO, G. Construção do léxico de aplicações. 4th Workshop in Information and Human Language Technology (TIL’2006). 2006. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 03 dez. 2024.
+> [2] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 17/12/2024.
+
 
 ## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 17. s.d. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: 17 dez. 2024.
+
 
 ## Histórico de Versões
 
