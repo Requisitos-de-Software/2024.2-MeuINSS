@@ -10,7 +10,7 @@ O objetivo é verificar por meio das histórais de usuário se cada funcionalida
 
 ## Metodologia
 
-Foram utilizados os requisitos funcionais elicitados anteriormente e feito uma história de usuário pra cada um deles como seguinte padrão:
+Foram utilizados os [requisitos elicitados](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/) anteriormente e feito uma história de usuário pra cada um deles com o seguinte padrão:
 
 ### USXX - "Nome da história".
 Na tabela Y, pode ser encontrada a USX - "Nome da história".
@@ -28,6 +28,9 @@ Na tabela Y, pode ser encontrada a USX - "Nome da história".
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a>"Autor"</a>, 2024</p></font>
 </div >
+
+Rastreabilidade: [RFx - "Nome do requisito"]()
+
 
 ## Histórias de Usuário
 
