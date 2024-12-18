@@ -46,6 +46,10 @@ O NFR Framework é essencial para gerenciar conflitos e avaliar alternativas, pe
 
 ## Metodologia
 
+A criação do Softgoal Interdependency Graph (SIG) segue um processo estruturado, baseado na especificação suplementar do projeto. Inicialmente, os requisitos não funcionais (NFRs) são definidos com base no modelo FURPS+, sendo ajustados para alinhar com as categorias de qualidade estabelecidas.
+
+Para cada categoria, são elaborados um SIG, um diagrama de propagação de impactos e um cartão de especificação, que contém informações detalhadas sobre o NFR, como sua descrição, categoria, conflitos, origem, critérios e outros aspectos relevantes. Foi utilizada a ferramenta Draw.io para criar os gráficos, e validações são realizadas por meio de revisões críticas para garantir a precisão e clareza dos requisitos.
+
 ## Cartões de especificação
 
 Os cartões de especificação desempenham um papel fundamental na rastreabilidade e no desenvolvimento posterior do NFR, servindo como uma base estruturada. Os cartões apresentados nas Tabelas 1 a 5 foram utilizados para descrever os Requisitos Não-Funcionais necessários à elaboração dos NFR frameworks.
