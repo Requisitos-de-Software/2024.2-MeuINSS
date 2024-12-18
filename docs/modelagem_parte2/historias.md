@@ -26,7 +26,7 @@ Na tabela Y, pode ser encontrada a USX - "Nome da história".
 | "Descrição da história" | "Tema da história" | "Critérios de aceitação" | "Prioridade de implementação" | "Dificuldade de implementação" |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a>"Autor"</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a></a>Nicolas Bomfim, 2024</p></font>
 </div >
 
 Rastreabilidade: [RFx - "Nome do requisito"]()
