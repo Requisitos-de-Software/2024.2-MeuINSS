@@ -205,6 +205,27 @@ Os cartões de especificação desempenham um papel fundamental na rastreabilida
 
 </center>
 
+<font><p style="text-align: center">**Tabela 8** - Cartão de especificação: Suportabilidade</p></font>
+
+<center>
+
+| **Campo**                 | **Detalhes**                                                                                                                                                                                                                                       |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ID**                    | [?](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#:~:text=requisitos%20funcionais%20elicitados-,Tabela%20de%20requisitos%20n%C3%A3o%20funcionais%20elicitados,-Hist%C3%B3rico%20de%20vers%C3%B5es) |
+| **Classificação**         | Suportabilidade                                                                                                                                                                                                                                    |
+| **Descrição**             | O sistema deve permitir a fácil atualização, monitoramento contínuo, diagnóstico de problemas e rastreabilidade de alterações, garantindo a manutenção e evolução ao longo do tempo.                                                                                                                 |
+| **Justificativa**         | 	Assegurar que o sistema seja de fácil manutenção, permitindo adaptações e melhorias contínuas com mínimo impacto ao serviço.                                                                                                                                             |
+| **Origem do Requisito**   | [Observação](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#:~:text=Requisitos%20Funcionais-,Requisitos%20N%C3%A3o%20Funcionais,-Refer%C3%AAncia%20bibliogr%C3%A1fica), [Entrevista](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#nao-funcionais), [Encenação](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/#nao-funcionais)  e  [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#suportabilidade)                                                                                                                                               |
+| **Critério de Aceitação** | Comprovação de facilidade na aplicação de atualizações (testes automáticos) e geração de relatórios com logs contínuos que demonstram rastreabilidade e diagnóstico eficiente de problemas                                                                                                                |
+| **Dependências**          | Foram identidicadas apenas interdependências entre os softgoals                                                                                                                                                                                                                                            |
+| **Prioridade**            | Alta                                                                                                                                                                                                                                              |
+| **Conflitos**             | Não foram identificados conflitos                                                                                                                                                                           |
+| **História**              | 17/12/2024                                                                                                                                                                                                                                         |
+
+<font size="3"><p style="text-align: center">Autor: [Júlia Fortunato](https://github.com/julia-fortunato), 2024</p></font>
+
+</center>
+
 ## NFR Framework
 
 ### NFR01 - Suportabilidade
