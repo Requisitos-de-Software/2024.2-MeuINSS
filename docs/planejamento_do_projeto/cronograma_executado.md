@@ -33,7 +33,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       <td>Início: 26/10/2024 <br> Fim: 26/10/2024</td>
       <td>Início: 26/10/2024 <br> Fim: 27/10/2024</td>
       <td>
@@ -41,7 +41,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
       <td>Incluir o heatmap de disponibilidade dos integrantes no repositório</td>
       <td>Início: 23/10/2024 <br> Fim: 01/11/2024</td>
       <td>Início: 23/10/2024 <br> Fim: 04/1/2024</td>
-      <td><a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td><a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
       <td>Início: 04/11/2024 <br> Fim: 04/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
@@ -81,7 +81,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 01/11/2024 <br> Fim: 02/11/2024</td>
       <td>Início: 04/11/2024 <br> Fim: 04/11/2024</td>
       <td>
@@ -89,7 +89,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Documentar o aplicativo escolhido para a disciplina</td>
@@ -155,7 +155,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
       <td>Início: 01/11/2024<br> Fim: 01/11/2024</td>
       <td>Início: 05/11/2024<br> Fim: 06/11/2024</td>
-      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Gravação 1</td>
@@ -166,7 +166,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 02/11/2024<br> Fim: 02/11/2024</td>
       <td>Início: 04/11/2024<br> Fim: 04/11/2024</td>
       <td>
@@ -174,7 +174,7 @@ Na tabela 1, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 1</td>
@@ -258,7 +258,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
       <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
       <td>Início: 15/11/2024 <br> Fim: 15/11/2024</td>
@@ -267,7 +267,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
     </tr>
     <tr>
@@ -279,7 +279,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
       <td>Início: 08/11/2024 <br> Fim: 09/11/2024</td>
       <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
@@ -288,7 +288,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
     </tr>
     <tr>
@@ -300,7 +300,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
       </td>
       <td>Início: 10/11/2024 <br> Fim: 11/11/2024</td>
       <td>Início: 20/11/2024 <br> Fim: 20/11/2024</td>
-      <td> <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td> <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Definição do cronograma de elicitação de requisitos com cliente/persona</td>
@@ -328,14 +328,14 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 15/11/2024 <br> Fim: 16/11/2024</td>
       <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Entrevista: Gravação e registro(s) da priorização dos requisitos (pré-rastreabilidade)</td>
@@ -345,14 +345,14 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 15/11/2024 <br> Fim: 16/11/2024</td>
       <td>Início: 24/11/2024 <br> Fim: 24/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - elicitação</td>
@@ -362,14 +362,14 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
       <td>Início: 22/11/2024 <br> Fim: 23/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Documentação da participação do cliente e/ou persona - priorização</td>
@@ -379,14 +379,14 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 19/11/2024 <br> Fim: 20/11/2024</td>
       <td>Início: 23/11/2024 <br> Fim: 24/11/2024</td>
       <td><a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Gravação 2</td>
@@ -397,7 +397,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
       <td>22/11/2024</td>
       <td>24/11/2024</td>
@@ -406,7 +406,7 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
     </tr>
     <tr>
@@ -422,21 +422,14 @@ Na tabela 2, estão apresentadas as datas de execução do cronograma executado 
     </tr>
     <tr>
       <td>Correção após a Entrega 2</td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--
-        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+      <td>Início: 23/11/2024 <br> Fim: 23/11/2024</td>
+      <td>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
-        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
-        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>-->
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
-      <td>Início: XX/11/2024 <br> Fim: XX/11/2024</td>
-      <td><!--
-        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
-        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
-        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>-->
+      <td>Início: 23/11/2024 <br> Fim: 23/11/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
       </td>
     </tr>
   </tbody>
@@ -473,7 +466,7 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
       <td>Início: 07/12/2024 <br> Fim: 07/12/2024</td>
       <td>
@@ -489,7 +482,7 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
       </td>
       <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
       <td>Início: 07/12/2024 <br> Fim: 08/11/2024</td>
@@ -503,7 +496,7 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
       <td>Início: 27/11/2024 <br> Fim: 28/11/2024</td>
       <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
-      <td><a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td><a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Especificação Suplementar</td>
@@ -538,15 +531,15 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
       <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
       <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
       <td>
-         <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
         <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="http://github.com/nickgehjk">Nicolas Bandeira</a></td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 3</td>
@@ -556,18 +549,167 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
       <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
       <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
-      <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a>
+      </td>
     </tr>
     <tr>
       <td>Realizar inspeção do grupo+1</td>
       <td>Início: 06/12/2024<br> Fim: 06/12/2024</td>
       <td>Início: 09/12/2024<br> Fim: 09/12/2024</td>
-      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a><br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
       <td>Início: 07/12/2024<br> Fim: 07/12/2024</td>
       <td>Início: 09/12/2024<br> Fim: 09/12/2024</td>
       <td>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
       </td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega 3</td>
+      <td>Início: 12/12/2024 <br> Fim: 12/12/2024</td>
+      <td>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      </td>
+      <td>Início: 12/12/2024 <br> Fim: 12/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+
+</div>
+
+
+## Entrega 4 - Modelagem de requisitos (parte 2) - Data de Entrega: 17/12/2024
+
+Na tabela 4, estão apresentadas as datas de execução do cronograma executado para a quarta entrega do projeto, a segunda parte da modelagem de requisitos.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma executado da etapa de Modelagem de requisitos (parte 2)</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período (planejado)</th>
+      <th>Período (executado)</th>
+      <th>Responsáveis</th>
+      <th>Revisão (planejado)</th>
+      <th>Revisão (executado)</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Criação das histórias de Usuário</td>
+      <td>Início: 11/12/2024 <br> Fim: 13/12/2024</td>
+      <td>Início: 11/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      <td>Início: 13/12/2024 <br> Fim: 13/12/2024</td>
+      <td>Início: 13/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Especificação do backlog</td>
+      <td>Início: 15/12/2024 <br> Fim: 16/12/2024</td>
+      <td>Início: 15/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+      <td>Início: 16/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td> 
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Especificação do NFR Framework</td>
+      <td>Início: 15/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 15/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      </td>
+      <td>Início: 16/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso</td>
+      <td>Início: 28/11/2024 <br> Fim: 30/11/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
+      <td>Início:  30/11/2024 <br> Fim:  01/12/2024</td>
+      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
+      <td>
+       <a href="http://github.com/an4catarina">Ana Catarina</a>
+    </tr>
+    <tr>
+      <td>Gravação 4</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
+        <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a><br>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 4</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td><a href="http://github.com/an4catarina">Ana Catarina</a></td>
+    </tr>
+    <tr>
+      <td>Realizar inspeção do grupo+1</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
       <td>Correção após a Entrega 3</td>
@@ -605,3 +747,4 @@ Na tabela 3, estão apresentadas as datas de execução do cronograma executado 
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado da entrega 2                  | [Júlia Fortunato](https://github.com/julia-fortunato)                                                            |                                 [Ana Catarina Santos](https://github.com/an4catarina)                                 |
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado das entregas 1 e 2            | [Ana Catarina Santos](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato) |                               [Maurício Ferreira](https://github.com/mauricio-araujoo)                                |
 | `4.0`  | 08/12/2024 | Atualização do cronograma executado da entrega 3          |  [Júlia Fortunato](https://github.com/julia-fortunato) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
+| `5.0`  | 17/12/2024 | Atualização do cronograma executado da entrega 3          |  [Nicolas Bomfim](https://github.com/nickgehjk) |  [Ana Catarina Santos](https://github.com/an4catarina)   |

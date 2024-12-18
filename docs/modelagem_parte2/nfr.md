@@ -353,4 +353,4 @@ Além de contribuir para a produtividade, o desempenho impacta diretamente a sat
 
 | Versão | Data       | Descrição            | Autor                   |         Revisor         |
 | :----: | ---------- | -------------------- | ----------------------- | :---------------------: |
-| `1.0`  | 11/12/2024 | Criação do documento e adição dos cartões de especificação | [Ana Catarina Santos](https://github.com/an4catarina) | [](https://github.com/) |
+| `1.0`  | 15/12/2024 | Criação do documento e adição dos cartões de especificação |[Ana Catarina Santos](https://github.com/an4catarina)|[Nicolas Bomfim](https://github.com/nickgehjk)|
