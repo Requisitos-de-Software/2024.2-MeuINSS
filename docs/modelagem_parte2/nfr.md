@@ -257,7 +257,7 @@ Na figura 4, tem-se a propagação de impactos do SIG para suportabilidade.
 </div>
 
 <div align="center">
-<img src="../../imagens/NFR/SUP_NFRIMP.svg" alt="NFR suportabilidade Impacto" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="../../imagens/NFR/NFRSUPIMP.svg" alt="NFR suportabilidade Impacto" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
