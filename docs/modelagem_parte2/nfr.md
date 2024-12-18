@@ -52,7 +52,7 @@ Para cada categoria, são elaborados um SIG, um diagrama de propagação de impa
 
 ## Cartões de especificação
 
-Os cartões de especificação desempenham um papel fundamental na rastreabilidade e no desenvolvimento posterior do NFR, servindo como uma base estruturada. Os cartões apresentados nas Tabelas 1 a 5 foram utilizados para descrever os Requisitos Não-Funcionais necessários à elaboração dos NFR frameworks.
+Os cartões de especificação desempenham um papel fundamental na rastreabilidade e no desenvolvimento posterior do NFR, servindo como uma base estruturada. Os cartões apresentados nas Tabelas 1 a 8 foram utilizados para descrever os Requisitos Não-Funcionais necessários à elaboração dos NFR frameworks.
 
 <font><p style="text-align: center">**Tabela 1** - Cartão de especificação: RNF01 - Usabilidade.</p></font>
 
