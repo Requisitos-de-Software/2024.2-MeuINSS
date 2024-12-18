@@ -309,7 +309,7 @@ A usabilidade de uma aplicação é crucial para garantir que os usuários possa
 
 Uma boa usabilidade melhora a experiência do usuário, tornando o sistema mais acessível e competitivo no mercado. Isso resulta em maior produtividade e confiança por parte dos usuários. Por isso, a otimização contínua da usabilidade deve ser uma prioridade durante o desenvolvimento e manutenção da aplicação, garantindo uma experiência fluida e eficiente.
 
-#### **Softgoal Interdependency Graph**</br></br>
+#### **Softgoal Interdependency Graph - Usabilidade**</br></br>
 
 É possível ver o Softgoal Interdependency Grap do softgoal "Usabilidade" demonstrado através da figura 6.
 
@@ -328,7 +328,7 @@ Uma boa usabilidade melhora a experiência do usuário, tornando o sistema mais 
 </p>
 </div>
 
-#### **Propagação de impactos**</br></br>
+#### **Propagação de impactos - Usabilidade**</br></br>
 
 Pode-se observar a propagação de impacto do softgoal Usabilidade através da figura 7.
 
@@ -353,7 +353,7 @@ O desempenho de uma aplicação é um fator crucial para garantir a execução d
 
 Além de contribuir para a produtividade, o desempenho impacta diretamente a satisfação do usuário final, tornando a aplicação mais confiável e competitiva no mercado. Aplicações com baixo tempo de resposta e uso eficiente de recursos garantem um funcionamento mais rápido, consomem menos energia em dispositivos e servidores, e reduzem custos operacionais. Por isso, a otimização contínua do desempenho deve ser prioridade durante o desenvolvimento, testes e manutenção, visando sempre alcançar um equilíbrio entre eficiência, estabilidade e experiência do usuário.
 
-#### **Softgoal Interdependency Graph**</br></br>
+#### **Softgoal Interdependency Graph - Desempenho**</br></br>
 
 É possível ver o Softgoal Interdependency Grap do softgoal "Desempenho (Performance)" demonstrado através da figura 8.
 
@@ -371,7 +371,24 @@ Além de contribuir para a produtividade, o desempenho impacta diretamente a sat
 </p>
 </div>
 
-#### **Propagação de impactos**</br></br>
+#### **Propagação de impactos - Desempenho**</br></br>
+
+Pode-se observar a propagação de impacto do softgoal Desempenho através da figura 7.
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Softgoal Interdependency Graph de Desempenho(Performance) </b></p></font>
+</div>
+
+
+<div align="center">
+<img src="../../imagens/NFR/NFRDesempenhoPropagacao.png" alt="NFR desempenho propagação" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+<p style="text-align: center; margin-bottom: 50px;">
+  <b>Autor: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira, 2024</a>
+  </b>
+</p>
+</div>
 
 ## Referência bibliográfica
 

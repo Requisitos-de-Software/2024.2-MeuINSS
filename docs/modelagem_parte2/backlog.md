@@ -80,7 +80,7 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
         <tr>
             <td rowspan="4"> T01 - Gerenciamento Financeiro</td>
             <td rowspan="4"> EP01 - Consulta e Emissão de Documentos Financeiros</td>
-            <td> US01 - XXXXXXXXXXXXXXXX </td>
+            <td> US01 - Emissão e consulta a extratos e pagamentos </td>
             <td> Alta </td>
         </tr>
         <tr>
@@ -98,7 +98,7 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
         <tr>
             <td rowspan="14"> T02 - Planejamento Previdenciário e Benefícios </td>
             <td rowspan="5"> EP02 - Planejamento de Contribuição e Aposentadoria </td>
-            <td> US02 - XXXXXXXXXXXXXXXX </td>
+            <td> US02 - Simulação de aposentadoria </td>
             <td> Média </td>
         </tr>
             <tr>
@@ -118,7 +118,7 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
                 <td> Alta </td>
             </tr>
             <td rowspan="9"> EP03 - Solicitação e Gerenciamento de Benefícios </td>
-            <td> US05 - XXXXXXXXXXXXXXXX </td>
+            <td> US05 - Solicitação de auxílio-doença </td>
             <td> Alta </td>
         </tr>
             <tr>
@@ -184,11 +184,11 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
         <tr>
             <td rowspan="6"> T04 -  Funcionalidades Gerais </td>
             <td rowspan="6"> EP06 - Interações e Operações no Sistema</td>
-            <td> US03 - XXXXXXXXXXXXXXXXXXXXXX </td>
+            <td> US03 - Solicitação de pedidos </td>
             <td> Alta </td>
         </tr>
         <tr>
-            <td> US04 - XXXXXXXXXX </td>
+            <td> US04 - Integrção com outros sistemas </td>
             <td> XXXXXXXX </td>
         </tr>
         <tr>

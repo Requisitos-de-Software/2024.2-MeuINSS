@@ -95,7 +95,7 @@ Na tabela 3, pode ser encontrada a US03 - O aplicativo permite solicitar pedidos
 Rastreabilidade: [RF03 - O aplicativo permite solicitar pedidos.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
 
-### US04 - 	Integrção com outros sistemas
+### US04 - 	Integração com outros sistemas
 Na tabela 4, pode ser encontrada a US04 - O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.
 
 <div style="text-align: center">
