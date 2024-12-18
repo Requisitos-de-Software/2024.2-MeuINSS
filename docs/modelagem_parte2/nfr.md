@@ -391,13 +391,11 @@ Pode-se observar a propagação de impacto do softgoal Desempenho através da fi
 </div>
 
 ## Referência bibliográfica
-
-> [1] SAYÃO, M.; DE CARVALHO, G. Construção do léxico de aplicações. 4th Workshop in Information and Human Language Technology (TIL’2006). 2006. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 03 dez. 2024.
-> [2] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 17/12/2024.
+> [1] SILVA, Reinaldo. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, p. 38. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972515/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 17 dez. 2024.
 
 ## Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 17. s.d. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: 17 dez. 2024.
+> SILVA, Reinaldo. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, p. 38. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972515/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 17 dez. 2024.
 
 ## Histórico de Versões
 

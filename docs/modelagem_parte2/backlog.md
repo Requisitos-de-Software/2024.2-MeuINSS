@@ -188,8 +188,8 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
             <td> Alta </td>
         </tr>
         <tr>
-            <td> US04 - Integrção com outros sistemas </td>
-            <td> XXXXXXXX </td>
+            <td> US04 - Integração com outros sistemas </td>
+            <td> Alta </td>
         </tr>
         <tr>
             <td> US26 - Usar autenticação pelo Gov.br para login </td>
@@ -217,15 +217,27 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
 </div>
 
 
+## Validação do backlog
 
-## Referência bibliográfica 
+Para validar o backlog, foi feito um encontro com uma usuária do Meu INSS. A reunião foi realizada presencialmente, com a integrante Júlia Fortunato, com a participação de outro membro do grupo, Cristiano Morais, de forma remota, através da plataforma Teams no dia 17 de dezembro de 2024, às 22:00 hrs.
 
-> [1] SAYÃO, M.; DE CARVALHO, G. Construção do léxico de aplicações. 4th Workshop in Information and Human Language Technology (TIL’2006). 2006. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 03 dez. 2024.
+No vídeo 1 encontra-se a gravação da validação.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/2hGIABItVyg?si=aaT6i29cXUgd1NNt" target="blanket"><b>Vídeo 1:</b> Validação do backlog - Meu INSS</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hGIABItVyg?si=aaT6i29cXUgd1NNt" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2023</p></font>
+</div >
+
+
 
 
 ## Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 13-20 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 02 dez. 2024.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15. s.d. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972504/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 17 dez. 2024.
+
 
 
 ## Histórico de Versões

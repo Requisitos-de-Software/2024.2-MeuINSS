@@ -661,6 +661,20 @@ Na tabela 31, está descrita a US31 - calendario de atividades.
 
 Rastreabilidade: [RF31 - O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades.](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-funcionais-elicitados)
 
+
+## Validação das histórias de usuário
+
+Para validar as histórias de usuário, foi feito um encontro com uma usuária do Meu INSS. A reunião foi realizada presencialmente, com a integrante Júlia Fortunato, com a participação de outro membro do grupo, Cristiano Morais, de forma remota, através da plataforma Teams no dia 17 de dezembro de 2024, às 22:00 hrs.
+
+No vídeo 1 encontra-se a gravação da validação.
+
+<div align="center">
+<p style="text-align: center"><a href="https://youtu.be/lq6Y2uOdrKk?si=ZjSYyGp8LO1uOkCz" target="blanket"><b>Vídeo 1:</b> Validação de histórias de usuário - Meu INSS</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lq6Y2uOdrKk?si=ZjSYyGp8LO1uOkCz" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2023</p></font>
+
 ## Referência bibliográfica 
 
 > [1] SAYÃO, M.; DE CARVALHO, G. Construção do léxico de aplicações. 4th Workshop in Information and Human Language Technology (TIL’2006). 2006. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 03 dez. 2024.
