@@ -232,4 +232,4 @@ Na tabela 1, encontram-se os temas, agrupados por épicos eventualmente, os quai
 
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|16/12/2024|Criação do documento|[Ana Catarina](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato)<br> [Maurício Ferreira](https://github.com/mauricio-araujoo)|[](https://github.com/)|
+|`1.0`|16/12/2024|Criação do documento|[Ana Catarina](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato)<br> [Maurício Ferreira](https://github.com/mauricio-araujoo)|[Cristiano Morais](https://github.com/CristianoMoraiss)|
