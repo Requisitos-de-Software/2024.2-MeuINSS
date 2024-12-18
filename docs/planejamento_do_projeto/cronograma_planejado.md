@@ -609,7 +609,7 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Modela
       </td>
     </tr>
     <tr>
-      <td>Documentação da participação do cliente e/ou persona na elicitação de requisitos</td>
+      <td>Documentação da participação do cliente e/ou persona na validação de requisitos</td>
       <td>Início: 03/12/2024 <br> Fim: 05/12/2024</td>
       <td>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>

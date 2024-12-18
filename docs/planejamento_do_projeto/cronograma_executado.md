@@ -608,7 +608,7 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
   </thead>
   <tbody>
     <tr>
-      <td>Criação das histórias de Usuário</td>
+      <td>Definição de histórias de usuário</td>
       <td>Início: 11/12/2024 <br> Fim: 13/12/2024</td>
       <td>Início: 11/12/2024 <br> Fim: 17/12/2024</td>
       <td>
@@ -627,7 +627,21 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
       </td>
     </tr>
     <tr>
-      <td>Especificação do backlog</td>
+      <td>Documentação da participação do cliente e/ou persona na validação de requisitos</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>
+      </td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>
+        <a href="http://github.com/nickgehjk">Nicolas Bomfim</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Definição de backlogs</td>
       <td>Início: 15/12/2024 <br> Fim: 16/12/2024</td>
       <td>Início: 15/12/2024 <br> Fim: 17/12/2024</td>
       <td>
@@ -642,7 +656,7 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
       </td>
     </tr>
     <tr>
-      <td>Especificação do NFR Framework</td>
+      <td>Definição de NFR Framework</td>
       <td>Início: 15/12/2024 <br> Fim: 17/12/2024</td>
       <td>Início: 15/12/2024 <br> Fim: 17/12/2024</td>
       <td>
@@ -700,7 +714,7 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
         <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
     <tr>
-      <td>Correção após a Entrega 3</td>
+      <td>Correção após a Entrega 4</td>
       <td>Início: - <br> Fim: -</td>
       <td>Início:  -<br> Fim: -</td>
       <td>
