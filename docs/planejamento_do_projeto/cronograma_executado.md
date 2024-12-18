@@ -659,18 +659,6 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
       </td>
     </tr>
     <tr>
-      <td>Documentação da participação do cliente e/ou persona na validação do Diagrama de Caso de Uso</td>
-      <td>Início: 28/11/2024 <br> Fim: 30/11/2024</td>
-      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
-      <td>
-        <a href="http://github.com/an4catarina">Ana Catarina</a><br>
-        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
-      <td>Início:  30/11/2024 <br> Fim:  01/12/2024</td>
-      <td>Início: 08/12/2024<br> Fim: 08/12/2024</td>
-      <td>
-       <a href="http://github.com/an4catarina">Ana Catarina</a>
-    </tr>
-    <tr>
       <td>Gravação 4</td>
       <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
       <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
