@@ -26,7 +26,7 @@ Na tabela Y, pode ser encontrada a USX - "Nome da história".
 | "Descrição da história" | "Tema da história" | "Critérios de aceitação" | "Prioridade de implementação" | "Dificuldade de implementação" |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a>"Autor"</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a></a>Nicolas Bomfim, 2024</p></font>
 </div >
 
 Rastreabilidade: [RFx - "Nome do requisito"]()
@@ -678,6 +678,6 @@ Rastreabilidade: [RF31 - O usuário tem acesso a um calendário no aplicativo re
 |`1.0`|11/12/2024|Criação do documento|[Nicolas Bomfim](https://github.com/nickgehjk)|[Júlia Fortunato](https://github.com/julia-fortunato)|
 |`1.1`|11/12/2024|Adição de histórias 7 a 12|[Júlia Fortunato](https://github.com/julia-fortunato)|[Ana Catarina Santos](https://github.com/an4catarina)|
 |`1.2`|11/12/2024|Adição de histórias 19 a 24|[Nicolas Bomfim](https://github.com/nickgehjk)|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|
-|`1.3`|13/12/2024|Adição de histórias 25 a 31|[Mauricio Ferreira](https://github.com/mauricio-araujoo)|[Nicolas Bomfim](https://github.com/nickgehjk)|
+|`1.3`|13/12/2024|Adição de histórias 25 a 31|[Mauricio Ferreira](https://github.com/mauricio-araujoo)||
 |`1.4`|15/12/2024|Adição de histórias 13 a 18|[Ana Catarina Santos](https://github.com/an4catarina)|[Júlia Fortunato](https://github.com/julia-fortunato)|
 |`1.5`|17/12/2024|Adição de histórias 1 a 6|[Cristiano Morais](https://github.com/CristianoMoraiss)|[Nicolas Bomfim](https://github.com/nickgehjk)|
