@@ -6,15 +6,15 @@ Nesta página, disponibilizamos a inspeção realizada pelo grupo para análise 
 
 ## Acesso à lista de inspeção do grupo (Resultado)
 
-No link a seguir, pode ser encontrado o resultado da inspeção do grupo: [Lista de inspeção 4 - Grupo 06 (Resultado)](ListaVerificacaoEntrega3Grupo6.pdf).
+No link a seguir, pode ser encontrado o resultado da inspeção do grupo: [Lista de inspeção 4 - Grupo 06 (Resultado)](ListaInspec4-inspecGrupo.pdf).
 
 ## Acesso à gravação da inspeção
 
-A inspeção foi realizada pelos integrantes [Cristiano](https://github.com/CristianoMoraiss) e [Nicolas](https://github.com/nickgehjk) no dia 17/12/2024, às 22 horas. No vídeo abaixo, pode ser acessado a gravação da inspeção.
+A inspeção foi realizada pelos integrantes [Cristiano](https://github.com/CristianoMoraiss) e [Mauricio Ferreira](https://github.com/mauricio-araujoo) no dia 17/12/2024, às 22 horas. No vídeo abaixo, pode ser acessado a gravação da inspeção.
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://youtu.be/8reP4tg2jOo" target="blanket"><b>Vídeo 1:</b> Inspeção do grupo - Entrega 03</a></p>
+<p style="text-align: center"><a href="https://youtu.be/8reP4tg2jOo" target="blanket"><b>Vídeo 1:</b> Inspeção do grupo - Entrega 04</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8reP4tg2jOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
