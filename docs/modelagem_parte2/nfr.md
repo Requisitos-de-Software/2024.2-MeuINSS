@@ -281,11 +281,11 @@ A parte da "Confiabilidade" de um determinado aplicativo é um atributo essencia
 </div>
 
 <div align="center">
-<img src="../../imagens/NFR/NFRconfiabilidade.jpg" alt="NFR confiabilidade" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="../../imagens/NFR/DiagramaNFRConfiabilidadeIMP.png" alt="NFR confiabilidade" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
+  <b>Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
   </b>
 </p>
 </div>
@@ -299,11 +299,11 @@ Pode-se observar a propagação de impacto do softgoal Confiabilidade através d
 </div>
 
 <div align="center">
-<img src="../../imagens/NFR/NFRconfiabilidadeImpacto.png" alt="NFR confiabilidade Impacto" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
+<img src="../../imagens/NFR/DiagramaNFRConfiabilidade.png" alt="NFR confiabilidade Impacto" style=" max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Autores: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
+  <b>Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais, 2024</a>
   </b>
 </p>
 </div>
@@ -329,7 +329,7 @@ Além de contribuir para a produtividade, o desempenho impacta diretamente a sat
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Autores: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira, 2024</a>
+  <b>Autor: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira, 2024</a>
   </b>
 </p>
 </div>
