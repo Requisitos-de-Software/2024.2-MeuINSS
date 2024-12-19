@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesta página, disponibilizamos a inspeção realizada pelo grupo para análise do conteúdo produzido durante a entrega 3. Dessa forma, consegue-se garantir maior assertividade nas entregas realizadas e confiança na construção do aprendizado. A inspeção foi realizada levando em conta a lista contruída pela equipe que pode ser encontrada na [Lista de inspeção](listadeinspec4.md) da entrega 4.
+Nesta página, disponibilizamos a inspeção realizada pelo grupo para análise do conteúdo produzido durante a entrega 3. Dessa forma, consegue-se garantir maior assertividade nas entregas realizadas e confiança na construção do aprendizado. A inspeção foi realizada levando em conta a lista contruída pela equipe que pode ser encontrada na [Lista de inspeção](ListaInspec4.pdf) da entrega 4.
 
 ## Acesso à lista de inspeção do grupo (Resultado)
 
