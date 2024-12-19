@@ -49,4 +49,4 @@ A inspeção foi realizada pelos integrantes [Ana Catarina Santos](https://githu
 
 | Versão | Data       | Descrição                            | Autor                                                        |                         Revisor                         |
 | :----: | ---------- | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------------------: |
-| `1.0`  | 09/12/2024 | Criação do documento                 | [Ana Catarina Santos](https://github.com/an4catarina)<br> | [Mauricio Ferreira](https://github.com/mauricio-araujoo) |
+| `1.0`  | 18/12/2024 | Criação do documento                 | [Ana Catarina Santos](https://github.com/an4catarina)<br> | [Mauricio Ferreira](https://github.com/mauricio-araujoo) |
