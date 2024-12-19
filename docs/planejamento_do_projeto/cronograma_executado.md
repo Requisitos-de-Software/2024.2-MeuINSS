@@ -703,13 +703,13 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
     </tr>
     <tr>
       <td>Realizar inspeção do grupo+1</td>
-      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
-      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 18/12/2024 <br> Fim: 18/12/2024</td>
+      <td>Início: 18/12/2024 <br> Fim: 18/12/2024</td>
       <td>
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
-      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
-      <td>Início: 17/12/2024 <br> Fim: 17/12/2024</td>
+      <td>Início: 18/12/2024 <br> Fim: 18/12/2024</td>
+      <td>Início: 18/12/2024 <br> Fim: 18/12/2024</td>
       <td>
         <a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
     </tr>
