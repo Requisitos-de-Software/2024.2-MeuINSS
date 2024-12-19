@@ -6,7 +6,7 @@ Aqui apresentamos a análise da entrega 4 (Modelagem de requisitos - parte 2) re
 
 ## Acesso à lista de inspeção do grupo + 1 (Resultado)
 
-A partir do link a seguir é possível verificar qual foi o resultado obtido pela análise do grupo 7: [Lista de inspeção - Grupo 07 aplicativo Threads (Resultado) - Entrega 4](ListaInspec4-grupo7.docx.pdf). 
+A partir do link a seguir é possível verificar qual foi o resultado obtido pela análise do grupo 7: [Lista de inspeção - Grupo 07 aplicativo Threads (Resultado) - Entrega 4](ListaInspec4-grupo7.pdf). 
 
 Cabe observar que os itens que não possuem versão na verificação foram consolidados dessa forma porque foram avaliadas várias páginas.
 
