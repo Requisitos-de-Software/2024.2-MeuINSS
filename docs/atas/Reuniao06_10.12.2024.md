@@ -59,7 +59,6 @@ Na tabela 2, encontram-se as atividades definidas e os respectivos integrantes d
         <a href="http://github.com/CristianoMoraiss">Cristiano Moraes</a><br>
         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a><br>
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a><br>
-        <a href="https://github.com/Lucas13032003">Lucas Víctor</a><br>
         <a href="http://github.com/nickgehjk">Nicolas Bomfim</a><br>
       </td>
     </tr>
@@ -116,4 +115,4 @@ No vídeo 1, encontra-se a gravação da reunião.
 
 | Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
 | :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
-| `1.0`  | 11/12/2024 | Criação da ata de reunião 6          | [Júlia Fortunato](https://github.com/julia-fortunato) | [](https://github.com/)                               |
+| `1.0`  | 11/12/2024 | Criação da ata de reunião 6          | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo)                               |

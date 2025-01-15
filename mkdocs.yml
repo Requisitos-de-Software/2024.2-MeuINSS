@@ -10,6 +10,7 @@ nav:
     - Reunião 4: atas/Reuniao04_21.11.2024.md
     - Reunião 5: atas/Reuniao05_28.11.2024.md
     - Reunião 6: atas/Reuniao06_10.12.2024.md
+    - Reunião 7: atas/Reuniao07_09.01.2025.md
   - Apresentação:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
@@ -67,6 +68,14 @@ nav:
       - "Lista de inspeção": modelagem_parte2/listainspec4.md
       - "Inspeção do grupo": modelagem_parte2/inspec4grupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": modelagem_parte2/inspecaogrupo+1.md
+  - Rastreabilidade:
+    - "Pós rastreabilidade": rastreabilidade/posrastreabilidade.md
+    - "Matriz de rastreabilidade": rastreabilidade/matriz.md
+    - "Backward from": rastreabilidade/backward.md
+    - Inspeções:
+      - "Lista de inspeção": rastreabilidade/Inspecao5/listainspec5.md
+      - "Inspeção do grupo": rastreabilidade/Inspecao5/inspecaogrupo.md
+      - "Inspeção do grupo + 1 (Grupo 07)": rastreabilidade/Inspecao5/inspecaogrupo+1.md
 
 
     
