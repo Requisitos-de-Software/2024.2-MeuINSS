@@ -12,7 +12,7 @@
         <link rel="prev" href="../posrastreabilidade/">
       
       
-        <link rel="next" href="../backward/">
+        <link rel="next" href="../backward-from/">
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
@@ -2176,6 +2176,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    Objetivos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#metodologia" class="md-nav__link">
     Metodologia
   </a>
@@ -2218,7 +2225,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../backward/" class="md-nav__link">
+      <a href="../backward-from/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -2375,6 +2382,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    Objetivos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#metodologia" class="md-nav__link">
     Metodologia
   </a>
@@ -2423,12 +2437,14 @@
   <h1>Matriz de rastreabilidade</h1>
 
 <h2 id="introducao">Introdução</h2>
-<p>A matriz geral de rastreabilidade é uma técnica comumente usada para representar e documentar a rastreabilidade 
-de requisitos, com a ideia de localizar tanto sua pré rastreabilidade, quanto a pós rastreabilidade. </p>
+<p>A matriz geral de rastreabilidade é uma técnica comumente usada para representar e documentar a rastreabilidade
+de requisitos, com a ideia de localizar tanto sua pré rastreabilidade, quanto a pós rastreabilidade.</p>
 <p>Com isso, é possível identidicar dependências que existem entre os requisitos. Além disso, a matriz também compreende
 os elos entre os requisitos, ou seja, os relacionamentos que foram criados durante o projeto.</p>
+<h2 id="objetivos">Objetivos</h2>
+<p>O principal objetivo para a produção deste artefato é agregar dados obtidos tanto no Backward-From como também no Forward-From em uma matriz unificada de rastreabilidade.</p>
 <h2 id="metodologia">Metodologia</h2>
-<p>Os requisitos funcionais e não funcionais apresentados são os elicitados em 
+<p>Os requisitos funcionais e não funcionais apresentados são os elicitados em
 <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/">Requisitos Elicitados</a>.
 Com eles, a matriz foi construída.</p>
 <p>A matriz segue contêm as seguintes informações para compreensão do conteúdo:</p>
@@ -2459,51 +2475,51 @@ Com eles, a matriz foi construída.</p>
 <tbody>
 <tr>
 <td>RF01</td>
-<td>O aplicativo filtra os eventos por Estado e por Município.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS01</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS08</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS01</a></td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/useCase">Casos de Uso</a>, <a href="../../modelagem/cenarios">Cenários</a>, <a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
-<td></td>
+<td>O aplicativo emite e permite consulta a extratos e pagamentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/"> ENC01</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/">ENT03</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/">IS02,</a> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/">GLO07</a></td>
+<td style="text-align: center;">Sim</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/">Backlog</a> e <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo1">ELOB01</a></td>
 </tr>
 <tr>
 <td>RF02</td>
-<td>O aplicativo filtra os eventos por data e por horário.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS02</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q03</a></td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/useCase">Casos de Uso</a>, <a href="../../modelagem/cenarios">Cenários</a>, <a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
-<td></td>
+<td>O aplicativo permite simular a aposentadoria.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/">ENC02</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/">ENT01<a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/">GLO02</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/"> IS03</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/">OBS04</a></td>
+<td style="text-align: center;">Sim</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/">Casos de Uso</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/">Cenários</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> e <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo2">ELOB02</a></td>
 </tr>
 <tr>
 <td>RF03</td>
-<td>O aplicativo filtra os eventos por idade mínima de entrada.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS03</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_Q">Q02</a></td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/cenarios">Cenários</a>, <a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
-<td></td>
+<td>O aplicativo permite solicitar pedidos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/encenacao/">ENC03</a></td>
+<td style="text-align: center;">Sim</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> e <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo3">ELOB03</a></td>
 </tr>
 <tr>
 <td>RF04</td>
-<td>O aplicativo permite realizar a compra do ingresso.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS04</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS03</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBS">OBS10</a></td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;"><a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a></td>
-<td></td>
+<td>O aplicativo deve ser integrado com outros sistemas, como o sistema jurídico.</td>
+<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS04</a></td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a></td>
+<td><a href="../backward-from/#elo4">ELOB04</a></td>
 </tr>
 <tr>
 <td>RF05</td>
-<td>O aplicativo permite o cadastro e o login do usuário.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS05</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS01, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS02</a></td>
+<td>O aplicativo permite solicitar auxílio doença.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/">ENT02</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;"><a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a></td>
-<td></td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a></td>
+<td><a href="../backward-from/#elo5">ELOB05</a></td>
 </tr>
 <tr>
 <td>RF06</td>
-<td>O aplicativo permite excluir cadastro.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS06</a></td>
+<td>O aplicativo permite verificar previsão de pagamento.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/">ENT04</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a></td>
+<td><a href="../backward-from/#elo6">ELOB06</a></td>
 </tr>
 <tr>
 <td>RF07</td>
@@ -2511,7 +2527,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#funcionais">ENT05</a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l5-filtro-de-pesquisa">Léxicos</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#us07-realizar-pesquisa-assertiva">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo7">ELOB07</a></td>
 </tr>
 <tr>
 <td>RF08</td>
@@ -2519,7 +2535,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#funcionais">ENT06</a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#us08-receber-suporte-adequado">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo8">ELOB08</a></td>
 </tr>
 <tr>
 <td>RF09</td>
@@ -2527,7 +2543,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#funcionais">ENT07</a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#us09-especificar-de-forma-adequada-informacoes-de-auxilio-doenca">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo9">ELOB09</a></td>
 </tr>
 <tr>
 <td>RF10</td>
@@ -2535,23 +2551,23 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#funcionais">ENT08</a>, <a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#desenvolvimento">IS07</a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#us10-acessar-noticias-sobre-legislacao-previdenciaria">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo10">ELOB10</a></td>
 </tr>
 <tr>
 <td>RF11</td>
 <td>O aplicativo deve mostrar o impacto que a contribuição do usuário está causando no seu benefício.</td>
-<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#funcionais">ENT09</a>,  <a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#desenvolvimento">IS06</a></td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/entrevista/#funcionais">ENT09</a>, <a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#desenvolvimento">IS06</a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/#uc08-consultar-beneficios">Casos de Uso</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/#cen03-consultar-o-impacto-da-contribuicao-do-usuario-no-beneficio">Cenários</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l3-contribuicao-previdenciaria">Léxicos</a> e <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#us11-acessar-impacto-de-contribuicao">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo11">ELOB11</a></td>
 </tr>
 <tr>
 <td>RF12</td>
 <td>O usuário poderá ter acesso ao histórico completo de contribuições do segurado (CNIS).</td>
-<td><a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#requisitos-funcionais-rf">GLO01</a>,  <a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#desenvolvimento">IS01</a></td>
+<td><a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#requisitos-funcionais-rf">GLO01</a>, <a https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#desenvolvimento">IS01</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l3-contribuicao-previdenciaria">Léxicos</a> e <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#us12-acessar-historico-de-contribuicao-cnis">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo12">ELOB12</a></td>
 </tr>
 <tr>
 <td>RF13</td>
@@ -2559,7 +2575,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#:~:text=usu%C3%A1rios%20se%20ajudarem.-,IS04,-N%C3%A3o">IS04<a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/#uc14-acessar-comunidades-de-ajuda:~:text=Ferreira%2C%202024-,UC14.%20Acessar%20Comunidades%20de%20ajuda,-Na%20tabela%2015">Casos de Uso</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l1-agendar-atendimento:~:text=Fortunato%2C%202024-,L2%20%2D%20Acessar%20comunidades,-O%20segundo%20l%C3%A9xico">Léxicos</a> e <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=do%20segurado%20(CNIS).-,US13%20%2D%20Comunidades%20de%20Usu%C3%A1rios,-Na%20tabela%2013">Histórias de Usuário</a>.</td>
-<td></td>
+<td><a href="../backward-from/#elo13">ELOB13</a></td>
 </tr>
 <tr>
 <td>RF14</td>
@@ -2567,7 +2583,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/introspeccao/#:~:text=diferentes%20cen%C3%A1rios%20previdenci%C3%A1rios.-,IS05,-N%C3%A3o">IS05<a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=Comunidades%20de%20Usu%C3%A1rios-,US14%20%2D%20Assistente%20Virtual,-US15%20%2D%20Agendamento%20de">Histórias de Usuário</a>.</td>
-<td></td>
+<td><a href="../backward-from/#elo14">ELOB14</a></td>
 </tr>
 <tr>
 <td>RF15</td>
@@ -2575,7 +2591,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#:~:text=per%C3%ADcias%20e%20atendimentos.-,GLO03,-Sim">GLO03</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=US14%20%2D%20Assistente%20Virtual-,US15%20%2D%20Agendamento%20de%20per%C3%ADcias%20e%20atendimentos,-US16%20%2D%20Notifica%C3%A7%C3%B5es%20sobre">Histórias de usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo15">ELOB15</a></td>
 </tr>
 <tr>
 <td>RF16</td>
@@ -2583,7 +2599,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#:~:text=e%20novas%20regras.-,GLO04,-Sim">GLO04</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#:~:text=realizou%20no%20aplicativo.-,OBS05,-Sim">OBS05</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/#l1-agendar-atendimento:~:text=Santos%2C%202024-,L8%20%2D%20Usu%C3%A1rio,-O%20oitavo%20cen%C3%A1rio">Léxicos</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=per%C3%ADcias%20e%20atendimentos.-,US16%20%2D%20Notifica%C3%A7%C3%B5es%20sobre%20pend%C3%AAncias%20e%20prazos,-Na%20tabela%2016">Histórias de usuário</a>.</td>
-<td></td>
+<td><a href="../backward-from/#elo16">ELOB16</a></td>
 </tr>
 <tr>
 <td>RF17</td>
@@ -2591,7 +2607,7 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#:~:text=benef%C3%ADcios%20pelo%20aplicativo.-,GLO08,-Sim">GLO08</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#:~:text=bloqueado%20para%20empr%C3%A9stimo.-,OBS02,-Sim">OBS02</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=e%20novas%20regras.-,US17%20%2D%20Gerenciamento%20de%20benef%C3%ADcios,-Na%20tabela%2017">Histórias de usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo17">ELOB17</a></td>
 </tr>
 <tr>
 <td>RF18</td>
@@ -2599,183 +2615,183 @@ Com eles, a matriz foi construída.</p>
 <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#:~:text=de%20forma%20clara.-,GLO09,-Sim">GLO09</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=benef%C3%ADcios%20pelo%20aplicativo.-,US18%20%2D%20Exibi%C3%A7%C3%A3o%20de%20crit%C3%A9rios%20de%20car%C3%AAncia,-Na%20tabela%2018">Histórias de Usuário</a></td>
-<td></td>
+<td><a href="../backward-from/#elo18">ELOB18</a></td>
 </tr>
 <tr>
 <td>RF19</td>
-<td>O usuário consegue acessar as informações do evento</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS13</a></td>
+<td>O usuário poderá enviar documentos digitalizados.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO11</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo19">ELOB19</a></td>
 </tr>
 <tr>
 <td>RF20</td>
-<td>O usuário é capaz de acessar as atrações do evento</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS14</a></td>
+<td>O usuário poderá solicitar benefícios pelo aplicativo.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO13</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo20">ELOB20</a></td>
 </tr>
 <tr>
 <td>RF21</td>
-<td>O usuário possui acesso a pré-venda</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS16</a></td>
+<td>O aplicativo deve mostrar status de solicitações e benefícios em andamento.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO14</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo21">ELOB21</a></td>
 </tr>
 <tr>
 <td>RF22</td>
-<td>O usuário recebe a cópia do ingresso por e-mail</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS17</a></td>
+<td>O aplicativo deve permitir alteração de dados cadastrais, como endereço e telefone.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO15</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem/lexicos">Léxicos</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo22">ELOB22</a></td>
 </tr>
 <tr>
 <td>RF23</td>
-<td>O usuário é capaz de conectar uma carteira digital</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS18</a></td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/useCase">Casos de Uso</a>, <a href="../../modelagem/cenarios">Cenários</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
-<td></td>
+<td>O aplicativo deverá emitir recibos digitais para transações realizadas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO16</a></td>
+<td style="text-align: center;">Sim</td>
+<td style="text-align: center;"><a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo23">ELOB23</a></td>
 </tr>
 <tr>
 <td>RF24</td>
-<td>O usuário é capaz de mudar o idioma do app</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BS">BS19</a></td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/lexicos">Léxicos</a>.</td>
-<td></td>
+<td>O aplicativo deverá integrar informações sobre FGTS para consulta de saldo e movimentações.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO18</a></td>
+<td style="text-align: center;">Sim</td>
+<td style="text-align: center;"><a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo24">ELOB24</a></td>
 </tr>
 <tr>
 <td>RF25</td>
 <td>O aplicativo deve permitir consulta e pagamento de pensões.</td>
-<td><a href="/elicitacao/glossario/">GLO19</a></td>
+<td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#funcionais">GLO19</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="/modelagem_parte1/casosdeuso/">Casos de Uso</a>, <a href="/modelagem_parte1/cenarios/">Cenários</a> e <a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/casosdeuso/">Casos de Uso</a>, <a href="../../modelagem_parte1/cenarios/">Cenários</a> e <a href="../../modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo25">ELOB25</a></td>
 </tr>
 <tr>
 <td>RF26</td>
 <td>O aplicativo deve Usar autenticação pelo Gov.br para login.</td>
-<td><a href="/elicitacao/glossario/">GLO19</a></td>
+<td><a href="/2024.2-MeuINSS/elicitacao/glossario/">GLO20</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;"><a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo26">ELOB26</a></td>
 </tr>
 <tr>
 <td>RF27</td>
 <td>O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário.</td>
-<td><a href="/elicitacao/observacao/">OBS01</a></td>
+<td><a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS01</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo27">ELOB27</a></td>
 </tr>
 <tr>
 <td>RF28</td>
 <td>O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo.</td>
-<td><a href="/elicitacao/observacao/">OBS03</a></td>
+<td><a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS03</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="/modelagem_parte1/casosdeuso/">Casos de Uso</a>, <a href="/modelagem_parte1/cenarios/">Cenários</a>, <a href="/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte1/casosdeuso/">Casos de Uso</a>, <a href="/2024.2-MeuINSS/modelagem_parte1/cenarios/">Cenários</a>, <a href="/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo28">ELOB28</a></td>
 </tr>
 <tr>
 <td>RF29</td>
 <td>O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições.</td>
-<td><a href="/elicitacao/observacao/">OBS06</a></td>
+<td><a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS06</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;"><a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo29">ELOB29</a></td>
 </tr>
 <tr>
 <td>RF30</td>
 <td>O usuário pode visualizar os benefícios com maiores detalhes.</td>
-<td><a href="/elicitacao/observacao/">OBS07</a></td>
+<td><a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS07</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;"><a href="/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo30">ELOB30</a></td>
 </tr>
 <tr>
 <td>RF31</td>
 <td>O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades.</td>
-<td><a href="/elicitacao/observacao/">OBS08</a></td>
+<td><a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS08</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;"><a href="/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a>.</td>
+<td><a href="../backward-from/#elo31">ELOB31</a></td>
 </tr>
 <tr>
 <td>RNF01</td>
-<td>O app deve encriptar as informações do usuário.</td>
-<td><a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q10</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS31</a></td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td>O aplicativo deve ser intuitivo no uso.</td>
+<td><a href="/2024.2-MeuINSS/elicitacao/encenacao/">ENC05</a>, <a href="/2024.2-MeuINSS/elicitacao/entrevista/">ENT13</a>, <a href="/2024.2-MeuINSS/elicitacao/observacao">OBS13</a></td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/lexicos">Léxicos</a>, <a href="../../modelagem_parte1/especificacaosuplementar">Especificação Suplementar</a> e <a href="../../modelagem_parte2/nfr/">NFR Framework</a></td>
+<td><a href="../backward-from/#elo32">ELOB32</a></td>
 </tr>
 <tr>
 <td>RNF02</td>
-<td>O app deve fornecer eventos de forma personalizada, levando em consideração a atividade e preferências do usuário.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS10</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q11</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS35</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS36</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS22</a></td>
+<td>O aplicativo deve possuir tutoriais explicativos de uso (por exemplo, vídeos, FAQs).</td>
+<td><a href="../../elicitacao/encenacao/">ENC06</a>, <a href="../../elicitacao/entrevista/">ENT14</a>, <a href="../../elicitacao/observacao">OBS12</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/useCase">Casos de Uso</a>, <a href="../../modelagem/lexicos">Léxicos</a>, <a href="../../modelagem/agil/nfrframework">NFR Framework</a> e <a href="../../modelagem/agil/historia-de-usuario">Histórias de Usuário</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/especificacaosuplementar">Especificação Suplementar</a> e <a href="../../modelagem_parte2/nfr/">NFR Framework</a>.</td>
+<td><a href="../backward-from/#elo33">ELOB33</a></td>
 </tr>
 <tr>
 <td>RNF03</td>
-<td>O app deve disponibilizar todas as informações do evento em uma página.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS11</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS25</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS26</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS27</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS28</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS29</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS30</a>, <a href="(../../elicitacao/tecnicas/observacao/#anchor_OBSNF)">OBS15</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS16</a></td>
+<td>O aplicativo deve possuir uma central de ajuda clara.</td>
+<td><a href="../../elicitacao/encenacao/">ENC06</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/especificacao-suplementar">Especificação Suplementar</a> e <a href="../../modelagem/agil/nfrframework">NFR Framework</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/especificacaosuplementar">Especificação Suplementar</a> e <a href="../../modelagem_parte2/nfr/">NFR Framework</a>.</td>
+<td><a href="../backward-from/#elo34">ELOB34</a></td>
 </tr>
 <tr>
 <td>RNF04</td>
-<td>A compra deve ser feita em no máximo 5 páginas.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS13</a>, <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS16</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q14</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS17</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS18</a>, <a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS14</a></td>
+<td>O aplicativo deve facilitar a execução de tarefas.</td>
+<td><a href="../../elicitacao/encenacao/">ENC08</a>, <a href="../../elicitacao/entrevista/">ENT11</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/agil/nfrframework">NFR Framework</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/lexicos">Léxicos</a>, <a href="../../modelagem_parte1/especificacaosuplementar">Especificação Suplementar</a> e <a href="../../modelagem_parte2/nfr/">NFR Framework</a>.</td>
+<td><a href="../backward-from/#elo35">ELOB35</a></td>
 </tr>
 <tr>
 <td>RNF05</td>
-<td>O app deve permitir a resolução de problemas sem uma interação com um humano.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS12</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q15</a>, <a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q16</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS19</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS33</a>, <a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS34</a></td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td>O aplicativo deve possuir, além de termos técnicos, nomenclaturas populares para as funcionalidades do INSS.</td>
+<td><a href="../../elicitacao/entrevista/">ENT10</a></td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/especificacaosuplementar">Especificação Suplementar</a> e <a href="../../modelagem_parte2/nfr/">NFR Framework</a>.</td>
+<td><a href="../backward-from/#elo36">ELOB36</a></td>
 </tr>
 <tr>
 <td>RNF06</td>
-<td>O app deve fornecer uma experiência de login com apenas 2 cliques.</td>
-<td><a href="../../elicitacao/tecnicas/introspeccao/#anchor_IS">IS15</a></td>
-<td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td>O aplicativo deve facilitar a busca de tarefas e funcionalidades.</td>
+<td><a href="../../elicitacao/entrevista/">ENT12</a></td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;"><a href="../../modelagem_parte1/especificacaosuplementar">Especificação Suplementar</a></td>
+<td><a href="../backward-from/#elo37">ELOB37</a></td>
 </tr>
 <tr>
 <td>RNF07</td>
-<td>O app não deve ter tempo de resposta superior a 200 ms.</td>
-<td><a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q12</a></td>
+<td>O aplicativo deve ser acessível a todos os usuários.</td>
+<td><a href="/2024.2-MeuINSS/elicitacao/entrevista/">ENT15</a> , <a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS10</a></td>
 <td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/especificacao-suplementar">Especificação Suplementar</a> e <a href="../../modelagem/agil/nfrframework">NFR Framework</a>.</td>
-<td></td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> e <a href="/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/">Especificação Suplementar</a>.</td>
+<td><a href="../backward-from/#elo38">ELOB38</a></td>
 </tr>
 <tr>
 <td>RNF08</td>
-<td>Os eventos devem estar organizados no banco de dados de acordo com suas categorias para facilitar a filtragem.</td>
-<td><a href="../../elicitacao/tecnicas/questionario/#anchor_QNF">Q13</a></td>
-<td style="text-align: center;">Não</td>
-<td style="text-align: center;"><a href="../../modelagem/agil/nfrframework">NFR Framework</a>.</td>
-<td></td>
+<td>Garantir segurança dos dados com criptografia nas transações.</td>
+<td><a href="/2024.2-MeuINSS/elicitacao/glossario/">GLO05</a>,<a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS14</a></td>
+<td style="text-align: center;">Sim</td>
+<td style="text-align: center;"><a href="/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/">Especificação Suplementar</a>.</td>
+<td><a href="../backward-from/#elo39">ELOB39</a></td>
 </tr>
 <tr>
 <td>RNF09</td>
-<td>O app deve mostrar as informações de compras do usuário em uma única tela.</td>
-<td><a href="../../elicitacao/tecnicas/brainstorming/#anchor_BSNF">BS32</a>, <a href="../../elicitacao/tecnicas/observacao/#anchor_OBSNF">OBS21</a></td>
+<td>Ser responsivo para uso em diferentes dispositivos.</td>
+<td><a href="/2024.2-MeuINSS/elicitacao/glossario/">GLO06</a>,<a href="/2024.2-MeuINSS/elicitacao/observacao/">OBS11</a></td>
 <td style="text-align: center;">Sim</td>
-<td style="text-align: center;">Já indicado na pré-rastreabilidade.</td>
-<td></td>
+<td style="text-align: center;">-</td>
+<td><a href="../backward-from/#elo40">ELOB40</a></td>
 </tr>
 <tr>
 <td>RNF10</td>
@@ -2783,7 +2799,7 @@ Com eles, a matriz foi construída.</p>
 <td><a "https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#requisitos-nao-funcionais-rnf">GLO12</a>, <a "https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#requisitos-nao-funcionais">OBS10</a></td>
 <td style="text-align: center;">Não</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#usabilidade">Especificação suplementar</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/#nfr03-usabilidade">NFR Framework</a></td>
-<td></td>
+<td><a href="../backward-from/#elo41">ELOB41</a></td>
 </tr>
 <tr>
 <td>RNF11</td>
@@ -2791,7 +2807,7 @@ Com eles, a matriz foi construída.</p>
 <td><a "https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/#requisitos-nao-funcionais-rnf">GLO17</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#confiabilidade">Especificação suplementar</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/#nfr02-confiabilidade">NFR Framework</a></td>
-<td></td>
+<td><a href="../backward-from/#elo42">ELOB42</a></td>
 </tr>
 <tr>
 <td>RNF12</td>
@@ -2799,17 +2815,17 @@ Com eles, a matriz foi construída.</p>
 <td><a "https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#requisitos-nao-funcionais">OBS15</a></td>
 <td style="text-align: center;">Sim</td>
 <td style="text-align: center;"><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#confiabilidade">Especificação suplementar</a>, <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/#nfr02-confiabilidade">NFR Framework</a></td>
-<td></td>
+<td><a href="../backward-from/#elo43">ELOB43</a></td>
 </tr>
 </tbody>
 </table>
 <p></center></p>
 <h2 id="bibliografia">Bibliografia</h2>
 <blockquote>
-<p>HENRIQUE, Matheus. Matriz Geral. Repositório do Grupo BIlheteria Digital da disciplina de Requisitos de 
+<p>HENRIQUE, Matheus. Matriz Geral. Repositório do Grupo BIlheteria Digital da disciplina de Requisitos de
 Software da Universidade de Brasília, 2023. Disponível em: &lt;<a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/rastreabilidade/matriz-geral/">https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/rastreabilidade/matriz-geral/</a>&gt;. Acesso em: 16 janeiro 2025.</p>
-<p>KLAUS POHL; RUPP, C. Requirements engineering fundamentals : a study guide for the certified professional 
-for requirements engineering exam ; foundation level - IREB compliant, p. 126. Santa Barbara, Calif.: 
+<p>KLAUS POHL; RUPP, C. Requirements engineering fundamentals : a study guide for the certified professional
+for requirements engineering exam ; foundation level - IREB compliant, p. 126. Santa Barbara, Calif.:
 Rocky Nook, 2015.</p>
 </blockquote>
 <h2 id="historico-de-versoes">Histórico de Versões</h2>
@@ -2840,10 +2856,31 @@ Rocky Nook, 2015.</p>
 </tr>
 <tr>
 <td><code>1.2</code></td>
-<td>16/01/2025</td>
+<td>18/01/2025</td>
 <td>Adição dos textos e RF 13 ao 18 e organização da tabela</td>
 <td><a href="https://github.com/an4catarina">Ana Catarina Santos</a></td>
-<td><a href="https://github.com/"></a></td>
+<td><a href="https://github.com/">Nicolas Bomfim</a></td>
+</tr>
+<tr>
+<td><code>1.3</code></td>
+<td>18/01/2025</td>
+<td>Adição dos textos e RF 25 ao 31 e RNF 7 ao 09</td>
+<td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+<td><a href="https://github.com/">Nicolas Bomfim</a></td>
+</tr>
+<tr>
+<td><code>1.4</code></td>
+<td>18/01/2025</td>
+<td>Adição dos textos e RF 19 ao 24</td>
+<td><a href="http://github.com/nickgehjk">Nicolas Bomfim</a></td>
+<td><a href="https://github.com/an4catarina">Ana Catarina Santos</a></td>
+</tr>
+<tr>
+<td><code>1.5</code></td>
+<td>18/01/2025</td>
+<td>Adição dos textos e RF 1 ao 6 RNF 01 ao 06</td>
+<td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+<td><a href="https://github.com/an4catarina">Ana Catarina Santos</a></td>
 </tr>
 </tbody>
 </table>
