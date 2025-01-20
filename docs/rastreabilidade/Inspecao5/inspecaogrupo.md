@@ -20,12 +20,14 @@ A inspeção foi realizada pelos integrantes [Cristiano](https://github.com/Cris
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2025</p></font>
 
+</div>
+
 ## Bibliografia
 
 > SALES, André Barros. Ambientação - Lista de verificação. **Aprender 3**. Distrito Federal, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2972380/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em 17 de dezembro de 2024.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor                                                 |                   Revisor                   |
-| :----: | ---------- | -------------------- | ----------------------------------------------------- | :-----------------------------------------: |
-| `1.0`  | 19/01/2025 | Criação do documento | [Júlia Fortunato](https://github.com/julia-fortunato) |  [Ana Catarina Santos](https://github.com/an4catarina) |
+| Versão | Data       | Descrição            | Autor                                                 |                        Revisor                        |
+| :----: | ---------- | -------------------- | ----------------------------------------------------- | :---------------------------------------------------: |
+| `1.0`  | 19/01/2025 | Criação do documento | [Ana Catarina Santos](https://github.com/an4catarina) | [Júlia Fortunato](https://github.com/julia-fortunato) |
