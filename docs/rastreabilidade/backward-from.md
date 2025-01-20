@@ -13,7 +13,7 @@ Assim, a rastreabilidade backward-from é uma ferramenta fundamental para o dese
 
 ## Metodologia
 
-No método backward-from, utiliza-se o meta-modelo de Toranzo para organizar os requisitos identificados em diferentes níveis e conexões. Conforme os slides da aula 26 da professora Milene Serrano[2], os níveis são definidos da seguinte forma:
+No método backward-from, utiliza-se o meta-modelo de Toranzo para organizar os requisitos identificados em diferentes níveis e conexões. Conforme os slides da aula 26 da professora Milene Serrano[1], os níveis são definidos da seguinte forma:
 
 - Nível Ambiental: Engloba informações derivadas do ambiente e contexto operacional da organização.
 - Nível Organizacional: Refere-se aos dados relacionados à estrutura e funcionamento da organização.
