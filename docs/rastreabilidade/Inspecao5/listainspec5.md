@@ -8,7 +8,7 @@ A lista foi organizada de forma que fosse avaliados itens de padronização da d
 
 ## Acesso à lista de inspeção
 
-No link a seguir, o PDF utilizado com a lista de inspeção para as verificações realizadas pelo grupo pode ser acessado: [Lista de inspeção 5 - Grupo 06]().
+No link a seguir, o PDF utilizado com a lista de inspeção para as verificações realizadas pelo grupo pode ser acessado: [Lista de inspeção 6 - Grupo 06](inspec.pdf).
 
 ## Bibliografia
 
