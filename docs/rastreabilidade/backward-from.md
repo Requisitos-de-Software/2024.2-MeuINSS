@@ -80,7 +80,7 @@ Para estruturar o meta-modelo de Toranzo, foram criadas as tabelas 1 e 2, catego
 | BF31  | [RF31/1.0](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#:~:text=OBS07-,RF31,-O%20usu%C3%A1rio%20tem) | O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades. | Sim | [Léxicos](/modelagem_parte1/lexicos/) e [Histórias de Usuário](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/#:~:text=com%20maiores%20detalhes.-,US31%20%2D%20Calendario%20de%20atividades,-Na%20tabela%2031) | Satisfação - [ELOB31](backward-from.md/#elo31) |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e  <a href="https://github.com/nickgehjk"> Nicolas Bomfim </a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e  <a href="https://github.com/nickgehjk"> Nicolas Bomfim </a>, 2025</p></font>
 </div>
 
 ## Requisitos Não-Funcionais
@@ -105,7 +105,7 @@ Para estruturar o meta-modelo de Toranzo, foram criadas as tabelas 1 e 2, catego
 | BF43   | [RNF12/1.0](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#:~:text=GLO17-,RNF12,-O%20sistema%20deve) | O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada. | Sim |  [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#confiabilidade), [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/#nfr02-confiabilidade) | Responsabilidade - [ELOB43](backward-from.md/#elo43) |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e  <a href="https://github.com/nickgehjk"> Nicolas Bomfim </a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e  <a href="https://github.com/nickgehjk"> Nicolas Bomfim </a>, 2025</p></font>
 </div>
 
 ## Elos de rastreabilidade
@@ -167,7 +167,7 @@ Neste trecho, exploramos os vínculos associados aos requisitos listados nas tab
 | <a id="elo43"></a>ELOB43 | <a href="">BF43</a> | Responsabilidade | A responsabilidade pela alta disponibilidade do sistema, garantindo 99% do tempo de operação, é atribuída à equipe técnica e aos responsáveis pela infraestrutura e manutenção do sistema. |
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e <a href="https://github.com/nickgehjk"> Nicolas Bomfim </a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e <a href="https://github.com/nickgehjk"> Nicolas Bomfim </a>, 2025</p></font>
 </div>
 
 ## Bibliografia

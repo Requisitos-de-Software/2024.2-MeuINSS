@@ -729,6 +729,67 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
   </tbody>
 </table>
 
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 19/01/2025
+
+Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-Rastreabilidade.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma executado para a etapa de Pós-Rastreabilidade</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período de desenvolvimento</th>
+      <th>Responsáveis</th>
+      <th>Revisão</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pós-Rastreabilidade</td>
+      <td>Início: 13/01/2025 <br> Fim: 18/01/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Gravação 6</td>
+      <td>15/01/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>16/01/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 6</td>
+      <td>16/01/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>17/01/2025</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega 6</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 
 </div>
