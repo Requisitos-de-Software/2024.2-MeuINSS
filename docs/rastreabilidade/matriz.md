@@ -81,7 +81,7 @@ Na tabela 1, está apresentada a matriz geral de rastreabilidade.
 
 </center>
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e <a href="https://github.com/nickgehjk"> Nicolas Bomfim, <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>,  <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> e <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a> </a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e <a href="https://github.com/nickgehjk"> Nicolas Bomfim, <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>,  <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> e <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a> </a>, 2025</p></font>
 </div>
 
 

@@ -68,7 +68,7 @@ nav:
       - "Lista de inspeção": modelagem_parte2/listainspec4.md
       - "Inspeção do grupo": modelagem_parte2/inspec4grupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": modelagem_parte2/inspecaogrupo+1.md
-  - Rastreabilidade:
+  - Pós-rastreabilidade:
     - "Matriz de rastreabilidade": rastreabilidade/matriz.md
     - "Backward from": rastreabilidade/backward-from.md
     - "Foward from": rastreabilidade/foward.md
