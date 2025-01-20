@@ -93,6 +93,9 @@ Na coluna Elos, é possível identificar o tipo de elo e o requisito com qual el
 | RNF12 | O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada. | Sim | [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#confiabilidade), [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/#nfr02-confiabilidade) |-| [ELOF43 - Agregação (RF01)](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/#tabela-de-requisitos-nao-funcionais-elicitados)|
 
 </center>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>,  <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> e <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a> </a>, 2024</p></font>
+</div>
 
 ## Bibliografia
 
