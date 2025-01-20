@@ -81,6 +81,10 @@ Na tabela 1, está apresentada a matriz geral de rastreabilidade.
 | RNF12 | O sistema deve estar disponível para o usuário por no mínimo 99% do tempo de um mês, exceto em momentos de manutenção programada. | <a "https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/#requisitos-nao-funcionais">OBS15</a> | Sim | [Especificação suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/#confiabilidade), [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/#nfr02-confiabilidade) | [ELOB43](backward-from.md/#elo43)|
 
 </center>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Autores:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a> e <a href="https://github.com/nickgehjk"> Nicolas Bomfim, <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>,  <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> e <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira </a> </a>, 2024</p></font>
+</div>
+
 
 ## Bibliografia
 
