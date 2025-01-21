@@ -27,7 +27,7 @@ A inspeção foi realizada pelos integrantes [Júlia Fortunato](https://github.c
 
 <p style="text-align: center"><a href="https://www.youtube.com/embed/SLiIUTYvzMM?si=iiwp3ch9sIKQR-KS" target="blanket"><b>Vídeo 1:</b> Inspeção do grupo + 1 (Grupo 7) - Entrega 06</a></p>
 
-<iframe width="560" height="315" src="https://youtu.be/SLiIUTYvzMM?si=iiwp3ch9sIKQR-KS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SLiIUTYvzMM?si=iiwp3ch9sIKQR-KS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Júlia Fortunato </a>, 2025</p></font>
 
