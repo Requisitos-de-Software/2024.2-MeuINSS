@@ -1,4 +1,4 @@
-# Foward From
+# Forward From
 
 ## Introdução
 
