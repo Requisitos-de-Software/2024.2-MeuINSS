@@ -94,7 +94,7 @@ Na tabela 2, encontram-se os requisitos funcionais elicitados.
 | RF25 | O aplicativo deve permitir consulta e pagamento de pensões.                         | Não          | GLO19              |
 | RF26 | O aplicativo deve Usar autenticação pelo Gov.br para login.                                      | Sim          | GLO20       |
 | RF27 | O sistema deve mascarar dados sensíveis, como CPF e número do benefício, exibindo apenas partes relevantes para preservar a privacidade do usuário.                                           | Não          | OBS01              |
-| RF28 | O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o serviço, horário, data e local diretamente no aplicativo. | Não | OBS03 |
+| RF28 | O sistema deve permitir que o usuário agende um horário em uma agência do INSS, escolhendo o horário, data e local diretamente no aplicativo. | Não | OBS03 |
 | RF29 | O aplicativo deve permitir a geração de declarações, como comprovantes de recebimento de benefício ou regularidade de contribuições. | Sim | OBS06 |
 | RF30 | O usuário pode visualizar os benefícios com maiores detalhes.| Sim | OBS07 |
 | RF31 | O usuário tem acesso a um calendário no aplicativo relacionado as suas atividades.                                        | Sim | OBS08 |
