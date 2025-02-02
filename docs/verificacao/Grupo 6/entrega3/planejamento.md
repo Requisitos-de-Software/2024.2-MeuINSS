@@ -639,7 +639,7 @@ Na Tabela 7, estão listados os critérios gerais que devem ser verificados no a
     </tr>
     <tr>
       <td>5</td>
-      <td>A especificação suplementar possui a usabilidade, ou seja, o quão fácil os usuário devem realizar tarefas dentro do sistema?</td>
+      <td>A especificação suplementar possui a usabilidade, ou seja, o quão fácil os usuários devem realizar tarefas dentro do sistema?</td>
       <td>SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. s.d. Slide 29 de 40. Disponível em:  <a href="https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf"> Slide 13 - REQ</a>. Acesso em: 01 de fevereiro de 2025. </td>
       <td><img src="../imagens/ESP29.png"></td>
       <td><a href="https://github.com/julia-fortunato"> Júlia Fortunato</a></td>
