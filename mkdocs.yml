@@ -78,7 +78,9 @@ nav:
       - "Inspeção do grupo": rastreabilidade/Inspecao6/inspecaogrupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": rastreabilidade/Inspecao6/inspecaogrupo+1.md
   - Validação:
-    - "RF 28 - Agendar horário em uma agência do INSS": verificacao/validacao1/RF28.md
+    - "RF 28 - Agendar horário em uma agência do INSS": validacao/validacao1/RF28.md
+  - Verificação:
+    - Etapa 3: verificacao/entrega3/planejamento.md
 
 
 
