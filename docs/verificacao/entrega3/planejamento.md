@@ -474,7 +474,7 @@ Na Tabela 5, estão listados os critérios gerais que devem ser verificados no a
     </tr>
     <tr>
       <td>5</td>
-      <td>Os cenários possuem os recursos necessários? para eles existirem?</td>
+      <td>Os cenários possuem os recursos necessários para eles existirem?</td>
       <td>SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em:  <a href="https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf"> Slide 10 - REQ</a>. Acesso em: 01 de fevereiro de 2025. </td>
       <td><img src="../imagens/CEN01.png"></td>
       <td><a href="https://github.com/julia-fortunato"> Júlia Fortunato</a></td>

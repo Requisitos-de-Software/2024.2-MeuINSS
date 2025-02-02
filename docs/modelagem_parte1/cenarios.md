@@ -138,7 +138,7 @@ Rastreabilidade: [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/
 
 ### CEN04 - Acessar comunidades de ajuda
 
-O cenário seguinte diz respeito ao objetivo de acessar fóruns criados pela comunidade com a finalidade de sanar possíveis dúvidas relacionadas ao INSS e também promover uma interação entre os usuários do aplicativo "Meu INSS": 
+O cenário presente na Tabela 5 diz respeito ao objetivo de acessar fóruns criados pela comunidade com a finalidade de sanar possíveis dúvidas relacionadas ao INSS e também promover uma interação entre os usuários do aplicativo "Meu INSS": 
 
 Rastreabilidade: [RF13](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/)
 
