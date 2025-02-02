@@ -250,7 +250,7 @@ Nenhum problema foi identificado na verificação realizada para itens de padron
 Nenhum problema foi identificado na verificação realizada para o artefato Casos de Uso. 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) por meio de um gráfico de pizza, onde são apresentadas a quantidade de "Sim", "Não" e "Não se aplica" obtidos durante a verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não" e "Não se aplica" obtidos durante a verificação.
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
@@ -274,19 +274,33 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 </div>
 
+## Vídeo da verificação
+
+No vídeo 1, encontra-se a verificação para o artefato Casos de Uso.
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://youtu.be/_Ab_uu3CF2o?si=HhU9eJJmJfr07Da5" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Casos de Uso</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Ab_uu3CF2o?si=bTwLqwqNrCyaEJ8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
+
+</div >
+
 ## Referências bibliográficas
 
-> [1] FORTUNATO, Júlia. [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/), 2025. Acesso em: 01 de fevereiro de 2025.
+> [1] FORTUNATO, Júlia. [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/), 2025. Acesso em: 02 de fevereiro de 2025.
 
 ## Bibliografia
 
-> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 01 de fevereiro de 2025.
+> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 02 de fevereiro de 2025.
 >
->DE, T. Lucidchart. Tutorial de Caso de Uso UML. 12min32s. Disponível em:<https://youtu.be/ab6eDdwS3rA?si=njPjOAbu20SCQ4vv>. Acesso em: 01 de fevereiro de 2025.
+>DE, T. Lucidchart. Tutorial de Caso de Uso UML. 12min32s. Disponível em:<https://youtu.be/ab6eDdwS3rA?si=njPjOAbu20SCQ4vv>. Acesso em: 02 de fevereiro de 2025.
 
 
 ## Histórico de versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 01/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `1.0`  | 02/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
