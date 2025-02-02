@@ -101,7 +101,7 @@ O terceiro cenário léxico, presente na Tabela 4, utiliza o seguinte requisitos
 
 ### L4 - Notificação Pendente
 
-O quarto cenário léxico, presente na Tabela 3, utiliza o seguinte requisito funcional não implementado: O aplicativo deve enviar notificações sobre pendências, prazos e novas regras.- [GLO04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/), [OBS05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
+O quarto cenário léxico, presente na Tabela 5, utiliza o seguinte requisito funcional não implementado: O aplicativo deve enviar notificações sobre pendências, prazos e novas regras.- [GLO04](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/glossario/), [OBS05](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/observacao/) e [RF11](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/requisitos_elicitados/).
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5:</b> Descrição do léxico 04 - Notificação Pendente</p></font>

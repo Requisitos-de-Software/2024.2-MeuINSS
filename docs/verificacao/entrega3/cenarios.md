@@ -178,6 +178,8 @@ No vídeo 1, encontra-se a verificação para o artefato Cenários.
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em:  02 de fevereiro de 2025.
 
+> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 02 de fevereiro de 2025.
+
 
 ## Histórico de versões
 

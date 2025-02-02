@@ -580,7 +580,7 @@ Na Tabela 6, estão listados os critérios gerais que devem ser verificados no a
     </tr>
     <tr>
       <td>10</td>
-      <td>Os léxicos possuem sinônimos são significativos?</td>
+      <td>Os léxicos possuem sinônimos significativos?</td>
       <td>SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 16 de 35. Disponível em:  <a href="https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf"> Slide 10 - REQ</a>. Acesso em: 01 de fevereiro de 2025. </td>
       <td><img src="../imagens/LEX16.png"></td>
       <td><a href="https://github.com/julia-fortunato"> Júlia Fortunato</a></td>
