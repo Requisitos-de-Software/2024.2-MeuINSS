@@ -87,7 +87,7 @@ Nesta etapa, serão verificados os artefatos construídos pela equipe presentes 
 
 ## Listas de verificação
 
-Nesta etapa, serão apresentadas listas de verificação para os artefatos construídos na Entrega 3, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com "Sim", "Não", "Incompleto", que indica a confirmidade do item no artefato a ser analisado em questão. Os itens devem possuir referência, e uma foto dela sempre que possível.
+Nesta etapa, serão apresentadas listas de verificação para os artefatos construídos na Entrega 3, que deve ser aplicado a todos os artefatos, e um checklist específico para cada artefato. As questões disponíveis no checklist devem ser respondidas com "Sim", "Não", "Incompleto" ou "Não se aplica", que indica a confirmidade do item no artefato a ser analisado em questão. Os itens devem possuir referência, e uma foto dela sempre que possível.
 
 Se forem feitas observações, elas aparecerão ao final da tabela ao qual se refere.
 
@@ -687,7 +687,7 @@ Na Tabela 7, estão listados os critérios gerais que devem ser verificados no a
 </div>
 
 
-## Referências Bibliográficas
+## Referências bibliográficas
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
@@ -709,7 +709,7 @@ Na Tabela 7, estão listados os critérios gerais que devem ser verificados no a
 >
 > SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 01 de fevereiro de 2025.
 
-## Histórico de Versões
+## Histórico de versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
