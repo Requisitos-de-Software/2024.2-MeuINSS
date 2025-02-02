@@ -81,12 +81,12 @@ nav:
     - "RF 28 - Agendar horário em uma agência do INSS": validacao/validacao1/RF28.md
   - Verificação:
     - Etapa 3:
-      - Planejamento da verificação: verificacao/Grupo6/entrega3/planejamento.md
-      - Casos de Uso: verificacao/Grupo6/entrega3/casodeuso.md
-      - Validação dos Casos de Uso: verificacao/Grupo6/entrega3/validcasodeuso.md
-      - Cenários: verificacao/Grupo6/entrega3/cenarios.md
-      - Léxicos: verificacao/Grupo6/entrega3/lexicos.md
-      - Especificação suplementar: verificacao/Grupo6/entrega3/espsuplementar.md
+        - Planejamento da verificação: verificacao/Grupo6/entrega3/planejamento.md
+        - Casos de Uso: verificacao/Grupo6/entrega3/casodeuso.md
+        - Validação dos Casos de Uso: verificacao/Grupo6/entrega3/validcasodeuso.md
+        - Cenários: verificacao/Grupo6/entrega3/cenarios.md
+        - Léxicos: verificacao/Grupo6/entrega3/lexicos.md
+        - Especificação suplementar: verificacao/Grupo6/entrega3/espsuplementar.md
 
 
 
