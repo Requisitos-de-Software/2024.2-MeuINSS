@@ -142,6 +142,20 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 </div>
 
+## Vídeo da verificação
+
+No vídeo 1, encontra-se a verificação para o artefato, indo de 5:00 até 8:07.
+
+<div align="center">
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=fCcmxlPVUcI" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCcmxlPVUcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
+
+</div>
+
 ## Referências bibliográficas
 
 > [1] MORAIS, Cristiano. [Planejamento da Verificação da Etapa 1 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Planejamento%20da%20Verifica%C3%A7%C3%A3o/), 2025. Acesso em: 03 de fevereiro de 2025.
