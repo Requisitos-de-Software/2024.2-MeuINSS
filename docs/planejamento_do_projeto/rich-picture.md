@@ -3,7 +3,7 @@
 ## <p style="margin-bottom: 50px;">Introdução</p>
 
   <p style="text-align: justify; text-indent: 50px; margin-bottom: 10px;"> Rich picture se trata de uma imagem criada no intuito de se visualizar os elementos de um sistema assim como seu funcionamento de maneira simples e direta. Com essa ferramenta é mais fácil ver informações como processos do sistema, atores que participam dos processos e suas funções, fluxo de atividades além de conflitos e possíveis erros.[1]<br></p>
-  <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;"> A partir da Rich Picture produzida para o aplicativo "Meu INSS" é possível observar as relações das atividades com os atores além de outras informações, e também possui uma legenda para faciliar a compreensão da simbologia utilizada. </p>
+  <p style="text-align: justify; text-indent: 50px; margin-bottom: 50px;"> A partir da Rich Picture produzida para o aplicativo "Meu INSS" mostrada na figura 1 é possível observar as relações das atividades com os atores além de outras informações, e também possui uma legenda para faciliar a compreensão da simbologia utilizada. </p>
 
 <div align="center">
   <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Rich Picture Meu INSS</b></p></font>
