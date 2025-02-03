@@ -728,6 +728,8 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
     </tr>
   </tbody>
 </table>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+</div>
 
 ## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 19/01/2025
 
@@ -803,7 +805,7 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-R
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                                         | Autor                                                                                                            |                                                        Revisor                                                        |
+| Versão | Data | Descrição | Autor | Revisor|
 | :----: | ---------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
 | `1.0`  | 06/11/2023 | Criação do cronograma. Adição da etapa de planejamento do projeto | [Júlia Fortunato](https://github.com/julia-fortunato)                                                            | [Cristiano Morais](https://github.com/CristianoMoraiss) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) |
 | `2.0`  | 22/11/2024 | Correção da organização do documento                              | [Ana Catarina Santos](https://github.com/an4catarina)                                                            |                                 [Júlia Fortunato](https://github.com/julia-fortunato)                                 |
