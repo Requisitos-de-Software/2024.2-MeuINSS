@@ -72,7 +72,7 @@ nav:
   - Pós-rastreabilidade:
     - "Matriz de rastreabilidade": rastreabilidade/matriz.md
     - "Backward from": rastreabilidade/backward-from.md
-    - "Foward from": rastreabilidade/foward.md
+    - "Forward from": rastreabilidade/foward.md
     - Inspeções:
       - "Lista de inspeção": rastreabilidade/Inspecao6/listainspec5.md
       - "Inspeção do grupo": rastreabilidade/Inspecao6/inspecaogrupo.md
