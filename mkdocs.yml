@@ -81,7 +81,19 @@ nav:
     - "RF 28 - Agendar horário em uma agência do INSS": validacao/validacao1/RF28.md
     - "RF 25 - Consulta e pagamento de pensões": validacao/validacao1/RF25.md
   - Verificação:
-    # - Etapa 2:
+<<<<<<< HEAD
+=======
+    - Etapa 1:
+        - Planejamento da verificação: verificacao/Grupo6/Entrega 1/Planejamento da Verificação.md
+        - RichPicture: verificacao/Grupo6/Entrega 1/RichPicture.md
+        - Heatmap: verificacao/Grupo6/Entrega 1/Heatmap de Disponibilidade.md
+        - Ferramentas: verificacao/Grupo6/Entrega 1/Ferramentas.md
+        - Cronograma Planejado: verificacao/Grupo6/Entrega 1/Cronograma Planejado.md
+        - Cronograma Executado: verificacao/Grupo6/Entrega 1/Cronograma Executado.md
+        - Aplicativos Avaliados: verificacao/Grupo6/Entrega 1/Aplicativos Avaliados.md
+        - Aplicativo Selecionado: verificacao/Grupo6/Entrega 1/Aplicativo Selecionado.md
+
+>>>>>>> 66cdbe10f6696d5f4f5173c1238befd5706da126
     - Etapa 3:
         - Planejamento da verificação: verificacao/Grupo6/entrega3/planejamento.md
         - Casos de Uso: verificacao/Grupo6/entrega3/casodeuso.md
