@@ -97,11 +97,11 @@ nav:
         - Cenários: verificacao/Grupo6/entrega3/cenarios.md
         - Léxicos: verificacao/Grupo6/entrega3/lexicos.md
         - Especificação suplementar: verificacao/Grupo6/entrega3/espsuplementar.md
-    
-
-
-
-
+    - Etapa 4:
+        - Planejamento da verificação: verificacao/Grupo6/entrega4/planejamento.md
+        - Backlog: verificacao/Grupo6/entrega4/backlog.md
+        - Histórias de usuário: verificacao/Grupo6/entrega4/US.md
+        - NFR: verificacao/Grupo6/entrega4/NFR.md
     
 theme:
   name: material
