@@ -80,6 +80,7 @@ nav:
   - Validação:
     - "RF 28 - Agendar horário em uma agência do INSS": validacao/validacao1/RF28.md
     - "RF 25 - Consulta e pagamento de pensões": validacao/validacao1/RF25.md
+    - "RF 13 - Acessar comunidades no INSS": validacao/validacao1/RF13.md
   - Verificação:
     - Etapa 1:
         - Planejamento da verificação: verificacao/Grupo6/Entrega 1/Planejamento da Verificação.md
@@ -90,6 +91,18 @@ nav:
         - Cronograma Executado: verificacao/Grupo6/Entrega 1/Cronograma Executado.md
         - Aplicativos Avaliados: verificacao/Grupo6/Entrega 1/Aplicativos Avaliados.md
         - Aplicativo Selecionado: verificacao/Grupo6/Entrega 1/Aplicativo Selecionado.md
+    - Etapa 2:
+        - Planejamento da verificação: verificacao/Grupo6/Entrega 2/planejamento.md
+        - Perfil de usuário: verificacao/Grupo6/Entrega 2/perfildeusuario.md
+        - Personas: verificacao/Grupo6/Entrega 2/personas.md
+        - Encenação: verificacao/Grupo6/Entrega 2/encenacao.md
+        - Entrevista: verificacao/Grupo6/Entrega 2/entrevista.md
+        - Introspecção: verificacao/Grupo6/Entrega 2/introspeccao.md
+        - Observação: verificacao/Grupo6/Entrega 2/observacao.md
+        - Glossário: verificacao/Grupo6/Entrega 2/glossario.md
+        - First Things First: verificacao/Grupo6/Entrega 2/firstthingsfirst.md
+        - Three Level Scale: verificacao/Grupo6/Entrega 2/threelevelscale.md
+        - $100: verificacao/Grupo6/Entrega 2/100dol.md
     - Etapa 3:
         - Planejamento da verificação: verificacao/Grupo6/entrega3/planejamento.md
         - Casos de Uso: verificacao/Grupo6/entrega3/casodeuso.md
@@ -102,6 +115,11 @@ nav:
         - Backlog: verificacao/Grupo6/entrega4/backlog.md
         - Histórias de usuário: verificacao/Grupo6/entrega4/US.md
         - NFR: verificacao/Grupo6/entrega4/NFR.md
+    - Etapa 6:
+        - Planejamento da verificação: verificacao/Grupo6/entrega6/planejamento.md
+        - Matriz de rastreabilidade: verificacao/Grupo6/entrega6/matriz.md
+        - Backward-from: verificacao/Grupo6/entrega6/backward.md
+        - Forward-from: verificacao/Grupo6/entrega6/forward.md
     
 theme:
   name: material
