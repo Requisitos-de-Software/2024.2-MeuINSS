@@ -142,7 +142,7 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato </p>
-    <img src="../imagens/RichPicture esp.png" width="400" height="300">
+    <img src="../imagens/Richpicture esp.png" width="400" height="300">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
 
 </div>
