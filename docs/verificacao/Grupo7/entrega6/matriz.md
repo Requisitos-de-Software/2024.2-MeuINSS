@@ -6,7 +6,7 @@ Esta documentação tem como objetivo relatar os resultados da verificação por
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega6/planejamento/) [1].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 6 do Grupo 7 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega6/planejamento/) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de uma lista de verificação. Cada elemento será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados neste documento. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos para itens de padronização e desenvolvimento do projeto, e outro específico, direcionado exclusivamente ao artefato de Matriz de rastreabilidade.
 
@@ -48,7 +48,7 @@ Na Tabela 1, encontram-se os resultados obtidos na verificação para itens de p
     <tr>
       <td>4</td>
       <td>As tabelas e imagens possuem legenda e fonte/autor e elas chamadas dentro dos texto?</td>
-      <td>Incompleto</td> tabela 1 não chamada
+      <td>Incompleto</td> 
     </tr>
     <tr>
       <td>5</td>
@@ -90,7 +90,7 @@ Na Tabela 2, encontram-se os resultados obtidos na verificação do artefato Mat
     <tr>
       <td>3</td>
       <td>A matriz possui alguma legenda para identificação dos termos?</td>
-      <td>Não</td> sem elos na matriz
+      <td>Não</td> 
     </tr>
     <tr>
       <td>4</td>
@@ -120,11 +120,11 @@ Nesta seção, relata-se os problemas eventualmente encontrados nas verificaçõ
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-Nenhum problema foi identificado na verificação realizada para itens de padronização e desenvolvimento do projeto.
+Tabela 1 não foi chamada.
 
 ### Verificação para o artefato Matriz de rastreabilidade
 
-Nenhum problema foi identificado na verificação realizada para o artefato Matriz de rastreabilidade. 
+Sem elos na matriz.
 
 ## Resultados
 
