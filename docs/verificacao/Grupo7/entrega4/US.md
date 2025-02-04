@@ -6,7 +6,7 @@ Esta documentação tem como objetivo relatar os resultados da verificação por
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 4 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/grupo7/entrega4/planejamento/) [1].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 4 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega4/planejamento/) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de uma lista de verificação. Cada elemento será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados neste documento. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos para itens de padronização e desenvolvimento do projeto, e outro específico, direcionado exclusivamente ao artefato de Histórias de usuário.
 
