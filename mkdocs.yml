@@ -78,7 +78,7 @@ nav:
       - "Inspeção do grupo": rastreabilidade/Inspecao6/inspecaogrupo.md
       - "Inspeção do grupo + 1 (Grupo 07)": rastreabilidade/Inspecao6/inspecaogrupo+1.md
   - Validação:
-    - "RF 11 - Acessar comunidades no INSS": validacao/validacao1/RF11.md
+    - "RF 11 - Acessar impacto de contribuição": validacao/validacao1/RF11.md
     - "RF 13 - Acessar comunidades no INSS": validacao/validacao1/RF13.md
     - "RF 25 - Consulta e pagamento de pensões": validacao/validacao1/RF25.md
     - "RF 27 - Censurar dados sensíveis": validacao/validacao1/RF27.md
