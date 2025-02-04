@@ -170,6 +170,6 @@ No vídeo 1, encontra-se a verificação para o artefato, indo de 2:15 até 5:00
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 02/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) |   |
+| `1.0`  | 02/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) | [Nicolas Bomfim](https://github.com/nickgehjk)  |
 
 
