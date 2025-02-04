@@ -315,23 +315,14 @@ Na Tabela 5, estão listados os critérios gerais que devem ser verificados no a
 ## Bibliografia
 
 >
-> Bilheteria Digital. Planejamento da Verificação da Entrega 3 do Grupo 2. Grupo Bilheteria Digital da disciplina Requisitos de Software, disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega3/planejamento-verificacao-e3-grupo2/>. Acesso em: 01 de fevereiro de 2025.
+> Economia - DF. Planejamento da Verificação da Entrega 6 do Grupo 1. Grupo Economia DF da disciplina Requisitos de Software, disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1/>. Acesso em: 03 de fevereiro de 2025.
 >
-> Economia - DF. Planejamento da Verificação da Entrega 3 do Grupo 1. Grupo Economia DF da disciplina Requisitos de Software, disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1/>. Acesso em: 01 de fevereiro de 2025.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em:  03 de fevereiro de 2025.
 >
-> Ministério da Ciência, Tecnologia e Inovações. Exemplo: Especificação Suplementar. Disponível em: <https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Especificacao%20Suplementar_4C68A4F4.html>. Acesso em: 01 de fevereiro de 2025.
->
->SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. s.d. Slide 28-30 de 40. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 01 de fevereiro de 2025.
->DE, T. Lucidchart. Tutorial de Caso de Uso UML. 12min32s. Disponível em:<https://youtu.be/ab6eDdwS3rA?si=njPjOAbu20SCQ4vv>. Acesso em: 01 de fevereiro de 2025.
->
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. s.d. de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em:  01 de fevereiro de 2025.
->
-> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 01 de fevereiro de 2025.
->
->PRESSMAN, Roger S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre: AMGH, 2011. Disponível em: <https://www.academia.edu/42042370/Engenharia_de_Software_Uma_Abordagem_Profi_ssional> Acesso em: 01 fevereiro 2025.
+> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 03 de fevereiro de 2025.
 
 ## Histórico de versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 01/02/2025 | Criação do documento  | [Ana Catarina Santos](https://github.com/an4catarina) | [Nicolas Bomfim](http://github.com/nickgehjk) |
+| `1.0`  | 03/02/2025 | Criação do documento  | [Nicolas Bomfim](http://github.com/nickgehjk) | [Ana Catarina Santos](https://github.com/an4catarina) |
