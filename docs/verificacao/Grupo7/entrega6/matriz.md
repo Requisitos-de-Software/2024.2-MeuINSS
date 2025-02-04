@@ -126,46 +126,6 @@ Tabela 1 não foi chamada e nao possui o tópico introdução.
 
 Sem elos na matriz.
 
-## Resultados
-
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/matriz/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não", "Não se aplica" e "Incompleto" obtidos durante a verificação.
-
-### Verificação para itens de padronização e desenvolvimento do projeto
-
-No Gráfico 1, está registrado os resultados obtidos na verificação do artefato [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/matriz/) em relação aos itens de padronização e desenvolvimento do projeto.
-
-<div align="center">
-  <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
-
-   <img src="../imagens/sim.jpg">
-    </div>
-
-
-### Verificação para o artefato Matriz de rastreabilidade
-
-No Gráfico 2, está registrado os resultados obtidos na verificação do artefato [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/matriz/) em relação à verificação do próprio artefato.
-
-<div align="center">
-  <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato Matriz de rastreabilidade</p>
-    <img src="../imagens/sim.jpg">
-    <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p></font>
-
-</div>
-
-## Vídeo da verificação
-
-No vídeo 1, encontra-se a verificação para o artefato Matriz de rastreabilidade.
-
-<div align="center">
-
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=wyiecWD9LuA" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Matriz de rastreabilidade</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyiecWD9LuA?si=jyaR992rEEWi5kSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p></font>
-</div>
-
-
 ## Referências bibliográficas
 
 > [1] BOMFIM, Nicolas. [Planejamento da Verificação da Etapa 6 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega6/planejamento/), 2025. Acesso em: 06 de fevereiro de 2025.
