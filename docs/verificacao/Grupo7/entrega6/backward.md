@@ -171,7 +171,6 @@ No vídeo 1, encontra-se a verificação para o artefato Backward-From.
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p></font>
 </div>
 
-</div >
 
 ## Referências bibliográficas
 
