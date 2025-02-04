@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [First Things First](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/first_things_first/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 23/11/2024.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [First Things First](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/priorizacao/FirstThingFirst/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-Threads/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 23/11/2024.
 
 ## Metodologia
 
@@ -43,12 +43,12 @@ Na Tabela 1, encontram-se os resultados obtidos na verificação para itens de p
     <tr>
       <td>3</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>4</td>
       <td>As tabelas e imagens possuem legenda e fonte/autor e elas chamadas dentro dos texto?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>5</td>
@@ -85,27 +85,27 @@ Na Tabela 2, encontram-se os resultados da verificação presente na lista para 
     <tr>
       <td>2</td>
       <td>a utilização da escala de 1 a 9 para benefício?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>3</td>
       <td>a utilização da escala de 1 a 9 para penalidade?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>4</td>
       <td>a utilização da escala de 1 a 9 para risco?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>5</td>
       <td>a utilização da escala de 1 a 9 para custo?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>6</td>
       <td>o valor total calculado e apresentado da forma correta?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -120,11 +120,16 @@ Aqui são relatados todos os eventuais problemas encontrados no artefato a parti
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-Não foi encontrado nenhum problema estrutural no artefato, ou seja, os itens da verificação em relação a padronização estão em conformidade.
+Problemas:
+
+- Referencia Bibliografica fora dos padrões da ABNT.
+- Video 1 não está sendo chamado no texto.
 
 ### Verificação para o artefato
 
-Nenhum problema foi encontrado na verificação específica do artefato.
+Problemas:
+
+- A utilização do First Things First esta incorreta pois a escala usada na prioridade foi da tecnica do Three Level Scale.
 
 ## Resultados
 
@@ -133,14 +138,14 @@ No Gráfico 1, está representado os dados da verificação do artefato no que s
 <div align="center">
   <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
 
-   <img src="../imagens/PUChart.png">
+   <img src="../imagens/grupo7pri.png">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2025</p></font>
 </div>
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato</p>
 
-   <img src="../imagens/FTFChart.png">
+   <img src="../imagens/grupo7pripri.png">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2025</p></font>
 </div>
 

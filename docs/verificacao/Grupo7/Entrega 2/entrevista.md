@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Entrevista](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Perfil_Do_Usuario/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 23/11/2024.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Entrevista](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/entrevista/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-Threads/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 23/11/2024.
 
 ## Metodologia
 
@@ -48,7 +48,7 @@ Na Tabela 1, encontram-se os resultados obtidos na verificação para itens de p
     <tr>
       <td>4</td>
       <td>As tabelas e imagens possuem legenda e fonte/autor e elas chamadas dentro dos texto?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>5</td>
@@ -110,7 +110,9 @@ Aqui são relatados todos os eventuais problemas encontrados no artefato a parti
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-Não foi encontrado nenhum problema estrutural no artefato, ou seja, os itens da verificação em relação a padronização estão em conformidade.
+Problemas:
+
+- As chamadas das tabelas nos textos estão inconsistentes, tem textos referenciando um indice de tabela que não é o indice certo.
 
 ### Verificação para o artefato
 
@@ -123,7 +125,7 @@ No Gráfico 1, está representado os dados da verificação do artefato no que s
 <div align="center">
   <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
 
-   <img src="../imagens/PUChart.png">
+   <img src="../imagens/grupo7Ent.png">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a>, 2025</p></font>
 </div>
 
