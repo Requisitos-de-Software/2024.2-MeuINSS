@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento tem por finalidade mostrar quais foram os resultados obtidos a partir da verificação realizada sobre o artefato [RichPicture](https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/rich-picture/) que foi desenvolvido na entrega 1 do projeto (Planejamento do Projeto) pelo grupo 6, será levado em conta para realização da análise a última versão do artefato até o momento que é a 1.0.
+O presente documento tem por finalidade mostrar quais foram os resultados obtidos a partir da verificação realizada sobre o artefato RichPicture que foi desenvolvido na entrega 1 do projeto (Planejamento do Projeto) pelo grupo 7.
 
 ## Metodologia
 
@@ -149,13 +149,13 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 ## Vídeo da verificação
 
-No vídeo 1, encontra-se a verificação para o artefato, indo de 16:45 até 19:54.
+No vídeo 1, encontra-se a verificação para o artefato.
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=fCcmxlPVUcI" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato</a></p>
+<p style="text-align: center"><a href="https://youtu.be/TcdNZM8bIfc" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fCcmxlPVUcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcdNZM8bIfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
 
@@ -170,6 +170,6 @@ No vídeo 1, encontra-se a verificação para o artefato, indo de 16:45 até 19:
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 02/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) |   |
+| `1.0`  | 02/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) |[Nicolas Bomfim](https://github.com/nickgehjk)   |
 
 
