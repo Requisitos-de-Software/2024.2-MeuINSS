@@ -1,14 +1,14 @@
-# Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS
+# Planejamento da Verificação da Etapa 3 do Grupo 7 (2024.2 - Threads)
 
 ## Introdução
 
 A verificação e validação (V&V) são etapas essenciais no ciclo de desenvolvimento e de vida de um software, que efetivamente dá suporte para a qualidade e a confiabilidade dos artefatos construídos. A verificação consiste em uma análise criteriosa dos artefatos, assegurando que estejam em conformidade com os requisitos estabelecidos e os padrões técnicos necessários.   
 
-Neste contexto, este documento tem como propósito realizar a verificação da [terceira entrega](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) do Grupo 6, que desenvolveu artefatos ligados ao aplicativo do Meu INSS na disciplina de Requisitos de Software, na Universidade de Brasília, no período do segundo semestre de 2024.
+Neste contexto, este documento tem como propósito realizar a verificação da [terceira entrega](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios//) do Grupo + 1 , que no caso é o grupo 7, que desenvolveu artefatos ligados ao aplicativo do Threads na disciplina de Requisitos de Software, na Universidade de Brasília, no período do segundo semestre de 2024.
 
 ## Objetivos
 
-O propósito deste documento é realizar uma verificação minuciosa dos artefatos desenvolvidos pelo Grupo 6 durante a etapa 3, que diz respeito a primeira etapa de Modelagem de Requisitos. 
+O propósito deste documento é realizar uma verificação minuciosa dos artefatos desenvolvidos pelo Grupo 7 durante a etapa 3, que diz respeito a primeira etapa de Modelagem de Requisitos. 
 
 O objetivo é assegurar que esses artefatos estejam em plena conformidade com o conteúdo estabelecidos na disciplina de Requisitos de Software, bem como em alinhamento com os padrões consagrados na literatura utilizada e estudada pela equipe. 
 
@@ -23,13 +23,13 @@ O foco desta inspeção é focar em:
   - Preparação: estudo sobre os artefatos a serem analisados; 
   - Inspeção Individual: criação e aplicação de lista de inspeção;
   - Correção e Reinspeção: correções de problemas encontrados;
-  - Revisão da Inspeção: revisão dos resultados encontrados pela verificação (que será realizada por um membro do grupo, que não seja o responsável pela própria inspeção).
+  - Revisão da Inspeção: revisão dos resultados encontrados pela verificação (que deverá ser realizada pelo grupo 7).
 
-A inspeção será gravada e disponibilizada na página de documentação de cada artefato citado neste documento.
+A inspeção será gravada e disponibilizada na página de documentação do vídeo da verificação da Etapa 3 do Grupo 7.
 
 ## Participantes
 
-A integrante da equipe responsável pela verificação da Etapa 3 foi [Júlia Fortunato](https://github.com/julia-fortunato). Foi feita uma verificação por meio das listas de inspeção e verificação dos artefatos construídos na Entrega 3. A revisão da verificação da Entrega 3 foi realizada pelo integrante [Maurício Ferreira](https://github.com/mauricio-araujoo).
+A integrante da equipe responsável pela verificação da Etapa 3 foi [Júlia Fortunato](https://github.com/julia-fortunato). Foi feita uma verificação por meio das listas de inspeção e verificação dos artefatos construídos na Entrega 3. A revisão da verificação da Entrega 3 foi realizada em conjunto pelo grupo 7.
 
 ## Objetos de verificação
 
@@ -50,34 +50,27 @@ Nesta etapa, serão verificados os artefatos construídos pela equipe presentes 
 </thead>
 <tbody>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/">Casos de Uso</a> </td>
-        <td> 1.4</td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/">Casos de Uso</a> </td>
+        <td> 1.2</td>
         <td> 08/12/2024</td>
-        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
+        <td> <a href="https://github.com/alanagabriele">Alana</a> </td>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/validacaoCasodeUso/">Validação dos Casos de Uso</a> </td>
-        <td> 1.0  </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/">Cenários</a> </td>
+        <td> 1.1 </td>
         <td> 08/12/2024 </td>
-        <td> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
+        <td> <a href="https://github.com/alanagabriele">Alana</a> </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/">Cenários</a> </td>
-        <td> 1.4 </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/">Léxicos</a> </td>
+        <td> 2.0 </td>
         <td> 08/12/2024 </td>
-        <td> <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
+        <td> <a href="https://github.com/GenilsonJrs">Genilson</a></td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a> </td>
-        <td> 1.3 </td>
-        <td> 08/12/2024 </td>
-        <td> <a href="http://github.com/an4catarina">Ana Catarina</a> e <a href="http://github.com/nickgehjk">Nicolas</a> </td>
-    </tr>
-    <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/">Especificação Suplementar</a> </td>
-        <td> 1.2 </td>
-        <td> 08/12/2024 </td>
-        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> e <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
- </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/">Especificação Suplementar</a> </td>
+        <td> 1.1 </td>
+        <td> 06/12/2024 </td>
+        <td> <a href="https://github.com/SamuelRicosta">Samuel</a></td>
     </tr>
 </tbody>
 </table>
@@ -93,7 +86,7 @@ Se forem feitas observações, elas aparecerão ao final da tabela ao qual se re
 
 ### Lista de verificação para itens de padronização e desenvolvimento do projeto
 
-Na Tabela 2, estão listados os critérios gerais que devem ser verificados em todos os artefatos da Entrega 3 do Grupo 6.
+Na Tabela 2, estão listados os critérios gerais que devem ser verificados em todos os artefatos da Entrega 3 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2 -</b> Lista de verificação para itens de padronização e desenvolvimento do projeto</p></font>
@@ -146,7 +139,7 @@ Na Tabela 2, estão listados os critérios gerais que devem ser verificados em t
 
 ### Lista de verificação para Casos de Uso 
 
-Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) do Grupo 6.
+Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3 -</b> Lista de verificação para o artefato Casos de Uso</p></font>
@@ -381,54 +374,9 @@ Na tabela 3, estão listados os critérios que devem ser verificados no artefato
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
 </div>
 
-### Lista de verificação para Validação dos Casos de Uso
-
-Na Tabela 4, estão listados os critérios gerais que devem ser verificados no artefato de [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/validacaoCasodeUso/) da Entrega 3 do Grupo 6.
-
-<div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 4 - </b> Lista de verificação para o artefato Validação dos Casos de Uso</p></font>
-
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Descrição</th>
-      <th>Fonte</th>
-      <th>Foto</th>
-      <th>Autor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>É registrado a participação do cliente e/ou persona na validação do diagrama de caso de uso?</td>
-      <td>SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - REQ (2024.2)</a>. Acesso em: 01 de fevereiro de 2025. </td>
-      <td><img src="../imagens/part.png"></td>
-      <td><a href="https://github.com/julia-fortunato"> Júlia Fortunato</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Existe a disponibilização do vídeo da gravação?</td>
-      <td>SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - REQ (2024.2)</a>. Acesso em: 01 de fevereiro de 2025. </td>
-      <td><img src="../imagens/part.png"></td>
-      <td><a href="https://github.com/julia-fortunato"> Júlia Fortunato</a></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>O vídeo está na categoria não listado no YouTube?</td>
-      <td>SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf">Plano de Ensino - REQ (2024.2)</a>. Acesso em: 01 de fevereiro de 2025. </td>
-      <td><img src="../imagens/nao list.png"></td>
-      <td><a href="https://github.com/julia-fortunato"> Júlia Fortunato</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
-</div>
-
 ### Lista de verificação para Cenários
 
-Na Tabela 5, estão listados os critérios gerais que devem ser verificados no artefato de [Cenários](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/) da Entrega 3 do Grupo 6.
+Na Tabela 5, estão listados os critérios gerais que devem ser verificados no artefato de [Cenários](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/Cenarios/) da Entrega 3 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5 - </b> Lista de verificação para o artefato Cenários</p></font>
@@ -501,7 +449,7 @@ Na Tabela 5, estão listados os critérios gerais que devem ser verificados no a
 
 ### Lista de verificação para Léxicos
 
-Na Tabela 6, estão listados os critérios gerais que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/) da Entrega 3 do Grupo 6.
+Na Tabela 6, estão listados os critérios gerais que devem ser verificados no artefato [Léxicos](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/lexicos/) da Entrega 3 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 6 - </b> Lista de verificação para o artefato Léxicos</p></font>
@@ -593,7 +541,7 @@ Na Tabela 6, estão listados os critérios gerais que devem ser verificados no a
 
 ### Lista de verificação para Especificação Suplementar
 
-Na Tabela 7, estão listados os critérios gerais que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/) da Entrega 3 do Grupo 6.
+Na Tabela 7, estão listados os critérios gerais que devem ser verificados no artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) da Entrega 3 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 7 - </b> Lista de verificação para o artefato Especificação Suplementar</p></font>
@@ -713,4 +661,4 @@ Na Tabela 7, estão listados os critérios gerais que devem ser verificados no a
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 01/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `1.0`  | 03/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |

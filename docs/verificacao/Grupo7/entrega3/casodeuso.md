@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.4, de 08/12/2024.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/casosdeuso/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-Threads/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.2, de 08/12/2024.
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/) [1].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 3 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de uma lista de verificação. Cada elemento será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados neste documento. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos para itens de padronização e desenvolvimento do projeto, e outro específico, direcionado exclusivamente ao artefato de Casos de Uso.
 
@@ -19,7 +19,7 @@ Os resultados obtidos são apresentados nas Tabelas 1 e 2. Cada item verififcado
 Na Tabela 1, encontram-se os resultados obtidos na verificação para itens de padronização e desenvolvimento do projeto.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 1- </b> Resultado da verificação para itens de padronização e desenvolvimento do projeto (Casos de Uso)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 - </b> Resultado da verificação para itens de padronização e desenvolvimento do projeto (Casos de Uso)</p></font>
 
 <table>
   <thead>
@@ -106,7 +106,7 @@ Na Tabela 2, encontram-se os resultados da verificação presente na lista para 
     <tr>
       <td>6</td>
       <td>O diagrama de Caso de Uso possui o ator secundário (que reage a interações com o sistema) do lado direito?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>7</td>
@@ -181,22 +181,22 @@ Na Tabela 2, encontram-se os resultados da verificação presente na lista para 
     <tr>
       <td>21</td>
       <td>O diagrama de Caso de Uso possui casos de uso com ponto de extensão divididos ao meio por uma linha?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>22</td>
       <td>O diagrama de Caso de Uso possui casos de uso com pontos de extensão com o nome do caso de uso acima da linha?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>23</td>
       <td>O diagrama de Caso de Uso possui casos de uso com pontos de extensão com o nome dos pontos de extensão abaixo da linha?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
      <tr>
       <td>24</td>
       <td>O diagrama de Caso de Uso possui os pontos de extensão ramificados para casos de uso estendidos?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     </tr>
      <tr>
@@ -247,7 +247,8 @@ Nenhum problema foi identificado na verificação realizada para itens de padron
 
 ### Verificação para o artefato Casos de Uso
 
-Nenhum problema foi identificado na verificação realizada para o artefato Casos de Uso. 
+Foi identificado que o diagrama de Caso de Uso não possui um ator secundário, que é de grande importância para o entendimento do sistema.
+
 ## Resultados
 
 Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não" e "Não se aplica" obtidos durante a verificação.
@@ -269,7 +270,7 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato Casos de Uso</p>
-    <img src="../imagens/graficousecase.jpg">
+    <img src="../imagens/UCGERAL.jpg">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
 
 </div>
@@ -280,9 +281,9 @@ No vídeo 1, encontra-se a verificação para o artefato Casos de Uso.
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://youtu.be/_Ab_uu3CF2o?si=HhU9eJJmJfr07Da5" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Casos de Uso</a></p>
+<p style="text-align: center"><a href="https://youtu.be/b1xOiMnnvI4?si=KBKQgjYW9nln86JB" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Casos de Uso</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Ab_uu3CF2o?si=bTwLqwqNrCyaEJ8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1xOiMnnvI4?si=mAeVoSKUCdsbA91c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
 
@@ -290,7 +291,7 @@ No vídeo 1, encontra-se a verificação para o artefato Casos de Uso.
 
 ## Referências bibliográficas
 
-> [1] FORTUNATO, Júlia. [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/), 2025. Acesso em: 02 de fevereiro de 2025.
+> [1] FORTUNATO, Júlia. [Planejamento da Verificação da Etapa 3 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/planejamento/), 2025. Acesso em: 03 de fevereiro de 2025.
 
 ## Bibliografia
 
@@ -303,4 +304,4 @@ No vídeo 1, encontra-se a verificação para o artefato Casos de Uso.
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 02/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `1.0`  | 03/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
