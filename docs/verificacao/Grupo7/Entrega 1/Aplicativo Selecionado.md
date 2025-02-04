@@ -49,7 +49,7 @@ Na Tabela 1, é possível observar os resultados obtidos na verificação para i
     <tr>
       <td>4</td>
       <td>As tabelas e imagens possuem legenda e fonte/autor e elas chamadas dentro dos texto?</td>
-      <td>Sim</td>
+      <td>Não se aplica</td>
     </tr>
     <tr>
       <td>5</td>
@@ -91,7 +91,7 @@ Na Tabela 2, é possível observar os resultados da verificação presente na li
     <tr>
       <td>3</td>
       <td>Possui indicação dos termos de uso?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -122,7 +122,7 @@ No Gráfico 1, está representado os dados da verificação do artefato no que s
 <div align="center">
   <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
 
-   <img src="../imagens/ucgeral.png"  width="400" height="300">
+   <img src="../imagens/APPSel pad.png"  width="400" height="300">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
 </div>
 
@@ -132,7 +132,7 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato </p>
-    <img src="../imagens/ucgeral.png"  width="400" height="300">
+    <img src="../imagens/APPSel termos.png"  width="400" height="300">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
 
 </div>

@@ -91,7 +91,7 @@ Na Tabela 2, é possível observar os resultados da verificação presente na li
     <tr>
       <td>3</td>
       <td>As operações estão simbolizadas em balões?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>4</td>
@@ -101,7 +101,7 @@ Na Tabela 2, é possível observar os resultados da verificação presente na li
     <tr>
       <td>5</td>
       <td>Todos os elementos do richpicture estão coesos entro si?</td>
-      <td>Sim</td>
+      <td>Incompleto</td>
     </tr>
   </tbody>
 </table>
@@ -142,7 +142,7 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato </p>
-    <img src="../imagens/ucgeral.png" width="400" height="300">
+    <img src="../imagens/RichPicture esp.png" width="400" height="300">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
 
 </div>
