@@ -517,4 +517,4 @@ quisitos%20-%20Aula%2004.pdf">Aprender 3 UnB</a></br>
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 02/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) |  |
+| `1.0`  | 02/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) | [Nicolas Bomfim](https://github.com/nickgehjk) |
