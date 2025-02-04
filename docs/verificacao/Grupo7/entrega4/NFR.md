@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 11/12/2024.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-Threads/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.4, de 17/12/2024.
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 4 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega4/planejamento/) [1].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 4 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/grupo7/entrega4/planejamento/) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de uma lista de verificação. Cada elemento será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados neste documento. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos para itens de padronização e desenvolvimento do projeto, e outro específico, direcionado exclusivamente ao artefato de NFR Framework.
 
@@ -45,7 +45,7 @@ Na Tabela 1, encontram-se os resultados obtidos na verificação para itens de p
         <tr>
             <td>4</td>
             <td>As tabelas e imagens possuem legenda e fonte/autor e são chamadas no texto?</td>
-            <td>Sim</td>
+            <td>Não</td>
         </tr>
         <tr>
             <td>5</td>
@@ -87,7 +87,7 @@ Na Tabela 2, encontram-se os resultados da verificação presente na lista para 
         <tr>
             <td>4</td>
             <td>Os rótulos foram propagados corretamente ao longo do modelo, indicando se os Softgoals estão satisfeitos, parcialmente satisfeitos, negados ou em conflito?</td>
-            <td>Sim</td>
+            <td>Não</td>
         </tr>
         <tr>
             <td>5</td>
@@ -116,7 +116,7 @@ Nesta seção, relata-se os problemas eventualmente encontrados nas verificaçõ
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-Nenhum problema foi identificado na verificação realizada para itens de padronização e desenvolvimento do projeto.
+- Item 4: A tabela 6 e a figura 4 estão sendo chamados de forma errada no documento.
 
 ### Verificação para o artefato NFR Framework
 
@@ -124,26 +124,26 @@ Nenhum problema foi identificado na verificação realizada para o artefato NFR 
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não" e "Não se aplica" obtidos durante a verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não" e "Não se aplica" obtidos durante a verificação.
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-No Gráfico 1, está registrado os resultados obtidos na verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) em relação aos itens de padronização e desenvolvimento do projeto.
+No Gráfico 1, está registrado os resultados obtidos na verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) em relação aos itens de padronização e desenvolvimento do projeto.
 
 <div align="center">
   <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
 
-   <img src="../imagens/NFRGeral.png">
+   <img src="../imagens/NFRnormal.png">
     <font size="3"><p style="text-align: center">Autor: <a href="http://github.com/an4catarina">Ana Catarina Santos</a>, 2025</p></font>
 </div>
 
 ### Verificação para o artefato NFR
 
-No Gráfico 2, está registrado os resultados obtidos na verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) em relação à verificação do próprio artefato.
+No Gráfico 2, está registrado os resultados obtidos na verificação do artefato [NFR Framework](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) em relação à verificação do próprio artefato.
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato NFR</p>
-    <img src="../imagens/NFREspec.png">
+    <img src="../imagens/b.png">
     <font size="3"><p style="text-align: center">Autor: <a href="http://github.com/an4catarina">Ana Catarina Santos</a>, 2025</p></font>
 </div>
 
@@ -153,17 +153,17 @@ No vídeo 1, encontra-se a verificação para o artefato NFR Framework.
 
 <div align="center">
 
-<p style="text-align: center"><a href="https://youtu.be/UoalHyBV44Q?si=wSH1Ozy4JJmWudRs" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato NFR Framework</a></p>
+<p style="text-align: center"><a href="https://youtu.be/11vORqHEJMg?si=eYrIdeM4BZtX4tQZ" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Histórias de usuário</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoalHyBV44Q?si=8efSQyqHyvmet4Ei" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYeGI67d1TU?si=sNBhoZusHtH6rFEK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center"><b>Autor: <a href="http://github.com/an4catarina">Ana Catarina Santos</a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="http://github.com/an4catarina">Ana Catarina Santos</a>, 2025</p></font>
 
 </div >
 
 ## Referências bibliográficas
 
-> [1] SANTOS, Ana Catarina. [Planejamento da Verificação da Etapa 4 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega4/planejamento/), 2025. Acesso em: 02 de fevereiro de 2025.
+> [1] SANTOS, Ana Catarina. [Planejamento da Verificação da Etapa 4 do Grupo 7 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega4/planejamento/), 2025. Acesso em: 02 de fevereiro de 2025.
 
 ## Bibliografia
 

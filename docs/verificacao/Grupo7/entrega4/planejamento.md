@@ -1,14 +1,14 @@
-# Planejamento da Verificação da Etapa 4 do Grupo 6 (2024.2) - Meu INSS
+# Planejamento da Verificação da Etapa 4 do Grupo 7 (2024.2) - Threads
 
 ## Introdução
 
 A verificação e validação (V&V) são etapas essenciais no ciclo de desenvolvimento e de vida de um software, que efetivamente dá suporte para a qualidade e a confiabilidade dos artefatos construídos. A verificação consiste em uma análise criteriosa dos artefatos, assegurando que estejam em conformidade com os requisitos estabelecidos e os padrões técnicos necessários.   
 
-Neste contexto, este documento tem como propósito realizar a verificação da entrega [Modelagem de requisitos - Ágil](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/#:~:text=Requisitos%20%2D%20Parte%201-,Modelagem%20de%20Requisitos%20%2D%20Parte%202,-P%C3%B3s%2Drastreabilidade) do Grupo 6, que desenvolveu artefatos ligados ao aplicativo do Meu INSS na disciplina de Requisitos de Software, na Universidade de Brasília, no período do segundo semestre de 2024.
+Neste contexto, este documento tem como propósito realizar a verificação da entrega [Modelagem de requisitos - Ágil](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/#:~:text=L%C3%A9xicos-,%C3%81gil,-NFR%20Framework) do Grupo 7, que desenvolveu artefatos ligados ao aplicativo Threads na disciplina de Requisitos de Software, na Universidade de Brasília, no período do segundo semestre de 2024.
 
 ## Objetivos
 
-O propósito deste documento é realizar uma verificação minuciosa dos artefatos desenvolvidos pelo Grupo 6 durante a etapa 4, que diz respeito a segunda etapa de Modelagem de Requisitos. 
+O propósito deste documento é realizar uma verificação minuciosa dos artefatos desenvolvidos pelo Grupo 7 durante a etapa 4, que diz respeito a segunda etapa de Modelagem de Requisitos. 
 
 O objetivo é assegurar que esses artefatos estejam em plena conformidade com o conteúdo estabelecidos na disciplina de Requisitos de Software, bem como em alinhamento com os padrões consagrados na literatura utilizada e estudada pela equipe. 
 
@@ -50,21 +50,21 @@ Nesta etapa, serão verificados os artefatos construídos pela equipe presentes 
 </thead>
 <tbody>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/">Backlog</a> </td>
-        <td> 1.0</td>
-        <td> 16/12/2024</td>
-        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, <a href="http://github.com/an4catarina">Ana Catarina Santos</a> e <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/">Backlog</a> </td>
+        <td> 1.1</td>
+        <td> 17/12/2024</td>
+        <td> Alana Gabriele </td>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de usuário</a> </td>
-        <td> 1.5  </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/">Histórias de usuário</a> </td>
+        <td> 1.6  </td>
         <td> 17/12/2024 </td>
-        <td> <a href="http://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
+        <td> Alana Gabriele </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/">NFR Framework</a> </td>
-        <td> 1.0 </td>
-        <td> 11/12/2024 </td>
-        <td> <a href="http://github.com/an4catarina">Ana Catarina Santos</a> </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/">NFR Framework</a> </td>
+        <td> 1.4 </td>
+        <td> 17/12/2024 </td>
+        <td> Alana Gabriele </td>
     </tr>
 </tbody>
 </table>
@@ -80,7 +80,7 @@ Se forem feitas observações, elas aparecerão ao final da tabela ao qual se re
 
 ### Lista de verificação para itens de padronização e desenvolvimento do projeto
 
-Na Tabela 2, estão listados os critérios gerais que devem ser verificados em todos os artefatos da Entrega 3 do Grupo 6.
+Na Tabela 2, estão listados os critérios gerais que devem ser verificados em todos os artefatos da Entrega 3 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 2 -</b> Lista de verificação para itens de padronização e desenvolvimento do projeto</p></font>
@@ -133,7 +133,7 @@ Na Tabela 2, estão listados os critérios gerais que devem ser verificados em t
 
 ### Lista de verificação do Backlog
 
-Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Backlog](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/) do Grupo 6.
+Na tabela 3, estão listados os critérios que devem ser verificados no artefato [Backlog](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/backlog/) do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 3 -</b> Lista de verificação para o artefato Backlog</p></font>
@@ -192,7 +192,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados no artefato
 
 ### Lista de verificação para Validação das Histórias de Usuário
 
-Na Tabela 4, estão listados os critérios gerais que devem ser verificados no artefato de [Histórias de Usuário](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/) da Entrega 4 do Grupo 6.
+Na Tabela 4, estão listados os critérios gerais que devem ser verificados no artefato de [Histórias de Usuário](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/historiaUsuario/) da Entrega 4 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 4 - </b> Lista de verificação para o artefato Validação das Histórias de Usuário</p></font>
@@ -268,7 +268,7 @@ Na Tabela 4, estão listados os critérios gerais que devem ser verificados no a
 
 ### Lista de verificação para NFR Framework
 
-Na Tabela 5, estão listados os critérios gerais que devem ser verificados no artefato de [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) da Entrega 4 do Grupo 6.
+Na Tabela 5, estão listados os critérios gerais que devem ser verificados no artefato de [NFR Framework](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/agil/nfrFramework/) da Entrega 4 do Grupo 7.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 5 - </b> Lista de verificação para o artefato NFR Framework</p></font>
