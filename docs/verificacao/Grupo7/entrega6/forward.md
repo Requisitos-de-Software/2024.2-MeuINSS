@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Forward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/foward/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 19/01/2025.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Forward-From](https://requisitos-de-software.github.io/2024.2-Threads/Rastreabilidade/forwardFrom/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.2, de 19/01/2025.
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega6/planejamento/) [1].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 6 do Grupo 7 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega6/planejamento/) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de uma lista de verificação. Cada elemento será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados neste documento. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos para itens de padronização e desenvolvimento do projeto, e outro específico, direcionado exclusivamente ao artefato de Forward-From.
 
@@ -104,48 +104,7 @@ Foi identificado um problema no nome do artefato na guia lateral. Já foi corrig
 
 ### Verificação para o artefato Forward-From
 
-Nenhum problema foi identificado na verificação realizada para o artefato Forward-From. 
-
-## Resultados
-
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Forward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/foward/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não", "Não se aplica" e "Incompleto" obtidos durante a verificação.
-
-### Verificação para itens de padronização e desenvolvimento do projeto
-
-No Gráfico 1, está registrado os resultados obtidos na verificação do artefato [Forward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/foward/) em relação aos itens de padronização e desenvolvimento do projeto.
-
-<div align="center">
-  <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
-
-   <img src="../imagens/sim.jpg">
-    </div>
-
-
-### Verificação para o artefato Forward-From
-
-No Gráfico 2, está registrado os resultados obtidos na verificação do artefato [Forward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/foward/) em relação à verificação do próprio artefato.
-
-<div align="center">
-  <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato Forward-From
-</p>
-    <img src="../imagens/sim.jpg">
-    <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p></font>
-
-</div>
-
-## Vídeo da verificação
-
-No vídeo 1, encontra-se a verificação para o artefato Forward-From.
-
-<div align="center">
-
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=wyiecWD9LuA" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Forward-From</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyiecWD9LuA?si=jyaR992rEEWi5kSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p></font>
-</div>
-
+Os elos não foram identificados.
 
 ## Referências bibliográficas
 
