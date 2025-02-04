@@ -34,7 +34,7 @@ Na Tabela 1, é possível observar os resultados obtidos na verificação para i
    <tr>
       <td>1</td>
       <td>O artefato possui histórico de versão padronizado?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>2</td>
@@ -44,7 +44,7 @@ Na Tabela 1, é possível observar os resultados obtidos na verificação para i
     <tr>
       <td>3</td>
       <td>O artefato possui bibliografia e/ou referência bibliográfica?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>4</td>
@@ -122,7 +122,7 @@ No Gráfico 1, está representado os dados da verificação do artefato no que s
 <div align="center">
   <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
 
-   <img src="../imagens/ucgeral.png"  width="400" height="300">
+   <img src="../imagens/APP aval pad.png"  width="400" height="300">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, 2025</p></font>
 </div>
 

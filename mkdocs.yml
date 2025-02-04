@@ -81,6 +81,7 @@ nav:
     - "RF 11 - Acessar comunidades no INSS": validacao/validacao1/RF11.md
     - "RF 13 - Acessar comunidades no INSS": validacao/validacao1/RF13.md
     - "RF 25 - Consulta e pagamento de pensões": validacao/validacao1/RF25.md
+    - "RF 27 - Censurar dados sensíveis": validacao/validacao1/RF27.md
     - "RF 28 - Agendar horário em uma agência do INSS": validacao/validacao1/RF28.md
   - Verificação:
     - Grupo 6:
