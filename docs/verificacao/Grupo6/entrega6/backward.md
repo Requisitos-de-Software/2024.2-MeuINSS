@@ -129,7 +129,7 @@ Nenhum problema foi identificado na verificação realizada para itens de padron
 
 ### Verificação para o artefato Backward-From
 
-Nenhum problema foi identificado na verificação realizada para o artefato Backward-From. 
+As informações não estão classificadas nos níveis: ambiental, organizacional, gerencial e desenvolvimento.
 
 ## Resultados
 
@@ -153,7 +153,7 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato Backward-From
 </p>
-    <img src="../imagens/sim.jpg">
+    <img src="../imagens/nao.png">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p></font>
 
 </div>
