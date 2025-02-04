@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.2, de 08/12/2024.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-Threads/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.1, de 06/12/2024.
 
 ## Metodologia
 
-A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/) [1].
+A metodologia e o planejamento da verificação desse artefato foram definidos no documento de [Planejamento da Verificação da Etapa 3 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/planejamento/) [1].
 
 A abordagem adotada neste documento consiste em uma inspeção por meio de uma lista de verificação. Cada elemento será analisado, e caso seja identificada alguma divergência, ela será devidamente documentada na seção destinada aos problemas encontrados neste documento. No total, serão empregados dois tipos de checklists: um de caráter abrangente, que foi destinado a todos os artefatos para itens de padronização e desenvolvimento do projeto, e outro específico, direcionado exclusivamente ao artefato de Especificação Suplementar.
 
@@ -85,7 +85,7 @@ Na Tabela 2, encontram-se os resultados obtidos na verificação do artefato Esp
     <tr>
       <td>2</td>
       <td>A especificação suplementar possui a descrição de requisitos não funcionais?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>3</td>
@@ -121,12 +121,12 @@ Na Tabela 2, encontram-se os resultados obtidos na verificação do artefato Esp
     <tr>
       <td>9</td>
       <td>A especificação suplementar possui as restrições do projeto (inclusive relacionadas a design)?</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>10</td>
       <td>A especificação suplementar possui padrões aplicáveis (como normas a serem seguidas. Ex: WCAG, ISO)</td>
-      <td>Sim</td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -140,34 +140,34 @@ Nesta seção, relata-se os problemas eventualmente encontrados nas verificaçõ
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-Foi identificada uma tabela, a Tabela 1, que não estava sendo chamada no texto. O problema foi devidamente corrigido.
+Foi identificadas tabelas que não estão sendo chamadas no texto.
 
 ### Verificação para o artefato Especificação Suplementar
 
-Nenhum problema foi identificado na verificação realizada para o artefato Especificação Suplementar. 
+Foi identificado que a especificação suplementar não possui a definição de requisitos não funcionais, além disso, notou-se a falta de restrições de projeto e padrões que devem ser aplicados.
 
 ## Resultados
 
-Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não", "Não se aplica" e "Incompleto" obtidos durante a verificação.
+Nesta seção, serão apresentados os resultados obtidos na verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) por meio de um gráfico de pizza, no qual são apresentadas a quantidade de "Sim", "Não", "Não se aplica" e "Incompleto" obtidos durante a verificação.
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-No Gráfico 1, está registrado os resultados obtidos na verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/) em relação aos itens de padronização e desenvolvimento do projeto.
+No Gráfico 1, está registrado os resultados obtidos na verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) em relação aos itens de padronização e desenvolvimento do projeto.
 
 <div align="center">
   <p><b>Gráfico 1 - </b> Resultados da verificação para itens de padronização e desenvolvimento do projeto</p>
 
-   <img src="../imagens/padraocenarios.jpg">
+   <img src="../imagens/ESPA.jpg">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
 </div>
 
 ### Verificação para o artefato Especificação Suplementar
 
-No Gráfico 2, está registrado os resultados obtidos na verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/) em relação à verificação do próprio artefato.
+No Gráfico 2, está registrado os resultados obtidos na verificação do artefato [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-Threads/modelagem/especificacaoSuplementar/) em relação à verificação do próprio artefato.
 
 <div align="center">
   <p><b>Gráfico 2 - </b> Resultados da verificação para o artefato Especificação Suplementar</p>
-    <img src="../imagens/ucgeral.jpg">
+    <img src="../imagens/esppp.jpg">
     <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2025</p></font>
 
 </div>
@@ -176,9 +176,11 @@ No Gráfico 2, está registrado os resultados obtidos na verificação do artefa
 
 No vídeo 1, encontra-se a verificação para o artefato Especificação Suplementar.
 
+A verificação do artefato começa no minuto 12:48.
+
 <div align="center">
 
-<p style="text-align: center"><a href="https://youtu.be/Drudk31PH9w?si=5rFFastVIse9LJYg" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Especificação Suplementar</a></p>
+<p style="text-align: center"><a href="https://youtu.be/b1xOiMnnvI4?si=LflCwSA2GroPVVdO&t=768" target="blanket"><b>Vídeo 1 - </b> Verificação do artefato Especificação Suplementar</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Drudk31PH9w?si=5rFFastVIse9LJYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -188,7 +190,7 @@ No vídeo 1, encontra-se a verificação para o artefato Especificação Supleme
 
 ## Referências bibliográficas
 
-> [1] FORTUNATO, Júlia. [Planejamento da Verificação da Etapa 3 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega3/planejamento/), 2025. Acesso em: 02 de fevereiro de 2025.
+> [1] FORTUNATO, Júlia. [Planejamento da Verificação da Etapa 3 do Grupo 7 (2024.2) - Threads](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/planejamento/), 2025. Acesso em: 03 de fevereiro de 2025.
 
 ## Bibliografia
 
@@ -203,4 +205,4 @@ No vídeo 1, encontra-se a verificação para o artefato Especificação Supleme
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 02/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
+| `1.0`  | 03/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
