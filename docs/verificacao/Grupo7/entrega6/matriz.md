@@ -53,7 +53,7 @@ Na Tabela 1, encontram-se os resultados obtidos na verificação para itens de p
     <tr>
       <td>5</td>
       <td>O artefato possui um texto fazendo introdução dele?</td>
-      <td>Incompleto</td> nao ta escrito introdução
+      <td>Incompleto</td> 
     </tr>
   </tbody>
 </table>
@@ -120,7 +120,7 @@ Nesta seção, relata-se os problemas eventualmente encontrados nas verificaçõ
 
 ### Verificação para itens de padronização e desenvolvimento do projeto
 
-Tabela 1 não foi chamada.
+Tabela 1 não foi chamada e nao possui o tópico introdução.
 
 ### Verificação para o artefato Matriz de rastreabilidade
 
