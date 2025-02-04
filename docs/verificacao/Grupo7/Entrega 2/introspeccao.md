@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Introspecção](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Perfil_Do_Usuario/) elaborado pelo [Grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 23/11/2024.
+Esta documentação tem como objetivo relatar os resultados da verificação por inspeção do artefato [Introspecção](https://requisitos-de-software.github.io/2024.2-Threads/Elicitacao/tecnicas/introspeccao/) elaborado pelo [Grupo 7](https://requisitos-de-software.github.io/2024.2-Threads/) na disciplina de Requisitos de Software, no semestre de 2024.2. Será analisado o artefato feito pelos integrantes do grupo em sua última versão, 1.0, de 23/11/2024.
 
 ## Metodologia
 
