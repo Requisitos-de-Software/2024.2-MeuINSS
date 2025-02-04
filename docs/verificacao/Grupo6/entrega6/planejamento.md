@@ -167,14 +167,14 @@ Na tabela 3, estão listados os critérios que devem ser verificados no artefato
       <td>3</td>
       <td>A matriz possui alguma legenda para identificação dos termos?</td>
       <td>Slides da Aula 26 da Professora Milene Serrano. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf"> Aula 26 </a> Acesso em: 03 fevereiro 2025.</td>
-      <td><img src="../imagens/M3.png"></td>
+      <td></td>
       <td><a href="https://github.com/CristianoMoraiss"> Cristiano Morais </a></td>
     </tr>
     <tr>
       <td>4</td>
       <td>Os requisitos estão rastreáveis?</td>
       <td>Slides da Aula 26 da Professora Milene Serrano. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf"> Aula 26 </a> Acesso em: 03 fevereiro 2025.</td>
-      <td><img src="../imagens/M4.png"></td>
+      <td></td>
       <td><a href="https://github.com/CristianoMoraiss"> Cristiano Morais </a></td>
     </tr>
     <tr>
@@ -188,7 +188,7 @@ Na tabela 3, estão listados os critérios que devem ser verificados no artefato
       <td>6</td>
       <td>Hyperlinks para os elos de cada requisito?</td>
       <td>Slides da Aula 26 da Professora Milene Serrano. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf"> Aula 26 </a> Acesso em: 03 fevereiro 2025.</td>
-      <td><img src="../imagens/M6.png"></td>
+      <td></td>
       <td><a href="https://github.com/mauricio-araujoo"> Maurício Ferreira </a></td>
     </tr>
   </tbody>
