@@ -1,10 +1,10 @@
-# Planejamento da Verificação da Etapa 2 do Grupo 6 (2024.2) - Meu INSS
+# Planejamento da Verificação da Etapa 2 do Grupo 7 (2024.2) - Threads
 
 ## Introdução
 
 A verificação e validação (V&V) são etapas essenciais no ciclo de desenvolvimento e de vida de um software, que efetivamente dá suporte para a qualidade e a confiabilidade dos artefatos construídos. A verificação consiste em uma análise criteriosa dos artefatos, assegurando que estejam em conformidade com os requisitos estabelecidos e os padrões técnicos necessários.
 
-Neste contexto, este documento tem como propósito realizar a verificação da [segunda entrega](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Perfil_Do_Usuario/) do Grupo 6, que desenvolveu artefatos ligados ao aplicativo do Meu INSS na disciplina de Requisitos de Software, na Universidade de Brasília, no período do segundo semestre de 2024.
+Neste contexto, este documento tem como propósito realizar a verificação da [segunda entrega](https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Perfil_Do_Usuario/) do Grupo 6, que desenvolveu artefatos ligados ao aplicativo do Threads na disciplina de Requisitos de Software, na Universidade de Brasília, no período do segundo semestre de 2024.
 
 ## Objetivos
 

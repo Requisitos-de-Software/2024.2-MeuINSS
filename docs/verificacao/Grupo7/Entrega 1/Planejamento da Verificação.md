@@ -1,9 +1,9 @@
-# Planejamento da Verificação da Etapa 1 (Planejamento do Projeto) do Grupo 6 (2024.2) - Meu INSS
+# Planejamento da Verificação da Etapa 1 (Planejamento do Projeto) do Grupo 7 (2024.2) - Threads
 
 ## Introdução
 
 
-Verificação e validação são processos fundamentais no desenvolvimento de software. A verificação garante que o software está sendo construído corretamente, de acordo com as especificações, enquanto a validação assegura que ele atende às necessidades do usuário final. Ambos são essenciais para garantir a qualidade e confiabilidade do produto [1]. No presente artefato buscou-se mostrar, de forma clara, como foi organizado a verificação dos artefatos produzidos na etapa 1 (Planejamento do Projeto) para o aplicativo Meu INSS na disciplina de requisitos de software.
+Verificação e validação são processos fundamentais no desenvolvimento de software. A verificação garante que o software está sendo construído corretamente, de acordo com as especificações, enquanto a validação assegura que ele atende às necessidades do usuário final. Ambos são essenciais para garantir a qualidade e confiabilidade do produto [1]. No presente artefato buscou-se mostrar, de forma clara, como foi organizado a verificação dos artefatos produzidos na etapa 1 (Planejamento do Projeto) para o aplicativo Threads na disciplina de requisitos de software.
 
 ## Objetivos
 
