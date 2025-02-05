@@ -164,6 +164,7 @@ nav:
           - Forward-from: verificacao/Grupo7/entrega6/forward.md
   - Projeto Final:
     - "Execução do Projeto": projetofinal/execucao.md
+    - "Artefatos Criados": projetofinal/artefatoscriados.md
     
 theme:
   name: material

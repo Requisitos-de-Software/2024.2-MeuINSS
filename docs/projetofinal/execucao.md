@@ -42,4 +42,4 @@ Essa organização oferece um guia sobre o projeto desenvolvido, e também desta
 
 | Versão | Data       | Descrição                | Autor(es)            | Revisor(es)       |
 | ------ | ---------- | ------------------------- | ----------------- | ------------ |
-| `1.0`  | 05/02/2024 | Criação do documento | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo)   |
+| `1.0`  | 05/02/2025 | Criação do documento | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo)   |
