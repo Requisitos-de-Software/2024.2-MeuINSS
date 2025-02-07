@@ -167,13 +167,13 @@ No vídeo 1, encontra-se a verificação para o artefato Matriz de rastreabilida
 
 ## Referências bibliográficas
 
-> [1] BOMFIM, Nicolas. [Planejamento da Verificação da Etapa 6 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega6/planejamento/), 2025. Acesso em: 06 de fevereiro de 2025.
+> [1] BOMFIM, Nicolas. [Planejamento da Verificação da Etapa 6 do Grupo 6 (2024.2) - Meu INSS](https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/entrega6/planejamento/), 2025. Acesso em: 03 de fevereiro de 2025.
 
 ## Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em:  06 de fevereiro de 2025.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 26. s.d. Slide 8-11 de 35. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf>. Acesso em:  03 de fevereiro de 2025.
 
-> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 06 de fevereiro de 2025.
+> SALES, André. Plano de Ensino de Requisitos de Software (UnB) 2024.2. 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/53/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf>. Acesso em: 03 de fevereiro de 2025.
 
 
 ## Histórico de versões
