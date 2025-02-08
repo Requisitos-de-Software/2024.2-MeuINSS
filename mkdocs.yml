@@ -163,8 +163,16 @@ nav:
           - Backward-from: verificacao/Grupo7/entrega6/backward.md
           - Forward-from: verificacao/Grupo7/entrega6/forward.md
   - Projeto Final:
-    - "Execução do Projeto": projetofinal/execucao.md
-    - "Artefatos Criados": projetofinal/artefatoscriados.md
+    - Aplicativo Escolhido: projetofinal/app_escolhido.md
+    - Planejamento dos Recursos e das Entregas: projetofinal/planejamento.md
+    - Execução do Projeto: projetofinal/execucao.md
+    - Técnicas Utilizadas: projetofinal/tecnicas.md
+    - Artefatos Criados: projetofinal/artefatoscriados.md
+    - Ferramentas Utilizadas: projetofinal/ferramentas.md
+    - Apresentações: projetofinal/apresentacoes.md
+    - Método de Verificação e Validação: projetofinal/metodoverifevalid.md
+    - Resultados Alcançados: projetofinal/resultados.md
+    - Considerações Finais: projetofinal/consideracoes.md
     
 theme:
   name: material
