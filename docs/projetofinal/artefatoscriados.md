@@ -162,7 +162,7 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
           <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> 
     </tr>
     <tr>
-      <td rowspan="16">Etapa 2 - Elicitação de Requisitos</td>
+      <td rowspan="15">Etapa 2 - Elicitação de Requisitos</td>
           <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Perfil_Do_Usuario/">Perfil do Usuário</a></td>
         <td>
           <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
@@ -233,13 +233,6 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
         </td>
      </tr>
      <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/first_things_first/">First Things First</a></td>
-         <td>
-            <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br>
-            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>  
-        </td>
-     </tr>
-     <tr>
           <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/three_level_scale/">Three Level Scale</a></td>
          <td>
              <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
@@ -249,8 +242,7 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
      <tr>
           <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/100dol/">$100</a></td>
          <td>
-            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br>
-            <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+            <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
             <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> <br>
         </td>
      </tr>
