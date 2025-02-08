@@ -1,4 +1,4 @@
-# RichPicture
+# Cronograma Planejado
 
 ## Introdução
 

@@ -1,4 +1,4 @@
-# RichPicture
+# Aplicativos Avaliados
 
 ## Introdução
 

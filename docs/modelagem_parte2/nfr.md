@@ -401,4 +401,4 @@ Pode-se observar a propagação de impacto do softgoal Desempenho através da fi
 
 | Versão | Data       | Descrição            | Autor                   |         Revisor         |
 | :----: | ---------- | -------------------- | ----------------------- | :---------------------: |
-| `1.0`  | 11/12/2024 | Criação do documento e adição dos cartões de especificação | [Ana Catarina Santos](https://github.com/an4catarina) |[Nicolas Bomfim](https://github.com/nickgehjk)|
+| `1.0`  | 11/12/2024 | Criação do documento;adição dos cartões de especificação; adição do conteúdo | [Ana Catarina Santos](https://github.com/an4catarina) <br> [Cristiano Moraes](http://github.com/CristianoMoraiss) <br> [Júlia Fortunato](http://github.com/julia-fortunato) <br> [Maurício Ferreira](https://github.com/mauricio-araujoo) <br> [Nicolas Bomfim](http://github.com/nickgehjk) |[Nicolas Bomfim](https://github.com/nickgehjk)|

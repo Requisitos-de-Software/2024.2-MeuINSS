@@ -1,4 +1,4 @@
-# RichPicture
+# Aplicativo Selecionado
 
 ## Introdução
 

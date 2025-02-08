@@ -1,4 +1,4 @@
-# RichPicture
+# Cronograma Executado
 
 ## Introdução
 

@@ -182,7 +182,7 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
           <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> 
     </tr>
     <tr>
-      <td rowspan="12">Etapa 2 - Elicitação de Requisitos</td>
+      <td rowspan="16">Etapa 2 - Elicitação de Requisitos</td>
           <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/Perfil_Do_Usuario/">Perfil do Usuário</a></td>
         <td>
           <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
@@ -253,379 +253,405 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
         </td>
      </tr>
      <tr>
-     <td rowspan="5">Etapa 3 - Modelagem de Requisitos</td>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/cenarios/">Cenários</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/first_things_first/">First Things First</a></td>
+         <td>
+            <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br>
+            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>  
+        </td>
+     </tr>
+     <tr>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/three_level_scale/">Three Level Scale</a></td>
+         <td>
+             <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+            <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> <br>
+        </td>
+     </tr>
+     <tr>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/elicitacao/100dol/">$100</a></td>
+         <td>
+            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br>
+            <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+            <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> <br>
+        </td>
+     </tr>
+     <tr>
+     <td rowspan="5">Etapa 3 - Modelagem de Requisitos (Parte 1)</td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/">Casos de uso</a></td>
         <td>
-          <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-          <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/casos-de-uso/">Casos de Uso</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/validacaoCasodeUso/">Validação dos Casos de Uso</a></td>
         <td>
-          <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
         </td>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/validacao-casos-de-uso/">Validação dos Casos de Uso</td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/">Cenários</td>
         <td>
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/">Especificação Suplementar</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/">Léxicos</a></td>
         <td>
-          <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-          <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/">Léxicos</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/">Especificação suplementar</a></td>
         <td>
-          <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-          <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
       </tr>
     <tr>
-      <td rowspan="3">Etapa 4 - Modelagem de Requisitos - Ágil</td>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/">Backlog</a></td>
+      <td rowspan="3">Etapa 4 - Modelagem de Requisitos (Parte 2) - Ágil</td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/">Backlog</a></td>
         <td>
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/historia-de-usuario/">Histórias de Usuário</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/">Histórias de Usuário</a></td>
         <td>
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/">NFR Framework</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/">NFR Framework</a></td>
         <td>
-          <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-          <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
     <tr>
-      <td rowspan="26">Etapa 5.1 - Verificação dos Artefatos I - Grupo 2</td>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-01/planejamento-verificacao-e1-grupo2/">Planejamento da verificação (checklist) Etapa 1</a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+      <td rowspan="70">Etapa 5 - Verificação e Validação </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Planejamento%20da%20Verifica%C3%A7%C3%A3o/">Planejamento da Verificação da Etapa 1</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-01/cronograma/">Verificação do artefato Cronograma </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/RichPicture/">Verificação do artefato Rich Picture </a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-01/ferramentas/">Verificação do artefato Ferramentas </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Heatmap%20de%20Disponibilidade/">Verificação do artefato Heatmap de Disponibilidade</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>  </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-01/aplicativos/">Verificação do artefato de Aplicativos </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Ferramentas/">Verificação do artefato Ferramentas</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td> 
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-01/heatmap/">Verificação do artefato de Heatmap </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Cronograma%20Planejado/">Verificação do artefato Cronograma Planejado </a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-01/rich_picture/">Verificação do artefato de Rich Picture</a> </td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a>  </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega 1/Cronograma Executado/">Verificação do artefato Cronograma Executado</a> </td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/planejamento-verificacao/">Planejamento da verificação (checklist) Etapa 2</a></td>
-        <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Aplicativos%20Avaliados/">Verificação do artefato Aplicativos Avaliados</a> </td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/questionario/">Verificação do artefato de Questionário </a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%201/Aplicativo%20Selecionado/">Verificação do artefato Aplicativo Selecionado</a> </td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/planejamento/">Planejamento da Verificação da Etapa 2</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
+    </tr>
+    <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/perfildeusuario/">Verificação do artefato Perfil de Usuário </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
         <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/personas/">Verificação do artefato de "Personas" </a></td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/personas/">Verificação do artefato Personas </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
     </tr>
         <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/storyboard/">Verificação do artefato de "Storyboard" </a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/encenacao/">Verificação do artefato Encenação</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
      <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/glossario/">Verificação do artefato de "Glossário"</a> </td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/entrevista/">Verificação do artefato Entrevista</a> </td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/entrevista/">Verificação do artefato de "Entrevista" </td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/introspeccao/">Verificação do artefato Introspeccção </td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
      <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/introspec%C3%A7ao/">Verificação do artefato de "Introspecção" </a></td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/observacao/">Verificação do artefato Observação </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
      <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/requisitos-elicitados/">Verificação do artefato de "Requisitos Elicitados"</a> </td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/glossario/">Verificação do artefato Glossário  </a> </td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/priorizacao/100%24/">Verificação do artefato de "100$" </a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/firstthingsfirst/">Verificação do artefato First Things First </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/priorizacao/first_things_first/">Verificação do artefato de "First things firts"</a> </td>
-       <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/threelevelscale/">Verificação do artefato Three Level Scale</a> </td>
+       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>  </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-02/priorizacao/three_level_scale/">Verificação do artefato de "Three level scale" </a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/Entrega%202/100dol/">Verificação do artefato $100 </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-03/planejamento-verificacao-e3-grupo2/">Planejamento da verificação (checklist) Etapa 3 </a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a> <br> <a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega3/planejamento/">Planejamento da Verificação da Etapa 3 </a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
     </tr>
       <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-03/casos-de-uso/">Verificação do artefato Casos de uso</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega3/casodeuso/">Verificação do artefato Casos de uso</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-03/especificacao-suplementar/">Verificação do artefato Especificação Suplementar </a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega3/validcasodeuso/">Verificação do artefato Validação dos Casos de Uso</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-03/cenarios/">Verificação do artefato Cenários</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega3/cenarios/">Verificação do artefato Cenários</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
        <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-03/lexicos/">Verificação do artefato Léxicos</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega3/lexicos/">Verificação do artefato Léxicos</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    </tr>
+       <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega3/espsuplementar/">Verificação do artefato Especificação Suplementar</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-04/planejamento-verificacao-e4-grupo2/">Planejamento da verificação (checklist) Etapa 4 </a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a><br><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega4/planejamento/">Planejamento da Verificação da Etapa 4 </a></td>
+      <td> <a href="https://github.com/an4catarina">Ana Catarina</a> </td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-04/nfr_framework/">Verificação do artefato NFR Framework </a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega4/backlog/">Verificação do artefato Backlog </a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> </td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-04/product-backlog/">Verificação do artefato Product Backlog</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega4/US/">Verificação do artefato Histórias de Usuário</a></td>
+      <td> <a href="https://github.com/an4catarina">Ana Catarina</a>  </td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-02/Entrega-04/historias-do-usuario/">Verificação do artefato Histórias do usuário</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <td rowspan="42">Etapa 5.2 - Verificação dos Artefatos I - Grupo 1</td>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/planejamento-verificacao-e1-grupo1/">Planejamento da verificação (checklist) Etapa 1</a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega4/NFR/">Verificação do artefato NFR Framework</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/cronograma_planejado/">Verificação do artefato Cronograma planejado </a></td>
-        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega6/planejamento/">Planejamento da Verificação da Etapa 6 </a></td>
+      <td>  <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/cronograma_executado/">Verificação do artefato de Cronograma executado </a></td>
-        <td> <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> </td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega6/matriz/">Verificação do artefato Matriz de Rastreabilidade</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/ferramentas/">Verificação do artefato Ferramentas </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega6/backward/">Verificação do artefato Backward From</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/rich_picture/">Verificação do artefato de Rich Picture </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo6/entrega6/forward/">Verificação do artefato Forward From</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/heatmap/">Verificação do artefato de Heatmap </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Planejamento%20da%20Verifica%C3%A7%C3%A3o/">Planejamento da Verificação da Etapa 1 (Grupo + 1) </a></td>
+      <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/app_avaliados/">Verificação do artefato de Lista de aplicativos avaliados </a></td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/RichPicture/">Verificação do artefato Rich Picture (Grupo +1)</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-01/app_escolhido/">Verificação do artefato de Aplicativo escolhido</a> </td>
-        <td> <a href="https://github.com/GZaranza">Gabriel Zaranza</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Heatmap%20de%20Disponibilidade/">Verificação do artefato Heatmap de Disponibilidade (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>  </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/planejamento-verificacao-e2-grupo1/">Planejamento da verificação (checklist) Etapa 2</a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Ferramentas/">Verificação do artefato Ferramentas (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td> 
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/100%24/">Verificação do artefato de "100$" </a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Cronograma%20Planejado/">Verificação do artefato Cronograma Planejado (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/Grupo-de-foco/">Verificação do artefato de "Grupo de Foco" </a></td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Cronograma%20Executado/">Verificação do artefato Cronograma Executado (Grupo + 1)</a> </td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/questionario/">Verificação do artefato de "Questionário" </a></td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Aplicativos%20Avaliados/">Verificação do artefato Aplicativos Avaliados (Grupo + 1)</a> </td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/perfil-de-usuario/">Verificação do artefato de "Perfil do Usuário" </a></td>
-        <td> <a href="https://github.com/izabelaalves">Izabela Alves</a><br><a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%201/Aplicativo%20Selecionado/">Verificação do artefato Aplicativo Selecionado (Grupo + 1)</a> </td>
+        <td> <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/personas/">Verificação do artefato de "Personas" </a></td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a>  </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/planejamento/">Planejamento da Verificação da Etapa 2 (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/first-thing-first/">Verificação do artefato de "First thing first"</a> </td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/perfildeusuario/">Verificação do artefato Perfil de Usuário (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+        <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/personas/">Verificação do artefato Personas (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+        <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/encenacao/">Verificação do artefato Encenação (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
+    </tr>
+     <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/entrevista/">Verificação do artefato Entrevista (Grupo + 1)</a> </td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/brainstorming/">Verificação do artefato de "Brainstorming" </td>
-        <td> <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/introspeccao/">Verificação do artefato Introspeccção (Grupo + 1)</td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
+    </tr>
+     <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/observacao/">Verificação do artefato Observação (Grupo + 1) </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
+    </tr>
+     <tr>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/glossario/">Verificação do artefato Glossário (Grupo + 1)  </a> </td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/introspec%C3%A7%C3%A3o/">Verificação do artefato de "Introspecção" </a></td>
-        <td> <a href="https://github.com/izabelaalves">Izabela Alves</a><br><a href="https://github.com/Lucas13032003">Lucas Victor</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/firstthingsfirst/">Verificação do artefato First Things First (Grupo + 1) </a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/observacao/">Verificação do artefato de "Observação"</a> </td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> <a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/threelevelscale/">Verificação do artefato Three Level Scale (Grupo + 1)</a> </td>
+       <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>  </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/in-our-out/">Verificação do artefato de "In or out"</a> </td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/Entrega%202/100dol/">Verificação do artefato $100 (Grupo + 1)</a></td>
+        <td> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/requisitos-elicitados/">Verificação do artefato de "Requisitos elicitados"</a> </td>
-       <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
-    </tr>
-    <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-02/requisitos-priorizados/">Verificação do artefato de "Requisitos priorizados" </a></td>
-        <td> <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> </td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/planejamento-verificacao-e3-grupo1/">Planejamento da verificação (checklist) Etapa 3 </a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a><br><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/cenarios/">Verificação do artefato Cenários </a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/lexicos/">Verificação do artefato Léxicos</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/casos-de-uso/">Verificação do artefato Casos de Uso</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/validacao-uc/">Verificação do artefato Validação dos casos de uso</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-03/especificacao-suplementar/">Verificação do artefato Especificação Suplementar</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-04/planejamento-verificacao-e4-grupo1/">Planejamento da verificação (checklist) Etapa 4 </a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-04/backlog/">Verificação do artefato Backlog </a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-04/historia_de_usuario/">Verificação do artefato História de Usuário</a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-04/nfr_framework/">Verificação do artefato NFR framework</a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/planejamento-verificacao-e6-grupo1/">Planejamento da verificação (checklist) Etapa 6 </a></td>
-      <td> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/backward-fromc/">Verificação do artefato Backward-from </a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/forward-fromc/">Verificação do artefato Forward-from</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/verificacao/Grupo-01/Entrega-06/matriz_de_rastreabilidadec/">Verificação do artefato Matriz de rastreabilidade</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro_da_placa_veiculo/">Validação "Cadastro da Placa do Veículo"</a></td>
-      <td><a href="https://github.com/gabrielrosa09">Gabriel Rosa</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/consultar-saldo-notalegal/">Validação "Mostrar o saldo do usuário no programa Nota Legal"</a></td>
-      <td><a href="https://github.com/GZaranza">Gabriel Zaranza</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/divida-ativa/">Validação "Emitir Segunda Via da Dívida Ativa"</a></td>
-      <td><a href="https://github.com/izabellaalves">Izabella Alves</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/planejamento/">Planejamento da Verificação da Etapa 3 (Grupo + 1) </a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
     </tr>
       <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/aumentar-fonte/">Validação "Aumentar a fonte"</a></td>
-      <td><a href="https://github.com/lucassouzs">Lucas Ribeiro</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro-de-imovel/">Validação "Cadastro de imóvel com apenas 8 números"</a></td>
-      <td><a href="https://github.com/Lucas13032003">Lucas Victor</a></td>
-    </tr>
-      <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/cadastro-renavam/">Validação "Cadastrar RENAVAM"</a></td>
-      <td><a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/casodeuso/">Verificação do artefato Casos de uso (Grupo + 1)</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
     </tr>
     <tr>
-      <td><a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/validacao/fazer-logout/">Validação "Garantir que ao fechar o aplicativo o usuário seja deslogado"</a></td>
-      <td><a href="https://github.com/zenildavieira">Zenilda Vieira</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/cenarios/">Verificação do artefato Cenários (Grupo + 1)</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+       <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/lexicos/">Verificação do artefato Léxicos (Grupo + 1)</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    </tr>
+       <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega3/espsuplementar/">Verificação do artefato Especificação Suplementar (Grupo + 1)</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega4/planejamento/">Planejamento da Verificação da Etapa 4 (Grupo + 1)</a></td>
+      <td> <a href="https://github.com/an4catarina">Ana Catarina</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega4/backlog/">Verificação do artefato Backlog (Grupo + 1)</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega4/US/">Verificação do artefato Histórias de Usuário (Grupo + 1)</a></td>
+      <td> <a href="https://github.com/an4catarina">Ana Catarina</a>  </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega4/NFR/">Verificação do artefato NFR Framework (Grupo + 1)</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega6/planejamento/">Planejamento da Verificação da Etapa 6 (Grupo + 1) </a></td>
+      <td>  <a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega6/matriz/">Verificação do artefato Matriz de Rastreabilidade (Grupo + 1)</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega6/backward/">Verificação do artefato Backward From (Grupo + 1)</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/verificacao/Grupo7/entrega6/forward/">Verificação do artefato Forward From (Grupo + 1)</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/validacao/validacao1/RF11/">Validação do requisito funcional não implementado - Acessar impacto de contribuição</a></td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/validacao/validacao1/RF13/">Validação do requisito funcional não implementado - Acessar comunidades no INSS</a></td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/validacao/validacao1/RF25/">Validação do requisito funcional não implementado - Consulta e pagamento de pensões</a></td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/validacao/validacao1/RF27/">Validação do requisito funcional não implementado - Censurar dados sensíveis</a></td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bomfim</a> </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/validacao/validacao1/RF28/">Validação do requisito funcional não implementado - Agendar horário em uma agência do INSS</a></td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a> </td>
     </tr>
     <tr>
       <td rowspan="3">Etapa 6 - Pós-Rastreabilidade</td>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/">Backward From</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/matriz/">Matriz de Rastreabilidade</a></td>
         <td>
-          <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-          <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/forward_from/">Foward From</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/backward-from/">Backward From</a></td>
         <td>
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-          <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+          <a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+          <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
         </td>
       </tr>
       <tr>
-          <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade/">Matriz de Rastreabilidade</a></td>
+          <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/foward/">Forward From</a></td>
         <td>
-          <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-          <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-          <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+          <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+          <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+          <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> 
         </td>
     </tr>
     <tr>
