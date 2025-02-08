@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Esse documento apresenta uma tabela com os links de todos os artefatos criados em cada etapa do projeto com os nomes dos integrantes do grupo que participaram da elaboração.
+Esse documento apresenta uma tabela com hyperlinks para todos os artefatos criados em cada etapa do projeto, com os nomes dos integrantes do grupo que participaram da elaboração do mesmo.
 
-No total foram 134 documentos e 46 vídeos gravados durante o projeto.
+No total foram produzidos 130 documentos e 48 vídeos durante o projeto.
 
 ## Tabela de artefatos
 
@@ -30,7 +30,7 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
         </td>
     </tr>
     <tr>
-      <td rowspan="17">Atas das Reuniões</td>
+      <td rowspan="7">Atas das Reuniões</td>
         <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/atas/Reuniao01_23.10.2024/">Reunião 1</a> </td>
         <td>
             <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br>   <a href="https://github.com/an4catarina">Ana Catarina</a> 
@@ -71,26 +71,6 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
         <td>
             <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
         </td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
     </tr>
     <tr>
       <td rowspan="8">Apresentações</td>
@@ -656,69 +636,63 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
     </tr>
     <tr>
       <td rowspan="10">Etapa Final</td>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/app_escolhido/">Aplicativo Escolhido</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/app_escolhido/">Aplicativo Escolhido</a> </td>
         <td>
-          <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+          <a href="https://github.com/an4catarina">Ana Catarina</a>  
       </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/planejamento-recursos-e-entregas/">Planejamento dos Recursos e das Entregas</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/planejamento/">Planejamento dos Recursos e das Entregas</a> </td>
         <td>
-            <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
+            <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
        </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/execucao-projeto/">Execução do Projeto</a>  </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/execucao/">Execução do Projeto</a>  </td>
         <td>
-            <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
+            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/resultados-alcan%C3%A7ados/">Resultados Alcançados</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/tecnicas/">Técnicas Utilizadas</a> </td>
         <td>
-            <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
+            <a href="https://github.com/an4catarina">Ana Catarina</a>  <br> 
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/tecnicas_utilizadas/">Técnicas Utilizadas</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/artefatoscriados/">Artefatos Criados</a> </td>
         <td>
-            <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
+            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/artefatos-criados/#historico-de-versoes">Artefatos Criados</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/ferramentas/">Ferramentas Utilizadas</a> </td>
         <td>
-            <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+            <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/verificacoes/">Métodos de Verificação e Validação</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/apresentacoes/">Apresentações</a> </td>
         <td>
-           <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
+           <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/sintese-de-ferramentas-utilizadas/">Ferramentas Utilizadas</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/metodoverifevalid/">Método de Verificação e Validação</a> </td>
         <td>
-            <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
+            <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/tabela-apresentacoes/">Apresentações</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/resultados/">Resultados alcançados</a> </td>
         <td>
-            <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+            <a href="https://github.com/zenildavieira">MUDAR</a>
        </td>
     </tr>
     <tr>
-        <td>  <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/facilidades-e-dificuldades/">Facilidades e Dificuldades</a> </td>
+        <td>  <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/projetofinal/consideracoes/">Considerações Finais</a> </td>
         <td>
-            <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> <br> 
-            <a href="https://github.com/GZaranza">Gabriel Zaranza</a> <br> 
-            <a href="https://github.com/izabellaalves">Izabella Alves</a> <br> 
-            <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a> <br> 
-            <a href="https://github.com/lucassouzs">Lucas Ribeiro</a> <br> 
-            <a href="https://github.com/Lucas13032003">Lucas Victor</a> <br> 
-            <a href="https://github.com/zenildavieira">Zenilda Vieira</a>
+            <a href="https://github.com/gabrielrosa09">MUDAR</a> <br> 
        </td>
     </tr>
    </tbody>
@@ -741,6 +715,6 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
 
 ## Histórico de Versões
 
-| Versão | Data   | Descrição     | Autor(es)     |  Revisor(es)        |
+| Versão | Data   | Descrição     | Autor(es)     |  Revisor(es)  |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 05/02/2025 | Criação do documento  | [Júlia Fortunato](https://github.com/julia-fortunato) | [Maurício Ferreira](https://github.com/mauricio-araujoo) |
