@@ -84,6 +84,7 @@ nav:
     - "RF 25 - Consulta e pagamento de pensões": validacao/validacao1/RF25.md
     - "RF 27 - Censurar dados sensíveis": validacao/validacao1/RF27.md
     - "RF 28 - Agendar horário em uma agência do INSS": validacao/validacao1/RF28.md
+    - Comprovação informal: validacao/validacao1/comprovacaoinformal.md
   - Verificação:
     - Grupo 6:
       - Etapa 1:
