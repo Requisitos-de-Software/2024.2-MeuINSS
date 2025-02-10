@@ -2,39 +2,108 @@
 
 ## Introdução
 
-Uma maneira de organizar e visualizar o uso dessas ferramentas nos projetos é com tabelas sintetizada. Esta tabela fornece uma visão geral das etapas do projeto e indica as ferramentas específicas usadas em cada etapa. Isso permite visualizar com clareza quais recursos foram utilizados em cada fase, facilitando a comunicação entre os membros da equipe e contribuindo para uma gestão eficiente dos projetos. A tabela 1 apresenta a sintetização das ferramentas utilizadas no projeto.
+Uma forma de organizar e visualizar o uso dessas ferramentas nos projetos é por meio de tabelas sintetizadas. Essa tabela oferece uma visão geral das etapas do projeto e especifica as ferramentas utilizadas em cada uma delas. Isso possibilita uma clara visualização dos recursos empregados em cada fase, facilitando a comunicação entre os membros da equipe e contribuindo para uma gestão eficaz dos projetos. A Tabela 1 apresenta a síntese das ferramentas utilizadas no projeto.
 
 ## Tabela Sintetizada das Ferramentas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas utilizadas pela equipe</p></font>
 
-|                                                        Ferramenta                                                        |                                                                                                                                                                        Finalidade                                                                                                                                                                        |        Etapa        |
-| :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: |
-|          [GitHub](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)           |                                                                                                                                          Organizar, versionar e documentar artefatos produzidos para o projeto.                                                                                                                                          |        Todas        |
-|           [Teams](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)           |                                                                                                                                                  Realizações de reuniões e gravações de apresentações.                                                                                                                                                   |        Todas        |
-|           [Figma](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)           |                                                                                                                                                             Produção de artefatos gráficos.                                                                                                                                                              |      Etapa 5.2      |
-|          [MkDocs](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)           |                                                                                                                                                           Criação das páginas de documentação                                                                                                                                                            |        Todas        |
-|    [Visual Studio Code](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)     |                                                                                                                                                           Edição dos arquivos de documentação.                                                                                                                                                           |        Todas        |
-|         [WhatsApp](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)          |                                                                                                                                                      Utilizado como principal canal de comunicação                                                                                                                                                       |        Todas        |
-|          [Youtube](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)          |                                                                                                                                                             Hospedagem de vídeos produzidos.                                                                                                                                                             |        Todas        |
-|     [Google Planilhas](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)      |                                                                                                                                          Criação de planilhas relacionadas ao cronograma e horários e gráficos                                                                                                                                           | Etapas 2, 5.1 e 5.2 |
-|        [Google Docs](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)        |                                                                                                                                                         Criação e edição de tabelas e arquivos.                                                                                                                                                          |        Todas        |
-|       [Google Drive](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)        |                                                                                                                                         Compartilhamento de arquivos e ospedar vídeios da reuniões e gravações.                                                                                                                                          |        Todas        |
-|          [Draw.io](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/)          | Produção do [Rich Picture](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/pre-rastreabilidade/rich_picture/), [Casos de Uso](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/) e [NFR Framework](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/). |   Etapas 1, 3 e 4   |
-| [This Person Doesn't Exist](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/) |                                                                                                          Criação de imagens falsas para as [personas](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/personas/).                                                                                                           |       Etapa 2       |
+  <table>
+    <thead>
+      <tr>
+        <th>Ferramenta</th>
+        <th>Finalidade</th>
+        <th>Etapa</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://www.autentique.com.br/">Autentique</a></td>
+        <td>Ferramenta para assinatura e organização de contratos.</td>
+        <td>Etapa 5</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.canva.com/">Canva</a></td>
+        <td>Plataforma para design e criação de gráficos e diagramas, como o Rich Picture.</td>
+        <td>Etapas 1, 3, 4 e 5</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.figma.com/">Figma</a></td>
+        <td>Ferramenta para criação de protótipos de alta fidelidade.</td>
+        <td>Etapa 5</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/">GitHub</a></td>
+        <td>Plataforma de versionamento de código e armazenamento de documentos do projeto.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.google.com/docs/about/">Google Docs</a></td>
+        <td>Editor de texto para criação e revisão de documentos.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.google.com/sheets/about/">Google Sheets</a></td>
+        <td>Ferramenta para organização e controle de cronogramas e tarefas.</td>
+        <td>Etapas 1 e 2</td>
+      </tr>
+      <tr>
+        <td><a href="https://workspace.google.com/intl/pt-BR/products/forms/">Google Forms</a></td>
+        <td>Ferramenta para a criação de questionário.</td>
+        <td>Etapa 2</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.mkdocs.org/">MkDocs</a></td>
+        <td>Ferramenta para criar e manter a documentação de forma prática e organizada.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software">Microsoft Teams</a></td>
+        <td>Plataforma de comunicação para reuniões em equipe, compartilhamento de informações e gravação das apresentações.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://miro.com/app/dashboard/">Miro</a></td>
+        <td>Ferramenta de organização e alocação de tarefas.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://this-person-does-not-exist.com/pt">This Person Doesn't Exist</a></td>
+        <td>Plataforma de criação de imagens falsas para as personas.</td>
+        <td>Etapa 2</td>
+      </tr>                                                                                 
+      <tr>
+        <td><a href="https://code.visualstudio.com/">Visual Studio Code</a></td>
+        <td>Ambiente de desenvolvimento integrado (IDE) para edição de código e arquivos de documentação.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.whatsapp.com/">WhatsApp</a></td>
+        <td>Ferramenta de mensagens para comunicação rápida entre os membros da equipe.</td>
+        <td>Todas</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.youtube.com/">YouTube</a></td>
+        <td>Plataforma de hospedagem de vídeos, utilizada para compartilhar apresentações e vídeos técnicos.</td>
+        <td>Todas</td>
+      </tr>
+    </tbody>
+  </table>
 
-<font size="3"><p style="text-align: center">Fonte: [Matheus Henrique](https://github.com/mathonaut) e [Rafael Ferreira](https://github.com/RafaelCLG0).</p></font>
+  <p style="text-align: center; font-size: 0.9em;"><b>Autor:</b> <a href="https://github.com/nickgehjk">Nicolas Bomfim</a>, 2025</p>
+</div>
 
 ## Conclusão
 
-As ferramentas foram essenciais no desenvolvimento do trabalho, pois permitiram um aumento na eficiência e qualidade dos artefatos produzidos. Portanto, é recomendado que a escolha das mesmas seja realizada de acordo com a afinidade do grupo em relação a elas. Além disso, é desejável que não sejam introduzidas muitas ferramentas novas, pois elas demandam tempo de treinamento e adaptação da equipe, o que diminui a eficiência.
+As ferramentas desempenharam um papel fundamental no desenvolvimento do trabalho, contribuindo para aumentar a eficiência e a qualidade dos artefatos produzidos. Por isso, recomenda-se que a seleção dessas ferramentas seja feita considerando a familiaridade do grupo com elas. Além disso, é aconselhável evitar a introdução excessiva de ferramentas novas, uma vez que elas exigem tempo para treinamento e adaptação da equipe, o que pode reduzir a eficiência do processo.
 
 ## Bibliografia
 
-> . Acesso em: 06 de fevereiro de 2025.
+> Bilheteria Digital. Ferramentas Utilizadas. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/ferramentas-utilizadas/>. Acesso em: 06 de fevereiro de 2025.. Acesso em: 06 de fevereiro de 2025.
 
 ## Histórico de versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 06/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | []() |
+| `1.0`  | 06/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | [Ana Catarina Santos](https://github.com/an4catarina) |
