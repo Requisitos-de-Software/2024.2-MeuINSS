@@ -18,11 +18,13 @@ A metodologia adotada consiste no preenchimento da tabela conforme descrito na T
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/an4catarina">Ana Catarina Santos</a>, 2025</p></font>
 
+</center>
+
 ## Técnicas Utilizadas
 
 A Tabela 2 apresenta as técnicas empregadas no desenvolvimento do projeto.
 
-</center>
+<center>
 
 <font size="3"><p style="text-align: center">Tabela 2: Técnicas utilizadas</p></font>
 
@@ -47,6 +49,8 @@ A Tabela 2 apresenta as técnicas empregadas no desenvolvimento do projeto.
 
 
 <font size="3"><p style="text-align: center">Autor: [Ana Catarina Santos](https://github.com/an4catarina), 2025.</p></font>
+
+</center>
 
 ## Biblografia 
 

@@ -49,7 +49,7 @@ de quaisquer outros que venham a ser criados), em decorrência da navegação na
 
 ## Bibliografia
 
-> Meu INSS. Disponível em: https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US.. AAcesso em 10 de fev. 2025.
+> Meu INSS. Disponível em: https://play.google.com/store/apps/details?id=br.gov.dataprev.meuinss&hl=pt_BR&gl=US.. Acesso em 10 de fev. 2025.
 
 ## Histórico de Versão
 

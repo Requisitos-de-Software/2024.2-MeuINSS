@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A tabela 1 apresenta todos os vídeos de apresentação da equipe, mostrando também a origem de sua etapa e seus participantes.
+Este documento tem como objetivo sintetizar todas as apresentações feitas durante a execução do projeto. A Tabela 1 apresenta todos os vídeos de apresentação da equipe, mostrando também a origem de sua etapa e seus participantes.
 
 ## Tabela de Apresentações
 
@@ -66,4 +66,4 @@ A tabela 1 apresenta todos os vídeos de apresentação da equipe, mostrando tam
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 09/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | []() |
+| `1.0`  | 09/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | [Júlia Fortunato](https://github.com/julia-fortunato) |

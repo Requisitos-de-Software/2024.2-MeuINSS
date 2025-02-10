@@ -540,4 +540,4 @@ Cada membro do grupo se responsabilizou pela produção de um protótipo de alta
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 10/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) |  |
+| `1.0`  | 10/02/2025 | Criação do documento  | [Cristiano Morais](https://github.com/CristianoMoraiss) | [Júlia Fortunato](https://github.com/julia-fortunato) |
