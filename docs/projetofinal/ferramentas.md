@@ -39,6 +39,11 @@ Uma forma de organizar e visualizar o uso dessas ferramentas nos projetos é por
         <td>Todas</td>
       </tr>
       <tr>
+        <td><a href="https://gmail.com/">Gmail</a></td>
+        <td>Plataforma utilizada para enviar mensagem aos desenvolvedores do aplicativo Meu INSS.</td>
+        <td>Etapa 5 e 6</td>
+      </tr>
+      <tr>
         <td><a href="https://www.google.com/docs/about/">Google Docs</a></td>
         <td>Editor de texto para criação e revisão de documentos.</td>
         <td>Todas</td>
