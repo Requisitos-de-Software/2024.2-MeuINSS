@@ -26,8 +26,9 @@ No que tange as facilidades encontradas durante o projeto, acredito que o maior 
 
 As facilidades encontradas ao longo do projeto foram proporcionadas, em grande parte, pela sólida base teórica disponível, composta por materiais de fontes confiáveis e com uma vasta quantidade de conteúdos relevantes. Essa riqueza de informações permitiu que a equipe aprofundasse seu conhecimento e aplicasse os conceitos com maior segurança. Além disso, o comprometimento, a participação ativa e a organização do grupo foram fatores determinantes para a execução eficiente das atividades. A colaboração entre os integrantes tornou o processo mais dinâmico e produtivo, facilitando a compreensão da disciplina e contribuindo para a qualidade do projeto desenvolvido.
 
-
 ### Nicolas Bandeira
+
+Acredito que a ênfase que o professor dá ao referencial bibliográfico é extremamente enriquecedora, pois nos incentiva a basear nossas citações em informações com precedência e fundamentação teórica sólida.
 
 ## Dificuldades
 
@@ -49,8 +50,10 @@ Uma das principais dificuldades encontradas ao longo do desenvolvimento do proje
 
 ### Nicolas Bandeira
 
+No início, a frequência das entregas da disciplina pode parecer intimidadora. No entanto, com dedicação, ao longo do semestre, conseguimos nos adaptar ao ritmo, absorver a teoria apresentada em aula e aplicá-la no projeto.
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                | Autor(es)            | Revisor(es)       |
 | ------ | ---------- | ------------------------- | ----------------- | ------------ |
-| `1.0`  | 08/02/2025 | Criação do documento | [Maurício Ferreira](https://github.com/mauricio-araujoo) |    |
+| `1.0`  | 08/02/2025 | Criação do documento | [Maurício Ferreira](https://github.com/mauricio-araujoo) |  [Nicolas Bomfim](https://github.com/nickgehjk)  |
