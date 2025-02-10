@@ -66,6 +66,11 @@ Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do pr
         <td><a href="https://www.youtube.com/">YouTube</a></td>
         <td>Plataforma de hospedagem de vídeos, utilizada para compartilhar apresentações e vídeos técnicos.</td>
       </tr>
+      <tr>
+        <td><img src="../../imagens/ferramentas/figma.png" alt="Logo do Figma" width="90"></td>
+        <td><a href="https://www.figma.com/">Figma</a></td>
+        <td>Ferramenta para criação de protótipos de alta fidelidade.</td>
+      </tr>
     </tbody>
   </table>
 
@@ -84,6 +89,7 @@ Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do pr
 8. MICROSOFT. _Visual Studio Code_. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 2 nov. 2024.
 9. META. _WhatsApp_. Disponível em: [https://www.whatsapp.com/](https://www.whatsapp.com/). Acesso em: 2 nov. 2024.
 10. GOOGLE. _YouTube_. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 2 nov. 2024.
+10. Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 2 nov. 2024.
 
 ## Bibliografia
 
@@ -109,6 +115,13 @@ Esta seção apresenta as ferramentas adotadas ao longo do desenvolvimento do pr
         <td>1.0</td>
         <td>02/11/2024</td>
         <td>Criação e formação do documento</td>
+        <td><a href="https://github.com/an4catarina">Ana Catarina Santos</a></td>
+        <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+      </tr>
+      <tr>
+        <td>1.1</td>
+        <td>10/02/2025</td>
+        <td>Adição da ferramenta figma</td>
         <td><a href="https://github.com/an4catarina">Ana Catarina Santos</a></td>
         <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
       </tr>
