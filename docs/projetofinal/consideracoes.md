@@ -12,6 +12,8 @@ Para organizar a apresentação das dificuldades e facilidades de cada membro do
 
 ### Ana Catarina
 
+Minha experiência com Requisitos de Software foi importante. Desde o começo, vi como comunicação e trabalho em equipe são fundamentais. Meu grupo colaborou bem, o que fez toda a diferença no projeto.
+
 ### Cristiano Morais
 
 No desenvolvimento do projeto a maior facilidade que encontrei foi contar com um grupo bem estruturado juntamente com um ótimo desenvolvimento no que tange o conteúdo da matéria, através das aulas e do material disponibilizado pelo professor foi possível estudar e aprender os diversos aspectos que tangem a questão de requisitos de software, o trabalho desenvolvido agregou muito como uma base de conhecimento para o restante do curso e posteriormente para a minha carreira na área de software.
@@ -33,6 +35,8 @@ Acredito que a ênfase que o professor dá ao referencial bibliográfico é extr
 ## Dificuldades
 
 ### Ana Catarina
+
+Apesar dos desafios, como prazos curtos e entregas pesadas, cada obstáculo trouxe aprendizado. Aprendi o valor da documentação, da escuta ativa e de buscar soluções que funcionem para todos. Foi cansativo, mas valeu a pena.
 
 ### Cristiano Morais
 
