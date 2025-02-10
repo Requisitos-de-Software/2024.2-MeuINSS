@@ -533,6 +533,9 @@ Cada membro do grupo se responsabilizou pela produção de um protótipo de alta
 
 > [1] FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
+## Bibliografia
+> Projeto Economia-DF, 2023.2. Validação e Verificação. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/verificacoes/. Acesso em: 10 de fevereiro de 2025.
+
 ## Histórico de Versões
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
