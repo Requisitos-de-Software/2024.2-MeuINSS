@@ -29,4 +29,4 @@ A tabela 1 apresenta todos os vídeos de apresentação da equipe, mostrando tam
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 09/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | [Ana Catarina Santos](https://github.com/an4catarina) |
+| `1.0`  | 09/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | []() |

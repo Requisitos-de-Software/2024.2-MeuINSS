@@ -106,4 +106,4 @@ As ferramentas desempenharam um papel fundamental no desenvolvimento do trabalho
 
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
-| `1.0`  | 06/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | [Ana Catarina Santos](https://github.com/an4catarina) |
+| `1.0`  | 06/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | []() |
