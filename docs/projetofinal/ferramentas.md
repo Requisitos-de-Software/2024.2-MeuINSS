@@ -100,7 +100,7 @@ As ferramentas desempenharam um papel fundamental no desenvolvimento do trabalho
 
 ## Bibliografia
 
-> Bilheteria Digital. Ferramentas Utilizadas. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/ferramentas-utilizadas/>. Acesso em: 06 de fevereiro de 2025.. Acesso em: 06 de fevereiro de 2025.
+> Bilheteria Digital. Ferramentas Utilizadas. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/ferramentas-utilizadas/>. Acesso em: 06 de fevereiro de 2025.
 
 ## Histórico de versões
 
