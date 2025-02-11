@@ -112,7 +112,7 @@ Na tabela 1, estão listas os artefatos criados pelo Grupo 6 no semestre de 2024
         </td>
     </tr>
     <tr>
-        <td> <a href="https://requisitos-de-software.github.io/2023.2-Economia-DF/apresentacoes/Apresenta%C3%A7%C3%A3o%20Final%20-%2006.12.2023/">Apresentação Final</a>   </td>
+        <td> <a href="https://requisitos-de-software.github.io/2024.2-MeuINSS/apresentacoes/apresentacaofinal/">Apresentação Final</a>   </td>
         <td>
            <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>
         </td>
