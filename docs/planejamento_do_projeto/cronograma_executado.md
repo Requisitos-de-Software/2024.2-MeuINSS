@@ -1087,6 +1087,6 @@ Na tabela 7 encontram-se as datas do cronograma executado para a Entrega Final.
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado da entrega 2                  | [Júlia Fortunato](https://github.com/julia-fortunato)                                                            |                                 [Ana Catarina Santos](https://github.com/an4catarina)                                 |
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado das entregas 1 e 2            | [Ana Catarina Santos](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato) |                               [Maurício Ferreira](https://github.com/mauricio-araujoo)                                |
 | `4.0`  | 08/12/2024 | Atualização do cronograma executado da entrega 3          |  [Júlia Fortunato](https://github.com/julia-fortunato) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
-| `5.0`  | 17/12/2024 | Atualização do cronograma executado da entrega 3          |  [Nicolas Bomfim](https://github.com/nickgehjk) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
+| `5.0`  | 17/12/2024 | Atualização do cronograma executado da entrega 4          |  [Nicolas Bomfim](https://github.com/nickgehjk) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
 | `6.0`  | 10/02/2025 | Adição entrega final + entrega 5 | [Ana Catarina Santos](https://github.com/an4catarina)                                                               |  [Júlia Fortunato](https://github.com/julia-fortunato)  |
 
