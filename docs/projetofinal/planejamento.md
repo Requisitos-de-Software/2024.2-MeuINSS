@@ -226,7 +226,7 @@ Na tabela 1 encontram-se as datas do cronograma planejado para a etapa de Planej
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -381,7 +381,7 @@ Na tabela 2 encontram-se as datas do cronograma planejado para a etapa de Elicit
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -506,7 +506,7 @@ Na tabela 3 encontram-se as datas do cronograma planejado para a etapa de Modela
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -619,7 +619,7 @@ Na tabela 4 encontram-se as datas do cronograma planejado para a etapa de Modela
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -685,7 +685,7 @@ Na tabela 5 encontram-se as datas do cronograma planejado para a etapa de Verifi
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -751,7 +751,7 @@ Na tabela 6 encontram-se as datas do cronograma planejado para a etapa de Pós-R
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -884,7 +884,7 @@ Na tabela 7 encontram-se as datas do cronograma planejado para a Entrega Final.
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -1098,7 +1098,7 @@ Na tabela 8, estão apresentadas as datas de execução do cronograma executado 
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -1323,7 +1323,7 @@ Na tabela 9, estão apresentadas as datas de execução do cronograma executado 
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -1474,7 +1474,7 @@ Na tabela 10, estão apresentadas as datas de execução do cronograma executado
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -1621,7 +1621,7 @@ Na tabela 11, estão apresentadas as datas de execução do cronograma executado
     </tr>
   </tbody>
 </table>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 </div>
 
 
@@ -1767,7 +1767,7 @@ Na tabela 12, estão apresentadas as datas de execução do cronograma executado
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -1833,7 +1833,7 @@ Na tabela 13 encontram-se as datas do cronograma executado para a etapa de Pós-
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
@@ -1966,7 +1966,7 @@ Na tabela 14 encontram-se as datas do cronograma executado para a Entrega Final.
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
 
 </div>
 
