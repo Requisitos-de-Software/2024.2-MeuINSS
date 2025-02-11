@@ -872,6 +872,7 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
 </table>
 
 <font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://github.com/an4catarina">Ana Catarina</a></p></font>
+</div>
 
 ## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 19/01/2025
 
