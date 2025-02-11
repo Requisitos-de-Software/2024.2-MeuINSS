@@ -50,7 +50,7 @@ Este documento tem como objetivo sintetizar todas as apresentações feitas dura
       </tr>
       <tr>
         <td>7 - Entrega Final</td>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/3JCQbiY2jLo?si=qwyDd5BHotRUrrq-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+        <td>#</td>
         <td><a href="https://github.com/an4catarina">Ana Catarina Santos</a>, <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, <a href="https://github.com/mauricio-araujoo">Mauricio Ferreira</a> e <a href="https://github.com/nickgehjk">Nicolas Bomfim</a></td>
       </tr>
     </tbody>
@@ -67,4 +67,3 @@ Este documento tem como objetivo sintetizar todas as apresentações feitas dura
 | Versão | Data   | Descrição     | Autor     |  Revisor        |
 | :----: | ------ | ------------- | --------- | :-------------: |
 | `1.0`  | 09/02/2025 | Criação do documento  | [Nicolas Bomfim](https://github.com/nickgehjk) | [Júlia Fortunato](https://github.com/julia-fortunato) |
-| `1.1`  | 10/02/2025 | Adição do vídeo final  |  [Júlia Fortunato](https://github.com/julia-fortunato)| [Nicolas Bomfim](https://github.com/nickgehjk) |
