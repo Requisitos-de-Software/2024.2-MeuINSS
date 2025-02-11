@@ -731,12 +731,154 @@ Na tabela 4, estão apresentadas as datas de execução do cronograma executado 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
 </div>
 
-## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 19/01/2025
-
-Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-Rastreabilidade.
+## Entrega 5 - Validação e Verificação - Data da entrega: 04/02/2025
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma executado para a etapa de Pós-Rastreabilidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma executado para a etapa de Validação e Verificação</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período de desenvolvimento</th>
+      <th>Responsáveis</th>
+      <th>Revisão</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pós-Rastreabilidade</td>
+      <td>Início: 13/01/2025 <br> Fim: 18/01/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Prototipação RF11</td>
+      <td>Início: 29/01/2025 <br> Fim: 03/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Prototipação RF13</td>
+      <td>Início: 29/01/2025 <br> Fim: 03/02/2025</td>
+      <td>
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Prototipação RF25</td>
+      <td>Início: 29/01/2025 <br> Fim: 03/02/2025</td>
+      <td>
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Prototipação RF27</td>
+      <td>Início: 29/01/2025 <br> Fim: 03/02/2025</td>
+      <td>
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
+    </tr>
+    <tr>
+      <td>Prototipação RF28</td>
+      <td>Início: 29/01/2025 <br> Fim: 03/02/2025</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunat</a> <br> 
+      </td>
+      <td>19/01/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Verificação grupo</td>
+      <td>01/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>02/02/2025</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> </td>
+    </tr>
+    <tr>
+      <td>Verificação grupo +1</td>
+      <td>01/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>02/02/2025</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> </td>
+    </tr>
+    <tr>
+      <td>Gravação 6</td>
+      <td>02/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>12/02/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega 5</td>
+      <td>02/02/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+      <td>02/02/2025</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega 5</td>
+      <td>Início: 04/02/2025 <br> Fim: 05/02/2025</td>
+      <td>
+        <a href="https://github.com/julia-fortunato">Júlia Fortunat</a> <br> 
+      </td>
+      <td>05/02/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://github.com/an4catarina">Ana Catarina</a></p></font>
+
+## Entrega 6 - Pós-Rastreabilidade - Data de Entrega: 19/01/2025
+
+Na tabela 6 encontram-se as datas do cronograma executado para a etapa de Pós-Rastreabilidade.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma executado para a etapa de Pós-Rastreabilidade</p></font>
 
 <table>
   <thead>
@@ -764,7 +906,7 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-R
     </tr>
     <tr>
       <td>Gravação 6</td>
-      <td>15/01/2025</td>
+      <td>02/02/2025</td>
       <td>
         <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
         <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
@@ -772,14 +914,14 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-R
         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
       </td>
-      <td>16/01/2025</td>
+      <td>12/02/2025</td>
       <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
     </tr>
     <tr>
       <td>Atualização do cronograma executado para Entrega 6</td>
-      <td>16/01/2025</td>
+      <td>02/02/2025</td>
       <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
-      <td>17/01/2025</td>
+      <td>02/02/2025</td>
       <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
     </tr>
     <tr>
@@ -792,10 +934,142 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-R
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/julia-fortunato">Júlia Fortunato</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://github.com/an4catarina">Ana Catarina</a></p></font>
 
 </div>
 
+## Entrega Final - Data de Entrega: 10/02/2025
+
+Na tabela 7 encontram-se as datas do cronograma executado para a Entrega Final.
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma executado para a Entrega Final</p></font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Atividade</th>
+      <th>Período de desenvolvimento</th>
+      <th>Responsáveis</th>
+      <th>Revisão</th>
+      <th>Revisores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desenvolvimento do projeto final (finalizar todos os artefatos: corrigir e completar)</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a></td>
+    </tr>
+    <tr>
+      <td>Planejamento dos Recursos, Resultados Alcançados e das Entregas e Resultados alcançados</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+         <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Execução do Projeto e Artefatos Criados</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+         <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Ferramentas Utilizadas e Apresentações</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+    </tr>
+    <tr>
+      <td>Verificação e Validação</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+         <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Aplicativo selecionado e Técnicas utilizadas</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Aplicativo selecionado e Técnicas utilizadas</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Considerações finais</td>
+      <td>Início: 05/02/2025 <br> Fim: 10/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/nickgehjk">Nicolas Bandeira</a></td>
+    </tr>
+    <tr>
+      <td>Gravação Final</td>
+      <td>10/02/2025</td>
+      <td>
+        <a href="https://github.com/an4catarina">Ana Catarina</a> <br> 
+        <a href="https://github.com/CristianoMoraiss">Cristiano Morais</a> <br> 
+        <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> <br> 
+        <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> 
+        <a href="https://github.com/nickgehjk">Nicolas Bandeira</a> <br> 
+      </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> </td>
+    </tr>
+    <tr>
+      <td>Atualização do cronograma executado para Entrega Final</td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/an4catarina">Ana Catarina</a> <br>
+      <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> <br> </td>
+      <td>10/02/2025</td>
+      <td><a href="https://github.com/julia-fortunato">Júlia Fortunato</a></td>
+    </tr>
+    <tr>
+      <td>Correção após a Entrega Final</td>
+      <td>Início: 10/02/2025 <br> Fim: 12/02/2025</td>
+      <td><a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a></td>
+      <td>Início: 12/02/2025 <br> Fim: 13/02/2025</td>
+      <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Autor:</b><a href="https://github.com/an4catarina">Ana Catarina</a>, <a href="https://github.com/julia-fortunato">Júlia Fortunato</a> e <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a>, 2025</p></font>
+
+</div>
 
 ## Bibliografia
 
@@ -813,3 +1087,5 @@ Na tabela 5 encontram-se as datas do cronograma executado para a etapa de Pós-R
 | `3.0`  | 24/11/2024 | Atualização do cronograma executado das entregas 1 e 2            | [Ana Catarina Santos](https://github.com/an4catarina) <br> [Júlia Fortunato](https://github.com/julia-fortunato) |                               [Maurício Ferreira](https://github.com/mauricio-araujoo)                                |
 | `4.0`  | 08/12/2024 | Atualização do cronograma executado da entrega 3          |  [Júlia Fortunato](https://github.com/julia-fortunato) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
 | `5.0`  | 17/12/2024 | Atualização do cronograma executado da entrega 3          |  [Nicolas Bomfim](https://github.com/nickgehjk) |  [Ana Catarina Santos](https://github.com/an4catarina)   |
+| `6.0`  | 10/02/2025 | Adição entrega final + entrega 5 | [Ana Catarina Santos](https://github.com/an4catarina)                                                               |  [Júlia Fortunato](https://github.com/julia-fortunato)  |
+
