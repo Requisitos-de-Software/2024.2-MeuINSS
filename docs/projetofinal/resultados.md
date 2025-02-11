@@ -20,4 +20,4 @@ Durante o desenvolvimento do projeto, vários requisitos foram reconhecidos atra
 
 | Versão | Data       | Descrição                | Autor(es)            | Revisor(es)       |
 | ------ | ---------- | ------------------------- | ----------------- | ------------ |
-| `1.0`  | 10/02/2025 | Criação do documento | [Maurício Ferreira](https://github.com/mauricio-araujoo) |    |
+| `1.0`  | 10/02/2025 | Criação do documento | [Maurício Ferreira](https://github.com/mauricio-araujoo) |  [Ana Catarina Santos](https://github.com/an4catarina)  |
